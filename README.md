@@ -1,3 +1,3 @@
 # Data Wranglers
 
-![Data Wrangler](/nosql/data-refine/blob/master/images/data-wrangler.jpg)
+![Data Wrangler](https://github.com/nosql/data-refine/blob/master/images/data-wrangler.jpg)
