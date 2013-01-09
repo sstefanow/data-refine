@@ -1,3 +1,3 @@
 # Data Wranglers
 
-![Data Wrangler](/path/to/data-wrangler.jpg)
+![Data Wrangler](/nosql/data-refine/blob/master/images/data-wrangler.jpg)
