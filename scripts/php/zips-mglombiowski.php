@@ -10,6 +10,7 @@ $_kody = new ep_Dataset('kody_pocztowe');
 $result_kody[] = "";
 $kody = $_kody->find_all(100,$i*100);
 $i+=1;
+$cn = 0;
 while($i<350&&$break!=1) {
 	$ret = "";
 	if(sizeof($kody)<2) {
@@ -18,11 +19,17 @@ while($i<350&&$break!=1) {
 	foreach ($kody as $row) {
 
 		$ret[] = $row->data;
+		
+		for(; $cn<sizeof($ret); $cn++){
 
+			unset($ret[$cn]['id']);
 
+		}
+		$cn = 0;
+		
 	}
-
-
+	
+	print_r($ret);
 	$result_kody = array_merge((array)$result_kody, (array)$ret);
 
 	$ret =null;
