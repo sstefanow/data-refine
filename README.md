@@ -6,11 +6,11 @@
 1. Michał Mroczkowski, [Kody pocztowe sejmometr](https://github.com/misiom1/sejmometr/blob/master/kody-pocztowe-misiom1.md).
 1. Marcin Głombiowski, [Kody pocztowe sejmometr](https://github.com/mglombiowski/no_sql/blob/master/README.md).
 1. Pawel Kaminski, [Sacramento crimes](/pkamin.md).
-1. Marcin Gigołło, [Kody Pocztowe](/6i6ant.md).
+1. Marcin Gigołło, [Kody pocztowe](/6i6ant.md).
 1. Daniel Szymczak, [Wskaźniki wydajności](/dszymczak.md).
 1. Alicja Kopczyńska, [Zabytki romańskie w Polsce](/alka74a.md).
-1. Michał Frankowski, [Natura2000](/mfrankowski.md).
-1. Dorian Sawa, [Kody Pocztowe](/dsawa.md).
+1. Michał Frankowski, [Natura 2000](/mfrankowski.md).
+1. Dorian Sawa, [Kody pocztowe](/dsawa.md).
 1. Jakub Ciechowski [Najbardziej pracowici](/jciechowski.md).
 1. Patryk Jażdżewski, [Wydatki Home Office w 2010](/pjazdzewski.md).
 1. Paweł Śląski, [Dane historyczne notowań WIG20](/pslaski.md).
