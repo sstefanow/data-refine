@@ -19,27 +19,10 @@ Obszary Natura 2000 na terenie województwa pomorskiego
 
 ## Przykładowe dane:
 ```json
-{
-  "rows" : [
-    {
-      "Nazwa" : "Bagna Izbickie",
-      "Województwo" : "pomorskie",
-      "Powiat" : "słupski",
-      "Gmina" : "Główczyce",
-      "Powierzchnia" : 786.4
-    },
-    {
-      "Nazwa" : "Białe Błoto",
-      "Województwo" : "pomorskie",
-      "Powiat" : "słupski, gdański",
-      "Gmina" : "Cewice Linia",
-      "Powierzchnia" : 43.4
-    },
-    {
-      "Nazwa" : "Białogóra",
-      "Województwo" : "pomorskie",
-      "Powiat" : "gdański",
-      "Gmina" : "Krokowa, Choczewo",
-      "Powierzchnia" : 1132.8
-    },
+{"nazwa": "Zatoka Pucka", "wojewodztwo": "pomorskie", "powiat": "obszar morski poza NUTS", "gmina": "obszar morski poza NUTS", "powierzchnia": 62430.4}
+{"nazwa": "Lasy Lęborskie", "wojewodztwo": "pomorskie", "powiat": "gdański", "gmina": "Choczewo, Gniewino, Luzino, Łęczyce", "powierzchnia": 8565.3}
+{"nazwa": "Puszcza Darżlubska", "wojewodztwo": "pomorskie", "powiat": "gdański", "gmina": "Puck, Reda, Wejherowo", "powierzchnia": 6452.6}
 ```
+
+
+[Plik z danymi](https://github.com/mfrankowski/data-refine/blob/master/natura2000.json)
