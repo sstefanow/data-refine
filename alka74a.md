@@ -12,23 +12,9 @@ Dane surowe dostępne tutaj: [link](http://pl.wikipedia.org/wiki/Zabytki_roma%C5
 
 ## Przykładowe dane
 ```json
-  {
-      "Miejscowość" : "Brzeg Głogowski",
-      "Województwo" : "Województwo dolnośląskie",
-      "Nazwa zabytku" : "Kościół Bożego Ciała",
-      "Data " : " XIII w."
-    },
-    {
-      "Miejscowość" : "Głogów",
-      "Województwo" : "Województwo dolnośląskie",
-      "Nazwa zabytku" : "zamek książęcy",
-      "Data " : "XIII w."
-    },
-    {
-      "Miejscowość" : "Głogów",
-      "Województwo" : "Województwo dolnośląskie",
-      "Nazwa zabytku" : "kościół św. Piotra",
-      "Data " : "XII w."
-    },
+{"miejscowosc":"Brzeg Głogowski","wojewodztwo":"dolnośląskie","nazwa_zabytku":"Kościół Bożego Ciała","data":"XIII w."}
+{"miejscowosc":"Głogów","wojewodztwo":"dolnośląskie","nazwa_zabytku":"zamek książęcy","data":"XIII w."}
+{"miejscowosc":"Głogów","wojewodztwo":"dolnośląskie","nazwa_zabytku":"kościół św. Piotra","data":"XII w."}
+{"miejscowosc":"Głogów","wojewodztwo":"dolnośląskie","nazwa_zabytku":"kolegiata Wniebowzięcia NMP","data":"XIII w."}
 ```
-Oczyszczone dane znajdują się tu: [dane_alka74a.json](https://github.com/alka74a/Zabytki_Romanskie/blob/master/dane_alka74a.json)
+Oczyszczone dane znajdują się tu: [dane_alka74a.json](https://github.com/alka74a/data-refine/blob/master/data/json/dane_alka74a.json)
