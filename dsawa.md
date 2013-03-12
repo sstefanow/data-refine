@@ -26,4 +26,4 @@ Oryginalny plik z danymi do pobrania przez:
 }
 ```
 * Oczyszczone JSONy:
-[Klik](/tree/master/data/json/dsawa_import_jsons)
+[Klik](/data/json/dsawa_import_jsons)
