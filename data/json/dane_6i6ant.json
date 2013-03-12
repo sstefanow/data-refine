@@ -1,0 +1,2620 @@
+{
+  "rows" : [
+    {
+      "Miasto" : "Jelenia Góra",
+      "Oddiał" : "Instytucja Rejonowy Urząd Poczty w Jeleniej Górze",
+      "Lokalizacja" : " ul. Pocztowa 9/10",
+      "Kod" : "58-500"
+    },
+    {
+      "Miasto" : "Jelenia Góra",
+      "Oddiał" : "Poczta Jelenia Góra 001",
+      "Lokalizacja" : " ul. Pocztowa 9/10",
+      "Kod" : "58-500"
+    },
+    {
+      "Miasto" : "Jelenia Góra",
+      "Oddiał" : "Poczta Jelenia Góra 003",
+      "Lokalizacja" : " ul. Wolności 58",
+      "Kod" : "58-501"
+    },
+    {
+      "Miasto" : "Jelenia Góra",
+      "Oddiał" : "Poczta Jelenia Góra 005",
+      "Lokalizacja" : " ul. Podchorążych 1/15",
+      "Kod" : "58-503"
+    },
+    {
+      "Miasto" : "Jelenia Góra",
+      "Oddiał" : "Poczta Jelenia Góra 007",
+      "Lokalizacja" : " Pl. Ratuszowy 56",
+      "Kod" : "58-505"
+    },
+    {
+      "Miasto" : "Jelenia Góra",
+      "Oddiał" : "Poczta Jelenia Góra 008",
+      "Lokalizacja" : " ul. Różyckiego 4",
+      "Kod" : "58-506"
+    },
+    {
+      "Miasto" : "Jelenia Góra",
+      "Oddiał" : "Poczta Jelenia Góra 009",
+      "Lokalizacja" : " Pl. Piastowski 6",
+      "Kod" : "58-560"
+    },
+    {
+      "Miasto" : "Jelenia Góra",
+      "Oddiał" : "Poczta Jelenia Góra 010",
+      "Lokalizacja" : " ul. XX Lecia 3",
+      "Kod" : "58-588"
+    },
+    {
+      "Miasto" : "Jelenia Góra",
+      "Oddiał" : "Poczta Jelenia Góra 012",
+      "Lokalizacja" : " ul. Chopina 10",
+      "Kod" : "58-570"
+    },
+    {
+      "Miasto" : "Jelenia Góra",
+      "Oddiał" : "Poczta Jelenia Góra 013",
+      "Lokalizacja" : " ul. Noskowskiego 10",
+      "Kod" : "58-507"
+    },
+    {
+      "Miasto" : "Jelenia Góra",
+      "Oddiał" : "Poczta Jelenia Góra 014",
+      "Lokalizacja" : " ul. Sygietyńskiego 8",
+      "Kod" : "58-508"
+    },
+    {
+      "Miasto" : "Jelenia Góra",
+      "Oddiał" : "Skrytki Pocztowe Poczta Jelenia Góra 001",
+      "Lokalizacja" : " ul. Pocztowa 9/10",
+      "Kod" : "58-500"
+    },
+    {
+      "Miasto" : "Jelenia Góra",
+      "Oddiał" : "Skrytki Pocztowe Poczta Jelenia Góra 007",
+      "Lokalizacja" : " Pl. Ratuszowy 56",
+      "Kod" : "58-505"
+    },
+    {
+      "Miasto" : "Jelenia Góra",
+      "Oddiał" : "Skrytki Pocztowe Poczta Jelenia Góra 008",
+      "Lokalizacja" : " ul. Różyckiego 4",
+      "Kod" : "58-506"
+    },
+    {
+      "Miasto" : "Jelenia Góra",
+      "Oddiał" : "Skrytki Pocztowe Poczta Jelenia Góra 009",
+      "Lokalizacja" : " Pl. Piastowski 6",
+      "Kod" : "58-560"
+    },
+    {
+      "Miasto" : "Jelenia Góra",
+      "Oddiał" : "Skrytki Pocztowe Poczta Jelenia Góra 012",
+      "Lokalizacja" : " ul. Chopina 10",
+      "Kod" : "58-570"
+    },
+    {
+      "Miasto" : "Legnica",
+      "Oddiał" : "Instytucja Rejonowy Urząd Poczty w Legnicy",
+      "Lokalizacja" : " ul. Piastowska 72",
+      "Kod" : "59-200"
+    },
+    {
+      "Miasto" : "Legnica",
+      "Oddiał" : "Instytucja ZUS oddział Legnica",
+      "Lokalizacja" : " ul. Wojska Polskiego 5",
+      "Kod" : "59-290"
+    },
+    {
+      "Miasto" : "Legnica",
+      "Oddiał" : "Poczta Legnica 001",
+      "Lokalizacja" : " ul. Piastowska 72",
+      "Kod" : "59-200"
+    },
+    {
+      "Miasto" : "Legnica",
+      "Oddiał" : "Poczta Legnica 002",
+      "Lokalizacja" : " ul. Dworcowa 4",
+      "Kod" : "59-220"
+    },
+    {
+      "Miasto" : "Legnica",
+      "Oddiał" : "Poczta Legnica 004",
+      "Lokalizacja" : " ul. Nowy Świat 4",
+      "Kod" : "59-202"
+    },
+    {
+      "Miasto" : "Legnica",
+      "Oddiał" : "Poczta Legnica 005",
+      "Lokalizacja" : " ul. Wrocławska 56",
+      "Kod" : "59-203"
+    },
+    {
+      "Miasto" : "Legnica",
+      "Oddiał" : "Poczta Legnica 006",
+      "Lokalizacja" : " ul. Jaworzyńska 43/45",
+      "Kod" : "59-204"
+    },
+    {
+      "Miasto" : "Legnica",
+      "Oddiał" : "Poczta Legnica 007",
+      "Lokalizacja" : " ul. Złotoryjska 1",
+      "Kod" : "59-205"
+    },
+    {
+      "Miasto" : "Legnica",
+      "Oddiał" : "Poczta Legnica 008",
+      "Lokalizacja" : " ul. Staszica 6",
+      "Kod" : "59-206"
+    },
+    {
+      "Miasto" : "Legnica",
+      "Oddiał" : "Poczta Legnica 009",
+      "Lokalizacja" : " ul. Wielogórska 50",
+      "Kod" : "59-207"
+    },
+    {
+      "Miasto" : "Legnica",
+      "Oddiał" : "Poczta Legnica 010",
+      "Lokalizacja" : " ul. Marsa 4",
+      "Kod" : "59-208"
+    },
+    {
+      "Miasto" : "Legnica",
+      "Oddiał" : "Poczta Legnica 011",
+      "Lokalizacja" : " Pl. Słowiański 1",
+      "Kod" : "59-209"
+    },
+    {
+      "Miasto" : "Legnica",
+      "Oddiał" : "Poczta Legnica 012",
+      "Lokalizacja" : " ul. Izerska 2",
+      "Kod" : "59-210"
+    },
+    {
+      "Miasto" : "Legnica",
+      "Oddiał" : "Poczta Legnica 013",
+      "Lokalizacja" : " ul. Przybosia 1",
+      "Kod" : "59-211"
+    },
+    {
+      "Miasto" : "Legnica",
+      "Oddiał" : "Poczta Legnica 014",
+      "Lokalizacja" : " ul. Heweliusza 7",
+      "Kod" : "59-212"
+    },
+    {
+      "Miasto" : "Legnica",
+      "Oddiał" : "Poczta Legnica 015",
+      "Lokalizacja" : " ul. Marynarska 1",
+      "Kod" : "59-213"
+    },
+    {
+      "Miasto" : "Legnica",
+      "Oddiał" : "Poczta Legnica 016",
+      "Lokalizacja" : " Al. Rzeczpospolitej 5",
+      "Kod" : "59-214"
+    },
+    {
+      "Miasto" : "Legnica",
+      "Oddiał" : "Poczta Legnica 017",
+      "Lokalizacja" : " ul. Fabryczna 17",
+      "Kod" : "59-217"
+    },
+    {
+      "Miasto" : "Legnica",
+      "Oddiał" : "Skrytki Pocztowe Poczta Legnica 002",
+      "Lokalizacja" : " ul. Dworcowa 4",
+      "Kod" : "59-220"
+    },
+    {
+      "Miasto" : "Legnica",
+      "Oddiał" : "Skrytki Pocztowe Poczta Legnica 007",
+      "Lokalizacja" : " ul. Złotoryjska 1",
+      "Kod" : "59-205"
+    },
+    {
+      "Miasto" : "Grudziądz",
+      "Oddiał" : "Instytucja ZUS oddział Grudziądz",
+      "Lokalizacja" : " ul. Wybickiego 39",
+      "Kod" : "86-380"
+    },
+    {
+      "Miasto" : "Grudziądz",
+      "Oddiał" : "Poczta Grudziądz 001",
+      "Lokalizacja" : " ul. Sienkiewicza 20",
+      "Kod" : "86-300"
+    },
+    {
+      "Miasto" : "Grudziądz",
+      "Oddiał" : "Poczta Grudziądz 003",
+      "Lokalizacja" : " ul. Królewska 7",
+      "Kod" : "86-301"
+    },
+    {
+      "Miasto" : "Grudziądz",
+      "Oddiał" : "Poczta Grudziądz 004",
+      "Lokalizacja" : " ul. Chełmińska 68",
+      "Kod" : "86-302"
+    },
+    {
+      "Miasto" : "Grudziądz",
+      "Oddiał" : "Poczta Grudziądz 005",
+      "Lokalizacja" : " ul. Podhalańska 12",
+      "Kod" : "86-303"
+    },
+    {
+      "Miasto" : "Grudziądz",
+      "Oddiał" : "Poczta Grudziądz 006",
+      "Lokalizacja" : " ul. Legionów 50",
+      "Kod" : "86-304"
+    },
+    {
+      "Miasto" : "Grudziądz",
+      "Oddiał" : "Poczta Grudziądz 007",
+      "Lokalizacja" : " ul. Chopina 31",
+      "Kod" : "86-305"
+    },
+    {
+      "Miasto" : "Grudziądz",
+      "Oddiał" : "Poczta Grudziądz 008",
+      "Lokalizacja" : " ul. Legionów 79/81",
+      "Kod" : "86-306"
+    },
+    {
+      "Miasto" : "Grudziądz",
+      "Oddiał" : "Poczta Grudziądz 009",
+      "Lokalizacja" : " ul. Jackowskiego 43",
+      "Kod" : "86-307"
+    },
+    {
+      "Miasto" : "Grudziądz",
+      "Oddiał" : "Poczta Grudziądz 010",
+      "Lokalizacja" : " ul. Śniadeckich 26",
+      "Kod" : "86-308"
+    },
+    {
+      "Miasto" : "Grudziądz",
+      "Oddiał" : "Poczta Grudziądz 011",
+      "Lokalizacja" : " ul. Łęgi 15",
+      "Kod" : "86-309"
+    },
+    {
+      "Miasto" : "Grudziądz",
+      "Oddiał" : "Poczta Grudziądz 012",
+      "Lokalizacja" : " ul. Kustronia 26",
+      "Kod" : "86-311"
+    },
+    {
+      "Miasto" : "Grudziądz",
+      "Oddiał" : "Skrytki Pocztowe Poczta Grudziądz 001",
+      "Lokalizacja" : " ul. Sienkiewicza 20",
+      "Kod" : "86-300"
+    },
+    {
+      "Miasto" : "Grudziądz",
+      "Oddiał" : "Skrytki Pocztowe Poczta Grudziądz 003",
+      "Lokalizacja" : " ul. Królewska 7",
+      "Kod" : "86-301"
+    },
+    {
+      "Miasto" : "Grudziądz",
+      "Oddiał" : "Skrytki Pocztowe Poczta Grudziądz 004",
+      "Lokalizacja" : " ul. Chełmińska 68",
+      "Kod" : "86-302"
+    },
+    {
+      "Miasto" : "Grudziądz",
+      "Oddiał" : "Skrytki Pocztowe Poczta Grudziądz 005",
+      "Lokalizacja" : " ul. Podhalańska 12",
+      "Kod" : "86-303"
+    },
+    {
+      "Miasto" : "Grudziądz",
+      "Oddiał" : "Skrytki Pocztowe Poczta Grudziądz 008",
+      "Lokalizacja" : " ul. Legionów 79/81",
+      "Kod" : "86-306"
+    },
+    {
+      "Miasto" : "Grudziądz",
+      "Oddiał" : "Skrytki Pocztowe Poczta Grudziądz 009",
+      "Lokalizacja" : " ul. Jackowskiego 43",
+      "Kod" : "86-307"
+    },
+    {
+      "Miasto" : "Grudziądz",
+      "Oddiał" : "Skrytki Pocztowe Poczta Grudziądz 010",
+      "Lokalizacja" : " ul. Śniadeckich 26",
+      "Kod" : "86-308"
+    },
+    {
+      "Miasto" : "Grudziądz",
+      "Oddiał" : "Skrytki Pocztowe Poczta Grudziądz 011",
+      "Lokalizacja" : " ul. Łęgi 15",
+      "Kod" : "86-309"
+    },
+    {
+      "Miasto" : "Grudziądz",
+      "Oddiał" : "Skrytki Pocztowe Poczta Grudziądz 012",
+      "Lokalizacja" : " ul. Kustronia 26",
+      "Kod" : "86-311"
+    },
+    {
+      "Miasto" : "Toruń",
+      "Oddiał" : "Instytucja Rejonowy Urząd Poczty w Toruniu",
+      "Lokalizacja" : " ul. Rynek Staromiejski 15",
+      "Kod" : "87-100"
+    },
+    {
+      "Miasto" : "Toruń",
+      "Oddiał" : "Poczta Toruń 001",
+      "Lokalizacja" : " ul. Rynek Staromiejski 15",
+      "Kod" : "87-100"
+    },
+    {
+      "Miasto" : "Toruń",
+      "Oddiał" : "Poczta Toruń 002",
+      "Lokalizacja" : " ul. Kujawska 1 B",
+      "Kod" : "87-110"
+    },
+    {
+      "Miasto" : "Toruń",
+      "Oddiał" : "Poczta Toruń 003 (Mokre)",
+      "Lokalizacja" : " ul. Kościuszki 41",
+      "Kod" : "87-101"
+    },
+    {
+      "Miasto" : "Toruń",
+      "Oddiał" : "Poczta Toruń 004",
+      "Lokalizacja" : " ul. Poznańska 73",
+      "Kod" : "87-102"
+    },
+    {
+      "Miasto" : "Toruń",
+      "Oddiał" : "Poczta Toruń 005",
+      "Lokalizacja" : " ul. Hallera 82",
+      "Kod" : "87-103"
+    },
+    {
+      "Miasto" : "Toruń",
+      "Oddiał" : "Poczta Toruń 006",
+      "Lokalizacja" : " ul. Mickiewicza 85 A",
+      "Kod" : "87-104"
+    },
+    {
+      "Miasto" : "Toruń",
+      "Oddiał" : "Poczta Toruń 007",
+      "Lokalizacja" : " ul. Antczaka 25",
+      "Kod" : "87-105"
+    },
+    {
+      "Miasto" : "Toruń",
+      "Oddiał" : "Poczta Toruń 008",
+      "Lokalizacja" : " ul. Sobieskiego 32/36",
+      "Kod" : "87-106"
+    },
+    {
+      "Miasto" : "Toruń",
+      "Oddiał" : "Poczta Toruń 009",
+      "Lokalizacja" : " ul. Szosa Chełmińska 140",
+      "Kod" : "87-107"
+    },
+    {
+      "Miasto" : "Toruń",
+      "Oddiał" : "Poczta Toruń 010",
+      "Lokalizacja" : " ul. Rynek Nowomiejski 24",
+      "Kod" : "87-108"
+    },
+    {
+      "Miasto" : "Toruń",
+      "Oddiał" : "Poczta Toruń 011",
+      "Lokalizacja" : " ul. Koniuchy 21/47",
+      "Kod" : "87-109"
+    },
+    {
+      "Miasto" : "Toruń",
+      "Oddiał" : "Poczta Toruń 012",
+      "Lokalizacja" : " ul. Fałata 36",
+      "Kod" : "87-111"
+    },
+    {
+      "Miasto" : "Toruń",
+      "Oddiał" : "Poczta Toruń 013",
+      "Lokalizacja" : " ul. Koszalińska 16",
+      "Kod" : "87-112"
+    },
+    {
+      "Miasto" : "Toruń",
+      "Oddiał" : "Poczta Toruń 014",
+      "Lokalizacja" : " ul. Bartosza Głowackiego 2",
+      "Kod" : "87-113"
+    },
+    {
+      "Miasto" : "Toruń",
+      "Oddiał" : "Poczta Toruń 015 (Polmozbyt)",
+      "Lokalizacja" : " ul. Poznańska 152",
+      "Kod" : "87-114"
+    },
+    {
+      "Miasto" : "Toruń",
+      "Oddiał" : "Poczta Toruń 016",
+      "Lokalizacja" : " ul. Kosynierów Kościuszkowskich 4",
+      "Kod" : "87-115"
+    },
+    {
+      "Miasto" : "Toruń",
+      "Oddiał" : "Poczta Toruń 017",
+      "Lokalizacja" : " ul. Łyskowskiego 18",
+      "Kod" : "87-116"
+    },
+    {
+      "Miasto" : "Toruń",
+      "Oddiał" : "Poczta Toruń 018",
+      "Lokalizacja" : " ul. Mazowiecka 63/65",
+      "Kod" : "87-117"
+    },
+    {
+      "Miasto" : "Toruń",
+      "Oddiał" : "Poczta Toruń 019",
+      "Lokalizacja" : " ul. Zielna 17/19",
+      "Kod" : "87-118"
+    },
+    {
+      "Miasto" : "Toruń",
+      "Oddiał" : "Poczta Toruń 020",
+      "Lokalizacja" : " ul. Włocławska 167",
+      "Kod" : "87-119"
+    },
+    {
+      "Miasto" : "Toruń",
+      "Oddiał" : "Poczta Toruń 021",
+      "Lokalizacja" : " ul. Konstytucji 3 Maja 10",
+      "Kod" : "87-120"
+    },
+    {
+      "Miasto" : "Toruń",
+      "Oddiał" : "Skrytki Pocztowe Poczta Toruń 001",
+      "Lokalizacja" : " ul. Rynek Staromiejski 15",
+      "Kod" : "87-100"
+    },
+    {
+      "Miasto" : "Toruń",
+      "Oddiał" : "Skrytki Pocztowe Poczta Toruń 003 (Mokre)",
+      "Lokalizacja" : " ul. Kościuszki 41",
+      "Kod" : "87-101"
+    },
+    {
+      "Miasto" : "Toruń",
+      "Oddiał" : "Skrytki Pocztowe Poczta Toruń 004",
+      "Lokalizacja" : " ul. Poznańska 73",
+      "Kod" : "87-102"
+    },
+    {
+      "Miasto" : "Toruń",
+      "Oddiał" : "Skrytki Pocztowe Poczta Toruń 005",
+      "Lokalizacja" : " ul. Hallera 82",
+      "Kod" : "87-103"
+    },
+    {
+      "Miasto" : "Toruń",
+      "Oddiał" : "Skrytki Pocztowe Poczta Toruń 006",
+      "Lokalizacja" : " ul. Mickiewicza 85 A",
+      "Kod" : "87-104"
+    },
+    {
+      "Miasto" : "Toruń",
+      "Oddiał" : "Skrytki Pocztowe Poczta Toruń 007",
+      "Lokalizacja" : " ul. Antczaka 25",
+      "Kod" : "87-105"
+    },
+    {
+      "Miasto" : "Toruń",
+      "Oddiał" : "Skrytki Pocztowe Poczta Toruń 008",
+      "Lokalizacja" : " ul. Sobieskiego 32/36",
+      "Kod" : "87-106"
+    },
+    {
+      "Miasto" : "Toruń",
+      "Oddiał" : "Skrytki Pocztowe Poczta Toruń 009",
+      "Lokalizacja" : " ul. Szosa Chełmińska 140",
+      "Kod" : "87-107"
+    },
+    {
+      "Miasto" : "Toruń",
+      "Oddiał" : "Skrytki Pocztowe Poczta Toruń 011",
+      "Lokalizacja" : " ul. Koniuchy 21/47",
+      "Kod" : "87-109"
+    },
+    {
+      "Miasto" : "Toruń",
+      "Oddiał" : "Skrytki Pocztowe Poczta Toruń 012",
+      "Lokalizacja" : " ul. Fałata 36",
+      "Kod" : "87-111"
+    },
+    {
+      "Miasto" : "Toruń",
+      "Oddiał" : "Skrytki Pocztowe Poczta Toruń 014",
+      "Lokalizacja" : " ul. Bartosza Głowackiego 2",
+      "Kod" : "87-113"
+    },
+    {
+      "Miasto" : "Toruń",
+      "Oddiał" : "Skrytki Pocztowe Poczta Toruń 016",
+      "Lokalizacja" : " ul. Kosynierów Kościuszkowskich 4",
+      "Kod" : "87-115"
+    },
+    {
+      "Miasto" : "Toruń",
+      "Oddiał" : "Skrytki Pocztowe Poczta Toruń 017",
+      "Lokalizacja" : " ul. Łyskowskiego 18",
+      "Kod" : "87-116"
+    },
+    {
+      "Miasto" : "Toruń",
+      "Oddiał" : "Skrytki Pocztowe Poczta Toruń 018",
+      "Lokalizacja" : " ul. Mazowiecka 63/65",
+      "Kod" : "87-117"
+    },
+    {
+      "Miasto" : "Toruń",
+      "Oddiał" : "Skrytki Pocztowe Poczta Toruń 019",
+      "Lokalizacja" : " ul. Zielna 17/19",
+      "Kod" : "87-118"
+    },
+    {
+      "Miasto" : "Toruń",
+      "Oddiał" : "Skrytki Pocztowe Poczta Toruń 020",
+      "Lokalizacja" : " ul. Włocławska 167",
+      "Kod" : "87-119"
+    },
+    {
+      "Miasto" : "Włocławek",
+      "Oddiał" : "Poczta Włocławek 001",
+      "Lokalizacja" : " ul. Chopina 54",
+      "Kod" : "87-800"
+    },
+    {
+      "Miasto" : "Włocławek",
+      "Oddiał" : "Poczta Włocławek 002",
+      "Lokalizacja" : " ul. Okrzei 63",
+      "Kod" : "87-810"
+    },
+    {
+      "Miasto" : "Włocławek",
+      "Oddiał" : "Poczta Włocławek 003",
+      "Lokalizacja" : " ul. Grodzka 4",
+      "Kod" : "87-801"
+    },
+    {
+      "Miasto" : "Włocławek",
+      "Oddiał" : "Poczta Włocławek 004",
+      "Lokalizacja" : " ul. Żwirowa 1",
+      "Kod" : "87-802"
+    },
+    {
+      "Miasto" : "Włocławek",
+      "Oddiał" : "Poczta Włocławek 005",
+      "Lokalizacja" : " ul. Płocka 137",
+      "Kod" : "87-803"
+    },
+    {
+      "Miasto" : "Włocławek",
+      "Oddiał" : "Poczta Włocławek 006",
+      "Lokalizacja" : " ul. Wieniecka 14",
+      "Kod" : "87-804"
+    },
+    {
+      "Miasto" : "Włocławek",
+      "Oddiał" : "Poczta Włocławek 007",
+      "Lokalizacja" : " ul. Toruńska 222",
+      "Kod" : "87-805"
+    },
+    {
+      "Miasto" : "Włocławek",
+      "Oddiał" : "Poczta Włocławek 008",
+      "Lokalizacja" : " ul. Żytnia 66/68",
+      "Kod" : "87-806"
+    },
+    {
+      "Miasto" : "Włocławek",
+      "Oddiał" : "Poczta Włocławek 009",
+      "Lokalizacja" : " Al. Jana Pawła II 83a",
+      "Kod" : "87-807"
+    },
+    {
+      "Miasto" : "Włocławek",
+      "Oddiał" : "Poczta Włocławek 010",
+      "Lokalizacja" : " ul. Matejki 5 A",
+      "Kod" : "87-808"
+    },
+    {
+      "Miasto" : "Włocławek",
+      "Oddiał" : "Poczta Włocławek 011",
+      "Lokalizacja" : " ul. Metalowa 17",
+      "Kod" : "87-809"
+    },
+    {
+      "Miasto" : "Włocławek",
+      "Oddiał" : "Poczta Włocławek 012",
+      "Lokalizacja" : " ul. Zbigniewskiej 13 A",
+      "Kod" : "87-812"
+    },
+    {
+      "Miasto" : "Włocławek",
+      "Oddiał" : "Poczta Włocławek 013",
+      "Lokalizacja" : " ul. Promienna 7 A",
+      "Kod" : "87-816"
+    },
+    {
+      "Miasto" : "Włocławek",
+      "Oddiał" : "Poczta Włocławek 014",
+      "Lokalizacja" : " ul. Polna 7/9",
+      "Kod" : "87-817"
+    },
+    {
+      "Miasto" : "Włocławek",
+      "Oddiał" : "Poczta Włocławek 015",
+      "Lokalizacja" : " Pl. Wolności 2",
+      "Kod" : "87-818"
+    },
+    {
+      "Miasto" : "Włocławek",
+      "Oddiał" : "Poczta Włocławek 016",
+      "Lokalizacja" : " ul. Żurawia 26",
+      "Kod" : "87-822"
+    },
+    {
+      "Miasto" : "Włocławek",
+      "Oddiał" : "Skrytki Pocztowe Poczta Włocławek 001",
+      "Lokalizacja" : " ul. Chopina 54",
+      "Kod" : "87-800"
+    },
+    {
+      "Miasto" : "Włocławek",
+      "Oddiał" : "Skrytki Pocztowe Poczta Włocławek 002",
+      "Lokalizacja" : " ul. Okrzei 63",
+      "Kod" : "87-810"
+    },
+    {
+      "Miasto" : "Włocławek",
+      "Oddiał" : "Skrytki Pocztowe Poczta Włocławek 010",
+      "Lokalizacja" : " ul. Matejki 5 A",
+      "Kod" : "87-808"
+    },
+    {
+      "Miasto" : "Biała Podlaska",
+      "Oddiał" : "Instytucja Przedstawicielstwo Operacyjne CUP",
+      "Lokalizacja" : null,
+      "Kod" : "21-590"
+    },
+    {
+      "Miasto" : "Biała Podlaska",
+      "Oddiał" : "Instytucja Rejonowy Urząd Poczty w Białej Podlaskiej",
+      "Lokalizacja" : " Pl. Wolności 9",
+      "Kod" : "21-500"
+    },
+    {
+      "Miasto" : "Biała Podlaska",
+      "Oddiał" : "Poczta Biała Podlaska 001",
+      "Lokalizacja" : " Pl. Wolności 9",
+      "Kod" : "21-500"
+    },
+    {
+      "Miasto" : "Biała Podlaska",
+      "Oddiał" : "Poczta Biała Podlaska 003",
+      "Lokalizacja" : " ul. Zygmunta Starego 10",
+      "Kod" : "21-501"
+    },
+    {
+      "Miasto" : "Biała Podlaska",
+      "Oddiał" : "Poczta Biała Podlaska 004",
+      "Lokalizacja" : " Al. Tysiąclecia 35",
+      "Kod" : "21-502"
+    },
+    {
+      "Miasto" : "Biała Podlaska",
+      "Oddiał" : "Poczta Biała Podlaska 007",
+      "Lokalizacja" : " ul. Orzechowa 34",
+      "Kod" : "21-527"
+    },
+    {
+      "Miasto" : "Biała Podlaska",
+      "Oddiał" : "Poczta Filia UP Biała Podlaska 006",
+      "Lokalizacja" : " ul. Kopernika 22",
+      "Kod" : "21-506"
+    },
+    {
+      "Miasto" : "Biała Podlaska",
+      "Oddiał" : "Skrytki Pocztowe Poczta Biała Podlaska 001",
+      "Lokalizacja" : " Pl. Wolności 9",
+      "Kod" : "21-500"
+    },
+    {
+      "Miasto" : "Chełm",
+      "Oddiał" : "Instytucja Rejonowy Urząd Poczty w Chełmie",
+      "Lokalizacja" : " ul. I Armii Wojska Polskiego",
+      "Kod" : "22-100"
+    },
+    {
+      "Miasto" : "Chełm",
+      "Oddiał" : "Instytucja ZUS oddział Chełm",
+      "Lokalizacja" : " ul. I Armii Wojska Polskiego 8",
+      "Kod" : "22-115"
+    },
+    {
+      "Miasto" : "Chełm",
+      "Oddiał" : "Poczta Chełm 001",
+      "Lokalizacja" : " Al. I Armii Wojska Polskiego 41",
+      "Kod" : "22-100"
+    },
+    {
+      "Miasto" : "Chełm",
+      "Oddiał" : "Poczta Chełm 003",
+      "Lokalizacja" : " ul. Lubelska 69",
+      "Kod" : "22-102"
+    },
+    {
+      "Miasto" : "Chełm",
+      "Oddiał" : "Poczta Chełm 004",
+      "Lokalizacja" : " Pl. Niepodległości 1",
+      "Kod" : "22-103"
+    },
+    {
+      "Miasto" : "Chełm",
+      "Oddiał" : "Poczta Chełm 005",
+      "Lokalizacja" : " ul. Sienkiewicza 3",
+      "Kod" : "22-104"
+    },
+    {
+      "Miasto" : "Chełm",
+      "Oddiał" : "Poczta Chełm 006",
+      "Lokalizacja" : " ul. Zachodnia 19",
+      "Kod" : "22-109"
+    },
+    {
+      "Miasto" : "Chełm",
+      "Oddiał" : "Poczta Chełm 007",
+      "Lokalizacja" : " ul. Wirskiego 4",
+      "Kod" : "22-116"
+    },
+    {
+      "Miasto" : "Chełm",
+      "Oddiał" : "Poczta Chełm 008",
+      "Lokalizacja" : " ul. Piłsudskiego 32",
+      "Kod" : "22-117"
+    },
+    {
+      "Miasto" : "Chełm",
+      "Oddiał" : "Poczta Chełm 009",
+      "Lokalizacja" : " ul. Hrubieszowska 102",
+      "Kod" : "22-118"
+    },
+    {
+      "Miasto" : "Chełm",
+      "Oddiał" : "Skrytki Pocztowe Poczta Chełm 001",
+      "Lokalizacja" : " Al. I Armii Wojska Polskiego 41",
+      "Kod" : "22-100"
+    },
+    {
+      "Miasto" : "Chełm",
+      "Oddiał" : "Skrytki Pocztowe Poczta Chełm 004",
+      "Lokalizacja" : " Pl. Niepodległości 1",
+      "Kod" : "22-103"
+    },
+    {
+      "Miasto" : "Chełm",
+      "Oddiał" : "Skrytki Pocztowe Poczta Chełm 005",
+      "Lokalizacja" : " ul. Sienkiewicza 3",
+      "Kod" : "22-104"
+    },
+    {
+      "Miasto" : "Chełm",
+      "Oddiał" : "Skrytki Pocztowe Poczta Chełm 006",
+      "Lokalizacja" : " ul. Zachodnia 19",
+      "Kod" : "22-109"
+    },
+    {
+      "Miasto" : "Chełm",
+      "Oddiał" : "Skrytki Pocztowe Poczta Chełm 007",
+      "Lokalizacja" : " ul. Wirskiego 4",
+      "Kod" : "22-116"
+    },
+    {
+      "Miasto" : "Chełm",
+      "Oddiał" : "Skrytki Pocztowe Poczta Chełm 009",
+      "Lokalizacja" : " ul. Hrubieszowska 102",
+      "Kod" : "22-118"
+    },
+    {
+      "Miasto" : "Zamość",
+      "Oddiał" : "Instytucja Przedstawicielstwo Operacyjne CUP",
+      "Lokalizacja" : null,
+      "Kod" : "22-490"
+    },
+    {
+      "Miasto" : "Zamość",
+      "Oddiał" : "Instytucja Rejonowy Urząd Poczty w Zamościu",
+      "Lokalizacja" : " ul. Kościuszki 9",
+      "Kod" : "22-400"
+    },
+    {
+      "Miasto" : "Zamość",
+      "Oddiał" : "Poczta Zamość 001",
+      "Lokalizacja" : " ul. Kościuszki 9",
+      "Kod" : "22-400"
+    },
+    {
+      "Miasto" : "Zamość",
+      "Oddiał" : "Poczta Zamość 003",
+      "Lokalizacja" : " ul. Partyzantów 11",
+      "Kod" : "22-401"
+    },
+    {
+      "Miasto" : "Zamość",
+      "Oddiał" : "Poczta Zamość 004",
+      "Lokalizacja" : " ul. Koszary",
+      "Kod" : "22-402"
+    },
+    {
+      "Miasto" : "Zamość",
+      "Oddiał" : "Poczta Zamość 005",
+      "Lokalizacja" : " ul. Szczebrzeska 35",
+      "Kod" : "22-403"
+    },
+    {
+      "Miasto" : "Zamość",
+      "Oddiał" : "Poczta Zamość 006",
+      "Lokalizacja" : " ul. Kardynała Wyszyńskiego 50 B",
+      "Kod" : "22-404"
+    },
+    {
+      "Miasto" : "Zamość",
+      "Oddiał" : "Poczta Zamość 007",
+      "Lokalizacja" : " ul. Orzeszkowej 17",
+      "Kod" : "22-405"
+    },
+    {
+      "Miasto" : "Zamość",
+      "Oddiał" : "Poczta Zamość 008",
+      "Lokalizacja" : " ul. Zamojskiego 6",
+      "Kod" : "22-406"
+    },
+    {
+      "Miasto" : "Zamość",
+      "Oddiał" : "Poczta Zamość 009",
+      "Lokalizacja" : " ul. Przemysłowa 4 B",
+      "Kod" : "22-407"
+    },
+    {
+      "Miasto" : "Zamość",
+      "Oddiał" : "Poczta Zamość 011",
+      "Lokalizacja" : " ul. Szwedzka 22",
+      "Kod" : "22-409"
+    },
+    {
+      "Miasto" : "Zamość",
+      "Oddiał" : "Poczta Zamość 012",
+      "Lokalizacja" : " ul. Lwowska 25",
+      "Kod" : "22-410"
+    },
+    {
+      "Miasto" : "Zamość",
+      "Oddiał" : "Skrytki Pocztowe Poczta Zamość 001",
+      "Lokalizacja" : " ul. Kościuszki 9",
+      "Kod" : "22-400"
+    },
+    {
+      "Miasto" : "Zamość",
+      "Oddiał" : "Skrytki Pocztowe Poczta Zamość 005",
+      "Lokalizacja" : " ul. Szczebrzeska 35",
+      "Kod" : "22-403"
+    },
+    {
+      "Miasto" : "Gorzów Wielkopolski",
+      "Oddiał" : "Instytucja Rejonowy Urząd Poczty w Gorzowie Wielkopolskim",
+      "Lokalizacja" : " ul. Pocztowa 13",
+      "Kod" : "66-400"
+    },
+    {
+      "Miasto" : "Gorzów Wielkopolski",
+      "Oddiał" : "Instytucja ZUS oddział Gorzów Wielkopolski",
+      "Lokalizacja" : " ul. Sikorskiego 42",
+      "Kod" : "66-418"
+    },
+    {
+      "Miasto" : "Gorzów Wielkopolski",
+      "Oddiał" : "Poczta Filia UP Gorzów Wielkopolski 001",
+      "Lokalizacja" : " ul. Małorolnych 1",
+      "Kod" : "66-404"
+    },
+    {
+      "Miasto" : "Gorzów Wielkopolski",
+      "Oddiał" : "Poczta Filia UP Gorzów Wielkopolski 001",
+      "Lokalizacja" : " ul. Walczaka 25",
+      "Kod" : "66-407"
+    },
+    {
+      "Miasto" : "Gorzów Wielkopolski",
+      "Oddiał" : "Poczta Gorzów Wielkopolski 001",
+      "Lokalizacja" : " ul. Jagiellończyka 4",
+      "Kod" : "66-400"
+    },
+    {
+      "Miasto" : "Gorzów Wielkopolski",
+      "Oddiał" : "Poczta Gorzów Wielkopolski 003",
+      "Lokalizacja" : " ul. Sczanieckiej 51",
+      "Kod" : "66-401"
+    },
+    {
+      "Miasto" : "Gorzów Wielkopolski",
+      "Oddiał" : "Poczta Gorzów Wielkopolski 005",
+      "Lokalizacja" : " ul. Podmiejska 17 a",
+      "Kod" : "66-403"
+    },
+    {
+      "Miasto" : "Gorzów Wielkopolski",
+      "Oddiał" : "Poczta Gorzów Wielkopolski 007",
+      "Lokalizacja" : " ul. Śląska 77",
+      "Kod" : "66-405"
+    },
+    {
+      "Miasto" : "Gorzów Wielkopolski",
+      "Oddiał" : "Poczta Gorzów Wielkopolski 008",
+      "Lokalizacja" : " ul. Wróblewskiego 35",
+      "Kod" : "66-406"
+    },
+    {
+      "Miasto" : "Gorzów Wielkopolski",
+      "Oddiał" : "Poczta Gorzów Wielkopolski 010",
+      "Lokalizacja" : " ul. Słoneczna 64",
+      "Kod" : "66-408"
+    },
+    {
+      "Miasto" : "Gorzów Wielkopolski",
+      "Oddiał" : "Poczta Gorzów Wielkopolski 012",
+      "Lokalizacja" : " ul. Pocztowa 19",
+      "Kod" : "66-410"
+    },
+    {
+      "Miasto" : "Gorzów Wielkopolski",
+      "Oddiał" : "Poczta Gorzów Wielkopolski 014",
+      "Lokalizacja" : " ul. Okólna 25",
+      "Kod" : "66-412"
+    },
+    {
+      "Miasto" : "Gorzów Wielkopolski",
+      "Oddiał" : "Poczta Gorzów Wielkopolski 015",
+      "Lokalizacja" : " ul. Marcinkowskiego 90",
+      "Kod" : "66-413"
+    },
+    {
+      "Miasto" : "Gorzów Wielkopolski",
+      "Oddiał" : "Poczta Gorzów Wielkopolski 016",
+      "Lokalizacja" : " ul. Kombatantów 2",
+      "Kod" : "66-414"
+    },
+    {
+      "Miasto" : "Gorzów Wielkopolski",
+      "Oddiał" : "Skrytki Pocztowe Poczta Gorzów Wielkopolski 001",
+      "Lokalizacja" : " ul. Jagiellończyka 4",
+      "Kod" : "66-400"
+    },
+    {
+      "Miasto" : "Gorzów Wielkopolski",
+      "Oddiał" : "Skrytki Pocztowe Poczta Gorzów Wielkopolski 012",
+      "Lokalizacja" : " ul. Pocztowa 19",
+      "Kod" : "66-410"
+    },
+    {
+      "Miasto" : "Gorzów Wielkopolski",
+      "Oddiał" : "Skrytki Pocztowe Poczta Gorzów Wielkopolski 014",
+      "Lokalizacja" : " ul. Okólna 25",
+      "Kod" : "66-412"
+    },
+    {
+      "Miasto" : "Gorzów Wielkopolski",
+      "Oddiał" : "Skrytki Pocztowe Poczta Gorzów Wielkopolski 015",
+      "Lokalizacja" : " ul. Marcinkowskiego 90",
+      "Kod" : "66-413"
+    },
+    {
+      "Miasto" : "Gorzów Wielkopolski",
+      "Oddiał" : "Skrytki Pocztowe Poczta Gorzów Wielkopolski 016",
+      "Lokalizacja" : " ul. Kombatantów 2",
+      "Kod" : "66-414"
+    },
+    {
+      "Miasto" : "Piotrków Trybunalski",
+      "Oddiał" : "Instytucja Rejonowy Urząd Poczty w Piotrkowie Trybunalskim",
+      "Lokalizacja" : " ul. Słowackiego 17",
+      "Kod" : "97-300"
+    },
+    {
+      "Miasto" : "Piotrków Trybunalski",
+      "Oddiał" : "Poczta Piotrków Trybunalski 001",
+      "Lokalizacja" : " ul. Słowackiego 17",
+      "Kod" : "97-300"
+    },
+    {
+      "Miasto" : "Piotrków Trybunalski",
+      "Oddiał" : "Poczta Piotrków Trybunalski 003",
+      "Lokalizacja" : " ul. Łódzka 50/52",
+      "Kod" : "97-301"
+    },
+    {
+      "Miasto" : "Piotrków Trybunalski",
+      "Oddiał" : "Poczta Piotrków Trybunalski 004",
+      "Lokalizacja" : " ul. Bugajska 13",
+      "Kod" : "97-302"
+    },
+    {
+      "Miasto" : "Piotrków Trybunalski",
+      "Oddiał" : "Poczta Piotrków Trybunalski 008",
+      "Lokalizacja" : " ul. Belzacka 95",
+      "Kod" : "97-308"
+    },
+    {
+      "Miasto" : "Piotrków Trybunalski",
+      "Oddiał" : "Poczta Piotrków Trybunalski 009",
+      "Lokalizacja" : " ul. Wronia 65",
+      "Kod" : "97-309"
+    },
+    {
+      "Miasto" : "Piotrków Trybunalski",
+      "Oddiał" : "Poczta Piotrków Trybunalski 011",
+      "Lokalizacja" : " ul. Konopnickiej 4",
+      "Kod" : "97-312"
+    },
+    {
+      "Miasto" : "Piotrków Trybunalski",
+      "Oddiał" : "Skrytki Pocztowe Poczta Piotrków Trybunalski 001",
+      "Lokalizacja" : " ul. Słowackiego 17",
+      "Kod" : "97-300"
+    },
+    {
+      "Miasto" : "Skierniewice",
+      "Oddiał" : "Instytucja Rejonowy Urząd Poczty w Skierniewicach",
+      "Lokalizacja" : " ul. Sienkiewicza 2",
+      "Kod" : "96-100"
+    },
+    {
+      "Miasto" : "Skierniewice",
+      "Oddiał" : "Poczta Filia UP Skierniewice 002",
+      "Lokalizacja" : " ul. Domarasiewicza 2",
+      "Kod" : "96-106"
+    },
+    {
+      "Miasto" : "Skierniewice",
+      "Oddiał" : "Poczta Skierniewice 001",
+      "Lokalizacja" : " ul. Sienkiewicza 2",
+      "Kod" : "96-100"
+    },
+    {
+      "Miasto" : "Skierniewice",
+      "Oddiał" : "Poczta Skierniewice 002",
+      "Lokalizacja" : " ul. Mickiewicza 2/4",
+      "Kod" : "96-102"
+    },
+    {
+      "Miasto" : "Skierniewice",
+      "Oddiał" : "Poczta Skierniewice 003",
+      "Lokalizacja" : " ul. Batorego 45 A",
+      "Kod" : "96-101"
+    },
+    {
+      "Miasto" : "Skierniewice",
+      "Oddiał" : "Poczta Skierniewice 004",
+      "Lokalizacja" : " ul. Kopernika 5",
+      "Kod" : "96-103"
+    },
+    {
+      "Miasto" : "Skierniewice",
+      "Oddiał" : "Poczta Skierniewice 005",
+      "Lokalizacja" : " ul. Iwaszkiewicza 15",
+      "Kod" : "96-104"
+    },
+    {
+      "Miasto" : "Nowy Sącz",
+      "Oddiał" : "Instytucja Rejonowy Urząd Poczty w Nowym Sączu",
+      "Lokalizacja" : " ul. Dunajewskiego 10",
+      "Kod" : "33-300"
+    },
+    {
+      "Miasto" : "Nowy Sącz",
+      "Oddiał" : "Instytucja ZUS oddział Nowy Sącz",
+      "Lokalizacja" : " ul. Sienkiewicza 77",
+      "Kod" : "33-320"
+    },
+    {
+      "Miasto" : "Nowy Sącz",
+      "Oddiał" : "Poczta Nowy Sącz 001",
+      "Lokalizacja" : " ul. Dunajewskiego 10",
+      "Kod" : "33-300"
+    },
+    {
+      "Miasto" : "Nowy Sącz",
+      "Oddiał" : "Poczta Nowy Sącz 002",
+      "Lokalizacja" : " ul. Kolejowa 17",
+      "Kod" : "33-310"
+    },
+    {
+      "Miasto" : "Nowy Sącz",
+      "Oddiał" : "Poczta Nowy Sącz 004",
+      "Lokalizacja" : " ul. Lwowska 68",
+      "Kod" : "33-302"
+    },
+    {
+      "Miasto" : "Nowy Sącz",
+      "Oddiał" : "Poczta Nowy Sącz 005",
+      "Lokalizacja" : " ul. Nawojowska 3",
+      "Kod" : "33-303"
+    },
+    {
+      "Miasto" : "Nowy Sącz",
+      "Oddiał" : "Poczta Nowy Sącz 006",
+      "Lokalizacja" : " ul. Agaty Konstanty 27 A",
+      "Kod" : "33-304"
+    },
+    {
+      "Miasto" : "Nowy Sącz",
+      "Oddiał" : "Poczta Nowy Sącz 007",
+      "Lokalizacja" : " ul. Rokitniańczyków 28/2",
+      "Kod" : "33-305"
+    },
+    {
+      "Miasto" : "Nowy Sącz",
+      "Oddiał" : "Poczta Nowy Sącz 008",
+      "Lokalizacja" : " ul. Kolejowa 17",
+      "Kod" : "33-306"
+    },
+    {
+      "Miasto" : "Nowy Sącz",
+      "Oddiał" : "Skrytki Pocztowe Poczta Nowy Sącz 001",
+      "Lokalizacja" : " ul. Dunajewskiego 10",
+      "Kod" : "33-300"
+    },
+    {
+      "Miasto" : "Nowy Sącz",
+      "Oddiał" : "Skrytki Pocztowe Poczta Nowy Sącz 002",
+      "Lokalizacja" : " ul. Kolejowa 17",
+      "Kod" : "33-310"
+    },
+    {
+      "Miasto" : "Nowy Sącz",
+      "Oddiał" : "Skrytki Pocztowe Poczta Nowy Sącz 004",
+      "Lokalizacja" : " ul. Lwowska 68",
+      "Kod" : "33-302"
+    },
+    {
+      "Miasto" : "Nowy Sącz",
+      "Oddiał" : "Skrytki Pocztowe Poczta Nowy Sącz 005",
+      "Lokalizacja" : " ul. Nawojowska 3",
+      "Kod" : "33-303"
+    },
+    {
+      "Miasto" : "Nowy Sącz",
+      "Oddiał" : "Skrytki Pocztowe Poczta Nowy Sącz 007",
+      "Lokalizacja" : " ul. Rokitniańczyków 28/2",
+      "Kod" : "33-305"
+    },
+    {
+      "Miasto" : "Nowy Sącz",
+      "Oddiał" : "Skrytki Pocztowe Poczta Nowy Sącz 008",
+      "Lokalizacja" : " ul. Kolejowa 17",
+      "Kod" : "33-306"
+    },
+    {
+      "Miasto" : "Tarnów",
+      "Oddiał" : "Instytucja Rejonowy Urząd Poczty w Tarnowie",
+      "Lokalizacja" : " ul. Mickiewicz 6",
+      "Kod" : "33-100"
+    },
+    {
+      "Miasto" : "Tarnów",
+      "Oddiał" : "Poczta Filia UP Tarnów 001",
+      "Lokalizacja" : " ul. Klikowska 107/2",
+      "Kod" : "33-102"
+    },
+    {
+      "Miasto" : "Tarnów",
+      "Oddiał" : "Poczta Tarnów 001",
+      "Lokalizacja" : " ul. Mickiewicza 6",
+      "Kod" : "33-100"
+    },
+    {
+      "Miasto" : "Tarnów",
+      "Oddiał" : "Poczta Tarnów 002",
+      "Lokalizacja" : " Pl. Dworcowy 2",
+      "Kod" : "33-110"
+    },
+    {
+      "Miasto" : "Tarnów",
+      "Oddiał" : "Poczta Tarnów 003",
+      "Lokalizacja" : " ul. Zbylitowska 6",
+      "Kod" : "33-101"
+    },
+    {
+      "Miasto" : "Tarnów",
+      "Oddiał" : "Poczta Tarnów 005",
+      "Lokalizacja" : " ul. Krzyska 111",
+      "Kod" : "33-103"
+    },
+    {
+      "Miasto" : "Tarnów",
+      "Oddiał" : "Poczta Tarnów 006",
+      "Lokalizacja" : " ul. Graniczna 8 A",
+      "Kod" : "33-104"
+    },
+    {
+      "Miasto" : "Tarnów",
+      "Oddiał" : "Poczta Tarnów 007",
+      "Lokalizacja" : " ul. Mościckiego 29",
+      "Kod" : "33-105"
+    },
+    {
+      "Miasto" : "Tarnów",
+      "Oddiał" : "Poczta Tarnów 008",
+      "Lokalizacja" : " ul. Gumniska 11",
+      "Kod" : "33-106"
+    },
+    {
+      "Miasto" : "Tarnów",
+      "Oddiał" : "Skrytki Pocztowe Poczta Filia UP Tarnów 001",
+      "Lokalizacja" : " ul. Klikowska 107/2",
+      "Kod" : "33-102"
+    },
+    {
+      "Miasto" : "Tarnów",
+      "Oddiał" : "Skrytki Pocztowe Poczta Tarnów 001",
+      "Lokalizacja" : " ul. Mickiewicza 6",
+      "Kod" : "33-100"
+    },
+    {
+      "Miasto" : "Tarnów",
+      "Oddiał" : "Skrytki Pocztowe Poczta Tarnów 002",
+      "Lokalizacja" : " Pl. Dworcowy 2",
+      "Kod" : "33-110"
+    },
+    {
+      "Miasto" : "Tarnów",
+      "Oddiał" : "Skrytki Pocztowe Poczta Tarnów 003",
+      "Lokalizacja" : " ul. Zbylitowska 6",
+      "Kod" : "33-101"
+    },
+    {
+      "Miasto" : "Tarnów",
+      "Oddiał" : "Skrytki Pocztowe Poczta Tarnów 006",
+      "Lokalizacja" : " ul. Graniczna 8 A",
+      "Kod" : "33-104"
+    },
+    {
+      "Miasto" : "Tarnów",
+      "Oddiał" : "Skrytki Pocztowe Poczta Tarnów 008",
+      "Lokalizacja" : " ul. Gumniska 11",
+      "Kod" : "33-106"
+    },
+    {
+      "Miasto" : "Ostrołęka",
+      "Oddiał" : "Instytucja Rejonowy Urząd Poczty w Ostrołęce",
+      "Lokalizacja" : " ul. Graniczna 8",
+      "Kod" : "07-400"
+    },
+    {
+      "Miasto" : "Ostrołęka",
+      "Oddiał" : "Poczta Ostrołęka 001",
+      "Lokalizacja" : " ul. Kopernika 9",
+      "Kod" : "07-400"
+    },
+    {
+      "Miasto" : "Ostrołęka",
+      "Oddiał" : "Poczta Ostrołęka 002",
+      "Lokalizacja" : " ul. Graniczna 8",
+      "Kod" : "07-410"
+    },
+    {
+      "Miasto" : "Ostrołęka",
+      "Oddiał" : "Poczta Ostrołęka 003",
+      "Lokalizacja" : " ul. I Armii WP 42",
+      "Kod" : "07-401"
+    },
+    {
+      "Miasto" : "Ostrołęka",
+      "Oddiał" : "Poczta Ostrołęka 004",
+      "Lokalizacja" : " ul. Korczaka 4",
+      "Kod" : "07-409"
+    },
+    {
+      "Miasto" : "Ostrołęka",
+      "Oddiał" : "Poczta Ostrołęka 005",
+      "Lokalizacja" : " ul. J. Hallera 13",
+      "Kod" : "07-412"
+    },
+    {
+      "Miasto" : "Ostrołęka",
+      "Oddiał" : "Poczta Ostrołęka 006",
+      "Lokalizacja" : " ul. Sikorskiego 4",
+      "Kod" : "07-413"
+    },
+    {
+      "Miasto" : "Ostrołęka",
+      "Oddiał" : "Poczta Ostrołęka 007",
+      "Lokalizacja" : " ul. Żeromskiego 13",
+      "Kod" : "07-417"
+    },
+    {
+      "Miasto" : "Ostrołęka",
+      "Oddiał" : "Skrytki Pocztowe Poczta Ostrołęka 001",
+      "Lokalizacja" : " ul. Kopernika 9",
+      "Kod" : "07-400"
+    },
+    {
+      "Miasto" : "Ostrołęka",
+      "Oddiał" : "Skrytki Pocztowe Poczta Ostrołęka 002",
+      "Lokalizacja" : " ul. Graniczna 8",
+      "Kod" : "07-410"
+    },
+    {
+      "Miasto" : "Ostrołęka",
+      "Oddiał" : "Skrytki Pocztowe Poczta Ostrołęka 003",
+      "Lokalizacja" : " ul. I Armii WP 42",
+      "Kod" : "07-401"
+    },
+    {
+      "Miasto" : "Ostrołęka",
+      "Oddiał" : "Skrytki Pocztowe Poczta Ostrołęka 004",
+      "Lokalizacja" : " ul. Korczaka 4",
+      "Kod" : "07-409"
+    },
+    {
+      "Miasto" : "Ostrołęka",
+      "Oddiał" : "Skrytki Pocztowe Poczta Ostrołęka 005",
+      "Lokalizacja" : " ul. J. Hallera 13",
+      "Kod" : "07-412"
+    },
+    {
+      "Miasto" : "Ostrołęka",
+      "Oddiał" : "Skrytki Pocztowe Poczta Ostrołęka 007",
+      "Lokalizacja" : " ul. Żeromskiego 13",
+      "Kod" : "07-417"
+    },
+    {
+      "Miasto" : "Płock",
+      "Oddiał" : "Instytucja Rejonowy Urząd Poczty w Płocku",
+      "Lokalizacja" : " ul. Bielska 14B",
+      "Kod" : "09-400"
+    },
+    {
+      "Miasto" : "Płock",
+      "Oddiał" : "Instytucja ZUS oddział Płock",
+      "Lokalizacja" : " Al. Jachowicza 1",
+      "Kod" : "09-403"
+    },
+    {
+      "Miasto" : "Płock",
+      "Oddiał" : "Poczta Płock 001",
+      "Lokalizacja" : " ul. Bielska 14b",
+      "Kod" : "09-400"
+    },
+    {
+      "Miasto" : "Płock",
+      "Oddiał" : "Poczta Płock 003",
+      "Lokalizacja" : " ul. Kolejowa 27",
+      "Kod" : "09-401"
+    },
+    {
+      "Miasto" : "Płock",
+      "Oddiał" : "Poczta Płock 004",
+      "Lokalizacja" : " ul. Jachowicza 21",
+      "Kod" : "09-402"
+    },
+    {
+      "Miasto" : "Płock",
+      "Oddiał" : "Poczta Płock 005",
+      "Lokalizacja" : " ul. Czwartaków 5",
+      "Kod" : "09-403"
+    },
+    {
+      "Miasto" : "Płock",
+      "Oddiał" : "Poczta Płock 006",
+      "Lokalizacja" : " ul. Grodzka 10",
+      "Kod" : "09-404"
+    },
+    {
+      "Miasto" : "Płock",
+      "Oddiał" : "Poczta Płock 007",
+      "Lokalizacja" : " ul. Marii Curie Skłodowskiej 1",
+      "Kod" : "09-405"
+    },
+    {
+      "Miasto" : "Płock",
+      "Oddiał" : "Poczta Płock 008",
+      "Lokalizacja" : " ul. Tysiąclecia 10",
+      "Kod" : "09-406"
+    },
+    {
+      "Miasto" : "Płock",
+      "Oddiał" : "Poczta Płock 009",
+      "Lokalizacja" : " ul. Gierzyńskiego 17",
+      "Kod" : "09-407"
+    },
+    {
+      "Miasto" : "Płock",
+      "Oddiał" : "Poczta Płock 010",
+      "Lokalizacja" : " ul. Żelazna 1",
+      "Kod" : "09-408"
+    },
+    {
+      "Miasto" : "Płock",
+      "Oddiał" : "Poczta Płock 011",
+      "Lokalizacja" : " ul. Walecznych 9",
+      "Kod" : "09-409"
+    },
+    {
+      "Miasto" : "Płock",
+      "Oddiał" : "Poczta Płock 012",
+      "Lokalizacja" : " ul. Wyszogrodzka 161",
+      "Kod" : "09-410"
+    },
+    {
+      "Miasto" : "Płock",
+      "Oddiał" : "Skrytki Pocztowe Poczta Płock 001",
+      "Lokalizacja" : " ul. Bielska 14b",
+      "Kod" : "09-400"
+    },
+    {
+      "Miasto" : "Płock",
+      "Oddiał" : "Skrytki Pocztowe Poczta Płock 003",
+      "Lokalizacja" : " ul. Kolejowa 27",
+      "Kod" : "09-401"
+    },
+    {
+      "Miasto" : "Płock",
+      "Oddiał" : "Skrytki Pocztowe Poczta Płock 004",
+      "Lokalizacja" : " ul. Jachowicza 21",
+      "Kod" : "09-402"
+    },
+    {
+      "Miasto" : "Płock",
+      "Oddiał" : "Skrytki Pocztowe Poczta Płock 007",
+      "Lokalizacja" : " ul. Marii Curie Skłodowskiej 1",
+      "Kod" : "09-405"
+    },
+    {
+      "Miasto" : "Płock",
+      "Oddiał" : "Skrytki Pocztowe Poczta Płock 009",
+      "Lokalizacja" : " ul. Gierzyńskiego 17",
+      "Kod" : "09-407"
+    },
+    {
+      "Miasto" : "Płock",
+      "Oddiał" : "Skrytki Pocztowe Poczta Płock 012",
+      "Lokalizacja" : " ul. Wyszogrodzka 161",
+      "Kod" : "09-410"
+    },
+    {
+      "Miasto" : "Siedlce",
+      "Oddiał" : "Instytucja Rejonowy Urząd Poczty w Siedlcach",
+      "Lokalizacja" : " ul. Piłsudskiego 2",
+      "Kod" : "08-100"
+    },
+    {
+      "Miasto" : "Siedlce",
+      "Oddiał" : "Poczta Siedlce 001",
+      "Lokalizacja" : " ul. Piłsudskiego 2",
+      "Kod" : "08-100"
+    },
+    {
+      "Miasto" : "Siedlce",
+      "Oddiał" : "Poczta Siedlce 002",
+      "Lokalizacja" : " Pl. Zdanowskiego 2",
+      "Kod" : "08-110"
+    },
+    {
+      "Miasto" : "Siedlce",
+      "Oddiał" : "Poczta Siedlce 003",
+      "Lokalizacja" : " ul. Mazurska 2",
+      "Kod" : "08-101"
+    },
+    {
+      "Miasto" : "Siedlce",
+      "Oddiał" : "Poczta Siedlce 004",
+      "Lokalizacja" : " ul. Brzeska 131",
+      "Kod" : "08-102"
+    },
+    {
+      "Miasto" : "Siedlce",
+      "Oddiał" : "Poczta Siedlce 005",
+      "Lokalizacja" : " ul. Warszawska 93",
+      "Kod" : "08-103"
+    },
+    {
+      "Miasto" : "Siedlce",
+      "Oddiał" : "Poczta Siedlce 006",
+      "Lokalizacja" : " ul. Chrobrego 17",
+      "Kod" : "08-119"
+    },
+    {
+      "Miasto" : "Siedlce",
+      "Oddiał" : "Skrytki Pocztowe Poczta Siedlce 001",
+      "Lokalizacja" : " ul. Piłsudskiego 2",
+      "Kod" : "08-100"
+    },
+    {
+      "Miasto" : "Siedlce",
+      "Oddiał" : "Skrytki Pocztowe Poczta Siedlce 002",
+      "Lokalizacja" : " Pl. Zdanowskiego 2",
+      "Kod" : "08-110"
+    },
+    {
+      "Miasto" : "Siedlce",
+      "Oddiał" : "Skrytki Pocztowe Poczta Siedlce 004",
+      "Lokalizacja" : " ul. Brzeska 131",
+      "Kod" : "08-102"
+    },
+    {
+      "Miasto" : "Siedlce",
+      "Oddiał" : "Skrytki Pocztowe Poczta Siedlce 006",
+      "Lokalizacja" : " ul. Chrobrego 17",
+      "Kod" : "08-119"
+    },
+    {
+      "Miasto" : "Krosno",
+      "Oddiał" : "Instytucja Przedstawicielstwo Operacyjne CUP",
+      "Lokalizacja" : null,
+      "Kod" : "38-749"
+    },
+    {
+      "Miasto" : "Krosno",
+      "Oddiał" : "Instytucja Rejonowy Urząd Poczty w Krośnie",
+      "Lokalizacja" : " ul. Podwale 38",
+      "Kod" : "38-400"
+    },
+    {
+      "Miasto" : "Krosno",
+      "Oddiał" : "Poczta Krosno 001",
+      "Lokalizacja" : " ul. Podwale 38",
+      "Kod" : "38-400"
+    },
+    {
+      "Miasto" : "Krosno",
+      "Oddiał" : "Poczta Krosno 002",
+      "Lokalizacja" : " ul. Mielczarskiego 1",
+      "Kod" : "38-410"
+    },
+    {
+      "Miasto" : "Krosno",
+      "Oddiał" : "Poczta Krosno 003",
+      "Lokalizacja" : " ul. Decowskiego 42",
+      "Kod" : "38-401"
+    },
+    {
+      "Miasto" : "Krosno",
+      "Oddiał" : "Poczta Krosno 004",
+      "Lokalizacja" : " ul. Bema 4",
+      "Kod" : "38-404"
+    },
+    {
+      "Miasto" : "Krosno",
+      "Oddiał" : "Poczta Krosno 005",
+      "Lokalizacja" : " ul. Wojska Polskiego 41",
+      "Kod" : "38-402"
+    },
+    {
+      "Miasto" : "Krosno",
+      "Oddiał" : "Poczta Krosno 007",
+      "Lokalizacja" : " ul. Magurów 3",
+      "Kod" : "38-409"
+    },
+    {
+      "Miasto" : "Krosno",
+      "Oddiał" : "Poczta Krosno 008",
+      "Lokalizacja" : " ul. Dąbrowskiego 4",
+      "Kod" : "38-411"
+    },
+    {
+      "Miasto" : "Krosno",
+      "Oddiał" : "Skrytki Pocztowe Poczta Krosno 001",
+      "Lokalizacja" : " ul. Podwale 38",
+      "Kod" : "38-400"
+    },
+    {
+      "Miasto" : "Krosno",
+      "Oddiał" : "Skrytki Pocztowe Poczta Krosno 005",
+      "Lokalizacja" : " ul. Wojska Polskiego 41",
+      "Kod" : "38-402"
+    },
+    {
+      "Miasto" : "Krosno",
+      "Oddiał" : "Skrytki Pocztowe Poczta Krosno 008",
+      "Lokalizacja" : " ul. Dąbrowskiego 4",
+      "Kod" : "38-411"
+    },
+    {
+      "Miasto" : "Przemyśl",
+      "Oddiał" : "Instytucja Przedstawicielstwo Operacyjne CUP",
+      "Lokalizacja" : null,
+      "Kod" : "37-749"
+    },
+    {
+      "Miasto" : "Przemyśl",
+      "Oddiał" : "Instytucja Rejonowy Urząd Poczty w Przemyślu",
+      "Lokalizacja" : " ul. 3 Maja 25",
+      "Kod" : "37-700"
+    },
+    {
+      "Miasto" : "Przemyśl",
+      "Oddiał" : "Poczta Przemyśl 001",
+      "Lokalizacja" : " ul. 3 Maja 25",
+      "Kod" : "37-700"
+    },
+    {
+      "Miasto" : "Przemyśl",
+      "Oddiał" : "Poczta Przemyśl 002",
+      "Lokalizacja" : " ul. Mickiewicza 13",
+      "Kod" : "37-720"
+    },
+    {
+      "Miasto" : "Przemyśl",
+      "Oddiał" : "Poczta Przemyśl 003",
+      "Lokalizacja" : " ul. Opalińskiego 11 A",
+      "Kod" : "37-701"
+    },
+    {
+      "Miasto" : "Przemyśl",
+      "Oddiał" : "Poczta Przemyśl 004",
+      "Lokalizacja" : " ul. Działalność urzędu zawieszona",
+      "Kod" : "37-702"
+    },
+    {
+      "Miasto" : "Przemyśl",
+      "Oddiał" : "Poczta Przemyśl 005",
+      "Lokalizacja" : " ul. Słowackiego 63",
+      "Kod" : "37-703"
+    },
+    {
+      "Miasto" : "Przemyśl",
+      "Oddiał" : "Poczta Przemyśl 006",
+      "Lokalizacja" : " ul. Wybrzeże Tadeusza Kościuszki 70",
+      "Kod" : "37-704"
+    },
+    {
+      "Miasto" : "Przemyśl",
+      "Oddiał" : "Poczta Przemyśl 007",
+      "Lokalizacja" : " ul. Ofiar Katynia 5",
+      "Kod" : "37-705"
+    },
+    {
+      "Miasto" : "Przemyśl",
+      "Oddiał" : "Poczta Przemyśl 008",
+      "Lokalizacja" : " ul. Rynek 8",
+      "Kod" : "37-706"
+    },
+    {
+      "Miasto" : "Przemyśl",
+      "Oddiał" : "Skrytki Pocztowe Poczta Przemyśl 001",
+      "Lokalizacja" : " ul. 3 Maja 25",
+      "Kod" : "37-700"
+    },
+    {
+      "Miasto" : "Przemyśl",
+      "Oddiał" : "Skrytki Pocztowe Poczta Przemyśl 002",
+      "Lokalizacja" : " ul. Mickiewicza 13",
+      "Kod" : "37-720"
+    },
+    {
+      "Miasto" : "Przemyśl",
+      "Oddiał" : "Skrytki Pocztowe Poczta Przemyśl 003",
+      "Lokalizacja" : " ul. Opalińskiego 11 A",
+      "Kod" : "37-701"
+    },
+    {
+      "Miasto" : "Przemyśl",
+      "Oddiał" : "Skrytki Pocztowe Poczta Przemyśl 006",
+      "Lokalizacja" : " ul. Wybrzeże Tadeusza Kościuszki 70",
+      "Kod" : "37-704"
+    },
+    {
+      "Miasto" : "Przemyśl",
+      "Oddiał" : "Skrytki Pocztowe Poczta Przemyśl 007",
+      "Lokalizacja" : " ul. Ofiar Katynia 5",
+      "Kod" : "37-705"
+    },
+    {
+      "Miasto" : "Przemyśl",
+      "Oddiał" : "Skrytki Pocztowe Poczta Przemyśl 008",
+      "Lokalizacja" : " ul. Rynek 8",
+      "Kod" : "37-706"
+    },
+    {
+      "Miasto" : "Tarnobrzeg",
+      "Oddiał" : "Instytucja Rejonowy Urząd Poczty w Tarnobrzegu",
+      "Lokalizacja" : " ul. Sokola 3a",
+      "Kod" : "39-400"
+    },
+    {
+      "Miasto" : "Tarnobrzeg",
+      "Oddiał" : "Poczta Filia UP Tarnobrzeg 001",
+      "Lokalizacja" : null,
+      "Kod" : "39-441"
+    },
+    {
+      "Miasto" : "Tarnobrzeg",
+      "Oddiał" : "Poczta Tarnobrzeg 003",
+      "Lokalizacja" : " ul. Wyspiańskiego 3",
+      "Kod" : "39-401"
+    },
+    {
+      "Miasto" : "Tarnobrzeg",
+      "Oddiał" : "Poczta Tarnobrzeg 004",
+      "Lokalizacja" : " ul. Zakładowa 48",
+      "Kod" : "39-402"
+    },
+    {
+      "Miasto" : "Tarnobrzeg",
+      "Oddiał" : "Poczta Tarnobrzeg 005",
+      "Lokalizacja" : " ul. Zwierzyniecka 18",
+      "Kod" : "39-403"
+    },
+    {
+      "Miasto" : "Tarnobrzeg",
+      "Oddiał" : "Poczta Tarnobrzeg 007",
+      "Lokalizacja" : " ul. Sienkiewicza 38",
+      "Kod" : "39-405"
+    },
+    {
+      "Miasto" : "Tarnobrzeg",
+      "Oddiał" : "Poczta Tarnobrzeg 009",
+      "Lokalizacja" : " ul. Konfederacji Dzikowskiej 13",
+      "Kod" : "39-407"
+    },
+    {
+      "Miasto" : "Tarnobrzeg",
+      "Oddiał" : "Poczta Tarnobrzeg T120",
+      "Lokalizacja" : " ul. Sokola 3a",
+      "Kod" : "39-400"
+    },
+    {
+      "Miasto" : "Tarnobrzeg",
+      "Oddiał" : "Skrytki Pocztowe Poczta Tarnobrzeg 003",
+      "Lokalizacja" : " ul. Wyspiańskiego 3",
+      "Kod" : "39-401"
+    },
+    {
+      "Miasto" : "Tarnobrzeg",
+      "Oddiał" : "Skrytki Pocztowe Poczta Tarnobrzeg 004",
+      "Lokalizacja" : " ul. Zakładowa 48",
+      "Kod" : "39-402"
+    },
+    {
+      "Miasto" : "Tarnobrzeg",
+      "Oddiał" : "Skrytki Pocztowe Poczta Tarnobrzeg 007",
+      "Lokalizacja" : " ul. Sienkiewicza 38",
+      "Kod" : "39-405"
+    },
+    {
+      "Miasto" : "Tarnobrzeg",
+      "Oddiał" : "Skrytki Pocztowe Poczta Tarnobrzeg T120",
+      "Lokalizacja" : " ul. Sokola 3a",
+      "Kod" : "39-400"
+    },
+    {
+      "Miasto" : "Łomża",
+      "Oddiał" : "Instytucja Rejonowy Urząd Poczty w Łomży",
+      "Lokalizacja" : " ul. Pl.Pocztowy 1",
+      "Kod" : "18-400"
+    },
+    {
+      "Miasto" : "Łomża",
+      "Oddiał" : "Poczta Łomża 001",
+      "Lokalizacja" : " Pl. Pocztowy 1",
+      "Kod" : "18-400"
+    },
+    {
+      "Miasto" : "Łomża",
+      "Oddiał" : "Poczta Łomża 003",
+      "Lokalizacja" : " ul. Juliusza Słowackiego 6A",
+      "Kod" : "18-401"
+    },
+    {
+      "Miasto" : "Łomża",
+      "Oddiał" : "Poczta Łomża 004",
+      "Lokalizacja" : " ul. Wojska Polskiego 161",
+      "Kod" : "18-402"
+    },
+    {
+      "Miasto" : "Łomża",
+      "Oddiał" : "Poczta Łomża 005",
+      "Lokalizacja" : " ul. Stanisława Małachowskiego 1",
+      "Kod" : "18-403"
+    },
+    {
+      "Miasto" : "Łomża",
+      "Oddiał" : "Poczta PP Łomża B126",
+      "Lokalizacja" : " ul. Poznańska 148 B",
+      "Kod" : "18-410"
+    },
+    {
+      "Miasto" : "Łomża",
+      "Oddiał" : "Skrytki Pocztowe Poczta Łomża 001",
+      "Lokalizacja" : " Pl. Pocztowy 1",
+      "Kod" : "18-400"
+    },
+    {
+      "Miasto" : "Łomża",
+      "Oddiał" : "Skrytki Pocztowe Poczta Łomża 003",
+      "Lokalizacja" : " ul. Juliusza Słowackiego 6A",
+      "Kod" : "18-401"
+    },
+    {
+      "Miasto" : "Łomża",
+      "Oddiał" : "Skrytki Pocztowe Poczta Łomża 004",
+      "Lokalizacja" : " ul. Wojska Polskiego 161",
+      "Kod" : "18-402"
+    },
+    {
+      "Miasto" : "Łomża",
+      "Oddiał" : "Skrytki Pocztowe Poczta Łomża 005",
+      "Lokalizacja" : " ul. Stanisława Małachowskiego 1",
+      "Kod" : "18-403"
+    },
+    {
+      "Miasto" : "Suwałki",
+      "Oddiał" : "Instytucja Rejonowy Urząd Poczty w Suwałkach",
+      "Lokalizacja" : " ul. Generała Kazimierza Pułaskiego 52",
+      "Kod" : "16-400"
+    },
+    {
+      "Miasto" : "Suwałki",
+      "Oddiał" : "Poczta Suwałki 001",
+      "Lokalizacja" : " ul. Generała Kazimierza Pułaskiego 52",
+      "Kod" : "16-400"
+    },
+    {
+      "Miasto" : "Suwałki",
+      "Oddiał" : "Poczta Suwałki 003",
+      "Lokalizacja" : " ul. Sejneńska 13",
+      "Kod" : "16-401"
+    },
+    {
+      "Miasto" : "Suwałki",
+      "Oddiał" : "Poczta Suwałki 004",
+      "Lokalizacja" : " ul. Kościuszki 25",
+      "Kod" : "16-402"
+    },
+    {
+      "Miasto" : "Suwałki",
+      "Oddiał" : "Poczta Suwałki 005",
+      "Lokalizacja" : " ul. Północna 27",
+      "Kod" : "16-430"
+    },
+    {
+      "Miasto" : "Suwałki",
+      "Oddiał" : "Poczta Suwałki 006",
+      "Lokalizacja" : " ul. Klonowa 41A",
+      "Kod" : "16-431"
+    },
+    {
+      "Miasto" : "Suwałki",
+      "Oddiał" : "Poczta Suwałki 007",
+      "Lokalizacja" : " ul. Noniewicza 10",
+      "Kod" : "16-432"
+    },
+    {
+      "Miasto" : "Suwałki",
+      "Oddiał" : "Poczta Suwałki 008",
+      "Lokalizacja" : " ul. Paca 5 G",
+      "Kod" : "16-433"
+    },
+    {
+      "Miasto" : "Suwałki",
+      "Oddiał" : "Skrytki Pocztowe Poczta Suwałki 001",
+      "Lokalizacja" : " ul. Generała Kazimierza Pułaskiego 52",
+      "Kod" : "16-400"
+    },
+    {
+      "Miasto" : "Suwałki",
+      "Oddiał" : "Skrytki Pocztowe Poczta Suwałki 004",
+      "Lokalizacja" : " ul. Kościuszki 25",
+      "Kod" : "16-402"
+    },
+    {
+      "Miasto" : "Suwałki",
+      "Oddiał" : "Skrytki Pocztowe Poczta Suwałki 005",
+      "Lokalizacja" : " ul. Północna 27",
+      "Kod" : "16-430"
+    },
+    {
+      "Miasto" : "Suwałki",
+      "Oddiał" : "Skrytki Pocztowe Poczta Suwałki 006",
+      "Lokalizacja" : " ul. Klonowa 41A",
+      "Kod" : "16-431"
+    },
+    {
+      "Miasto" : "Suwałki",
+      "Oddiał" : "Skrytki Pocztowe Poczta Suwałki 007",
+      "Lokalizacja" : " ul. Noniewicza 10",
+      "Kod" : "16-432"
+    },
+    {
+      "Miasto" : "Słupsk",
+      "Oddiał" : "Instytucja Rejonowy Urząd Poczty w Słupsku",
+      "Lokalizacja" : " ul. Banacha 6",
+      "Kod" : "76-200"
+    },
+    {
+      "Miasto" : "Słupsk",
+      "Oddiał" : "Instytucja ZUS oddział Słupsk",
+      "Lokalizacja" : " ul. Zwycięstwa 8",
+      "Kod" : "76-280"
+    },
+    {
+      "Miasto" : "Słupsk",
+      "Oddiał" : "Poczta Filia UP Słupsk 008",
+      "Lokalizacja" : " ul. Rędzikowo 24",
+      "Kod" : "76-204"
+    },
+    {
+      "Miasto" : "Słupsk",
+      "Oddiał" : "Poczta Słupsk 002",
+      "Lokalizacja" : " ul. Kołłątaja 31",
+      "Kod" : "76-210"
+    },
+    {
+      "Miasto" : "Słupsk",
+      "Oddiał" : "Poczta Słupsk 003",
+      "Lokalizacja" : " ul. Kołłątaja 31",
+      "Kod" : "76-201"
+    },
+    {
+      "Miasto" : "Słupsk",
+      "Oddiał" : "Poczta Słupsk 004",
+      "Lokalizacja" : " ul. Mochnackiego 12",
+      "Kod" : "76-202"
+    },
+    {
+      "Miasto" : "Słupsk",
+      "Oddiał" : "Poczta Słupsk 005",
+      "Lokalizacja" : " ul. Westerplatte 5",
+      "Kod" : "76-203"
+    },
+    {
+      "Miasto" : "Słupsk",
+      "Oddiał" : "Poczta Słupsk 007",
+      "Lokalizacja" : " ul. Mieszka I 8",
+      "Kod" : "76-205"
+    },
+    {
+      "Miasto" : "Słupsk",
+      "Oddiał" : "Poczta Słupsk 008",
+      "Lokalizacja" : " ul. Banacha 6",
+      "Kod" : "76-206"
+    },
+    {
+      "Miasto" : "Słupsk",
+      "Oddiał" : "Poczta Słupsk 009",
+      "Lokalizacja" : " ul. Królowej Jadwigi 1",
+      "Kod" : "76-207"
+    },
+    {
+      "Miasto" : "Słupsk",
+      "Oddiał" : "Poczta Słupsk 010",
+      "Lokalizacja" : " ul. 11 Listopada 3",
+      "Kod" : "76-208"
+    },
+    {
+      "Miasto" : "Słupsk",
+      "Oddiał" : "Poczta Słupsk 011",
+      "Lokalizacja" : " ul. Szczecińska 69",
+      "Kod" : "76-209"
+    },
+    {
+      "Miasto" : "Słupsk",
+      "Oddiał" : "Poczta Słupsk 012",
+      "Lokalizacja" : " ul. Łukasiewicza 3",
+      "Kod" : "76-215"
+    },
+    {
+      "Miasto" : "Słupsk",
+      "Oddiał" : "Poczta Słupsk 013",
+      "Lokalizacja" : " ul. Kilińskiego 32",
+      "Kod" : "76-218"
+    },
+    {
+      "Miasto" : "Słupsk",
+      "Oddiał" : "Poczta Słupsk 014",
+      "Lokalizacja" : " ul. Pobożnego 19",
+      "Kod" : "76-216"
+    },
+    {
+      "Miasto" : "Piekary Śląskie",
+      "Oddiał" : "Poczta Piekary Śląskie 001",
+      "Lokalizacja" : " ul. Bytomska 90",
+      "Kod" : "41-940"
+    },
+    {
+      "Miasto" : "Piekary Śląskie",
+      "Oddiał" : "Poczta Piekary Śląskie 003",
+      "Lokalizacja" : " ul. Generała Kleeberga Franciszka 1",
+      "Kod" : "41-943"
+    },
+    {
+      "Miasto" : "Piekary Śląskie",
+      "Oddiał" : "Poczta Piekary Śląskie 009",
+      "Lokalizacja" : " ul. Curie-Skłodowskiej Marii 38",
+      "Kod" : "41-949"
+    },
+    {
+      "Miasto" : "Piekary Śląskie",
+      "Oddiał" : "Skrytki Pocztowe Poczta Piekary Śląskie 001",
+      "Lokalizacja" : " ul. Bytomska 90",
+      "Kod" : "41-940"
+    },
+    {
+      "Miasto" : "Piekary Śląskie",
+      "Oddiał" : "Skrytki Pocztowe Poczta Piekary Śląskie 003",
+      "Lokalizacja" : " ul. Generała Kleeberga Franciszka 1",
+      "Kod" : "41-943"
+    },
+    {
+      "Miasto" : "Piekary Śląskie",
+      "Oddiał" : "Skrytki Pocztowe Poczta Piekary Śląskie 009",
+      "Lokalizacja" : " ul. Curie-Skłodowskiej Marii 38",
+      "Kod" : "41-949"
+    },
+    {
+      "Miasto" : "Tychy",
+      "Oddiał" : "Poczta Tychy 001",
+      "Lokalizacja" : null,
+      "Kod" : "43-109"
+    },
+    {
+      "Miasto" : "Tychy",
+      "Oddiał" : "Poczta Tychy 001",
+      "Lokalizacja" : " ul. Dąbrowskiego Henryka 40",
+      "Kod" : "43-100"
+    },
+    {
+      "Miasto" : "Tychy",
+      "Oddiał" : "Poczta Tychy 005",
+      "Lokalizacja" : " ul. Estetyczna 4",
+      "Kod" : "43-105"
+    },
+    {
+      "Miasto" : "Tychy",
+      "Oddiał" : "Poczta Tychy 008",
+      "Lokalizacja" : " ul. Batorego Stefana 14",
+      "Kod" : "43-108"
+    },
+    {
+      "Miasto" : "Tychy",
+      "Oddiał" : "Skrytki Pocztowe Poczta Tychy 001",
+      "Lokalizacja" : " ul. Dąbrowskiego Henryka 40",
+      "Kod" : "43-100"
+    },
+    {
+      "Miasto" : "Żory",
+      "Oddiał" : "Poczta Żory 001",
+      "Lokalizacja" : " ul. Wodzisławska 1",
+      "Kod" : "44-240"
+    },
+    {
+      "Miasto" : "Żory",
+      "Oddiał" : "Poczta Żory 004",
+      "Lokalizacja" : " ul. Francuska 11 (CH Auchan)",
+      "Kod" : "44-244"
+    },
+    {
+      "Miasto" : "Żory",
+      "Oddiał" : "Skrytki Pocztowe Poczta Żory 001",
+      "Lokalizacja" : " ul. Wodzisławska 1",
+      "Kod" : "44-240"
+    },
+    {
+      "Miasto" : "Żory",
+      "Oddiał" : "Skrytki Pocztowe Poczta Żory 004",
+      "Lokalizacja" : " ul. Francuska 11 (CH Auchan)",
+      "Kod" : "44-244"
+    },
+    {
+      "Miasto" : "Elbląg",
+      "Oddiał" : "Instytucja Rejonowy Urząd Poczty w Elblągu",
+      "Lokalizacja" : " Pl. Słowiański 1/3",
+      "Kod" : "82-300"
+    },
+    {
+      "Miasto" : "Elbląg",
+      "Oddiał" : "Poczta Elbląg 001",
+      "Lokalizacja" : " Pl. Słowiański 1/3",
+      "Kod" : "82-300"
+    },
+    {
+      "Miasto" : "Elbląg",
+      "Oddiał" : "Poczta Elbląg 002",
+      "Lokalizacja" : " Pl. Dworcowy 2",
+      "Kod" : "82-310"
+    },
+    {
+      "Miasto" : "Elbląg",
+      "Oddiał" : "Poczta Elbląg 004",
+      "Lokalizacja" : " ul. Kajki 1",
+      "Kod" : "82-302"
+    },
+    {
+      "Miasto" : "Elbląg",
+      "Oddiał" : "Poczta Elbląg 007",
+      "Lokalizacja" : " ul. Polna 18",
+      "Kod" : "82-305"
+    },
+    {
+      "Miasto" : "Elbląg",
+      "Oddiał" : "Poczta Elbląg 009",
+      "Lokalizacja" : " ul. Saperów 34",
+      "Kod" : "82-307"
+    },
+    {
+      "Miasto" : "Elbląg",
+      "Oddiał" : "Poczta Elbląg 010",
+      "Lokalizacja" : " ul. Nowowiejska",
+      "Kod" : "82-308"
+    },
+    {
+      "Miasto" : "Elbląg",
+      "Oddiał" : "Poczta Elbląg 012",
+      "Lokalizacja" : " ul. Kosynierów Gdyńskich 51/53",
+      "Kod" : "82-311"
+    },
+    {
+      "Miasto" : "Elbląg",
+      "Oddiał" : "Poczta Elbląg 013",
+      "Lokalizacja" : " ul. Odrodzenia 10",
+      "Kod" : "82-312"
+    },
+    {
+      "Miasto" : "Elbląg",
+      "Oddiał" : "Poczta Elbląg 015",
+      "Lokalizacja" : " ul. Ogólna 55",
+      "Kod" : "82-314"
+    },
+    {
+      "Miasto" : "Elbląg",
+      "Oddiał" : "Poczta Elbląg 016",
+      "Lokalizacja" : " ul. Chełmońskiego 8",
+      "Kod" : "82-315"
+    },
+    {
+      "Miasto" : "Elbląg",
+      "Oddiał" : "Poczta Elbląg 017",
+      "Lokalizacja" : " ul. Fromborska 27 a",
+      "Kod" : "82-317"
+    },
+    {
+      "Miasto" : "Elbląg",
+      "Oddiał" : "Poczta Filia UP Elbląg 001",
+      "Lokalizacja" : " ul. Diamentowa 6",
+      "Kod" : "82-313"
+    },
+    {
+      "Miasto" : "Elbląg",
+      "Oddiał" : "Poczta Filia UP Elbląg 001",
+      "Lokalizacja" : " ul. Lubraniecka 32",
+      "Kod" : "82-301"
+    },
+    {
+      "Miasto" : "Elbląg",
+      "Oddiał" : "Poczta Filia UP Elbląg 001",
+      "Lokalizacja" : " ul. Modlińska 6",
+      "Kod" : "82-309"
+    },
+    {
+      "Miasto" : "Elbląg",
+      "Oddiał" : "Poczta Oddział UP Elbląg 002",
+      "Lokalizacja" : " ul. Grunwaldzka 237",
+      "Kod" : "82-303"
+    },
+    {
+      "Miasto" : "Elbląg",
+      "Oddiał" : "Poczta Oddział UP Elbląg 002",
+      "Lokalizacja" : " ul. Kielecka 10",
+      "Kod" : "82-306"
+    },
+    {
+      "Miasto" : "Elbląg",
+      "Oddiał" : "Skrytki Pocztowe Poczta Elbląg 001",
+      "Lokalizacja" : " Pl. Słowiański 1/3",
+      "Kod" : "82-300"
+    },
+    {
+      "Miasto" : "Elbląg",
+      "Oddiał" : "Skrytki Pocztowe Poczta Elbląg 002",
+      "Lokalizacja" : " Pl. Dworcowy 2",
+      "Kod" : "82-310"
+    },
+    {
+      "Miasto" : "Elbląg",
+      "Oddiał" : "Skrytki Pocztowe Poczta Elbląg 007",
+      "Lokalizacja" : " ul. Polna 18",
+      "Kod" : "82-305"
+    },
+    {
+      "Miasto" : "Elbląg",
+      "Oddiał" : "Skrytki Pocztowe Poczta Elbląg 012",
+      "Lokalizacja" : " ul. Kosynierów Gdyńskich 51/53",
+      "Kod" : "82-311"
+    },
+    {
+      "Miasto" : "Elbląg",
+      "Oddiał" : "Skrytki Pocztowe Poczta Elbląg 013",
+      "Lokalizacja" : " ul. Odrodzenia 10",
+      "Kod" : "82-312"
+    },
+    {
+      "Miasto" : "Elbląg",
+      "Oddiał" : "Skrytki Pocztowe Poczta Elbląg 015",
+      "Lokalizacja" : " ul. Ogólna 55",
+      "Kod" : "82-314"
+    },
+    {
+      "Miasto" : "Kalisz",
+      "Oddiał" : "Instytucja Rejonowy Urząd Poczty w Kaliszu",
+      "Lokalizacja" : " ul. Zamkowa 18/20",
+      "Kod" : "62-800"
+    },
+    {
+      "Miasto" : "Kalisz",
+      "Oddiał" : "Poczta Kalisz 001",
+      "Lokalizacja" : " ul. Zamkowa 18/20",
+      "Kod" : "62-800"
+    },
+    {
+      "Miasto" : "Kalisz",
+      "Oddiał" : "Poczta Kalisz 003",
+      "Lokalizacja" : " Al. Wolności 7",
+      "Kod" : "62-802"
+    },
+    {
+      "Miasto" : "Kalisz",
+      "Oddiał" : "Poczta Kalisz 004",
+      "Lokalizacja" : " ul. Górnośląska 36 A",
+      "Kod" : "62-803"
+    },
+    {
+      "Miasto" : "Kalisz",
+      "Oddiał" : "Poczta Kalisz 005",
+      "Lokalizacja" : " ul. Ciasna 9",
+      "Kod" : "62-804"
+    },
+    {
+      "Miasto" : "Kalisz",
+      "Oddiał" : "Poczta Kalisz 006",
+      "Lokalizacja" : " ul. Serbinowska 25/27",
+      "Kod" : "62-805"
+    },
+    {
+      "Miasto" : "Kalisz",
+      "Oddiał" : "Poczta Kalisz 007",
+      "Lokalizacja" : " ul. Serbinowska 1 a",
+      "Kod" : "62-806"
+    },
+    {
+      "Miasto" : "Kalisz",
+      "Oddiał" : "Poczta Kalisz 010",
+      "Lokalizacja" : " ul. Konopnickiej Marii 2/4",
+      "Kod" : "62-809"
+    },
+    {
+      "Miasto" : "Kalisz",
+      "Oddiał" : "Poczta Kalisz 011",
+      "Lokalizacja" : " ul. Sawickiej Hanki 7 a",
+      "Kod" : "62-801"
+    },
+    {
+      "Miasto" : "Kalisz",
+      "Oddiał" : "Poczta Kalisz 014",
+      "Lokalizacja" : " ul. Wojska Polskiego 2",
+      "Kod" : "62-821"
+    },
+    {
+      "Miasto" : "Kalisz",
+      "Oddiał" : "Poczta Oddział Pocztowy UP Kalisz 001",
+      "Lokalizacja" : " ul. Tatrzańska 23",
+      "Kod" : "62-819"
+    },
+    {
+      "Miasto" : "Kalisz",
+      "Oddiał" : "Skrytki Pocztowe Poczta Kalisz 001",
+      "Lokalizacja" : " ul. Zamkowa 18/20",
+      "Kod" : "62-800"
+    },
+    {
+      "Miasto" : "Kalisz",
+      "Oddiał" : "Skrytki Pocztowe Poczta Kalisz 004",
+      "Lokalizacja" : " ul. Górnośląska 36 A",
+      "Kod" : "62-803"
+    },
+    {
+      "Miasto" : "Kalisz",
+      "Oddiał" : "Skrytki Pocztowe Poczta Kalisz 005",
+      "Lokalizacja" : " ul. Ciasna 9",
+      "Kod" : "62-804"
+    },
+    {
+      "Miasto" : "Konin",
+      "Oddiał" : "Instytucja Rejonowy Urząd Poczty w Koninie",
+      "Lokalizacja" : " ul. Kolejowa 5",
+      "Kod" : "62-500"
+    },
+    {
+      "Miasto" : "Konin",
+      "Oddiał" : "Poczta Konin 001",
+      "Lokalizacja" : " ul. Urbanowskiej Zofii 4 a",
+      "Kod" : "62-500"
+    },
+    {
+      "Miasto" : "Konin",
+      "Oddiał" : "Poczta Konin 002",
+      "Lokalizacja" : " ul. Kolejowa 5 A",
+      "Kod" : "62-510"
+    },
+    {
+      "Miasto" : "Konin",
+      "Oddiał" : "Poczta Konin 003",
+      "Lokalizacja" : " ul. Broniewskiego 4",
+      "Kod" : "62-501"
+    },
+    {
+      "Miasto" : "Konin",
+      "Oddiał" : "Poczta Konin 004",
+      "Lokalizacja" : " ul. Margaretkowa 1",
+      "Kod" : "62-502"
+    },
+    {
+      "Miasto" : "Konin",
+      "Oddiał" : "Poczta Konin 005",
+      "Lokalizacja" : " ul. Kardynała Wyszyńskiego Stefana 32",
+      "Kod" : "62-503"
+    },
+    {
+      "Miasto" : "Konin",
+      "Oddiał" : "Poczta Konin 006",
+      "Lokalizacja" : " ul. Kwiatkowskiego 3",
+      "Kod" : "62-504"
+    },
+    {
+      "Miasto" : "Konin",
+      "Oddiał" : "Poczta Konin 007",
+      "Lokalizacja" : " ul. Muzealna 2",
+      "Kod" : "62-505"
+    },
+    {
+      "Miasto" : "Konin",
+      "Oddiał" : "Poczta Konin 008",
+      "Lokalizacja" : " ul. Cukrownicza 13",
+      "Kod" : "62-506"
+    },
+    {
+      "Miasto" : "Konin",
+      "Oddiał" : "Poczta Konin 009",
+      "Lokalizacja" : " ul. Szymanowskiego 1",
+      "Kod" : "62-507"
+    },
+    {
+      "Miasto" : "Konin",
+      "Oddiał" : "Poczta Konin 010",
+      "Lokalizacja" : " ul. Stanisława Wyszyńskiego 26",
+      "Kod" : "62-508"
+    },
+    {
+      "Miasto" : "Konin",
+      "Oddiał" : "Skrytki Pocztowe Poczta Konin 001",
+      "Lokalizacja" : " ul. Urbanowskiej Zofii 4 a",
+      "Kod" : "62-500"
+    },
+    {
+      "Miasto" : "Konin",
+      "Oddiał" : "Skrytki Pocztowe Poczta Konin 002",
+      "Lokalizacja" : " ul. Kolejowa 5 A",
+      "Kod" : "62-510"
+    },
+    {
+      "Miasto" : "Konin",
+      "Oddiał" : "Skrytki Pocztowe Poczta Konin 004",
+      "Lokalizacja" : " ul. Margaretkowa 1",
+      "Kod" : "62-502"
+    },
+    {
+      "Miasto" : "Konin",
+      "Oddiał" : "Skrytki Pocztowe Poczta Konin 005",
+      "Lokalizacja" : " ul. Kardynała Wyszyńskiego Stefana 32",
+      "Kod" : "62-503"
+    },
+    {
+      "Miasto" : "Konin",
+      "Oddiał" : "Skrytki Pocztowe Poczta Konin 006",
+      "Lokalizacja" : " ul. Kwiatkowskiego 3",
+      "Kod" : "62-504"
+    },
+    {
+      "Miasto" : "Leszno",
+      "Oddiał" : "Poczta Leszno 001",
+      "Lokalizacja" : " ul. Słowiańska 26",
+      "Kod" : "64-100"
+    },
+    {
+      "Miasto" : "Leszno",
+      "Oddiał" : "Poczta Leszno 002",
+      "Lokalizacja" : " ul. Dworcowa 3",
+      "Kod" : "64-110"
+    },
+    {
+      "Miasto" : "Leszno",
+      "Oddiał" : "Poczta Leszno 003",
+      "Lokalizacja" : " ul. Westerplatte 6 A",
+      "Kod" : "64-101"
+    },
+    {
+      "Miasto" : "Leszno",
+      "Oddiał" : "Poczta Leszno 004",
+      "Lokalizacja" : " ul. Armii Krajowej 15",
+      "Kod" : "64-102"
+    },
+    {
+      "Miasto" : "Leszno",
+      "Oddiał" : "Poczta Leszno 005",
+      "Lokalizacja" : " ul. Kmicica 13",
+      "Kod" : "64-103"
+    },
+    {
+      "Miasto" : "Leszno",
+      "Oddiał" : "Poczta Leszno 006",
+      "Lokalizacja" : " ul. Zamenhofa 18",
+      "Kod" : "64-104"
+    },
+    {
+      "Miasto" : "Leszno",
+      "Oddiał" : "Poczta Leszno 007",
+      "Lokalizacja" : " ul. Mickiewicza 5",
+      "Kod" : "64-105"
+    },
+    {
+      "Miasto" : "Leszno",
+      "Oddiał" : "Poczta Leszno 008",
+      "Lokalizacja" : " ul. Szewska 1",
+      "Kod" : "64-106"
+    },
+    {
+      "Miasto" : "Leszno",
+      "Oddiał" : "Skrytki Pocztowe Poczta Leszno 001",
+      "Lokalizacja" : " ul. Słowiańska 26",
+      "Kod" : "64-100"
+    },
+    {
+      "Miasto" : "Leszno",
+      "Oddiał" : "Skrytki Pocztowe Poczta Leszno 002",
+      "Lokalizacja" : " ul. Dworcowa 3",
+      "Kod" : "64-110"
+    },
+    {
+      "Miasto" : "Leszno",
+      "Oddiał" : "Skrytki Pocztowe Poczta Leszno 003",
+      "Lokalizacja" : " ul. Westerplatte 6 A",
+      "Kod" : "64-101"
+    },
+    {
+      "Miasto" : "Leszno",
+      "Oddiał" : "Skrytki Pocztowe Poczta Leszno 004",
+      "Lokalizacja" : " ul. Armii Krajowej 15",
+      "Kod" : "64-102"
+    },
+    {
+      "Miasto" : "Leszno",
+      "Oddiał" : "Skrytki Pocztowe Poczta Leszno 006",
+      "Lokalizacja" : " ul. Zamenhofa 18",
+      "Kod" : "64-104"
+    },
+    {
+      "Miasto" : "Leszno",
+      "Oddiał" : "Skrytki Pocztowe Poczta Leszno 007",
+      "Lokalizacja" : " ul. Mickiewicza 5",
+      "Kod" : "64-105"
+    },
+    {
+      "Miasto" : "Piła (miasto)",
+      "Oddiał" : "Poczta Piła 001",
+      "Lokalizacja" : " Al. Wojska Polskiego 4",
+      "Kod" : "64-920"
+    },
+    {
+      "Miasto" : "Piła (miasto)",
+      "Oddiał" : "Poczta Piła 002",
+      "Lokalizacja" : " Al. Powstańców Wielkopolskich 175",
+      "Kod" : "64-900"
+    },
+    {
+      "Miasto" : "Piła (miasto)",
+      "Oddiał" : "Poczta Piła 003",
+      "Lokalizacja" : " ul. Świerkowa 3",
+      "Kod" : "64-931"
+    },
+    {
+      "Miasto" : "Piła (miasto)",
+      "Oddiał" : "Poczta Piła 004",
+      "Lokalizacja" : " ul. Roosevelta 53",
+      "Kod" : "64-970"
+    },
+    {
+      "Miasto" : "Piła (miasto)",
+      "Oddiał" : "Poczta Piła 006",
+      "Lokalizacja" : " Al. Królowej Jadwigi 15",
+      "Kod" : "64-934"
+    },
+    {
+      "Miasto" : "Piła (miasto)",
+      "Oddiał" : "Poczta Piła 007",
+      "Lokalizacja" : " ul. Rogozińska 45",
+      "Kod" : "64-935"
+    },
+    {
+      "Miasto" : "Piła (miasto)",
+      "Oddiał" : "Skrytki Pocztowe Poczta Piła 001",
+      "Lokalizacja" : " Al. Wojska Polskiego 4",
+      "Kod" : "64-920"
+    },
+    {
+      "Miasto" : "Świnoujście",
+      "Oddiał" : "Poczta Filia UP Świnoujście 001",
+      "Lokalizacja" : " ul. Wybrzeże Władysława IV",
+      "Kod" : "72-604"
+    },
+    {
+      "Miasto" : "Świnoujście",
+      "Oddiał" : "Poczta Filia UP Świnoujście 004",
+      "Lokalizacja" : " ul. Dworcowa 16",
+      "Kod" : "72-606"
+    },
+    {
+      "Miasto" : "Świnoujście",
+      "Oddiał" : "Poczta Swinoujście agencja pocztowa Świnoujście 001",
+      "Lokalizacja" : " ul. Zalewowa 29",
+      "Kod" : "72-605"
+    },
+    {
+      "Miasto" : "Świnoujście",
+      "Oddiał" : "Poczta Świnoujście 001",
+      "Lokalizacja" : " ul. Piłsudskiego 1",
+      "Kod" : "72-600"
+    },
+    {
+      "Miasto" : "Świnoujście",
+      "Oddiał" : "Poczta Świnoujście 003",
+      "Lokalizacja" : " ul. Słowackiego 18",
+      "Kod" : "72-601"
+    },
+    {
+      "Miasto" : "Świnoujście",
+      "Oddiał" : "Poczta Świnoujście 004",
+      "Lokalizacja" : " ul. Barlickiego 23",
+      "Kod" : "72-602"
+    },
+    {
+      "Miasto" : "Świnoujście",
+      "Oddiał" : "Poczta Świnoujście 010",
+      "Lokalizacja" : " ul. Wojska Polskiego 1",
+      "Kod" : "72-610"
+    },
+    {
+      "Miasto" : "Świnoujście",
+      "Oddiał" : "Poczta Świnoujście 011",
+      "Lokalizacja" : " ul. Markiewicza 4",
+      "Kod" : "72-611"
+    },
+    {
+      "Miasto" : "Świnoujście",
+      "Oddiał" : "Skrytki Pocztowe Poczta Świnoujście 001",
+      "Lokalizacja" : " ul. Piłsudskiego 1",
+      "Kod" : "72-600"
+    }
+  ]
+}
