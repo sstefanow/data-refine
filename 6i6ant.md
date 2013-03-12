@@ -38,4 +38,4 @@ KODY_POCZTOWE
     }
 ```
 
-Oczyszczone dane znajdują się tu: [dane_6i6ant.json](/dane/dane_6i6ant.json).
+Oczyszczone dane znajdują się tu: [dane_6i6ant.json](/data/dane_6i6ant.json).
