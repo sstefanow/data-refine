@@ -8,7 +8,7 @@ Dane surowe dostępne tutaj: [link](http://pl.wikipedia.org/wiki/Zabytki_roma%C5
 - instalacja Google Refine
 - wczytanie pliku tekstowego 
 - oczyszczenie danych
-- wyeksportowanie danych do pliku
+- eksportowanie danych do pliku
 
 ## Przykładowe dane
 ```json
