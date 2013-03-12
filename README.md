@@ -13,3 +13,16 @@
 1. Dorian Sawa, [Kody Pocztowe](/dsawa.md).
 1. Jakub Ciechowski [Najbardziej pracowici](/jciechowski.md).
 1. Patryk Jażdżewski, [Wydatki Home Office w 2010](/pjazdzewski.md).
+
+
+## Ściąga z Gita
+
+```sh
+git shortlog --no-merges
+
+git remote add pjazdzewski1990 git://github.com/pjazdzewski1990/data-refine.git
+git fetch pjazdzewski1990
+git merge pjazdzewski1990/master
+  .. edycja .. rozwiązywanie konfliktów
+git remote rm pjazdzewski1990
+```
