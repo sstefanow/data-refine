@@ -13,6 +13,7 @@
 1. Dorian Sawa, [Kody Pocztowe](/dsawa.md).
 1. Jakub Ciechowski [Najbardziej pracowici](/jciechowski.md).
 1. Patryk Jażdżewski, [Wydatki Home Office w 2010](/pjazdzewski.md).
+1. Paweł Śląski, [Dane historyczne notowań WIG20](/pslaski.md).
 
 
 ## Ściąga z Gita
