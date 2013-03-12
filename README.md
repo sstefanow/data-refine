@@ -6,5 +6,5 @@
 1. Pawel Kaminski, [Sacramento crimes](https://github.com/pkamin/sacramentocrime/blob/master/README.md).
 1. Marcin Gigołło, [Kody Pocztowe](/6i6ant.md).
 1. Daniel Szymczak, [Wskaźniki wydajności](/dszymczak.md).
-1. Alicja Kopczyńska, [Zabytki romańskie w Polsce](https://github.com/alka74a/data-refine/blob/master/alka74a.md).
+1. Alicja Kopczyńska, [Zabytki romańskie w Polsce](/alka74a.md).
 
