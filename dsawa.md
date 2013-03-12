@@ -25,3 +25,5 @@ Oryginalny plik z danymi do pobrania przez:
       "gmina" : "M. Bydgoszcz"
 }
 ```
+* Oczyszczone JSONy:
+[Klik](/tree/master/data/json/dsawa_import_jsons)
