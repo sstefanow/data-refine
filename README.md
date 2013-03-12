@@ -12,3 +12,4 @@
 1. Michał Frankowski, [Natura2000](/mfrankowski.md).
 1. Dorian Sawa, [Kody Pocztowe](/dsawa.md).
 1. Jakub Ciechowski [Najbardziej pracowici](/jciechowski.md).
+1. Patryk Jażdżewski, [Wydatki Home Office w 2010](/pjazdzewski.md).
