@@ -7,4 +7,4 @@
 1. Marcin Gigołło, [Kody Pocztowe](/6i6ant.md).
 1. Daniel Szymczak, [Wskaźniki wydajności](/dszymczak.md).
 1. Alicja Kopczyńska, [Zabytki romańskie w Polsce](/alka74a.md).
-1. Michał Frankowski, [Natura2000](https://github.com/mfrankowski/data-refine/blob/master/natura2000.md).
+1. Michał Frankowski, [Natura2000](/mfrankowski.md).
