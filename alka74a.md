@@ -12,23 +12,23 @@ Dane surowe dostępne tutaj: [link](http://pl.wikipedia.org/wiki/Zabytki_roma%C5
 
 ## Przykładowe dane
 ```json
-    {
+  {
       "Miejscowość" : "Brzeg Głogowski",
       "Województwo" : "Województwo dolnośląskie",
       "Nazwa zabytku" : "Kościół Bożego Ciała",
-      "Czas powstania zabytku" : " XIII w."
+      "Data " : " XIII w."
     },
     {
       "Miejscowość" : "Głogów",
       "Województwo" : "Województwo dolnośląskie",
       "Nazwa zabytku" : "zamek książęcy",
-      "Czas powstania zabytku" : "XIII w."
+      "Data " : "XIII w."
     },
     {
       "Miejscowość" : "Głogów",
       "Województwo" : "Województwo dolnośląskie",
       "Nazwa zabytku" : "kościół św. Piotra",
-      "Czas powstania zabytku" : "XII w."
+      "Data " : "XII w."
     },
 ```
 Oczyszczone dane znajdują się tu: [dane_alka74a.json](https://github.com/alka74a/Zabytki_Romanskie/blob/master/dane_alka74a.json)
