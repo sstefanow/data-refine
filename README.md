@@ -7,4 +7,4 @@
 1. Marcin Głombiowski, [Kody pocztowe sejmometr](https://github.com/mglombiowski/no_sql/blob/master/README.md).
 1. Pawel Kaminski, [Sacramento crimes](https://github.com/pkamin/sacramentocrime/blob/master/README.md).
 1. Marcin Gigołło, [Kody Pocztowe](/6i6ant.md).
-1. Daniel Szymczak, [Wskaźniki wydajności](/dszymczak.md)
+1. Daniel Szymczak, [Wskaźniki wydajności](/dszymczak.md).
