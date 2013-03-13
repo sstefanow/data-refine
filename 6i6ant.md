@@ -3,9 +3,9 @@ KODY_POCZTOWE
 
 ##Dane dotyczą miast w których jest mniej niż 100 obszarów doręczeń.
 
-1)Dane do oczyszczenia można pobrać ze [strony](http://pl.wikisource.org/wiki/Lista_kod%C3%B3w_pocztowych_w_Polsce/%C5%9Arednie_miasta). 
+1) Dane do oczyszczenia można pobrać ze [strony](http://pl.wikisource.org/wiki/Lista_kod%C3%B3w_pocztowych_w_Polsce/%C5%9Arednie_miasta). 
 
-2)Dane zostały oczyszczone narzędziem  "Google Refine", dostępnym na [stronie](https://code.google.com/p/google-refine/).
+2) Dane zostały oczyszczone narzędziem  "Google Refine", dostępnym na [stronie](https://code.google.com/p/google-refine/).
 
 ##Opis działania.
 
