@@ -17,6 +17,7 @@
 1. Aneta Budner, [Adresy IP](https://github.com/abudner/nosql/blob/master/adresy-ip-abudner.md).
 1. Ryszard Madejski, [Powierzchnia lasów i użytków rolnych](/xjedam.md).
 1. Adam Radomski, [Kody pocztowe](/aradomski.md).
+1. Jan Mudry, [Lista UNESCO w Europie Wschodniej](/jmudry.md).
 
 ## Ściąga z Gita
 
