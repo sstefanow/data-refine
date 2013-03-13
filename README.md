@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿# Data Wranglers
 
 ![Data Wranglers](https://raw.github.com/nosql/data-refine/master/images/data-wrangler.jpg)
@@ -14,7 +15,7 @@
 1. Jakub Ciechowski [Najbardziej pracowici](/jciechowski.md).
 1. Patryk Jażdżewski, [Wydatki Home Office w 2010](/pjazdzewski.md).
 1. Paweł Śląski, [Dane historyczne notowań WIG20](/pslaski.md).
-
+1. Aneta Budner, [Adresy IP](https://github.com/abudner/nosql/blob/master/adresy-ip-abudner.md).
 
 ## Ściąga z Gita
 
