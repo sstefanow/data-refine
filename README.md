@@ -16,6 +16,7 @@
 1. Patryk Jażdżewski, [Wydatki Home Office w 2010](/pjazdzewski.md).
 1. Paweł Śląski, [Dane historyczne notowań WIG20](/pslaski.md).
 1. Aneta Budner, [Adresy IP](https://github.com/abudner/nosql/blob/master/adresy-ip-abudner.md).
+1. Ryszard Madejski, [Powierzchnia lasów i użytków rolnych](/xjedam.md).
 
 ## Ściąga z Gita
 
