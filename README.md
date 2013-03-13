@@ -27,3 +27,5 @@ git merge pjazdzewski1990/master
   .. edycja .. rozwiązywanie konfliktów
 git remote rm pjazdzewski1990
 ```
+
+Mark Dominus, [My Git Habits ](http://blog.plover.com/prog/git-habits.html).
