@@ -17,24 +17,19 @@ Obydwa w/w zestawy danych zostały zaimportowane do narzędzia Google-Refine, na
 ## Przykładowy JSON lub CSV.
 Wyexportowany JSON
 ```
-{"Kod" : 5000000000,"Jednostka terytorialna" : "Region poludniowo-zachodni","Lata" : 2003,"Jednostka miary" : "ha","Wartosc-lasy" : "840710","Wartosc-rolne" : "1739746"}
-{"Kod" : 5000000000,"Jednostka terytorialna" : "Region poludniowo-zachodni","Lata" : 2004,"Jednostka miary" : "ha","Wartosc-lasy" : "840369","Wartosc-rolne" : "1744954"}
-{"Kod" : 5000000000,"Jednostka terytorialna" : "Region poludniowo-zachodni","Lata" : 2005,"Jednostka miary" : "ha","Wartosc-lasy" : "845239","Wartosc-rolne" : "1744276"}
-{"Kod" : 6000000000,"Jednostka terytorialna" : "Region polnocny","Lata" : 1995,"Jednostka miary" : "ha","Wartosc-lasy" : "1742163","Wartosc-rolne" : "3388948"}
-{"Kod" : 6000000000,"Jednostka terytorialna" : "Region polnocny","Lata" : 1996,"Jednostka miary" : "ha","Wartosc-lasy" : "1749375","Wartosc-rolne" : "3387092"}
-{"Kod" : 6000000000,"Jednostka terytorialna" : "Region polnocny","Lata" : 1997,"Jednostka miary" : "ha","Wartosc-lasy" : "1757736","Wartosc-rolne" : "3382370"}
-{"Kod" : 6000000000,"Jednostka terytorialna" : "Region polnocny","Lata" : 1998,"Jednostka miary" : "ha","Wartosc-lasy" : "1762789","Wartosc-rolne" : "3382081"}
+{"kod":6000000000,"jednostka_terytorialna":"Region polnocny","lata":2004,"jednostka_miary":"ha","wartosc_lasy":"1819802","wartosc_rolne":"3362428"}
+{"kod":6000000000,"jednostka_terytorialna":"Region polnocny","lata":2005,"jednostka_miary":"ha","wartosc_lasy":"1836406","wartosc_rolne":"3359431"}
 ```
 Po imporcie:
 ```
 {
-        "_id" : ObjectId("513cb954788baac425452442"),
-        "Kod" : 2000000000,
-        "Jednostka terytorialna" : "Region poludniowy",
-        "Lata" : 2003,
-        "Jednostka miary" : "ha",
-        "Wartosc-lasy" : "841204",
-        "Wartosc-rolne" : "1422745"
+	"_id" : ObjectId("514066f8788baac425452484"),
+	"kod" : 2000000000,
+	"jednostka_terytorialna" : "Region poludniowy",
+	"lata" : 2003,
+	"jednostka_miary" : "ha",
+	"wartosc_lasy" : "841204",
+	"wartosc_rolne" : "1422745"
 }
 ```
 
