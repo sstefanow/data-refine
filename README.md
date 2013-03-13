@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ﻿# Data Wranglers
 
 ![Data Wranglers](https://raw.github.com/nosql/data-refine/master/images/data-wrangler.jpg)

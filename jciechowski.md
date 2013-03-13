@@ -8,8 +8,7 @@ Dane ściągnąłem ze strony [GUS](http://www.stat.gov.pl/cps/rde/xbcr/gus/PW_b
 
 ## Przykładowe dane:
 ```js
-{ "Miasto": "Poznań", "bezrobotni (%)": 4.5, "bezrobotni (tysiące)": 14.6 },
-{ "Miasto": "Warszawa", "bezrobotni (%)": 4.6, "bezrobotni (tysiące)": 52.2 },
-{ "Miasto": "Sopot", "bezrobotni (%)": 5, "bezrobotni (tysiące)": 0.9 },
+{ "Miasto": "Poznań", "bezrobotni_(%)": 4.5, "bezrobotni_(tysiace)": 14.6 },
+{ "Miasto": "Warszawa", "bezrobotni_(%)": 4.6, "bezrobotni_(tysiace)": 52.2 },
 ```
-* [plik JSON](/data/json/jciechowski.json)
+* [plik JSON](/data/json/bezrobotni_jciechowski.json)
