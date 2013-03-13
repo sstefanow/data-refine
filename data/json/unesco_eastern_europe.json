@@ -1,0 +1,1620 @@
+{
+  "World Heritage Sites in Southern Europe" : [    {
+      "site" : "Ancient City of Nessebar",
+      "coordinates": {
+         "latitude" : {
+            "degress" : 42,
+            "minutes" : 39,
+            "seconds" : 22,
+            "direction" : "N",
+         }, 
+         "longitude" : {
+            "degress" : 27,
+            "minutes" : 43,
+            "seconds" : 48,
+            "direction" : "E",
+         }
+      },
+      "country" : "Bulgaria",
+      "type" : "Cultural",
+      "year" : "1983",
+      "description" : ""
+    },
+    {
+      "site" : "Architectural Ensemble of the Trinity Sergius Lavra in Sergiev Posad",
+      "coordinates": {
+         "latitude" : {
+            "degress" : 56,
+            "minutes" : 18,
+            "seconds" : 37,
+            "direction" : "N",
+         }, 
+         "longitude" : {
+            "degress" : 38,
+            "minutes" : 7,
+            "seconds" : 52,
+            "direction" : "E",
+         }
+      },
+      "country" : "Russia",
+      "type" : "Cultural",
+      "year" : "1993",
+      "description" : " This is a fine example of a working Orthodox monastery, with military features that are typical of the 15th to the 18th century, the period during which it developed. The main church of the Lavra, the Cathedral of the Assumption (echoing the Kremlin Cathedral of the same name), contains the tomb of Boris Godunov. Among the treasures of the Lavra is the famous icon, The Trinity, by Andrei Rublev."
+    },
+    {
+      "site" : "Architectural, Residential and Cultural Complex of the Radziwill Family at Nesvizh",
+      "coordinates": {
+         "latitude" : {
+            "degress" : 53,
+            "minutes" : 13,
+            "seconds" : 22,
+            "direction" : "N",
+         }, 
+         "longitude" : {
+            "degress" : 26,
+            "minutes" : 41,
+            "seconds" : 29,
+            "direction" : "E",
+         }
+      },
+      "country" : "Belarus",
+      "type" : "Cultural",
+      "year" : "2005",
+      "description" : ""
+    },
+    {
+      "site" : "Auschwitz Birkenau, German Nazi Concentration and Extermination Camp (1940-1945)",
+      "coordinates": {
+         "latitude" : {
+            "degress" : 50,
+            "minutes" : 4,
+            "seconds" : 0,
+            "direction" : "N",
+         }, 
+         "longitude" : {
+            "degress" : 19,
+            "minutes" : 21,
+            "seconds" : 0,
+            "direction" : "E",
+         }
+      },
+      "country" : "Poland",
+      "type" : "Cultural",
+      "year" : "1979",
+      "description" : " Auschwitz was a network of Nazi concentration and extermination camps built and operated by the Third Reich in Polish areas annexed by Nazi Germany during World War II. It was the largest of the German concentration camps, consisting of Auschwitz I (the ''Stammlager'' or base camp); Auschwitz II\u2013Birkenau (the ''Vernichtungslager'' or extermination camp); Auschwitz III\u2013Monowitz, also known as Buna\u2013Monowitz (a labor camp); and 45 satellite camps."
+    },
+    {
+      "site" : "Bardejov",
+      "coordinates": {
+         "latitude" : {
+            "degress" : 49,
+            "minutes" : 17,
+            "seconds" : 36,
+            "direction" : "N",
+         }, 
+         "longitude" : {
+            "degress" : 21,
+            "minutes" : 16,
+            "seconds" : 45,
+            "direction" : "E",
+         }
+      },
+      "country" : "Slovakia",
+      "type" : "Cultural",
+      "year" : "2000",
+      "description" : ""
+    },
+    {
+      "site" : "Belovezhskaya Pushcha / Białowieża Forest",
+      "coordinates": {
+         "latitude" : {
+            "degress" : 52,
+            "minutes" : 30,
+            "seconds" : 0,
+            "direction" : "N",
+         }, 
+         "longitude" : {
+            "degress" : 23,
+            "minutes" : 35,
+            "seconds" : 0,
+            "direction" : "E",
+         }
+      },
+      "country" : "Poland",
+      "type" : "Natural",
+      "year" : "1979",
+      "description" : ""
+    },
+    {
+      "site" : "Boyana Church",
+      "coordinates": {
+         "latitude" : {
+            "degress" : 42,
+            "minutes" : 39,
+            "seconds" : 0,
+            "direction" : "N",
+         }, 
+         "longitude" : {
+            "degress" : 23,
+            "minutes" : 16,
+            "seconds" : 0,
+            "direction" : "E",
+         }
+      },
+      "country" : "Bulgaria",
+      "type" : "Cultural",
+      "year" : "1979",
+      "description" : ""
+    },
+    {
+      "site" : "Budapest, including the Banks of the Danube, the Buda Castle Quarter and Andrássy Avenue",
+      "coordinates": {
+         "latitude" : {
+            "degress" : 47,
+            "minutes" : 28,
+            "seconds" : 57,
+            "direction" : "N",
+         }, 
+         "longitude" : {
+            "degress" : 19,
+            "minutes" : 4,
+            "seconds" : 14,
+            "direction" : "E",
+         }
+      },
+      "country" : "Hungary",
+      "type" : "Cultural",
+      "year" : "1987",
+      "description" : ""
+    },
+    {
+      "site" : "Castle of the Teutonic Order in Malbork",
+      "coordinates": {
+         "latitude" : {
+            "degress" : 54,
+            "minutes" : 2,
+            "seconds" : 30,
+            "direction" : "N",
+         }, 
+         "longitude" : {
+            "degress" : 19,
+            "minutes" : 2,
+            "seconds" : 0,
+            "direction" : "E",
+         }
+      },
+      "country" : "Poland",
+      "type" : "Cultural",
+      "year" : "1997",
+      "description" : " The Castle in Malbork was built in Prussia by the Teutonic Knights, a German Roman Catholic religious order of crusaders, in a form of an ''Ordensburg'' fortress. The Order named it ''Marienburg'' (Mary's Castle). The town which grew around it was also named Marienburg. The castle is a classic example of a medieval fortress, and on its completion in 1406 was the world's largest brick Gothic castle."
+    },
+    {
+      "site" : "Caves of Aggtelek Karst and Slovak Karst",
+      "coordinates": {
+         "latitude" : {
+            "degress" : 48,
+            "minutes" : 28,
+            "seconds" : 33,
+            "direction" : "N",
+         }, 
+         "longitude" : {
+            "degress" : 20,
+            "minutes" : 29,
+            "seconds" : 13,
+            "direction" : "E",
+         }
+      },
+      "country" : "Hungary",
+      "type" : "Natural",
+      "year" : "1995",
+      "description" : ""
+    },
+    {
+      "site" : "Centennial Hall in Wrocław",
+      "coordinates": {
+         "latitude" : {
+            "degress" : 51,
+            "minutes" : 6,
+            "seconds" : 25,
+            "direction" : "N",
+         }, 
+         "longitude" : {
+            "degress" : 17,
+            "minutes" : 4,
+            "seconds" : 37,
+            "direction" : "E",
+         }
+      },
+      "country" : "Poland",
+      "type" : "Cultural",
+      "year" : "2006",
+      "description" : ""
+    },
+    {
+      "site" : "Church of the Ascension, Kolomenskoye",
+      "coordinates": {
+         "latitude" : {
+            "degress" : 55,
+            "minutes" : 39,
+            "seconds" : 20,
+            "direction" : "N",
+         }, 
+         "longitude" : {
+            "degress" : 37,
+            "minutes" : 40,
+            "seconds" : 26,
+            "direction" : "E",
+         }
+      },
+      "country" : "Russia",
+      "type" : "Cultural",
+      "year" : "1994",
+      "description" : " The Church of the Ascension was built in 1532 on the imperial estate of Kolomenskoye, near Moscow, to celebrate the birth of the prince who was to become Tsar Ivan IV ('the Terrible'). One of the earliest examples of a traditional wooden tent-roofed church on a stone and brick substructure, it had a great influence on the development of Russian ecclesiastical architecture."
+    },
+    {
+      "site" : "Citadel, Ancient City and Fortress Buildings of Derbent",
+      "coordinates": {
+         "latitude" : {
+            "degress" : 42,
+            "minutes" : 3,
+            "seconds" : 11,
+            "direction" : "N",
+         }, 
+         "longitude" : {
+            "degress" : 48,
+            "minutes" : 17,
+            "seconds" : 50,
+            "direction" : "E",
+         }
+      },
+      "country" : "Russia",
+      "type" : "Cultural",
+      "year" : "2003",
+      "description" : " The Citadel, Ancient City and Fortress Buildings of Derbent were part of the northern lines of the Sasanian Persian Empire, which extended east and west of the Caspian Sea. The fortification was built in stone. It consisted of two parallel walls that formed a barrier from the seashore up to the mountain. The town of Derbent was built between these two walls, and has retained part of its medieval fabric. The site continued to be of great strategic importance until the 19th century."
+    },
+    {
+      "site" : "Churches of Moldavia",
+      "coordinates": {
+         "latitude" : {
+            "degress" : 47,
+            "minutes" : 46,
+            "seconds" : 42,
+            "direction" : "N",
+         }, 
+         "longitude" : {
+            "degress" : 25,
+            "minutes" : 42,
+            "seconds" : 46,
+            "direction" : "E",
+         }
+      },
+      "country" : "Romania",
+      "type" : "Cultural",
+      "year" : "1993",
+      "description" : ""
+    },
+    {
+      "site" : "Churches of Peace in Jawor and Świdnica",
+      "coordinates": {
+         "latitude" : {
+            "degress" : 51,
+            "minutes" : 3,
+            "seconds" : 15,
+            "direction" : "N",
+         }, 
+         "longitude" : {
+            "degress" : 16,
+            "minutes" : 11,
+            "seconds" : 45,
+            "direction" : "E",
+         }
+      },
+      "country" : "Poland",
+      "type" : "Cultural",
+      "year" : "2001",
+      "description" : " The Churches of Peace in Jawor and Świdnica in Silesia were named after the Peace of Westphalia of 1648 which permitted the Lutherans in the Roman Catholic parts of Silesia to build three Evangelical churches from wood, loam and straw outside the city walls, without steeples and church bells. The construction time was limited to one year."
+    },
+    {
+      "site" : "Cracow's Historic Centre",
+      "coordinates": {
+         "latitude" : {
+            "degress" : 50,
+            "minutes" : 4,
+            "seconds" : 0,
+            "direction" : "N",
+         }, 
+         "longitude" : {
+            "degress" : 19,
+            "minutes" : 57,
+            "seconds" : 35,
+            "direction" : "E",
+         }
+      },
+      "country" : "Poland",
+      "type" : "Cultural",
+      "year" : "1978",
+      "description" : " Kraków Old Town is the historic central district of Kraków, Poland. It is one of the most famous old districts in Poland today and was the center of Poland's political life from 1038 until King Sigismund III Vasa relocated his court to Warsaw in 1596. The entire medieval old town is among the first sites chosen for the UNESCO's World Heritage List, inscribed as Cracow's Historic Centre."
+    },
+    {
+      "site" : "Cultural and Historic Ensemble of the Solovetsky Islands",
+      "coordinates": {
+         "latitude" : {
+            "degress" : 65,
+            "minutes" : 5,
+            "seconds" : 0,
+            "direction" : "N",
+         }, 
+         "longitude" : {
+            "degress" : 35,
+            "minutes" : 40,
+            "seconds" : 0,
+            "direction" : "E",
+         }
+      },
+      "country" : "Russia",
+      "type" : "Cultural",
+      "year" : "1992",
+      "description" : " The Solovetsky archipelago comprises six islands in the western part of the White Sea, covering 300 km2. They have been inhabited since the 5th century B.C. and important traces of a human presence from as far back as the 5th millennium B.C. can be found there. The archipelago has been the site of fervent monastic activity since the 15th century, and there are several churches dating from the 16th to the 19th century."
+    },
+    {
+      "site" : "Curonian Spit",
+      "coordinates": {
+         "latitude" : {
+            "degress" : 55,
+            "minutes" : 16,
+            "seconds" : 28,
+            "direction" : "N",
+         }, 
+         "longitude" : {
+            "degress" : 20,
+            "minutes" : 57,
+            "seconds" : 45,
+            "direction" : "E",
+         }
+      },
+      "country" : "Russia",
+      "type" : "Cultural",
+      "year" : "2000",
+      "description" : "  Human habitation of this elongated sand dune peninsula, 98 km long and 0.4-4 km wide, dates back to prehistoric times. Throughout this period it has been threatened by the natural forces of wind and waves. Its survival to the present day has been made possible only as a result of ceaseless human efforts to combat the erosion of the Spit, dramatically illustrated by continuing stabilisation and reforestation projects."
+    },
+    {
+      "site" : "Dacian Fortresses of the Orastie Mountains",
+      "coordinates": {
+         "latitude" : {
+            "degress" : 45,
+            "minutes" : 37,
+            "seconds" : 23,
+            "direction" : "N",
+         }, 
+         "longitude" : {
+            "degress" : 23,
+            "minutes" : 18,
+            "seconds" : 43,
+            "direction" : "E",
+         }
+      },
+      "country" : "Romania",
+      "type" : "Cultural",
+      "year" : "1999",
+      "description" : ""
+    },
+    {
+      "site" : "Danube Delta",
+      "coordinates": {
+         "latitude" : {
+            "degress" : 45,
+            "minutes" : 5,
+            "seconds" : 0,
+            "direction" : "N",
+         }, 
+         "longitude" : {
+            "degress" : 29,
+            "minutes" : 30,
+            "seconds" : 0,
+            "direction" : "E",
+         }
+      },
+      "country" : "Romania",
+      "type" : "Natural",
+      "year" : "1999",
+      "description" : ""
+    },
+    {
+      "site" : "Early Christian Necropolis of Pécs (Sopianae)",
+      "coordinates": {
+         "latitude" : {
+            "degress" : 46,
+            "minutes" : 4,
+            "seconds" : 28,
+            "direction" : "N",
+         }, 
+         "longitude" : {
+            "degress" : 18,
+            "minutes" : 13,
+            "seconds" : 40,
+            "direction" : "E",
+         }
+      },
+      "country" : "Hungary",
+      "type" : "Cultural",
+      "year" : "2000",
+      "description" : ""
+    },
+    {
+      "site" : "Ensemble of the Ferrapontov Monastery",
+      "coordinates": {
+         "latitude" : {
+            "degress" : 59,
+            "minutes" : 57,
+            "seconds" : 0,
+            "direction" : "N",
+         }, 
+         "longitude" : {
+            "degress" : 38,
+            "minutes" : 34,
+            "seconds" : 0,
+            "direction" : "E",
+         }
+      },
+      "country" : "Russia",
+      "type" : "Cultural",
+      "year" : "2000",
+      "description" : " The Ferapontov Monastery, in the Vologda region in northern Russia, is an exceptionally well-preserved and complete example of a Russian Orthodox monastic complex of the 15th-17th centuries, a period of great significance in the development of the unified Russian state and its culture. The architecture of the monastery is outstanding in its inventiveness and purity. The interior is graced by the magnificent wall paintings of Dionisy, the greatest Russian artist of the end of the 15th century."
+    },
+    {
+      "site" : "Ensemble of the Novodevichy Convent",
+      "coordinates": {
+         "latitude" : {
+            "degress" : 55,
+            "minutes" : 43,
+            "seconds" : 34,
+            "direction" : "N",
+         }, 
+         "longitude" : {
+            "degress" : 37,
+            "minutes" : 33,
+            "seconds" : 18,
+            "direction" : "E",
+         }
+      },
+      "country" : "Russia",
+      "type" : "Cultural",
+      "year" : "2004",
+      "description" : " The Novodevichy Convent, in south-western Moscow, built in the 16th and 17th centuries in the so-called Moscow Baroque style, was part of a chain of monastic ensembles that were integrated into the defence system of the city. The convent was directly associated with the political, cultural and religious history of Russia, and closely linked to the Moscow Kremlin. It was used by women of the Tsar\u2019s family and the aristocracy. Members of the Tsar\u2019s family and entourage were also buried in its cemetery. The convent provides an example of the highest accomplishments of Russian architecture with rich interiors and an important collection of paintings and artefacts."
+    },
+    {
+      "site" : "Fertö / Neusiedlersee Cultural Landscape",
+      "coordinates": {
+         "latitude" : {
+            "degress" : 47,
+            "minutes" : 43,
+            "seconds" : 9,
+            "direction" : "N",
+         }, 
+         "longitude" : {
+            "degress" : 16,
+            "minutes" : 43,
+            "seconds" : 22,
+            "direction" : "E",
+         }
+      },
+      "country" : "Hungary",
+      "type" : "Cultural",
+      "year" : "2001",
+      "description" : ""
+    },
+    {
+      "site" : "Gardens and Castle at Kroměříž",
+      "coordinates": {
+         "latitude" : {
+            "degress" : 49,
+            "minutes" : 18,
+            "seconds" : 0,
+            "direction" : "N",
+         }, 
+         "longitude" : {
+            "degress" : 17,
+            "minutes" : 22,
+            "seconds" : 38,
+            "direction" : "E",
+         }
+      },
+      "country" : "Czech",
+      "type" : "Cultural",
+      "year" : "1998",
+      "description" : ""
+    },
+    {
+      "site" : "Historic and Architectural Complex of the Kazan Kremlin",
+      "coordinates": {
+         "latitude" : {
+            "degress" : 55,
+            "minutes" : 47,
+            "seconds" : 28,
+            "direction" : "N",
+         }, 
+         "longitude" : {
+            "degress" : 49,
+            "minutes" : 5,
+            "seconds" : 42,
+            "direction" : "E",
+         }
+      },
+      "country" : "Russia",
+      "type" : "Cultural",
+      "year" : "2000",
+      "description" : "  Built on an ancient site, the Kazan Kremlin dates from the Muslim period of the Golden Horde and the Kazan Khanate. It was conquered by Ivan the Terrible in 1552 and became the Christian See of the Volga Land. The only surviving Tatar fortress in Russia and an important place of pilgrimage, the Kazan Kremlin consists of an outstanding group of historic buildings dating from the 16th to 19th centuries, integrating remains of earlier structures of the 10th to 16th centuries."
+    },
+    {
+      "site" : "Historic Centre of Saint Petersburg and Related Groups of Monuments",
+      "coordinates": {
+         "latitude" : {
+            "degress" : 59,
+            "minutes" : 57,
+            "seconds" : 0,
+            "direction" : "N",
+         }, 
+         "longitude" : {
+            "degress" : 30,
+            "minutes" : 19,
+            "seconds" : 6,
+            "direction" : "E",
+         }
+      },
+      "country" : "Russia",
+      "type" : "Cultural",
+      "year" : "1990",
+      "description" : "  The 'Venice of the North', with its numerous canals and more than 400 bridges, is the result of a vast urban project begun in 1703 under Peter the Great. Later known as Leningrad (in the former USSR), the city is closely associated with the October Revolution. Its architectural heritage reconciles the very different Baroque and pure neoclassical styles, as can be seen in the Admiralty, the Winter Palace, the Marble Palace and the Hermitage."
+    },
+    {
+      "site" : "Historical Centre of the City of Yaroslavl",
+      "coordinates": {
+         "latitude" : {
+            "degress" : 57,
+            "minutes" : 39,
+            "seconds" : 10,
+            "direction" : "N",
+         }, 
+         "longitude" : {
+            "degress" : 39,
+            "minutes" : 52,
+            "seconds" : 34,
+            "direction" : "E",
+         }
+      },
+      "country" : "Russia",
+      "type" : "Cultural",
+      "year" : "2005",
+      "description" : "   Situated at the confluence of the Volga and Kotorosl Rivers some 250 km north-east of Moscow, the historic city of Yaroslavl developed into a major commercial centre from the 11th century. It is renowned for its numerous 17th-century churches and is an outstanding example of the urban planning reform Empress Catherine the Great ordered for the whole of Russia in 1763. While keeping some of its significant historic structures, the town was renovated in the neoclassical style on a radial urban master plan. It has also kept elements from the 16th century in the Spassky Monastery, one of the oldest in the Upper Volga region, built on the site of a pagan temple in the late 12th century but reconstructed over time."
+    },
+    {
+      "site" : "Historic Centre of Český Krumlov",
+      "coordinates": {
+         "latitude" : {
+            "degress" : 48,
+            "minutes" : 49,
+            "seconds" : 0,
+            "direction" : "N",
+         }, 
+         "longitude" : {
+            "degress" : 14,
+            "minutes" : 19,
+            "seconds" : 0,
+            "direction" : "E",
+         }
+      },
+      "country" : "Czech",
+      "type" : "Cultural",
+      "year" : "1992",
+      "description" : ""
+    },
+    {
+      "site" : "Historic Centre of Prague",
+      "coordinates": {
+         "latitude" : {
+            "degress" : 50,
+            "minutes" : 5,
+            "seconds" : 23,
+            "direction" : "N",
+         }, 
+         "longitude" : {
+            "degress" : 14,
+            "minutes" : 25,
+            "seconds" : 10,
+            "direction" : "E",
+         }
+      },
+      "country" : "Czech",
+      "type" : "Cultural",
+      "year" : "1992",
+      "description" : ""
+    },
+    {
+      "site" : "Historic Centre of Sighişoara",
+      "coordinates": {
+         "latitude" : {
+            "degress" : 46,
+            "minutes" : 13,
+            "seconds" : 4,
+            "direction" : "N",
+         }, 
+         "longitude" : {
+            "degress" : 24,
+            "minutes" : 47,
+            "seconds" : 32,
+            "direction" : "E",
+         }
+      },
+      "country" : "Romania",
+      "type" : "Cultural",
+      "year" : "1999",
+      "description" : ""
+    },
+    {
+      "site" : "Historic Centre of Telč",
+      "coordinates": {
+         "latitude" : {
+            "degress" : 49,
+            "minutes" : 34,
+            "seconds" : 49,
+            "direction" : "N",
+         }, 
+         "longitude" : {
+            "degress" : 15,
+            "minutes" : 56,
+            "seconds" : 31,
+            "direction" : "E",
+         }
+      },
+      "country" : "Czech",
+      "type" : "Cultural",
+      "year" : "1992",
+      "description" : ""
+    },
+    {
+      "site" : "Historic Centre of Warsaw",
+      "coordinates": {
+         "latitude" : {
+            "degress" : 52,
+            "minutes" : 15,
+            "seconds" : 59,
+            "direction" : "N",
+         }, 
+         "longitude" : {
+            "degress" : 21,
+            "minutes" : 0,
+            "seconds" : 42,
+            "direction" : "E",
+         }
+      },
+      "country" : "Poland",
+      "type" : "Cultural",
+      "year" : "1980",
+      "description" : " Warsaw's Old Town was established in the 13th century. Initially surrounded by an earthwork rampart, prior to 1339 it was fortified with brick city walls. The town originally grew up around the castle of the Dukes of Mazovia that later became the Royal Castle. The Market Square (''Rynek Starego Miasta'') was laid out sometime in the late 13th or early 14th century, along the main road linking the castle with the New Town to the north."
+    },
+    {
+      "site" : "Historic Monuments of Novgorod and Surroundings",
+      "coordinates": {
+         "latitude" : {
+            "degress" : 58,
+            "minutes" : 32,
+            "seconds" : 0,
+            "direction" : "N",
+         }, 
+         "longitude" : {
+            "degress" : 31,
+            "minutes" : 17,
+            "seconds" : 0,
+            "direction" : "E",
+         }
+      },
+      "country" : "Russia",
+      "type" : "Cultural",
+      "year" : "1992",
+      "description" : "   Situated on the ancient trade route between Central Asia and northern Europe, Novgorod was Russia's first capital in the 9th century. Surrounded by churches and monasteries, it was a centre for Orthodox spirituality as well as Russian architecture. Its medieval monuments and the 14th-century frescoes of Theophanes the Greek (Andrei Rublev's teacher) illustrate the development of its remarkable architecture and cultural creativity."
+    },
+    {
+      "site" : "Historic Town of Banská Štiavnica and the Technical Monuments in its Vicinity",
+      "coordinates": {
+         "latitude" : {
+            "degress" : 48,
+            "minutes" : 27,
+            "seconds" : 40,
+            "direction" : "N",
+         }, 
+         "longitude" : {
+            "degress" : 18,
+            "minutes" : 54,
+            "seconds" : 0,
+            "direction" : "E",
+         }
+      },
+      "country" : "Slovakia",
+      "type" : "Cultural",
+      "year" : "1993",
+      "description" : ""
+    },
+    {
+      "site" : "Holašovice Historical Village Reservation",
+      "coordinates": {
+         "latitude" : {
+            "degress" : 48,
+            "minutes" : 57,
+            "seconds" : 35,
+            "direction" : "N",
+         }, 
+         "longitude" : {
+            "degress" : 14,
+            "minutes" : 15,
+            "seconds" : 10,
+            "direction" : "E",
+         }
+      },
+      "country" : "Czech",
+      "type" : "Cultural",
+      "year" : "1998",
+      "description" : ""
+    },
+    {
+      "site" : "Holy Trinity Column in Olomouc",
+      "coordinates": {
+         "latitude" : {
+            "degress" : 49,
+            "minutes" : 35,
+            "seconds" : 55,
+            "direction" : "N",
+         }, 
+         "longitude" : {
+            "degress" : 17,
+            "minutes" : 16,
+            "seconds" : 10,
+            "direction" : "E",
+         }
+      },
+      "country" : "Czech",
+      "type" : "Cultural",
+      "year" : "2000",
+      "description" : ""
+    },
+    {
+      "site" : "Hortobágy National Park - the Puszta",
+      "coordinates": {
+         "latitude" : {
+            "degress" : 47,
+            "minutes" : 35,
+            "seconds" : 40,
+            "direction" : "N",
+         }, 
+         "longitude" : {
+            "degress" : 21,
+            "minutes" : 9,
+            "seconds" : 24,
+            "direction" : "E",
+         }
+      },
+      "country" : "Hungary",
+      "type" : "Cultural",
+      "year" : "1999",
+      "description" : ""
+    },
+    {
+      "site" : "Jewish Quarter and St Procopius' Basilica in Třebíč",
+      "coordinates": {
+         "latitude" : {
+            "degress" : 49,
+            "minutes" : 13,
+            "seconds" : 2,
+            "direction" : "N",
+         }, 
+         "longitude" : {
+            "degress" : 15,
+            "minutes" : 52,
+            "seconds" : 44,
+            "direction" : "E",
+         }
+      },
+      "country" : "Czech",
+      "type" : "Cultural",
+      "year" : "2003",
+      "description" : ""
+    },
+    {
+      "site" : "Kalwaria Zebrzydowska: the Mannerist Architectural and Park Landscape Complex and Pilgrimage Park",
+      "coordinates": {
+         "latitude" : {
+            "degress" : 49,
+            "minutes" : 52,
+            "seconds" : 0,
+            "direction" : "N",
+         }, 
+         "longitude" : {
+            "degress" : 19,
+            "minutes" : 40,
+            "seconds" : 0,
+            "direction" : "E",
+         }
+      },
+      "country" : "Poland",
+      "type" : "Cultural",
+      "year" : "1999",
+      "description" : " The town is named after the religious complex (calvary) founded by Governor of Kraków Mikołaj Zebrzydowski on December 1, 1602. The complex is known as the Kalwaria Zebrzydowska park. The city of Zebrzydów was established in 1617 in order to house the growing number of pilgrims visiting the religious complex."
+    },
+    {
+      "site" : "Saint-Sophia Cathedral and Related Monastic Buildings, Kyiv-Pechersk Lavra",
+      "coordinates": {
+         "latitude" : {
+            "degress" : 50,
+            "minutes" : 27,
+            "seconds" : 9,
+            "direction" : "N",
+         }, 
+         "longitude" : {
+            "degress" : 30,
+            "minutes" : 31,
+            "seconds" : 1,
+            "direction" : "E",
+         }
+      },
+      "country" : "Ukraine",
+      "type" : "Cultural",
+      "year" : "1990",
+      "description" : ""
+    },
+    {
+      "site" : "Kizhi Pogost",
+      "coordinates": {
+         "latitude" : {
+            "degress" : 62,
+            "minutes" : 4,
+            "seconds" : 17,
+            "direction" : "N",
+         }, 
+         "longitude" : {
+            "degress" : 35,
+            "minutes" : 13,
+            "seconds" : 39,
+            "direction" : "E",
+         }
+      },
+      "country" : "Russia",
+      "type" : "Cultural",
+      "year" : "1990",
+      "description" : "   The pogost of Kizhi (i.e. the Kizhi enclosure) is located on one of the many islands in Lake Onega, in Karelia. Two 18th-century wooden churches, and an octagonal clock tower, also in wood and built in 1862, can be seen there. These unusual constructions, in which carpenters created a bold visionary architecture, perpetuate an ancient model of parish space and are in harmony with the surrounding landscape."
+    },
+    {
+      "site" : "Kremlin and Red Square, Moscow",
+      "coordinates": {
+         "latitude" : {
+            "degress" : 55,
+            "minutes" : 44,
+            "seconds" : 45,
+            "direction" : "N",
+         }, 
+         "longitude" : {
+            "degress" : 37,
+            "minutes" : 37,
+            "seconds" : 47,
+            "direction" : "E",
+         }
+      },
+      "country" : "Russia",
+      "type" : "Cultural",
+      "year" : "1990",
+      "description" : "   Inextricably linked to all the most important historical and political events in Russia since the 13th century, the Kremlin (built between the 14th and 17th centuries by outstanding Russian and foreign architects) was the residence of the Great Prince and also a religious centre. At the foot of its ramparts, on Red Square, St Basil's Basilica is one of the most beautiful Russian Orthodox monuments."
+    },
+    {
+      "site" : "Kutná Hora: Historical Town Centre with the Church of St Barbara and the Cathedral of Our Lady at Sedlec",
+      "coordinates": {
+         "latitude" : {
+            "degress" : 49,
+            "minutes" : 11,
+            "seconds" : 0,
+            "direction" : "N",
+         }, 
+         "longitude" : {
+            "degress" : 15,
+            "minutes" : 27,
+            "seconds" : 0,
+            "direction" : "E",
+         }
+      },
+      "country" : "Czech",
+      "type" : "Cultural",
+      "year" : "1995",
+      "description" : ""
+    },
+    {
+      "site" : "Lednice-Valtice Cultural Landscape",
+      "coordinates": {
+         "latitude" : {
+            "degress" : 48,
+            "minutes" : 46,
+            "seconds" : 33,
+            "direction" : "N",
+         }, 
+         "longitude" : {
+            "degress" : 16,
+            "minutes" : 46,
+            "seconds" : 30,
+            "direction" : "E",
+         }
+      },
+      "country" : "Czech",
+      "type" : "Cultural",
+      "year" : "1996",
+      "description" : ""
+    },
+    {
+      "site" : "Levoča, Spišský Hrad and the Associated Cultural Monuments",
+      "coordinates": {
+         "latitude" : {
+            "degress" : 52,
+            "minutes" : 30,
+            "seconds" : 0,
+            "direction" : "N",
+         }, 
+         "longitude" : {
+            "degress" : 23,
+            "minutes" : 35,
+            "seconds" : 0,
+            "direction" : "E",
+         }
+      },
+      "country" : "Slovakia",
+      "type" : "Cultural",
+      "year" : "1993",
+      "description" : ""
+    },
+    {
+      "site" : "Litomyšl Castle",
+      "coordinates": {
+         "latitude" : {
+            "degress" : 49,
+            "minutes" : 52,
+            "seconds" : 25,
+            "direction" : "N",
+         }, 
+         "longitude" : {
+            "degress" : 16,
+            "minutes" : 18,
+            "seconds" : 52,
+            "direction" : "E",
+         }
+      },
+      "country" : "Czech",
+      "type" : "Cultural",
+      "year" : "1999",
+      "description" : ""
+    },
+    {
+      "site" : "L'viv \u2013 the Ensemble of the Historic Centre",
+      "coordinates": {
+         "latitude" : {
+            "degress" : 49,
+            "minutes" : 50,
+            "seconds" : 30,
+            "direction" : "N",
+         }, 
+         "longitude" : {
+            "degress" : 24,
+            "minutes" : 1,
+            "seconds" : 55,
+            "direction" : "E",
+         }
+      },
+      "country" : "Ukraine",
+      "type" : "Cultural",
+      "year" : "1998",
+      "description" : ""
+    },
+    {
+      "site" : "Madara Rider",
+      "coordinates": {
+         "latitude" : {
+            "degress" : 43,
+            "minutes" : 18,
+            "seconds" : 0,
+            "direction" : "N",
+         }, 
+         "longitude" : {
+            "degress" : 27,
+            "minutes" : 9,
+            "seconds" : 0,
+            "direction" : "E",
+         }
+      },
+      "country" : "Bulgaria",
+      "type" : "Cultural",
+      "year" : "1979",
+      "description" : ""
+    },
+    {
+      "site" : "Medieval Town of Toruń",
+      "coordinates": {
+         "latitude" : {
+            "degress" : 53,
+            "minutes" : 0,
+            "seconds" : 36,
+            "direction" : "N",
+         }, 
+         "longitude" : {
+            "degress" : 18,
+            "minutes" : 37,
+            "seconds" : 10,
+            "direction" : "E",
+         }
+      },
+      "country" : "Poland",
+      "type" : "Cultural",
+      "year" : "1997",
+      "description" : " Toruń has many monuments of architecture beginning from the Middle Ages, including 200 military structures. The city is famous for having preserved almost intact its medieval spatial layout and many Gothic buildings, all built from brick, including monumental churches, the Town Hall and many burgher houses. In 1236, due to frequent flooding, the city was relocated to the present site of the Old Town. In 1264 the nearby New Town was founded. In 1280, the city (or as it was then, both cities) joined the mercantile Hanseatic League, and thus became an important medieval trade centre."
+    },
+    {
+      "site" : "Millenary Benedictine Abbey of Pannonhalma and its Natural Environment",
+      "coordinates": {
+         "latitude" : {
+            "degress" : 47,
+            "minutes" : 33,
+            "seconds" : 32,
+            "direction" : "N",
+         }, 
+         "longitude" : {
+            "degress" : 17,
+            "minutes" : 47,
+            "seconds" : 4,
+            "direction" : "E",
+         }
+      },
+      "country" : "Hungary",
+      "type" : "Cultural",
+      "year" : "1996",
+      "description" : ""
+    },
+    {
+      "site" : "Mir Castle Complex",
+      "coordinates": {
+         "latitude" : {
+            "degress" : 53,
+            "minutes" : 27,
+            "seconds" : 4,
+            "direction" : "N",
+         }, 
+         "longitude" : {
+            "degress" : 26,
+            "minutes" : 28,
+            "seconds" : 22,
+            "direction" : "E",
+         }
+      },
+      "country" : "Belarus",
+      "type" : "Cultural",
+      "year" : "2000",
+      "description" : ""
+    },
+    {
+      "site" : "Monastery of Horezu",
+      "coordinates": {
+         "latitude" : {
+            "degress" : 45,
+            "minutes" : 11,
+            "seconds" : 0,
+            "direction" : "N",
+         }, 
+         "longitude" : {
+            "degress" : 24,
+            "minutes" : 1,
+            "seconds" : 0,
+            "direction" : "E",
+         }
+      },
+      "country" : "Romania",
+      "type" : "Cultural",
+      "year" : "1993",
+      "description" : ""
+    },
+    {
+      "site" : "Muskauer Park / Park Mużakowski",
+      "coordinates": {
+         "latitude" : {
+            "degress" : 51,
+            "minutes" : 34,
+            "seconds" : 46,
+            "direction" : "N",
+         }, 
+         "longitude" : {
+            "degress" : 14,
+            "minutes" : 43,
+            "seconds" : 35,
+            "direction" : "E",
+         }
+      },
+      "country" : "Poland",
+      "type" : "Cultural",
+      "year" : "2004",
+      "description" : ""
+    },
+    {
+      "site" : "Old City of Zamość",
+      "coordinates": {
+         "latitude" : {
+            "degress" : 50,
+            "minutes" : 43,
+            "seconds" : 0,
+            "direction" : "N",
+         }, 
+         "longitude" : {
+            "degress" : 23,
+            "minutes" : 16,
+            "seconds" : 0,
+            "direction" : "E",
+         }
+      },
+      "country" : "Poland",
+      "type" : "Cultural",
+      "year" : "1992",
+      "description" : " Jan Zamoyski commissioned the Italian architect Bernardo Morando to design the city that would be based on the anthropomorphic concept. The main distinguishing features of the Old Town have been well preserved since its establishment. It includes the regular Great Market Square of 100 x 100 meters with the splendid Townhall and so-called Armenian houses, as well as the fragments of the original fortress and fortifications, including those from the period of the Russian occupation in the 19th century"
+    },
+    {
+      "site" : "Old Village of Hollókő and its Surroundings",
+      "coordinates": {
+         "latitude" : {
+            "degress" : 47,
+            "minutes" : 59,
+            "seconds" : 40,
+            "direction" : "N",
+         }, 
+         "longitude" : {
+            "degress" : 19,
+            "minutes" : 31,
+            "seconds" : 45,
+            "direction" : "E",
+         }
+      },
+      "country" : "Hungary",
+      "type" : "Cultural",
+      "year" : "1987",
+      "description" : ""
+    },
+    {
+      "site" : "Pilgrimage Church of St John of Nepomuk at Zelená Hora",
+      "coordinates": {
+         "latitude" : {
+            "degress" : 49,
+            "minutes" : 34,
+            "seconds" : 49,
+            "direction" : "N",
+         }, 
+         "longitude" : {
+            "degress" : 15,
+            "minutes" : 56,
+            "seconds" : 31,
+            "direction" : "E",
+         }
+      },
+      "country" : "Czech",
+      "type" : "Cultural",
+      "year" : "1994",
+      "description" : ""
+    },
+    {
+      "site" : "Pirin National Park",
+      "coordinates": {
+         "latitude" : {
+            "degress" : 41,
+            "minutes" : 40,
+            "seconds" : 0,
+            "direction" : "N",
+         }, 
+         "longitude" : {
+            "degress" : 23,
+            "minutes" : 30,
+            "seconds" : 0,
+            "direction" : "E",
+         }
+      },
+      "country" : "Bulgaria",
+      "type" : "Natural",
+      "year" : "1983",
+      "description" : ""
+    },
+    {
+      "site" : "Primeval Beech Forests of the Carpathians and the Ancient Beech Forests of Germany",
+      "coordinates": {
+         "latitude" : {
+            "degress" : 49,
+            "minutes" : 5,
+            "seconds" : 10,
+            "direction" : "N",
+         }, 
+         "longitude" : {
+            "degress" : 22,
+            "minutes" : 32,
+            "seconds" : 10,
+            "direction" : "E",
+         }
+      },
+      "country" : "Ukraine",
+      "type" : "Natural",
+      "year" : "2007",
+      "description" : ""
+    },
+    {
+      "site" : "Residence of Bukovinian and Dalmatian Metropolitans",
+      "coordinates": {
+         "latitude" : {
+            "degress" : 48,
+            "minutes" : 17,
+            "seconds" : 48,
+            "direction" : "N",
+         }, 
+         "longitude" : {
+            "degress" : 25,
+            "minutes" : 55,
+            "seconds" : 29,
+            "direction" : "E",
+         }
+      },
+      "country" : "Ukraine",
+      "type" : "Cultural",
+      "year" : "2011",
+      "description" : ""
+    },
+    {
+      "site" : "Rila Monastery",
+      "coordinates": {
+         "latitude" : {
+            "degress" : 42,
+            "minutes" : 7,
+            "seconds" : 0,
+            "direction" : "N",
+         }, 
+         "longitude" : {
+            "degress" : 23,
+            "minutes" : 24,
+            "seconds" : 0,
+            "direction" : "E",
+         }
+      },
+      "country" : "Bulgaria",
+      "type" : "Cultural",
+      "year" : "1983",
+      "description" : ""
+    },
+    {
+      "site" : "Rock-Hewn Churches of Ivanovo",
+      "coordinates": {
+         "latitude" : {
+            "degress" : 43,
+            "minutes" : 43,
+            "seconds" : 0,
+            "direction" : "N",
+         }, 
+         "longitude" : {
+            "degress" : 25,
+            "minutes" : 58,
+            "seconds" : 0,
+            "direction" : "E",
+         }
+      },
+      "country" : "Bulgaria",
+      "type" : "Cultural",
+      "year" : "1979",
+      "description" : ""
+    },
+    {
+      "site" : "Srebarna Nature Reserve",
+      "coordinates": {
+         "latitude" : {
+            "degress" : 44,
+            "minutes" : 6,
+            "seconds" : 51.984,
+            "direction" : "N",
+         }, 
+         "longitude" : {
+            "degress" : 27,
+            "minutes" : 4,
+            "seconds" : 41.016,
+            "direction" : "E",
+         }
+      },
+      "country" : "Bulgaria",
+      "type" : "Natural",
+      "year" : "1983",
+      "description" : " The site had been listed as endangered 1999\u20132003 due to the prevention of seasonal flooding and agricultural use causing a decline or disappearance of the water and passerine bird populations."
+    },
+    {
+      "site" : "Struve Geodetic Arc",
+      "coordinates": {
+         "latitude" : {
+            "degress" : "!style=\"background-color: #D0E7FF\" | {{sort|ZZZ|{{flag|Belarus}}*",
+            "minutes" : " {{flag|Estonia}}*",
+            "seconds" : " {{flag|Finland}}*",
+            "direction" : " {{flag|Latvia}}*",
+         }, 
+         "longitude" : {
+            "degress" : " {{flag|Lithuania}}*",
+            "minutes" : " {{flag|Moldova}}*",
+            "seconds" : " {{flag|Norway}}*",
+            "direction" : " {{flag|Russia}}*, {{flag|Sweden}}* and {{flag|Ukraine}}*}}",
+         }
+      },
+      "country" : "Ukraine",
+      "type" : "Cultural",
+      "year" : "2005",
+      "description" : "   The Struve Arc is a chain of survey triangulations stretching from Hammerfest in Norway to the Black Sea, through 10 countries and over 2,820 km. These are points of a survey, carried out between 1816 and 1855 by the astronomer Friedrich Georg Wilhelm Struve, which represented the first accurate measuring of a long segment of a meridian. This helped to establish the exact size and shape of the planet and marked an important step in the development of earth sciences and topographic mapping. It is an extraordinary example of scientific collaboration among scientists from different countries, and of collaboration between monarchs for a scientific cause. The original arc consisted of 258 main triangles with 265 main station points. The listed site includes 34 of the original station points, with different markings, i.e. a drilled hole in rock, iron cross, cairns, or built obelisks."
+    },
+    {
+      "site" : "Thracian Tomb of Kazanlak",
+      "coordinates": {
+         "latitude" : {
+            "degress" : 42,
+            "minutes" : 37,
+            "seconds" : 0,
+            "direction" : "N",
+         }, 
+         "longitude" : {
+            "degress" : 25,
+            "minutes" : 24,
+            "seconds" : 0,
+            "direction" : "E",
+         }
+      },
+      "country" : "Bulgaria",
+      "type" : "Cultural",
+      "year" : "1979",
+      "description" : ""
+    },
+    {
+      "site" : "Thracian Tomb of Sveshtari",
+      "coordinates": {
+         "latitude" : {
+            "degress" : 43,
+            "minutes" : 40,
+            "seconds" : 0.012,
+            "direction" : "N",
+         }, 
+         "longitude" : {
+            "degress" : 26,
+            "minutes" : 40,
+            "seconds" : 0.012,
+            "direction" : "E",
+         }
+      },
+      "country" : "Bulgaria",
+      "type" : "Cultural",
+      "year" : "1985",
+      "description" : ""
+    },
+    {
+      "site" : "Tokaj Wine Region Historic Cultural Landscape",
+      "coordinates": {
+         "latitude" : {
+            "degress" : 48,
+            "minutes" : 9,
+            "seconds" : 0,
+            "direction" : "N",
+         }, 
+         "longitude" : {
+            "degress" : 21,
+            "minutes" : 21,
+            "seconds" : 0,
+            "direction" : "E",
+         }
+      },
+      "country" : "Hungary",
+      "type" : "Cultural",
+      "year" : "2002",
+      "description" : ""
+    },
+    {
+      "site" : "Tugendhat Villa in Brno",
+      "coordinates": {
+         "latitude" : {
+            "degress" : 49,
+            "minutes" : 12,
+            "seconds" : 26,
+            "direction" : "N",
+         }, 
+         "longitude" : {
+            "degress" : 16,
+            "minutes" : 36,
+            "seconds" : 58,
+            "direction" : "E",
+         }
+      },
+      "country" : "Czech",
+      "type" : "Cultural",
+      "year" : "2001",
+      "description" : ""
+    },
+    {
+      "site" : "Villages with Fortified Churches in Transylvania",
+      "coordinates": {
+         "latitude" : {
+            "degress" : 46,
+            "minutes" : 8,
+            "seconds" : 9,
+            "direction" : "N",
+         }, 
+         "longitude" : {
+            "degress" : 24,
+            "minutes" : 46,
+            "seconds" : 23,
+            "direction" : "E",
+         }
+      },
+      "country" : "Romania",
+      "type" : "Cultural",
+      "year" : "1993",
+      "description" : ""
+    },
+    {
+      "site" : "Virgin Komi Forests",
+      "coordinates": {
+         "latitude" : {
+            "degress" : 65,
+            "minutes" : 4,
+            "seconds" : 0,
+            "direction" : "N",
+         }, 
+         "longitude" : {
+            "degress" : 60,
+            "minutes" : 9,
+            "seconds" : 0,
+            "direction" : "E",
+         }
+      },
+      "country" : "Russia",
+      "type" : "Natural",
+      "year" : "1995",
+      "description" : " The Virgin Komi Forests cover 3.28 million ha of tundra and mountain tundra in the Urals, as well as one of the most extensive areas of virgin boreal forest remaining in Europe. This vast area of conifers, aspens, birches, peat bogs, rivers and natural lakes has been monitored and studied for over 50 years. It provides valuable evidence of the natural processes affecting biodiversity in the taiga."
+    },
+    {
+      "site" : "Vlkolínec",
+      "coordinates": {
+         "latitude" : {
+            "degress" : 49,
+            "minutes" : 2,
+            "seconds" : 0,
+            "direction" : "N",
+         }, 
+         "longitude" : {
+            "degress" : 19,
+            "minutes" : 17,
+            "seconds" : 0,
+            "direction" : "E",
+         }
+      },
+      "country" : "Slovakia",
+      "type" : "Cultural",
+      "year" : "1993",
+      "description" : ""
+    },
+    {
+      "site" : "Western Caucasus",
+      "coordinates": {
+         "latitude" : {
+            "degress" : 44,
+            "minutes" : 0,
+            "seconds" : 0,
+            "direction" : "N",
+         }, 
+         "longitude" : {
+            "degress" : 40,
+            "minutes" : 0,
+            "seconds" : 0,
+            "direction" : "E",
+         }
+      },
+      "country" : "Russia",
+      "type" : "Natural",
+      "year" : "1999",
+      "description" : "  The Western Caucasus, extending over 275,000 ha of the extreme western end of the Caucasus mountains and located 50 km north-east of the Black Sea, is one of the few large mountain areas of Europe that has not experienced significant human impact. Its subalpine and alpine pastures have only been grazed by wild animals, and its extensive tracts of undisturbed mountain forests, extending from the lowlands to the subalpine zone, are unique in Europe. The site has a great diversity of ecosystems, with important endemic plants and wildlife, and is the place of origin and reintroduction of the mountain subspecies of the European bison."
+    },
+    {
+      "site" : "White Monuments of Vladimir and Suzdal",
+      "coordinates": {
+         "latitude" : {
+            "degress" : 56,
+            "minutes" : 9,
+            "seconds" : 0,
+            "direction" : "N",
+         }, 
+         "longitude" : {
+            "degress" : 40,
+            "minutes" : 25,
+            "seconds" : 0,
+            "direction" : "E",
+         }
+      },
+      "country" : "Russia",
+      "type" : "Cultural",
+      "year" : "1992",
+      "description" : "   These two artistic centres in central Russia hold an important place in the country's architectural history. There are a number of magnificent 12th- and 13th-century public and religious buildings, above all the masterpieces of the Collegiate Church of St Demetrios and the Cathedral of the Assumption of the Virgin."
+    },
+    {
+      "site" : "Wieliczka Salt Mine",
+      "coordinates": {
+         "latitude" : {
+            "degress" : 49,
+            "minutes" : 58,
+            "seconds" : 45,
+            "direction" : "N",
+         }, 
+         "longitude" : {
+            "degress" : 20,
+            "minutes" : 3,
+            "seconds" : 50,
+            "direction" : "E",
+         }
+      },
+      "country" : "Poland",
+      "type" : "Cultural",
+      "year" : "1978",
+      "description" : " The Wieliczka Salt Mine, located in the town of Wieliczka in southern Poland, lies within the Kraków metropolitan area. The mine continuously produced table salt from the 13th century until 2007 as one of the world's oldest operating salt mines, for most of this time span being a part of the undertaking żupy krakowskie. It is believed to be the world's 14th-oldest company. The site had been listed as endangered 1989\u20131998 due to a humidity problem."
+    },
+    {
+      "site" : "Wooden Churches of Maramureş",
+      "coordinates": {
+         "latitude" : {
+            "degress" : 47,
+            "minutes" : 49,
+            "seconds" : 15,
+            "direction" : "N",
+         }, 
+         "longitude" : {
+            "degress" : 24,
+            "minutes" : 3,
+            "seconds" : 21,
+            "direction" : "E",
+         }
+      },
+      "country" : "Romania",
+      "type" : "Cultural",
+      "year" : "1999",
+      "description" : ""
+    },
+    {
+      "site" : "Wooden Churches of Southern Little Poland",
+      "coordinates": {
+         "latitude" : {
+            "degress" : 49,
+            "minutes" : 45,
+            "seconds" : 0,
+            "direction" : "N",
+         }, 
+         "longitude" : {
+            "degress" : 21,
+            "minutes" : 14,
+            "seconds" : 0,
+            "direction" : "E",
+         }
+      },
+      "country" : "Poland",
+      "type" : "Cultural",
+      "year" : "2003",
+      "description" : " The wooden church style of the region originated in the late Medieval, the late sixteenth century, and began with Gothic ornament and polychrome detail, but because they were timber construction, the structure, general form, and feeling is entirely different from the gothic architecture or Polish Gothic (in stone or brick)."
+    },
+    {
+      "site" : "Wooden Churches of the Slovak part of the Carpathian Mountain Area",
+      "coordinates": {
+         "latitude" : {
+            "degress" : 49,
+            "minutes" : 20,
+            "seconds" : 10,
+            "direction" : "N",
+         }, 
+         "longitude" : {
+            "degress" : 19,
+            "minutes" : 33,
+            "seconds" : 30,
+            "direction" : "E",
+         }
+      },
+      "country" : "Slovakia",
+      "type" : "Cultural",
+      "year" : "2008",
+      "description" : ""
+    }
+  ]
+}
