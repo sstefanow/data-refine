@@ -32,4 +32,10 @@ git merge pjazdzewski1990/master
 git remote rm pjazdzewski1990
 ```
 
+Undo różnych rzeczy:
+
+```sh
+git reset --merge
+```
+
 Mark Dominus, [My Git Habits ](http://blog.plover.com/prog/git-habits.html).
