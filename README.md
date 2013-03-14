@@ -18,8 +18,8 @@
 1. Ryszard Madejski, [Powierzchnia lasów i użytków rolnych](/docs/xjedam.md).
 1. Adam Radomski, [Kody pocztowe](/docs/aradomski.md).
 1. Jan Mudry, [Lista UNESCO w Europie Wschodniej](/docs/jmudry.md).
-1. Andrzej Thiel [Spis ludności](/docs/athiel.md)
-1. Bartłomiej Bedra [Spis ludności](/docs/bbedra.md)
+1. Andrzej Thiel, [Spis ludności](/docs/athiel.md).
+1. Bartłomiej Bedra, [Lista lotnisk na świecie](/docs/bbedra.md).
 
 
 ## Ściąga z Gita
