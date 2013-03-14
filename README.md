@@ -24,6 +24,10 @@
 
 ## Ściąga z Gita
 
+* Scott Chacon, [Pro Git](http://git-scm.com/book);
+  [pl](http://git-scm.com/book/pl) (niekompletne).
+
+
 ```sh
 git shortlog --no-merges
 
