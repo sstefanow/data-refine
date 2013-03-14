@@ -40,4 +40,28 @@ Undo różnych rzeczy:
 git reset --merge
 ```
 
+Jak zmniejszyć liczbę commitów, zmienić ich kolejność i przeredagować wpisy log:
+
+```sh
+git checkout issue16                       # o ile commity są na tej gałęzi
+git log --pretty=oneline HEAD~6..HEAD      # sprawdzamy które commity będziemy zmieniać
+git rebase -i HEAD~6                       # poprawiamy ostatnich 6 commitów
+
+.. edycja ..
+....  edit -- jeśli chcemy poprawić ten commit lub coś do niego dodać
+........  git checkout HEAD^  # zazwyczaj tak zaczynamy poprawki
+........  git status
+........  git add --patch     # lub dodajemy/edytujemy pliki
+........
+........  git rebase --contiune
+....  reword -- poprawiamy tekst wpisu do log
+
+git log --pretty=oneline
+git rebase master                          # o ile jesteśmy na gałęzi issue16
+git checkout master
+git merge issue16
+git branch -d issue16                      # możemy usunąć scaloną gałąź
+```
+
+Zobacz też,
 Mark Dominus, [My Git Habits ](http://blog.plover.com/prog/git-habits.html).
