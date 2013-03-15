@@ -26,8 +26,7 @@
 ## Ściąga z Gita
 
 * Scott Chacon, [Pro Git](http://git-scm.com/book);
-  [pl](http://git-scm.com/book/pl) (niekompletne).
-
+  [pl](http://git-scm.com/book/pl) (niekompletne tłumaczenie).
 
 ```sh
 git shortlog --no-merges
@@ -42,7 +41,8 @@ git remote rm pjazdzewski1990
 Undo różnych rzeczy:
 
 ```sh
-git reset --merge
+git reset --merge           # merge
+git reset --hard ORIG_HEAD  # rebase
 ```
 
 Jak zmniejszyć liczbę commitów, zmienić ich kolejność i przeredagować wpisy log:
@@ -66,6 +66,15 @@ git rebase master                          # o ile jesteśmy na gałęzi issue16
 git checkout master
 git merge issue16
 git branch -d issue16                      # możemy usunąć scaloną gałąź
+```
+
+Stashing:
+
+```sh
+git stash
+git stash list
+git stash apply stash@{0}  # przykłady
+git stash drop  stash@{0}
 ```
 
 Zobacz też,
