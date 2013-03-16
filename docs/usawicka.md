@@ -31,4 +31,4 @@ Podczas pracy przydatnym okazał się [Google Refine Expression Language](https:
 {"name" : "Beret","description" : "This is a lovely beret that goes with the 2011 fashion really well.","type" : "clothing","variant_option_one_name" : "colour","variant_option_one_value" : "black","tags" : "accessories","supply_price" : 25,"retail_price" : 44.85,"tax_name" : "nz gst","brand_name" : "woolly heads","supplier_name" : "berets are best","active" : 1,"track_inventory" : 1,"inventory_auckland" : 7,"reorder_point_auckland" : 4,"restock_level_auckland" : 6}
 ```
 
-* Oczyszczone dane: [vendor_products_usawicka.json](https://github.com/urszulasawicka/data-refine/blob/master/data/json/vendor_products_usawicka.json)
+* Oczyszczone dane: [vendor_products_usawicka.json](/data/json/vendor_products_usawicka.json)

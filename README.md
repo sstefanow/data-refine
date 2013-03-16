@@ -1,4 +1,4 @@
-﻿Data Wranglers
+Data Wranglers
 
 ![Data Wranglers](https://raw.github.com/nosql/data-refine/master/images/data-wrangler.jpg)
 
@@ -21,6 +21,7 @@
 1. Andrzej Thiel, [Spis ludności](/docs/athiel.md).
 1. Bartłomiej Bedra, [Lista lotnisk na świecie](/docs/bbedra.md).
 1. Jakub Martin, [Lista lotów programu Apollo](/docs/jmartin.md).
+1. Urszula Sawicka, [Produkty dostawców korzystających z Vend](/docs/usawicka.md).
 
 
 ## Ściąga z Gita
