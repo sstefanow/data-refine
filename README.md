@@ -22,6 +22,7 @@ Data Wranglers
 1. Bartłomiej Bedra, [Lista lotnisk na świecie](/docs/bbedra.md).
 1. Jakub Martin, [Lista lotów programu Apollo](/docs/jmartin.md).
 1. Urszula Sawicka, [Produkty dostawców korzystających z Vend](/docs/usawicka.md).
+1. Maciej Stanik, [Rynek nowych samochodów osobowych w USA w 2000 roku](/docs/180.md).
 
 
 ## Ściąga z Gita
