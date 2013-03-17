@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-﻿# Data Wranglers
+# Data Wranglers
 
 ![Data Wranglers](https://raw.github.com/nosql/data-refine/master/images/data-wrangler.jpg)
 
@@ -17,7 +16,7 @@
 1. Paweł Śląski, [Dane historyczne notowań WIG20](/pslaski.md).
 1. Aneta Budner, [Adresy IP](https://github.com/abudner/nosql/blob/master/adresy-ip-abudner.md).
 1. Ryszard Madejski, [Powierzchnia lasów i użytków rolnych](/xjedam.md).
-1. Adam Radomski, [Kody pocztowe](/aradomski.md).0
+1. Adam Radomski, [Kody pocztowe](/aradomski.md).
 1. Łukasz Wasak, [Ceny Towarów i Usług](/lwasak.md).
 
 ## Ściąga z Gita
