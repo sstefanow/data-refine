@@ -75,7 +75,8 @@ Ca�kowita liczba rekord�w 50200.
 {"towar":"słonina","ilosc":1,"jednostka_miary":"kg","rok":2001,"waluta":"zł","region":"POLSKA","cena":3.53}
 {"towar":"słonina","ilosc":1,"jednostka_miary":"kg","rok":2002,"waluta":"zł","region":"POLSKA","cena":3.16}
 ```
+## Linki
 
-## [ Json z danymi ]()
-## [ Historia transformacji ]()
+* [ Json z danymi ](http://dl.dropbox.com/u/44655481/Data/Ceny.json)
+* [ Historia transformacji ](http://dl.dropbox.com/u/44655481/Data/Transformations.json)
 
