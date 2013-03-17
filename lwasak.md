@@ -69,3 +69,13 @@ Dane pobrane z [GUS](http://www.stat.gov.pl/bdl/app/strona.html?p_name=indeks), 
 Ca�kowita liczba rekord�w 50200.
 	
 ## Przyk�adowy JSON 
+```json
+{"towar":"słonina","ilosc":1,"jednostka_miary":"kg","rok":1999,"waluta":"zł","region":"POLSKA","cena":1.94}
+{"towar":"słonina","ilosc":1,"jednostka_miary":"kg","rok":2000,"waluta":"zł","region":"POLSKA","cena":2.64}
+{"towar":"słonina","ilosc":1,"jednostka_miary":"kg","rok":2001,"waluta":"zł","region":"POLSKA","cena":3.53}
+{"towar":"słonina","ilosc":1,"jednostka_miary":"kg","rok":2002,"waluta":"zł","region":"POLSKA","cena":3.16}
+```
+
+## [ Json z danymi ]()
+## [ Historia transformacji ]()
+
