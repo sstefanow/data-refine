@@ -6,9 +6,9 @@ Ilość Budynków mieszkalnych w roku 2011 w rejonie Pomorskim
 
 ##Co Zostało zrobione ?
 
-Odnalazłem dane na witrynie GUS.
-Oczyściłem dane za pomocą Data Wranglera.
-Export do JSON.
+* Odnalazłem dane na witrynie GUS.
+* Oczyściłem dane za pomocą Data Wranglera.
+* Export do JSON.
 
 ##Przykładowe dane: 
 
