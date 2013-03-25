@@ -80,6 +80,7 @@ git stash apply stash@{0}  # przykłady
 git stash drop  stash@{0}
 ```
 
-Zobacz też,
-Mark Dominus, [My Git Habits ](http://blog.plover.com/prog/git-habits.html).
+Zobacz też:
 
+* Mark Dominus, [My Git Habits ](http://blog.plover.com/prog/git-habits.html).
+* Bert Belder, [Checkout github pull requests locally](https://gist.github.com/piscisaureus/3342247)
