@@ -2,7 +2,7 @@
 
 ![Data Wranglers](https://raw.github.com/nosql/data-refine/master/images/data-wrangler.jpg)
 
-1. Ano Nim, [Imieniny](/docs/anon.md).
+1. Włodzimierz Bzyl, [Imieniny](/docs/anon.md).
 1. Michał Mroczkowski, [Kody pocztowe sejmometr](/docs/mmroczkowski.md).
 1. Marcin Głombiowski, [Kody pocztowe sejmometr](/docs/mglombiowski.md).
 1. Pawel Kaminski, [Sacramento crimes](/docs/pkamin.md).
@@ -23,7 +23,7 @@
 1. Jakub Martin, [Lista lotów programu Apollo](/docs/jmartin.md).
 1. Urszula Sawicka, [Produkty dostawców korzystających z Vend](/docs/usawicka.md).
 1. Maciej Stanik, [Rynek nowych samochodów osobowych w USA w 2000 roku](/docs/180.md).
-1. Łukasz Wasak, [Ceny Towarów w Polsce](/docs/lwasak.md)
+1. Łukasz Wasak, [Ceny Towarów w Polsce](/docs/lwasak.md).
 1. Damian Wieliczko, [Budownictwo mieszkaniowe](/docs/wielik17.md).
 
 
