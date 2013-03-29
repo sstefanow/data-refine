@@ -2,7 +2,7 @@
 
 ![Data Wranglers](https://raw.github.com/nosql/data-refine/master/images/data-wrangler.jpg)
 
-1. Ano Nim, [Klęski żywiołowe](/docs/anon.md).
+1. Ano Nim, [Imieniny](/docs/anon.md).
 1. Michał Mroczkowski, [Kody pocztowe sejmometr](/docs/mmroczkowski.md).
 1. Marcin Głombiowski, [Kody pocztowe sejmometr](/docs/mglombiowski.md).
 1. Pawel Kaminski, [Sacramento crimes](/docs/pkamin.md).
