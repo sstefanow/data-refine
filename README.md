@@ -85,4 +85,4 @@ Zobacz też:
 
 * Mark Dominus, [My Git Habits ](http://blog.plover.com/prog/git-habits.html).
 * Bert Belder, [Checkout github pull requests locally](https://gist.github.com/piscisaureus/3342247)
-* Chris Wanstrath,[hub makes git better with GitHub](http://defunkt.io/hub/)
+* Chris Wanstrath, [hub makes git better with GitHub](http://defunkt.io/hub/)
