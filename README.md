@@ -49,6 +49,11 @@ git reset --merge           # merge
 git reset --hard ORIG_HEAD  # rebase
 ```
 
+> Another common practice is to rebase
+> the last few commits in your current branch
+>
+> [Interactive rebase](https://help.github.com/articles/interactive-rebase) on GitHub
+
 Jak zmniejszyć liczbę commitów, zmienić ich kolejność i przeredagować wpisy log:
 
 ```sh
