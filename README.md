@@ -77,6 +77,9 @@ git merge issue16
 git branch -d issue16                      # możemy usunąć scaloną gałąź
 ```
 
+Na stronie manuala *gitrevisions* jest opisane znaczenie:
+`HEAD^`, `^HEAD`, `HEAD~n`.
+
 Stashing:
 
 ```sh
