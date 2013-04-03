@@ -25,6 +25,7 @@
 1. Maciej Stanik, [Rynek nowych samochodów osobowych w USA w 2000 roku](/docs/180.md).
 1. Łukasz Wasak, [Ceny Towarów w Polsce](/docs/lwasak.md).
 1. Damian Wieliczko, [Budownictwo mieszkaniowe](/docs/wielik17.md).
+1. Jan Pawlukiewicz, [Pomniki przyrody w Raciborzu](/docs/joshuaBE.md).
 
 
 ## Ściąga z Gita
