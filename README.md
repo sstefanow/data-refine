@@ -26,7 +26,8 @@
 1. Łukasz Wasak, [Ceny Towarów w Polsce](/docs/lwasak.md).
 1. Damian Wieliczko, [Budownictwo mieszkaniowe](/docs/wielik17.md).
 1. Jan Pawlukiewicz, [Pomniki przyrody w Raciborzu](/docs/joshuaBE.md).
-1. Damian Szafranek, [Przeciętne miesięczne wynagrodzenia brutto] (/docs/dszafranek.md).
+1. Damian Szafranek, [Przeciętne miesięczne wynagrodzenia brutto](/docs/dszafranek.md).
+
 
 ## Ściąga z Gita
 
