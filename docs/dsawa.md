@@ -22,7 +22,8 @@ Oryginalny plik z danymi do pobrania przez:
   "ulica": "Ul. Janka Muzykanta", 
   "zakres": "numery od 1 do końca obie strony", 
   "wojewodztwo": "zachodniopomorskie", 
-  "powiat": "m. szczecin", "gmina": "M. Szczecin"
+  "powiat": "m. szczecin", 
+  "gmina": "M. Szczecin"
 }
 ```
 
