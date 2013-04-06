@@ -15,7 +15,7 @@ Oryginalny plik z danymi do pobrania przez:
 
 ## Oczyszczone JSON-y w postaci (jednolinijkowej):
 
-```js
+```json
 {
   "kod": "71-212", 
   "miejsce": "Szczecin", 
