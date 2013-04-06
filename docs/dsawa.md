@@ -14,10 +14,18 @@ Oryginalny plik z danymi do pobrania przez:
  * Ewentualnie: `mongoimport --db nosql --collection zipcodes --type json --file zipcodes_part3.json --jsonArray`
 
 ## Oczyszczone JSON-y w postaci (jednolinijkowej):
+
 ```js
-{"kod": "71-212", "miejsce": "Szczecin", "ulica": "Ul. Janka Muzykanta", "zakres": "numery od 1 do końca obie strony", "wojewodztwo": "zachodniopomorskie", "powiat": "m. szczecin", "gmina": "M. Szczecin"}
-{"kod": "65-057", "miejsce": "Zielona Góra", "ulica": "Ul. Podgórna", "zakres": "numery od 3 do 7 nieparzyste", "wojewodztwo": "lubuskie", "powiat": "m. zielona góra", "gmina": "M. Zielona Góra"}
+{
+  "kod": "71-212", 
+  "miejsce": "Szczecin", 
+  "ulica": "Ul. Janka Muzykanta", 
+  "zakres": "numery od 1 do końca obie strony", 
+  "wojewodztwo": "zachodniopomorskie", 
+  "powiat": "m. szczecin", "gmina": "M. Szczecin"
+}
 ```
+
 ## Przykładowy dokument po zaimportowaniu do bazy oraz ilość wszystkich:
 ```
 > db.zipcodes.count()
