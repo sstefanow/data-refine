@@ -1,21 +1,21 @@
-# Kody pocztowe
+ï»¿# Kody pocztowe
 
 ## Konfiguracja php
 ```
 max_execution_time = 90
 ```
 
-Link do API, powinno byæ w folderze ePF_API - https://github.com/epforgpl/ePF_API 
+Link do API, powinno byÄ‡ w folderze ePF_API - https://github.com/epforgpl/ePF_API 
 
-Nale¿y ustawiæ w pliku ep_API.php swoje klucze do API ze strony http://sejmometr.pl
+NaleÅ¼y ustawiÄ‡ w pliku ep_API.php swoje klucze do API ze strony http://sejmometr.pl
 
 ## Opis
 
-Do pobrania kodów pocztowych wykorzysta³em API sejmometru w PHP, ca³oœci¹ zajmuje siê prosty skrypcik php pobieraj¹cy wszystkie rekordy
+Do pobrania kodÃ³w pocztowych wykorzystaÅ‚em API sejmometru w PHP, caÅ‚oÅ›ciÄ… zajmuje siÄ™ prosty skrypcik php pobierajÄ…cy wszystkie rekordy
 
-## Sposób u¿ycia
+## SposÃ³b uÅ¼ycia
 
-Œci¹gnij API, skonfiguruj klucze API, skonfiguruj PHP a nastêpnie na wybranym serwerze uruchom plik index.php, pobieranie kodów nastêpuje odrazu
+ÅšciÄ…gnij API, skonfiguruj klucze API, skonfiguruj PHP a nastÄ™pnie na wybranym serwerze uruchom plik index.php, pobieranie kodÃ³w nastÄ™puje odrazu
 
 ## Przykadowe dane
 
