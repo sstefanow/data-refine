@@ -338,31 +338,40 @@ We want to pivot the *name_days.json* data set.
 Precisely, we want to convert documents from this format:
 
 ```json
-{ "date"=>{"day"=>1, "month"=>1}, "names"=>["Mieszka", "Mieczysława", "Marii"] }
+{
+   "date": { "day": 1, "month": 1 }
+   "names": [ "Mieszka", "Mieczysława", "Marii" ],
+}
 ```
 
 into this format:
 
 ```json
-{ "name"=>"Mateusza", "dates"=>[{"day"=>13, "month"=>11}, {"day"=>21, "month"=>9}]}
+{
+   "name": "Mateusza",
+   "dates": [{"day": 13, "month": 11}, {"day": 21, "month": 9}]
+}
 ```
 
 The following aggregation pipeline does the trick:
 
 ```js
-puts coll.aggregate([
-  {"$project" => {_id: 0, date: 1, names: 1}},
-  {"$unwind" => "$names"},
-  {"$group" => {_id: "$names", dates: {"$addToSet" => "$date"}}},
-  {"$project" => {name: "$_id", dates: 1, _id: 0}},
-  {"$sort" => {name: 1}}
-])
+coll.aggregate(
+  { $project: {_id: 0, date: 1, names: 1} },
+  { $unwind: "$names" },
+  { $group: {_id: "$names", dates: {$addToSet: "$date"}} },
+  { $project: {name: "$_id", dates: 1, _id: 0} },
+  { $sort: {name: 1} }
+)
 ```
 
 The sample document created by the unwinding stage looks like:
 
 ```json
-{"names"=>"Eugeniusza", "date"=>{"day"=>30, "month"=>12}}
+{
+   "names": "Eugeniusza",
+   "date": { "day": 30, "month": 12 }
+}
 ```
 
 The `$group` pipeline operator groups these documents by the `names`
@@ -371,32 +380,40 @@ of the `date` field found in the set of grouped documents.
 The sample document created at this stage of the pipeline looks like:
 
 ```json
-{"_id"=>"Maksymiliana", "dates"=>[{"day"=>12, "month"=>10}, {"day"=>14, "month"=>8}]}
+{
+   "_id": "Maksymiliana",
+   "dates": [{"day": 12, "month": 10}, {"day": 14, "month": 8}]
+}
 ```
 
 In the last two stages we sort and reshape these documents to the
 requested format:
 
 ```json
-{"dates"=>[{"day"=>11, "month"=>8}, {"day"=>24, "month"=>5}], "name"=>"Zuzanny"}
+{
+   "name": "Zuzanny",
+   "dates": [{"day": 11, "month": 8}, { "day": 24, "month": 5}]
+}
 ```
 
 
 ## Quiz
 
-1\. What is the result of running the empty aggregation pipeline:
-
-```js
-coll.aggregate([])
-```
-
-2\. For the *zipcodes* collection, the aggregation below computes
-`248_690_240`. What does this number mean?
+1\. For the *zipcodes* collection, the aggregation below computes
+`248_706_415`. What does this number mean?
 
 
 ```js
-puts coll.aggregate([ {"$group" => {_id: 0, sum: {"$sum" => "$pop"}}} ])
-#=> {"_id"=>0, "sum"=>248690240}
+coll.aggregate({ $group: {_id: 0, sum: {$sum: "$pop"}} })
+// {
+//   "result": [
+//     {
+//       "_id": 0,
+//       "sum": 248706415
+//     }
+//   ],
+//   "ok": 1
+// }
 ```
 
-3\. How many different names are in the *cal* collection?
+2\. How many different names are in the *cal* collection?
