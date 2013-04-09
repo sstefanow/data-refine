@@ -278,11 +278,11 @@ The following aggregation pipeline computes this:
 coll = db.cal  // switch collection
 
 coll.aggregate(
-  { $project: {names: 1, _id: 0}},
+  { $project: {names: 1, _id: 0} },
   { $unwind: "$names" },
   { $group: {_id: "$names", count: {$sum: 1}} },
   { $sort: {count: -1} },
-  { $limit: 6}
+  { $limit: 6 }
 )
 ```
 
@@ -290,9 +290,7 @@ The sample document created by the `$project` pipeline operator
 looks like:
 
 ```json
-{
-  "names": [ "Sylwestra", "Melanii", "Mariusza" ]
-}
+{ "names": [ "Sylwestra", "Melanii", "Mariusza" ] }
 ```
 
 The `$unwind` operator creates one document for every member of
