@@ -298,8 +298,8 @@ The `$unwind` operator creates one document for every member of
 documents:
 
 ```json
-{ "names": "Sylwestra" },
-{ "names": "Melanii"   },
+{ "names": "Sylwestra" }
+{ "names": "Melanii"   }
 { "names": "Mariusza"  }
 ```
 
