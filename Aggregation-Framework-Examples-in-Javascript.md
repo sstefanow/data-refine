@@ -134,18 +134,9 @@ This aggregate pipeline produces:
 ```json
 {
   "result": [
-    {
-      "_id": "DC",
-      "avgCityPop": 303450
-    },
-    {
-      "_id": "CA",
-      "avgCityPop": 27581.113067655235
-    },
-    {
-      "_id": "FL",
-      "avgCityPop": 26676.136082474226
-    }
+    { "_id": "DC", "avgCityPop": 303450 },
+    { "_id": "CA", "avgCityPop": 27581.113067655235 },
+    { "_id": "FL", "avgCityPop": 26676.136082474226 }
   ],
   "ok": 1
 }
