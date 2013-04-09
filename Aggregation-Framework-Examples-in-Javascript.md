@@ -250,13 +250,23 @@ Use *mongoimport* to import this data set into MongoDB:
 mongoimport --drop --db test --collection cal name_days.json
 ```
 
-After import, the collection *cal*  should contain
-364 documents in the following format:
+or use the *cal* collection from here:
+
+```sh
+mongo --username student --password sesja2013 153.19.1.202/test
+```
+
+The collection *cal*  should contain 364 documents
+in the following format:
 
 ```json
 {
-  "date" : {"day": 1, "month": 1},
-  "names": ["Mieszka", "Mieczysława", "Marii"]
+  "_id": ObjectId("51643484c20a89f0145ac8e8"),
+  "names": [
+    "Mieszka", "Mieczysława", "Marii" ],
+  "date": {
+    "day": 1, "month": 1
+  }
 }
 ```
 
@@ -264,33 +274,35 @@ After import, the collection *cal*  should contain
 
 The following aggregation pipeline computes this:
 
-```ruby
-coll = db.collection("cal") # switch collection
+```js
+coll = db.cal # switch collection
 
-puts coll.aggregate([
-  {"$project" => {names: 1, _id: 0}},
-  {"$unwind" => "$names" },
-  {"$group" => {_id: "$names", count: {"$sum" => 1}}},
-  {"$sort" => {count: -1}},
-  {"$limit" => 6}
-])
+coll.aggregate(
+  { $project: {names: 1, _id: 0}},
+  { $unwind: "$names" },
+  { $group: {_id: "$names", count: {$sum: 1}} },
+  { $sort: {count: -1} },
+  { $limit: 6}
+)
 ```
 
 The sample document created by the `$project` pipeline operator
 looks like:
 
-```ruby
-{"names"=>["Sylwestra", "Melanii", "Mariusza"]}
+```json
+{
+  "names": [ "Sylwestra", "Melanii", "Mariusza" ]
+}
 ```
 
 The `$unwind` operator creates one document for every member of
 *names* array. For example, the above document is unwinded into three
 documents:
 
-```ruby
-{"names"=>"Sylwestra"}
-{"names"=>"Melanii"}
-{"names"=>"Mariusza"}
+```json
+{ "names": "Sylwestra" },
+{ "names": "Melanii"   },
+{ "names": "Mariusza"  }
 ```
 
 These documents are grouped by the `names` field and the documents
@@ -298,21 +310,26 @@ in each group are counted by the `$sum` operator.
 
 The sample document created at this stage looks like:
 
-```ruby
-{"_id"=>"Jacka", "count"=>4}
+```json
+{ "_id": "Julii", "count": 3 }
 ```
 
 Finally, the `$sort` operator sorts these documents by the
 `count` field in descending order, and  the `$limit` operator
 outputs the first 6 documents:
 
-```ruby
-{"_id"=>"Jana",       "count"=>21}
-{"_id"=>"Marii",      "count"=>16}
-{"_id"=>"Grzegorza",  "count"=> 9}
-{"_id"=>"Piotra",     "count"=> 9}
-{"_id"=>"Feliksa",    "count"=> 8}
-{"_id"=>"Leona",      "count"=> 8}
+```json
+{
+  "result": [
+    { "_id": "Jana",      "count": 21 },
+    { "_id": "Marii",     "count": 16 },
+    { "_id": "Grzegorza", "count":  9 },
+    { "_id": "Piotra",    "count":  9 },
+    { "_id": "Feliksa",   "count":  8 },
+    { "_id": "Leona",     "count":  8 }
+  ],
+  "ok": 1
+}
 ```
 
 ### Pivot date ↺ names
@@ -320,19 +337,19 @@ outputs the first 6 documents:
 We want to pivot the *name_days.json* data set.
 Precisely, we want to convert documents from this format:
 
-```ruby
+```json
 { "date"=>{"day"=>1, "month"=>1}, "names"=>["Mieszka", "Mieczysława", "Marii"] }
 ```
 
 into this format:
 
-```ruby
+```json
 { "name"=>"Mateusza", "dates"=>[{"day"=>13, "month"=>11}, {"day"=>21, "month"=>9}]}
 ```
 
 The following aggregation pipeline does the trick:
 
-```ruby
+```js
 puts coll.aggregate([
   {"$project" => {_id: 0, date: 1, names: 1}},
   {"$unwind" => "$names"},
@@ -344,7 +361,7 @@ puts coll.aggregate([
 
 The sample document created by the unwinding stage looks like:
 
-```ruby
+```json
 {"names"=>"Eugeniusza", "date"=>{"day"=>30, "month"=>12}}
 ```
 
@@ -353,14 +370,14 @@ field. The `$addToSet` operator returns an array of all unique values
 of the `date` field found in the set of grouped documents.
 The sample document created at this stage of the pipeline looks like:
 
-```ruby
+```json
 {"_id"=>"Maksymiliana", "dates"=>[{"day"=>12, "month"=>10}, {"day"=>14, "month"=>8}]}
 ```
 
 In the last two stages we sort and reshape these documents to the
 requested format:
 
-```ruby
+```json
 {"dates"=>[{"day"=>11, "month"=>8}, {"day"=>24, "month"=>5}], "name"=>"Zuzanny"}
 ```
 
@@ -369,7 +386,7 @@ requested format:
 
 1\. What is the result of running the empty aggregation pipeline:
 
-```ruby
+```js
 coll.aggregate([])
 ```
 
@@ -377,7 +394,7 @@ coll.aggregate([])
 `248_690_240`. What does this number mean?
 
 
-```ruby
+```js
 puts coll.aggregate([ {"$group" => {_id: 0, sum: {"$sum" => "$pop"}}} ])
 #=> {"_id"=>0, "sum"=>248690240}
 ```
