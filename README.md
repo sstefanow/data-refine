@@ -12,8 +12,10 @@ Do aggregacji można wykorzystać te kolekcje:
 * *kody_pocztowe*
 * *imieniny*
 
-Są one dotępne na mojej maszynie wirtualnej na UG w Bazie MongoDB.
-Do bazy logujemy się w taki sposób:
+Te kolekcje zostały zaimportowane do bazy MongoDB działającej
+na mojej maszynie wirtualnej na UG.
+
+Do bazy logujemy się w ten sposób:
 
 ```sh
 mongo --username student --password sesja2013 153.19.1.202/test
