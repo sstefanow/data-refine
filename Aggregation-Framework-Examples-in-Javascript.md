@@ -12,7 +12,7 @@ populations in the United States. These data are available at:
 ## Requirements
 
 * [MongoDB](http://www.mongodb.org/downloads), version 2.4.1 or later.
-* (not used) [Node.js MongoDB Native Driver](https://github.com/mongodb/node-mongodb-native),
+* (TODO) [Node.js MongoDB Native Driver](https://github.com/mongodb/node-mongodb-native),
    version 1.3.0 or later.
 
 Use the following command to load *zips.json* data set into

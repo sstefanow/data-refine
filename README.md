@@ -8,9 +8,9 @@ W kwietniu zajmujemy się aggregacją danych. Należy zaimplementować
 Do aggregacji można wykorzystać kolekcje:
 
 * *census1881*
-* *zipcodes*
+* *zipcodes*, [przykładowe agregacje](/Aggregation-Framework-Examples-in-Javascript.md)
 * *kody_pocztowe*
-* *imieniny*
+* *imieniny*, [przykładowe agregacje](/Aggregation-Framework-Examples-in-Javascript.md)
 
 Te kolekcje zostały zaimportowane do bazy MongoDB działającej
 na mojej maszynie wirtualnej na UG.
