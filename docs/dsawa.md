@@ -13,7 +13,21 @@ Oryginalny plik z danymi do pobrania przez:
  * Użycie mojego skryptu (importer) z [mongo-easy-scripts](https://github.com/dsawa/mongo-easy-scripts)
  * Ewentualnie: `mongoimport --db nosql --collection zipcodes --type json --file zipcodes_part3.json --jsonArray`
 
-## Przykładowy dokument i ilość:
+## Oczyszczone JSON-y w postaci (jednolinijkowej):
+
+```json
+{
+  "kod": "71-212", 
+  "miejsce": "Szczecin", 
+  "ulica": "Ul. Janka Muzykanta", 
+  "zakres": "numery od 1 do końca obie strony", 
+  "wojewodztwo": "zachodniopomorskie", 
+  "powiat": "m. szczecin", 
+  "gmina": "M. Szczecin"
+}
+```
+
+## Przykładowy dokument po zaimportowaniu do bazy oraz ilość wszystkich:
 ```
 > db.zipcodes.count()
 140076
@@ -29,5 +43,5 @@ Oryginalny plik z danymi do pobrania przez:
 	"gmina" : "Ciechanów"
 }
 ```
-* Oczyszczone JSONy:
-[Klik](/data/json/dsawa_import_jsons)
+* Oczyszczone JSONy z racji wagi do ściągnięcia z dropboxa:
+[Klik](https://www.dropbox.com/sh/6rq54na5velgqxr/v4FkNM-eXO)
