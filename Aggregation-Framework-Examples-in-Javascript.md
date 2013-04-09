@@ -22,7 +22,7 @@ Use the following command to load *zips.json* data set into
 mongoimport --drop -d test -c zipcodes zips.json
 ```
 
-or login here:
+or use the *zipcodes* collection from here:
 
 ```sh
 mongo --username student --password sesja2013 153.19.1.202/test
