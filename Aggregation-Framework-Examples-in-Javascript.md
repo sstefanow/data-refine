@@ -275,7 +275,7 @@ in the following format:
 The following aggregation pipeline computes this:
 
 ```js
-coll = db.cal # switch collection
+coll = db.cal  // switch collection
 
 coll.aggregate(
   { $project: {names: 1, _id: 0}},
