@@ -2,6 +2,47 @@
 
 ![Data Wranglers](https://raw.github.com/nosql/data-refine/master/images/data-wrangler.jpg)
 
+W kwietniu zajmujemy się aggregacją danych. Należy zaimplementować
+3–5 aggregacji. Opisy agregacji należy dopisać do swoich plików.
+
+Do aggregacji można wykorzystać te kolekcje:
+
+* *census1881*
+* *zipcodes*
+* *kody_pocztowe*
+* *imieniny*
+
+Są one dotępne na mojej maszynie wirtualnej na UG w Bazie MongoDB.
+Do bazy logujemy się w taki sposób:
+
+```sh
+mongo --username student --password sesja2013 153.19.1.202/test
+```
+
+Na rozgrzewkę powinniśmy wykonać kilka poleceń, przykładowo:
+
+```js
+db.census1881.count()     // 4_277_807 rekordów
+db.zipcodes.count()       //    29_467
+db.kody_pocztowe.count()  //   140_076
+db.imieniny.count()       //       364
+
+db.census1881.findOne()
+// {
+//   "_id": ObjectId("51630b8b31f30759f2f32061"),
+//   "last": "richard",
+//   "first": "joseph",
+//   "age": 40,
+//   "religion": "catholic"
+// }
+```
+
+*Uwaga:* Użytkownik *student* ma uprawnienia tylko do odczytu w bazie
+ *test*.
+
+
+## Nasze dane
+
 1. Włodzimierz Bzyl, [Imieniny](/docs/anon.md).
 1. Michał Mroczkowski, [Kody pocztowe sejmometr](/docs/mmroczkowski.md).
 1. Marcin Głombiowski, [Kody pocztowe sejmometr](/docs/mglombiowski.md).
