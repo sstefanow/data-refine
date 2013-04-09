@@ -101,14 +101,17 @@ The `$group` process reads all documents and for each state it
 creates a separate document, for example:
 
 ```ruby
-{"_id"=>"WA", "total_pop"=>4866692}
+{
+   "_id": "CA",
+   "totalPop": 29760021
+}
 ```
 
-The `total_pop` field uses the `$sum` aggregation function
+The `totalPop` field uses the `$sum` aggregation function
 to sum the values of all `pop` fields in the source documents.
 
 Documents created by `$group` are piped to the `$match` pipeline
-operator. It returns the documents with the value of `total_pop` field
+operator. It returns the documents with the value of `totalPop` field
 greater than or equal to 10 million.
 
 
