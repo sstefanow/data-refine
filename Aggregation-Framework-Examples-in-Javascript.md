@@ -180,19 +180,20 @@ from the sorted set.
 To get the smallest and largest cities by population for each
 state, use the following aggregate pipeline:
 
-```ruby
-puts coll.aggregate([
-  {"$group" => {_id: {state: "$state", city: "$city"}, pop: {"$sum" => "$pop"}}},
-  {"$sort" => {pop: 1}},
-  {"$group" => {
-                _id: "$_id.state",
-      smallest_city: {"$first" => "$_id.city"},
-       smallest_pop: {"$first" => "$pop"},
-       biggest_city: { "$last" => "$_id.city"},
-        biggest_pop: { "$last" => "$pop"}
+```js
+coll.aggregate(
+  { $group: {_id: {state: "$state", city: "$city"}, pop: {$sum: "$pop"}} },
+  { $sort: {pop: 1} },
+  {
+    $group: {
+      _id: "$_id.state",
+      smallestCity: {$first: "$_id.city"},
+      smallestPop:  {$first: "$pop"},
+      biggestCity:  {$last:  "$_id.city"},
+      biggestPop:   {$last:  "$pop"}
     }
   }
-])
+)
 ```
 
 The first `$group` operator creates a new document for every
@@ -203,8 +204,14 @@ It sums the values of the `pop` field in the grouped documents.
 
 The sample document created at this stage looks like:
 
-```ruby
-{"_id"=>{"state"=>"AL", "city"=>"Cottondale"}, "pop"=>4727}
+```json
+{
+  "_id": {
+    "state": "AZ",
+    "city": "GOODYEAR"
+  },
+  "pop": 5819
+}
 ```
 
 *Note*: To preserve the values of the `state` and `city` fields
@@ -222,13 +229,14 @@ biggest population and the city population.
 
 The sample document created at this stage looks like:
 
-```ruby
+```json
 {
-  "_id"=>"OH",
-  "smallest_city" => "Isle Saint Georg", "smallest_pop" =>     38,
-  "biggest_city"  =>        "Cleveland", "biggest_pop"  => 536759
+  "_id": "CA",
+  "smallestCity": "OREGON HOUSE",
+  "smallestPop": 0,
+  "biggestCity": "LOS ANGELES",
+  "biggestPop": 2102295
 }
-
 ```
 
 ## Unwinding data in the Name Days Data Set
