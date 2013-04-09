@@ -28,7 +28,7 @@ or use the *zipcodes* collection from here:
 mongo --username student --password sesja2013 153.19.1.202/test
 ```
 
-**Note:** The *student* user is given only the *read* privileges
+**Note:** The *student* user is given only the **read** privileges
 in the *test* database.
 
 
