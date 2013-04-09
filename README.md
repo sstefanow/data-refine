@@ -5,7 +5,7 @@
 W kwietniu zajmujemy się aggregacją danych. Należy zaimplementować
 3–5 aggregacji. Opisy agregacji należy dopisać do swoich plików.
 
-Do aggregacji można wykorzystać te kolekcje:
+Do aggregacji można wykorzystać kolekcje:
 
 * *census1881*
 * *zipcodes*
