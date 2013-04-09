@@ -1,6 +1,6 @@
-# Ceny Towar�w i Us�ug - �ukasz Wasak
+﻿# Ceny Towarów i Usług - Łukasz Wasak
 
-Dane pobrane z [GUS](http://www.stat.gov.pl/bdl/app/strona.html?p_name=indeks), u�yto 32 zestaw�w danych:
+Dane pobrane z [GUS](http://www.stat.gov.pl/bdl/app/strona.html?p_name=indeks), użyto 32 zestawów danych:
 
 ## Towary nie kompsumcyjne
 * [DP_20130306_142707.csv](http://dl.dropbox.com/u/44655481/Data/nie%20kompsumcyjne/DP_20130306_142707.csv)
@@ -14,34 +14,35 @@ Dane pobrane z [GUS](http://www.stat.gov.pl/bdl/app/strona.html?p_name=indeks), 
 * [DP_20130306_145526.csv](http://dl.dropbox.com/u/44655481/Data/rolnictwo/DP_20130306_145526.csv)
 * [DP_20130306_145607.csv](http://dl.dropbox.com/u/44655481/Data/rolnictwo/DP_20130306_145607.csv)
 
-## Towary spo�ywcze
+## Towary spożywcze
 
 ### Przetwory
 * [DP_20130306_133022.csv](http://dl.dropbox.com/u/44655481/Data/spozywcze/przetwory/DP_20130306_133022.csv)
 
-### T�uszcze i nabia�
+### Tłuszcze i nabiał
 * [DP_20130306_132715.csv](http://dl.dropbox.com/u/44655481/Data/spozywcze/t%C5%82uszcze%20i%20nabia%C5%82/DP_20130306_132715.csv)
 * [DP_20130306_132715.csv](http://dl.dropbox.com/u/44655481/Data/spozywcze/t%C5%82uszcze%20i%20nabia%C5%82/DP_20130306_132715.csv)
 
-### Wyroby mi�sne
+### Wyroby mięsne
 * [DP_20130306_133300.csv](http://dl.dropbox.com/u/44655481/Data/spozywcze/miesne/DP_20130306_133300.csv)
 * [DP_20130306_133435.csv](http://dl.dropbox.com/u/44655481/Data/spozywcze/miesne/DP_20130306_133435.csv)
 
-### Zbo�owe
+### Zbożowe
 * [DP_20130306_133826.csv](http://dl.dropbox.com/u/44655481/Data/spozywcze/zbozowe/DP_20130306_133826.csv)
 
-### Pozosta�e
+### Pozostałe
 * [DP_20130306_133619.csv](http://dl.dropbox.com/u/44655481/Data/spozywcze/zbozowe/DP_20130306_133619.csv)
-## Towary i us�ugi kompsumcyjne
+
+## Towary i usługi kompsumcyjne
 	### Mieszkanie
 * [DP_20130306_143621.csv](http://dl.dropbox.com/u/44655481/Data/towary%20i%20ulugi%20kompsumcyjne/mieszkanie/DP_20130306_143621.csv)
 * [DP_20130306_143713.csv](http://dl.dropbox.com/u/44655481/Data/towary%20i%20ulugi%20kompsumcyjne/mieszkanie/DP_20130306_143713.csv)
 * [DP_20130306_143756.csv](http://dl.dropbox.com/u/44655481/Data/towary%20i%20ulugi%20kompsumcyjne/mieszkanie/DP_20130306_143756.csv)
 
-### Napoje alkoholowe i tyto�
+### Napoje alkoholowe i tytoń
 * [DP_20130306_143908.csv](http://dl.dropbox.com/u/44655481/Data/towary%20i%20ulugi%20kompsumcyjne/napoje%20alkoholowe%20i%20tyton/DP_20130306_143908.csv)
 
-### Odzie� i obuwie
+### Odzież i obuwie
 * [DP_20130306_144042.csv](http://dl.dropbox.com/u/44655481/Data/towary%20i%20ulugi%20kompsumcyjne/odziez%20i%20obuwie/DP_20130306_144042.csv)
 * [DP_20130306_144145.csv](http://dl.dropbox.com/u/44655481/Data/towary%20i%20ulugi%20kompsumcyjne/odziez%20i%20obuwie/DP_20130306_144145.csv)
 
@@ -54,7 +55,7 @@ Dane pobrane z [GUS](http://www.stat.gov.pl/bdl/app/strona.html?p_name=indeks), 
 ### Zdrowie
 * [DP_20130306_144435.csv](http://dl.dropbox.com/u/44655481/Data/towary%20i%20ulugi%20kompsumcyjne/zdrowie/DP_20130306_144435.csv)
 
-### �ywno�� i napoje bez alkoholowe
+### Żywność i napoje bez alkoholowe
 * [DP_20130306_144609.csv](http://dl.dropbox.com/u/44655481/Data/towary%20i%20ulugi%20kompsumcyjne/zywnosc%20i%20napoje%20bez%20alkoholowe/DP_20130306_144609.csv)
 * [DP_20130306_144715.csv](http://dl.dropbox.com/u/44655481/Data/towary%20i%20ulugi%20kompsumcyjne/zywnosc%20i%20napoje%20bez%20alkoholowe/DP_20130306_144715.csv)
 * [DP_20130306_144850.csv](http://dl.dropbox.com/u/44655481/Data/towary%20i%20ulugi%20kompsumcyjne/zywnosc%20i%20napoje%20bez%20alkoholowe/DP_20130306_144850.csv)
@@ -66,9 +67,9 @@ Dane pobrane z [GUS](http://www.stat.gov.pl/bdl/app/strona.html?p_name=indeks), 
 ### Inne
 * [DP_20130306_143448.csv](http://dl.dropbox.com/u/44655481/Data/towary%20i%20ulugi%20kompsumcyjne/inne/DP_20130306_143448.csv)
 
-Ca�kowita liczba rekord�w 50200.
+Całkowita liczba rekordów 50200.
 	
-## Przyk�adowy JSON 
+## Przykładowy JSON 
 ```json
 {"towar":"słonina","ilosc":1,"jednostka_miary":"kg","rok":1999,"waluta":"zł","region":"POLSKA","cena":1.94}
 {"towar":"słonina","ilosc":1,"jednostka_miary":"kg","rok":2000,"waluta":"zł","region":"POLSKA","cena":2.64}
