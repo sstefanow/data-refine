@@ -120,21 +120,35 @@ greater than or equal to 10 million.
 To get the first three states with the greatest average population
 per city, use the following aggregation:
 
-```ruby
-puts coll.aggregate([
-  {"$group" => {_id: {state: "$state", city: "$city"}, pop: {"$sum" => "$pop"}}},
-  {"$group" => {_id: "$_id.state", avg_city_pop: {"$avg" => "$pop"}}},
-  {"$sort" => {avg_city_pop: -1}},
-  {"$limit" => 3}
-])
+```js
+coll.aggregate(
+  { $group: {_id: {state: "$state", city: "$city"}, pop: {$sum: "$pop"}} },
+  { $group: {_id: "$_id.state", avgCityPop: {$avg: "$pop"} } },
+  { $sort: {avgCityPop: -1} },
+  { $limit: 3 }
+)
 ```
 
 This aggregate pipeline produces:
 
-```ruby
-{"_id"=>"DC", "avg_city_pop"=>303450.0}
-{"_id"=>"FL", "avg_city_pop"=>27942.29805615551}
-{"_id"=>"CA", "avg_city_pop"=>27735.341099720412}
+```json
+{
+  "result": [
+    {
+      "_id": "DC",
+      "avgCityPop": 303450
+    },
+    {
+      "_id": "CA",
+      "avgCityPop": 27581.113067655235
+    },
+    {
+      "_id": "FL",
+      "avgCityPop": 26676.136082474226
+    }
+  ],
+  "ok": 1
+}
 ```
 
 The above aggregation pipeline is build from three pipeline operators:
@@ -142,8 +156,14 @@ The above aggregation pipeline is build from three pipeline operators:
 
 The first `$group` operator creates the following documents:
 
-```ruby
-{"_id"=>{"state"=>"WY", "city"=>"Smoot"}, "pop"=>414}
+```json
+{
+  "_id": {
+    "state": "AZ",
+    "city": "GOODYEAR"
+  },
+  "pop": 5819
+}
 ```
 
 Note, that the `$group` operator can’t use nested documents
@@ -152,11 +172,14 @@ except the `_id` field.
 The second `$group` uses these documents to create the following
 documents:
 
-```ruby
-{"_id"=>"FL", "avg_city_pop"=>27942.29805615551}
+```json
+{
+  "_id": "WY",
+  "avgCityPop": 3359.911111111111
+}
 ```
 
-These documents are sorted by the `avg_city_pop` field in descending order.
+These documents are sorted by the `avgCityPop` field in descending order.
 Finally, the `$limit` pipeline operator returns the first 3 documents
 from the sorted set.
 
