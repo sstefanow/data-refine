@@ -60,22 +60,29 @@ In these documents:
 To get all states with a population greater than 10 million, use
 the following aggregation pipeline:
 
-```ruby
-puts coll.aggregate([
-  {"$group" => {_id: "$state", total_pop: {"$sum" => "$pop"}}},
-  {"$match" => {total_pop: {"$gte" => 10_000_000}}}
-])
+```js
+coll = db.zipcodes
+
+coll.aggregate(
+  { $group: {_id: "$state", totalPop: {$sum: "$pop"}} },
+  { $match: {totalPop: {$gte: 10000000}} }
+)
 ```
 The result:
 
-```ruby
-{"_id"=>"PA", "total_pop"=>11881643}
-{"_id"=>"OH", "total_pop"=>10847115}
-{"_id"=>"NY", "total_pop"=>17990455}
-{"_id"=>"FL", "total_pop"=>12937284}
-{"_id"=>"TX", "total_pop"=>16986510}
-{"_id"=>"IL", "total_pop"=>11430472}
-{"_id"=>"CA", "total_pop"=>29760021}
+```json
+{
+  "result": [
+    { "_id": "PA", "totalPop": 11881643 },
+    { "_id": "OH", "totalPop": 10847115 },
+    { "_id": "NY", "totalPop": 17990455 },
+    { "_id": "TX", "totalPop": 16986510 },
+    { "_id": "FL", "totalPop": 12937926 },
+    { "_id": "IL", "totalPop": 11430602 },
+    { "_id": "CA", "totalPop": 29760021 }
+  ],
+  "ok": 1
+}
 ```
 
 The above aggregation pipeline is build from two pipeline operators:
