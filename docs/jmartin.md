@@ -14,7 +14,8 @@
 * eksportujemy
 
 ## Przykładowe dane o locie
-```js
+
+```json
 {
   "Designation" : "Apollo 7",
   "Date" : "Oct. 11-22, 1968",
