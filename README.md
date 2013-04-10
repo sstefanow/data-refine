@@ -71,6 +71,7 @@ db.census1881.findOne()
 1. Jan Pawlukiewicz, [Pomniki przyrody w Raciborzu](/docs/joshuaBE.md).
 1. Damian Szafranek, [Przeciętne miesięczne wynagrodzenia brutto](/docs/dszafranek.md).
 1. Adrian Szulc, [Ilość pomieszczeń szkolnych w szkołach podstawowych](/docs/aszulc.md).
+1. Daniel Landowski, [Kody pocztowe wg powiatów dla województwa pomorskiego.](/docs/dlandows.md).
 
 
 ## Ściąga z Gita
