@@ -9,8 +9,11 @@ Do aggregacji można wykorzystać kolekcje:
 
 * *census1881*
 * *zipcodes*, [przykładowe agregacje](/Aggregation-Framework-Examples-in-Javascript.md)
-* *kody_pocztowe*
+* *kody_pocztowe* (D. Sawa)
 * *imieniny*, [przykładowe agregacje](/Aggregation-Framework-Examples-in-Javascript.md)
+* *ceny* (Ł. Wasak)
+* *car_market* (M. Stanik)
+
 
 Te kolekcje zostały zaimportowane do bazy MongoDB działającej
 na mojej maszynie wirtualnej na UG.
