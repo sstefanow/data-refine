@@ -16,7 +16,8 @@ Kody pocztowe wg powiatów dla województwa pomorskiego.
 
 ## Przykładowe dane
 
-```
+```csv
+kod_pocztowy,miasto,powiat,oddzial,adres
 89-650,Czersk,chojnicki,Poczta Czersk,nie podano
 ```
 
