@@ -71,10 +71,42 @@ Całkowita liczba rekordów 50200.
 	
 ## Przykładowy JSON 
 ```json
-{"towar":"słonina","ilosc":1,"jednostka_miary":"kg","rok":1999,"waluta":"zł","region":"POLSKA","cena":1.94}
-{"towar":"słonina","ilosc":1,"jednostka_miary":"kg","rok":2000,"waluta":"zł","region":"POLSKA","cena":2.64}
-{"towar":"słonina","ilosc":1,"jednostka_miary":"kg","rok":2001,"waluta":"zł","region":"POLSKA","cena":3.53}
-{"towar":"słonina","ilosc":1,"jednostka_miary":"kg","rok":2002,"waluta":"zł","region":"POLSKA","cena":3.16}
+{
+    "towar": "słonina",
+    "ilosc": 1,
+    "jednostka_miary": "kg",
+    "rok": 1999,
+    "waluta": "zł",
+    "region": "POLSKA",
+    "cena": 1.94
+} 
+{
+    "towar": "słonina",
+    "ilosc": 1,
+    "jednostka_miary": "kg",
+    "rok": 2000,
+    "waluta": "zł",
+    "region": "POLSKA",
+    "cena": 2.64
+} 
+{
+    "towar": "słonina",
+    "ilosc": 1,
+    "jednostka_miary": "kg",
+    "rok": 2001,
+    "waluta": "zł",
+    "region": "POLSKA",
+    "cena": 3.53
+} 
+{
+    "towar": "słonina",
+    "ilosc": 1,
+    "jednostka_miary": "kg",
+    "rok": 2002,
+    "waluta": "zł",
+    "region": "POLSKA",
+    "cena": 3.16
+}
 ```
 ## Linki
 
