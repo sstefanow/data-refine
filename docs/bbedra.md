@@ -31,4 +31,4 @@ Przykładowe dane
 
 Plik z oczyszczonymi danymi
 -----------------------------
-[link](https://github.com/bbedra/data-refine/blob/master/data/json/bbedra_airports_csv.json)
+[link](https://github.com/nosql/data-refine/blob/master/data/json/bbedra_airports_csv.json)
