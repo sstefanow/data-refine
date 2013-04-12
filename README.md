@@ -13,6 +13,9 @@ Do aggregacji można wykorzystać kolekcje:
 * *imieniny*, [przykładowe agregacje](/Aggregation-Framework-Examples-in-Javascript.md)
 * *ceny* (Ł. Wasak)
 * *car_market* (M. Stanik)
+* *poland* – Open Street Data dla Polski
+* *ukgov* (P. Jażdżewski)
+* *airports* (B. Bedra)
 
 
 Te kolekcje zostały zaimportowane do bazy MongoDB działającej
