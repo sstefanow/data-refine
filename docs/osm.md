@@ -7,8 +7,10 @@ Dane pobrano ze strony
 wget 'http://overpass-api.de/api/interpreter?data=[out:json];node(49,14,55,24)[amenity];out;' -O poland.json
 ```
 
-Następnie dane zostały oczyszczone i przekształcone, tak aby łatwo można
-je było zaimportować do MongoDB (jeden JSON w jednym wierszu)
+Następnie dane zostały oczyszczone i przekształcone za pomocą programu
+[jq](http://stedolan.github.io/jq/),
+tak aby można było łatwo je zaimportować do MongoDB
+(jeden JSON w jednym wierszu)
 oraz dodano pole *location*:
 
 ```sh
