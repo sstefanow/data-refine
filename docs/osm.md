@@ -43,3 +43,9 @@ Przykładowy dokument z kolekcji *poland* (108240 dokumentów):
   }
 }
 ```
+
+Dane są dostępne na maszynie wirtualnej:
+
+```sh
+mongo -u student -p sesja2013 153.19.1.202/test
+```
