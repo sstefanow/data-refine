@@ -57,7 +57,7 @@ MapReduce:
 
 ```js
 coll = db.poland
-m = function() { Object.keys(this.tags).forEach(function(key) { emit(key, 1)}); }
+m = function() { Object.keys(this.tags).forEach(function(key) { emit(key, 1); }); }
 r = function(key, values) { return Array.sum(values); }
 db.osm.drop()
 coll.mapReduce(m, r, {out: "osm"})
