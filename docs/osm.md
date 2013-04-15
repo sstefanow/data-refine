@@ -51,7 +51,7 @@ mongo -u student -p sesja2013 153.19.1.202/test
 ```
 
 
-## Lista atrybutów obiektu `tags`:
+## Lista wszystkich kluczy występujących w *tags*
 
 MapReduce:
 
