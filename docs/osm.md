@@ -63,7 +63,7 @@ db.osm.drop()
 coll.mapReduce(m, r, {out: "osm"})
 ```
 
-Sprawdzamy najczęściej występujące atrybuty w `tags`::
+Sprawdzamy, które klucze występują najczęściej:
 
 ```js
 db.osm.find().sort({value: -1})
