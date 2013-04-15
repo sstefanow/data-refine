@@ -69,7 +69,7 @@ Sprawdzamy najczęściej występujące atrybuty w `tags`::
 db.osm.find().sort({value: -1})
 ```
 
-Ciekawsze atrybuty:
+Ciekawsze klucze:
 
 ```
 name:    47_756
