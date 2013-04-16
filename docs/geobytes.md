@@ -42,5 +42,5 @@ Przykładowy rekord z kolekcji *cities*:
 }
 ```
 
-**TODO:** niektóre napisy zawierają niepotrzebne spacje, np.
-"Warsaw ", "Europe ". Do usunięcia.
+**TODO:** Niektóre napisy zawierają niepotrzebne spacje, np.
+`"Warsaw "`, `"Europe "`.
