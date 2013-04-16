@@ -39,7 +39,8 @@ Przykładowy rekord z kolekcji *cities*:
   "code": "GDAN",
   "time_zone": "+01:00",
   "city": "Gdansk"
-}```
+}
+```
 
 **TODO:** niektóre napisy zawierają niepotrzebne spacje, np.
 "Warsaw ", "Europe ". Do usunięcia.
