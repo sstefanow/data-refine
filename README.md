@@ -52,7 +52,8 @@ db.census1881.findOne()
 ## Nasze dane
 
 1. Włodzimierz Bzyl, [Imieniny](/docs/anon.md),
-   [Open Street Map Data dla Polski](/docs/osm.md).
+   [Open Street Map Data dla Polski](/docs/osm.md),
+   [GeoBytes](/docs/geobytes.md) – państwa i miasta.
 1. Michał Mroczkowski, [Kody pocztowe sejmometr](/docs/mmroczkowski.md).
 1. Marcin Głombiowski, [Kody pocztowe sejmometr](/docs/mglombiowski.md).
 1. Pawel Kaminski, [Sacramento crimes](/docs/pkamin.md).
