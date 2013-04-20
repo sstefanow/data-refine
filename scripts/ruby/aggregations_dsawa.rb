@@ -55,6 +55,23 @@ voivoidships_grouped = zipcodes.aggregate([{ '$group' =>
 puts separator
 voivoidships_grouped.each { |hash| puts "Województwo: #{hash['voivoidship']}, #{hash[count_field]} wpisów." }
 
+# Średnia ilość wpisów dla miasta wg województw.
+cities_avg = zipcodes.aggregate([{ '$group' =>
+                                           { :_id => { :wojewodztwo => '$wojewodztwo', :miejsce => '$miejsce' },
+                                             count_field => { '$sum' => 1 }
+                                           }
+                                       },
+                                       { '$group' =>
+                                           { :_id => '$_id.wojewodztwo', :avg_zipcodes => { '$avg' => '$' + count_field } }
+                                       },
+                                       { '$sort' => { :avg_zipcodes => -1 } },
+                                       { '$project' => { :_id => 0, :avg_zipcodes => 1, :voivoidship => '$_id' } }
+                                      ])
+puts separator
+cities_avg.each do |hash|
+  puts "Miasto w województwie: #{hash['voivoidship']}, posiada średnio #{hash['avg_zipcodes'].round(2)} wpisów."
+end
+
 # Znalezienie kodów pocztowych zaczynających sie na 84 lub 85, gdzie liczba wpisów większa od 5
 zipcodes_regex = zipcodes.aggregate([{ '$match' => { :kod => /8[45]-\d{3}/ } },
                                      { '$group' => { :_id => '$miejsce', count_field => { '$sum' => 1 } } },
