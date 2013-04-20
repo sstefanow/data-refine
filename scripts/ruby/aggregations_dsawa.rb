@@ -11,8 +11,7 @@ collection = 'zipcodes'
 connection_info = <<CONNECTION_INFO
 Nie podano informacji wszystkich potrzebnych do połączenia się z bazą.
 Skrypt może przepytać o wymagane informacje, lub załadować domyślne.
-Co zrobić?
-(d - domyślne) (p - pytaj mnie) (q - wyjdź)
+Co zrobić? (d - domyślne) (p - pytaj mnie) (q - wyjdź)
 CONNECTION_INFO
 
 if ARGV.size < 4 && ARGV.first != 'd'
@@ -32,6 +31,11 @@ if ARGV.size < 4 && ARGV.first != 'd'
     else
       exit!
   end
+elsif ARGV.size == 4
+  host = ARGV.first
+  port = ARGV[1].to_i
+  db = ARGV[2]
+  collection = ARGV.last
 end
 
 db = MongoClient.new(host, port, w: 1, wtimeout: 200, j: true).db(db)
