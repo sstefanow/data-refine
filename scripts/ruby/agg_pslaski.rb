@@ -41,8 +41,8 @@ zipcodes = sigma.collection(collection)
 
 puts "Liczba wszystkich wpisów zipcodes: #{zipcodes.count}"
 
-# srednia liczba kodow pocztowych. dla powiatu w danym wojewodztwie
 count = 'count'
+# srednia liczba kodow pocztowych. dla powiatu w danym wojewodztwie
 
 county_avg = zipcodes.aggregate([{'$group' => { :_id => { :powiat => '$powiat', :wojewodztwo => '$wojewodztwo'}, count => { '$sum' => 1}}},
 									{'$group' => { :_id => '$_id.wojewodztwo', :avg => { '$avg' => '$' + count}}},
@@ -54,7 +54,8 @@ puts county_avg
 
 # ulice z najwieksza liczba kodow w Polsce (>= 200)
 
-max_streets = zipcodes.aggregate([{'$group' => { :_id => { :ulica => '$ulica'}, count => {'$sum' => 1}}},
+max_streets = zipcodes.aggregate([{'$match' => {:ulica => /.*/}},
+                                 {'$group' => { :_id => { :ulica => '$ulica'}, count => {'$sum' => 1}}},
                                  {'$match' => {:count => {'$gte' => 200}}},
                                  {'$sort' => {:count => -1}},
                                  {'$project' => { :_id => 0, :ulica => '$_id.ulica', :count => 1}}])
@@ -62,7 +63,7 @@ max_streets = zipcodes.aggregate([{'$group' => { :_id => { :ulica => '$ulica'}, 
 puts sep
 puts max_streets
 
-#   znalezienie miejscowosci z kodem w postaci xx-xxx np. 11-111, 22-222 itp
+#  znalezienie miejscowosci z kodem w postaci xx-xxx np. 11-111, 22-222 itp
 
 zip_with_same_digits = zipcodes.aggregate([{'$match' => { :kod => /(\d)\1-\1\1\1/}},
                                           {'$sort' => { :kod => -1}},
@@ -74,7 +75,7 @@ puts zip_with_same_digits
 
 warsaw_zips = zipcodes.aggregate([{'$match' => {:miejsce => /Warszawa/}},
                                  {'$group' => {:_id => {:miejsce => '$miejsce'}, count => {'$sum' => 1}}},
-                                 {'$project' => {:_id => 0, :miejsce => '$_id', count => 1}},
+                                 {'$project' => {:_id => 0, :miejsce => '$_id.miejsce', count => 1}},
                                  {'$sort' => {count => -1}}])
 
 puts sep
