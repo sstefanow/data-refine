@@ -7,7 +7,7 @@ Impotujemy baze cen do mongoDB
 mongoimport --db Ceny --collection Prices --type json --file Ceny.json
 ```
 
-## Agregację C#
+## Agregację C♯
 
 Do agregacji użyłem drivera dla C# i bazy mongoDB.
 
@@ -100,4 +100,4 @@ var result = collection.Aggregate(pipeline);
 
 Teraz nasze wyniki rezyduja w zmiennej result, dojsc do nich mozemy przez result.ResultDocuments, jest to kolekcja zwierajaca rekordy z naszej agregacji.
 
-* [ Link do pliku źródłowego ](../scripts/c#/lwasak_ceny_agg.cs)
+* [ Link do pliku źródłowego ](/scripts/c#/lwasak_ceny_agg.cs)
