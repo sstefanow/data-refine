@@ -11,14 +11,14 @@ Oryginalne dane pobrałem w formacie csv z serwisu [stooq.pl](http://stooq.pl/q/
 
 ## Przykładowe rekordy:
 ```json
-{
+    {
       "Data" : "2013-03-07",
       "Otwarcie" : 2478.96,
       "Najwyzszy" : 2485,
       "Najnizszy" : 2471.46,
       "Zamkniecie" : 2474.7,
       "Wolumen" : 29561629
-    },
+    }
     {
       "Data" : "2013-03-08",
       "Otwarcie" : 2485.48,
