@@ -34,7 +34,7 @@ Dane pobrane z [GUS](http://www.stat.gov.pl/bdl/app/strona.html?p_name=indeks), 
 * [DP_20130306_133619.csv](http://dl.dropbox.com/u/44655481/Data/spozywcze/zbozowe/DP_20130306_133619.csv)
 
 ## Towary i usługi kompsumcyjne
-	### Mieszkanie
+### Mieszkanie
 * [DP_20130306_143621.csv](http://dl.dropbox.com/u/44655481/Data/towary%20i%20ulugi%20kompsumcyjne/mieszkanie/DP_20130306_143621.csv)
 * [DP_20130306_143713.csv](http://dl.dropbox.com/u/44655481/Data/towary%20i%20ulugi%20kompsumcyjne/mieszkanie/DP_20130306_143713.csv)
 * [DP_20130306_143756.csv](http://dl.dropbox.com/u/44655481/Data/towary%20i%20ulugi%20kompsumcyjne/mieszkanie/DP_20130306_143756.csv)
