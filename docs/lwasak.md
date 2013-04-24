@@ -109,7 +109,7 @@ Całkowita liczba rekordów 50200.
 }
 ```
 ## Linki
-
+* [ Agregacje na danych ](lwasak_agg.md)
 * [ Json z danymi ](http://dl.dropbox.com/u/44655481/Data/Ceny.json)
 * [ Historia transformacji ](http://dl.dropbox.com/u/44655481/Data/Transformations.json)
 
