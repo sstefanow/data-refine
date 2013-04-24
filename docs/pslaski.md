@@ -29,7 +29,7 @@ Oryginalne dane pobrałem w formacie csv z serwisu [stooq.pl](http://stooq.pl/q/
     }
 ```
 * Oczyszczone Dane:
-[Klik](/data/json/pslaski_WIG20.json)
+[Klik](/data/json/pslaski_wig20.json)
 
 
 #Agregacje
