@@ -1,4 +1,4 @@
-# Ceny Towarów i Usług Agregację - Łukasz Wasak
+# Ceny Towarów i Usług Agregację – Łukasz Wasak
 
 ## Import Danych
 
@@ -62,7 +62,7 @@ var priceFluctuation = new BsonDocument
                 };
 ```
 
-Ta agregacja pokazuje średnią cen w roku w danym województwie. 
+Ta agregacja pokazuje średnią cen w roku w danym województwie.
 ```c#
 var regionAveragePrice = new BsonDocument
                 {
@@ -72,7 +72,7 @@ var regionAveragePrice = new BsonDocument
                             { "rok", 1 },
                             { "region", 1 },
                         }
-                    }, 
+                    },
                     { "$group", new BsonDocument
                         {
                             { "_id", new BsonDocument
@@ -92,7 +92,7 @@ var regionAveragePrice = new BsonDocument
 ```
 
 Gdy juz mamy swoje agregację teraz wystarczy wrzucić je na pipeline i ja odpalić. Możemy wrzucić kilka agregacji na pipeline, wtedy po skonczonej pierwszej agregacji,
-dane z niej przejda do drugiej gdzie będą obrobione. Ja napisałem pojedyncze agregację tak by nie potrzebowaly dodatkowej obróbki. 
+dane z niej przejda do drugiej gdzie będą obrobione. Ja napisałem pojedyncze agregację tak by nie potrzebowaly dodatkowej obróbki.
 ```c#
 var pipeline = new[] { regionAveragePrice };
 var result = collection.Aggregate(pipeline);
@@ -100,4 +100,4 @@ var result = collection.Aggregate(pipeline);
 
 Teraz nasze wyniki rezyduja w zmiennej result, dojsc do nich mozemy przez result.ResultDocuments, jest to kolekcja zwierajaca rekordy z naszej agregacji.
 
-* [ Link do pliku źródłowego ](/scripts/c#/lwasak_ceny_agg.cs)
+* [Link do pliku źródłowego](/scripts/c%23/lwasak_ceny_agg.cs)

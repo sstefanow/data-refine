@@ -68,8 +68,8 @@ Dane pobrane z [GUS](http://www.stat.gov.pl/bdl/app/strona.html?p_name=indeks), 
 * [DP_20130306_143448.csv](http://dl.dropbox.com/u/44655481/Data/towary%20i%20ulugi%20kompsumcyjne/inne/DP_20130306_143448.csv)
 
 Całkowita liczba rekordów 50200.
-	
-## Przykładowy JSON 
+
+## Przykładowy JSON
 ```json
 {
     "towar": "słonina",
@@ -79,7 +79,7 @@ Całkowita liczba rekordów 50200.
     "waluta": "zł",
     "region": "POLSKA",
     "cena": 1.94
-} 
+}
 {
     "towar": "słonina",
     "ilosc": 1,
@@ -88,7 +88,7 @@ Całkowita liczba rekordów 50200.
     "waluta": "zł",
     "region": "POLSKA",
     "cena": 2.64
-} 
+}
 {
     "towar": "słonina",
     "ilosc": 1,
@@ -97,7 +97,7 @@ Całkowita liczba rekordów 50200.
     "waluta": "zł",
     "region": "POLSKA",
     "cena": 3.53
-} 
+}
 {
     "towar": "słonina",
     "ilosc": 1,
@@ -109,7 +109,8 @@ Całkowita liczba rekordów 50200.
 }
 ```
 ## Linki
-* [ Agregacje na danych ](lwasak_agg.md)
-* [ Json z danymi ](http://dl.dropbox.com/u/44655481/Data/Ceny.json)
-* [ Historia transformacji ](http://dl.dropbox.com/u/44655481/Data/Transformations.json)
+
+* [Agregacje na danych](lwasak_agg.md)
+* [JSON z danymi](http://dl.dropbox.com/u/44655481/Data/Ceny.json)
+* [Historia transformacji](http://dl.dropbox.com/u/44655481/Data/Transformations.json)
 
