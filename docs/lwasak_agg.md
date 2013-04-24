@@ -1,4 +1,13 @@
-# Ceny Towarów i Usług Agregacje - Łukasz Wasak
+# Ceny Towarów i Usług Agregację - Łukasz Wasak
+
+## Import Danych
+
+Impotujemy baze cen do mongoDB
+```bash
+mongoimport --db Ceny --collection Prices --type json --file Ceny.json
+```
+
+## Agregację C#
 
 Do agregacji użyłem drivera dla C# i bazy mongoDB.
 
@@ -18,7 +27,7 @@ var collection = database.GetCollection<Product>("Prices");
 
 Teraz jak już jestemy połączeni to możemy zacząć zabawę z agregacjami.
 
-Agregacja ta Ppokazuje jak ceny produktów zmieniały sie na przestrzenie lat w polskich województwach.
+Agregacja ta pokazuje jak ceny produktów zmieniały sie na przestrzeni lat w polskich województwach.
 ```c#
 var priceFluctuation = new BsonDocument
                 {
@@ -82,8 +91,8 @@ var regionAveragePrice = new BsonDocument
                 };
 ```
 
-Gdy juz mamy swoje agregacja teraz wystarczy wrzucić je na pipeline i ja odpalić. Możemy wrzucić kilka agregacji na pipeline, wtedy po skonczonej pierwszej agregacji,
-dane z nije przejda do drugiej gdzie beda obrobione. Ja napisałem pojedyncze agregacje tak by nie potrzebowaly dodatkowej obróbki. 
+Gdy juz mamy swoje agregację teraz wystarczy wrzucić je na pipeline i ja odpalić. Możemy wrzucić kilka agregacji na pipeline, wtedy po skonczonej pierwszej agregacji,
+dane z niej przejda do drugiej gdzie będą obrobione. Ja napisałem pojedyncze agregację tak by nie potrzebowaly dodatkowej obróbki. 
 ```c#
 var pipeline = new[] { regionAveragePrice };
 var result = collection.Aggregate(pipeline);
@@ -91,4 +100,4 @@ var result = collection.Aggregate(pipeline);
 
 Teraz nasze wyniki rezyduja w zmiennej result, dojsc do nich mozemy przez result.ResultDocuments, jest to kolekcja zwierajaca rekordy z naszej agregacji.
 
-* [ Link do pliku źródłowego ](../Scripts/c#/lwasak_ceny_agg.cs)
+* [ Link do pliku źródłowego ](../scripts/c#/lwasak_ceny_agg.cs)
