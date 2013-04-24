@@ -109,7 +109,7 @@ Całkowita liczba rekordów 50200.
 }
 ```
 
-# Ceny Towarów i Usług Agregację – Łukasz Wasak
+# Agregację
 
 ## Import Danych
 
@@ -212,8 +212,9 @@ var result = collection.Aggregate(pipeline);
 Teraz nasze wyniki rezyduja w zmiennej result, dojsc do nich mozemy przez result.ResultDocuments, jest to kolekcja zwierajaca rekordy z naszej agregacji.
 
 ### Wynik Agregacji - Ceny towarów na przestrzeni lat
+
+Fragment z 5106 rekordów.
 ```json
-5106 documents found.
  {
      "_id": 
 	 {
@@ -238,8 +239,7 @@ Teraz nasze wyniki rezyduja w zmiennej result, dojsc do nich mozemy przez result
              "price": 0.27
          },
 		 {
-             "year": 200
-             5,
+             "year": 2005,
              "price": 0.22
          },
 		 {
@@ -260,12 +260,12 @@ Teraz nasze wyniki rezyduja w zmiennej result, dojsc do nich mozemy przez result
          }
      ]
  } 
-...
 ```
 
 ### Wynik Agregacji - Średnia Cena w Regionach na przestrzeni lat
+
+Fragment z 299 rekordów.
 ```json
-299 documents found.
 { "_id" : { "region" : "WARMIŃSKO-MAZURSKIE", "year" : 2009 }, "value" : 242.87540909090922 }
 { "_id" : { "region" : "WARMIŃSKO-MAZURSKIE", "year" : 2008 }, "value" : 245.69644144144152 }
 { "_id" : { "region" : "WARMIŃSKO-MAZURSKIE", "year" : 2006 }, "value" : 253.01964757709249 }
@@ -276,7 +276,6 @@ Teraz nasze wyniki rezyduja w zmiennej result, dojsc do nich mozemy przez result
 { "_id" : { "region" : "POMORSKIE", "year" : 2010 }, "value" : 217.01894009216582 }
 { "_id" : { "region" : "POMORSKIE", "year" : 2008 }, "value" : 212.82599099099116 }
 { "_id" : { "region" : "POMORSKIE", "year" : 2007 }, "value" : 202.14066964285715 }
-...
 ```
 
 * [Link do pliku źródłowego](/scripts/c%23/lwasak_ceny_agg.cs)
