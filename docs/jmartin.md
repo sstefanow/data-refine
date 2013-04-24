@@ -30,19 +30,16 @@ Cały plik: [jmartin.json](/data/json/jmartin.json)
 
 ## Przygotowania
 * Pobranie danych - imieniny
-
 ```sh
 wget https://raw.github.com/nosql/data-refine/master/data/csv/imieniny.csv
 ```
 
 * import do mongo
-
 ```sh
 mongoimport --drop --headerline --type csv --collection imieniny < imieniny.csv
 ```
 
 * zmiana formatu danych w rubym
-
 ```ruby
 require 'mongo'
 include Mongo
@@ -61,7 +58,6 @@ end
 ## Agregacje
 
 * kto musi świętować jednocześnie sylwester i swoje imieniny?
-
 ``` js
 db.imieniny.aggregate(
   { $project: { names: 1, date : 2} },
