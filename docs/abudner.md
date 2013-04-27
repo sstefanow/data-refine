@@ -137,7 +137,7 @@ Wynik :
   { _id: 'LODZ', suma: 15 } ]
 ```
 
-##3\. Miasta w województwie, które posiadają najmniej i najwięcej zakresów IP
+###3\. Miasta w województwie, które posiadają najmniej i najwięcej zakresów IP
 
 ```js
 	collection.aggregate([
