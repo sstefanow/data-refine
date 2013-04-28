@@ -81,6 +81,7 @@ db.census1881.findOne()
 1. Adrian Szulc, [Ilość pomieszczeń szkolnych w szkołach podstawowych](/docs/aszulc.md).
 1. Daniel Landowski, [Kody pocztowe wg powiatów dla województwa pomorskiego](/docs/dlandows.md).
 1. Dawid Wiśniewski, [Statystyki meczowe angielskiej Premier League sezonu 05/06](/docs/dwisniewski.md).
+1. Adam Grabowski, [Statystyki NBA 2012/2013](/docs/agrabows.md).
 
 
 ## Ściąga z Gita
