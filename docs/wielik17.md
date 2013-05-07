@@ -37,3 +37,36 @@ Ilość Budynków mieszkalnych w roku 2011 w rejonie Pomorskim
 {"Budownictwo_mieszkaniowe": "przeznaczone na sprzedaż lub wynajem","Jednostka": "","Ilosc": ""},
 {"Budownictwo_mieszkaniowe": "mieszkania","Jednostka": "mieszk.","Ilosc": 249},
 ```
+
+##Agregacja danych : 
+
+wykorzystałem dane [zips.json](http://media.mongodb.org/zips.json)
+
+50 pogrupowanych o najmniejszej populacji : 
+```json
+coll.aggregate(
+  { $group: {_id: {state: "$state", city: "$city"}, pop: {$sum: "$pop"}} },
+  { $group: {_id: "$_id.state", minCityPop: {$min: "$pop"} } },
+  { $sort: {minCityPop: 1} },
+  { $limit: 50 }
+)
+```
+pogrupowane by state o średniej populacji większej niż 1000 , posortowane malejąco
+
+```json
+coll.aggregate(
+  { $group: {_id: "$state", totalPop: {$sum: "$pop"}, avgPop: {$avg: "$pop"}} },
+  { $match: {avgPop: {$gte: 1000}} },
+  { $sort: {totalPop: -1}}
+)
+```
+5 pogrupowanych miejscowości z największą popularnością 
+
+```json
+coll.aggregate(
+  { $group: {_id: {state : "$state",city: "$city"} ,largestPop: {$last: "$pop"}} },
+  { $sort: { largestPop : -1}},
+  { $limit: 5}
+)
+```
+
