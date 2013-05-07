@@ -55,6 +55,120 @@ Dane na temat wydatków brytyjskiego Home Offce w 2010 roku
     },
 ```
 
+## Agregacje na danych(js):
+
+### 1\. Wydatki agregowane wg. dostawcy - wartosci srednie i sumaryczne, dla sum powyzej 10k
+```js
+db.nosql.aggregate( { 
+	$group : { 
+		_id : "$Supplier",
+		suma : { $sum : "$Amount" },
+		srednia : { $avg : "$Amount" }
+	} 
+},{ 
+	$match : {
+		suma : { $gte : 10000 }
+	} 
+} )
+```
+
+### Wynik (fragment)
+```json
+{
+        "_id" : "LAMBERT SMITH HAMPTON",
+        "suma" : 29229.57,
+        "srednia" : 7307.3925
+},
+{
+        "_id" : "MERSEYSIDE POLICE AUTHORITY (G)",
+        "suma" : 1037391.98,
+        "srednia" : 51869.599
+}
+```
+
+### 2\. -||- posortowane malejaco wg. sumy oraz sredniej wartosci
+```js
+db.nosql.aggregate( { 
+	$group : { 
+		_id : "$Supplier",
+		suma : { $sum : "$Amount" },
+		srednia : { $avg : "$Amount" }
+	} 
+}, { 
+	$match : {
+		suma : { $gte : 10000 }
+	} 
+}, { 
+	$sort: { 
+		suma: -1, 
+		srednia: -1 
+	} 
+} )
+```
+
+### Wynik (fragment)
+```json
+{
+        "_id" : "ROYAL BOROUGH KINGSTON UPON THAMES (G)",
+        "suma" : 13103.57,
+        "srednia" : 4367.856666666667
+},
+{
+        "_id" : "ATOMIC WEAPONS ESTABLISHMENT (AWE) PLC",
+        "suma" : 13077.12,
+        "srednia" : 6538.56
+}
+```
+
+### 3\. -||- wybierz pierwszych X dostawcow wg. sredniej malejaco
+```js
+db.nosql.aggregate( { 
+	$group : { 
+		_id : "$Supplier",
+		suma : { $sum : "$Amount" },
+		srednia : { $avg : "$Amount" }
+	} 
+}, { 
+	$match : {
+		suma : { $gte : 10000 }
+	} 
+}, { 
+	$sort: { srednia: -1 } 
+}, { $limit : 5 } )
+```
+
+### Wynik 
+```json
+{"result" : [
+        {
+                "_id" : "GREATER LONDON AUTHORITY (G)",
+                "suma" : 4466373.050000001,
+                "srednia" : 279148.31562500005
+        },
+        {
+                "_id" : "HMRC",
+                "suma" : 390069.07,
+                "srednia" : 195034.535
+        },
+        {
+                "_id" : "IBM UNITED KINGDOM LIMITED",
+                "suma" : 394025.48,
+                "srednia" : 98506.37
+        },
+        {
+                "_id" : "WELSH ASSEMBLY GOVERNMENT (G)",
+                "suma" : 98058.5,
+                "srednia" : 98058.5
+        },
+        {
+                "_id" : "GREATER MANCHESTER POLICE AUTHORIT",
+                "suma" : 1304135.25,
+                "srednia" : 93152.51785714286
+        }
+],
+"ok" : 1}
+```
+
 ## Procedura oczyszczania - 28 kroków:
 ```json
 [
