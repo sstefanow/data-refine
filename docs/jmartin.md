@@ -23,7 +23,7 @@
   "Crew" : "Wally Schirra, Walt Cunningham, Donn Eisele"
 }
 ```
-Cały plik: [jmartin.json](/data/json/jmartin.json)
+Cały plik: [datarefine.json](/data/json/jmartin/datarefine.json)
 
 #Agregacje
 --------------------------------
@@ -70,3 +70,31 @@ db.imieniny.aggregate(
   { $match: {_id: "31/12"} }
 )
 ```
+
+Wynik: [aggr1.json](/data/json/jmartin/aggr1.json)
+
+* 10 osób z największą liczbą imienin
+
+```js
+db.imieniny.aggregate(
+  { $project: { _id : 0, names: 1, date : 1} },
+  { $unwind: "$names" },
+  { $group: { _id : "$names", count: {$sum : 1}} },
+  { $sort: {count: -1} },
+  { $limit : 10 }
+)
+```
+
+Wynik: [aggr1.json](/data/json/jmartin/aggr2.json)
+
+lc = LineChart.build 'Test' do
+  size '350x250'
+  axes :bottom, :range  => { :start => 1, :end => 3, :interval => 1 }
+  axes :left,   :labels => %w{ A B C}
+
+  dataset 'First' do
+    data  [15,5,35]
+    color :red
+    marker ChartMarker.new(:type => :circle, :size => 12)
+  end
+end
