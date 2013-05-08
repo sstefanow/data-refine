@@ -60,7 +60,7 @@ end
 
 ## Agregacje - w konsoli mongo
 
-* ile osób musi świętować jednocześnie sylwester i swoje imieniny?
+* **ile osób musi świętować jednocześnie sylwester i swoje imieniny?**
 
 ```js
 db.imieniny.aggregate(
@@ -73,7 +73,7 @@ db.imieniny.aggregate(
 
 Wynik: [aggr1.json](/data/json/jmartin/aggr1.json)
 
-* 10 osób z największą liczbą imienin
+* **10 osób z największą liczbą imienin**
 
 ```js
 db.imieniny.aggregate(
