@@ -18,8 +18,18 @@ Plik pobrany wyeksportowany z sql do csv. Następnie wrzucony do google refine t
 
 
 Ilość kodów pocztowych w Małym Trójmieście
+```Java
+	DBObject match = new BasicDBObject("$match", new BasicDBObject(
+				"miejsce", new BasicDBObject("$in", new String[] { "Rumia",
+						"Reda", "Wejherowo" })));
+	DBObject sumFields = new BasicDBObject("_id", "$miejsce");
+	sumFields.put("count_field", new BasicDBObject("$sum", 1));
+	DBObject sum = new BasicDBObject("$group", sumFields);
 
+		AggregationOutput output = coll.aggregate(match, sum);
 ```
+
+```Json
 {
   "serverUsed": "/153.19.1.202:27017",
   "result": [
