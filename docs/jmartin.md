@@ -87,14 +87,4 @@ db.imieniny.aggregate(
 
 Wynik: [aggr1.json](/data/json/jmartin/aggr2.json)
 
-lc = LineChart.build 'Test' do
-  size '350x250'
-  axes :bottom, :range  => { :start => 1, :end => 3, :interval => 1 }
-  axes :left,   :labels => %w{ A B C}
-
-  dataset 'First' do
-    data  [15,5,35]
-    color :red
-    marker ChartMarker.new(:type => :circle, :size => 12)
-  end
-end
+![](http://chart.apis.google.com/chart?chs=600x350&chg=4,10,1,4&cht=bhg&chd=t:84,64,36,36,32,32,28,28,28,28&chxt=x,y&chxl=1:|Juliana|Izydora|Teodora|Pawla|Leona|Feliksa|Grzegorza|Piotra|Marii|Jana&chxr=0,0,25)
