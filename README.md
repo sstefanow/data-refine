@@ -83,6 +83,7 @@ db.census1881.findOne()
 1. Dawid Wiśniewski, [Statystyki meczowe angielskiej Premier League sezonu 05/06](/docs/dwisniewski.md).
 1. Adam Grabowski, [Statystyki NBA 2012/2013](/docs/agrabows.md).
 1. Przemysław Jakuła, [GeoNames - country, state, region, city, village, road, railroad](/docs/pjakula.md).
+1. Adam Dąbrowski, [Czołgi II wojny światowej] (/docs/ww2tanks.md).
 
 
 ## Ściąga z Gita
