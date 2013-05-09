@@ -105,3 +105,22 @@ db.census1881.aggregate(
 Wynik: [aggr3.json](/data/json/jmartin/aggr3.json)
 
 ![](http://chart.apis.google.com/chart?chs=450x200&cht=p&chd=t:45.7,17.6,16.2,13.6,6.9&chdl=catholic|methodist|presbyterian|the%20church%20of%20england|baptist&chl=45.7%|17.6%|16.2%|13.6%|6.9%)
+
+* **5 restauracji niedaleko UG - poland**
+
+przygotowujemy na localu dane zgodnie z [osm.md](/docs/osm.md).
+
+w konsoli mongo wpisujemy:
+
+```js
+db.poland.ensureIndex({ 'location.coordinates' : '2d'})
+```
+
+agregacja:
+
+```js
+db.poland.aggregate(
+  { "$geoNear" : { near: [18.573622,54.395732] , distanceField: 'distance', limit: 5, query : { 'tags.amenity' : "restaurant" } }},
+  { "$project" : { _id: 0, tags: '$tags', distance: '$distance' } }
+)
+```
