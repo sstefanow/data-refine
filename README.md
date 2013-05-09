@@ -122,7 +122,7 @@ git rebase -i HEAD~6                       # poprawiamy ostatnich 6 commitów
 
 .. edycja ..
 ....  edit -- jeśli chcemy poprawić ten commit lub coś do niego dodać
-........  git reset HEAD^  # zazwyczaj tak zaczynamy poprawki
+........  git reset HEAD^  # rollback the last commit
 ........  git status
 ........  git add --patch  # lub dodajemy/edytujemy pliki
 ........
