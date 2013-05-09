@@ -23,7 +23,7 @@
   "Crew" : "Wally Schirra, Walt Cunningham, Donn Eisele"
 }
 ```
-Cały plik: [jmartin.json](/data/json/jmartin.json)
+Cały plik: [datarefine.json](/data/json/jmartin/datarefine.json)
 
 #Agregacje
 --------------------------------
@@ -60,7 +60,7 @@ end
 
 ## Agregacje - w konsoli mongo
 
-* ile osób musi świętować jednocześnie sylwester i swoje imieniny?
+* **ile osób musi świętować jednocześnie sylwester i swoje imieniny?**
 
 ```js
 db.imieniny.aggregate(
@@ -70,3 +70,21 @@ db.imieniny.aggregate(
   { $match: {_id: "31/12"} }
 )
 ```
+
+Wynik: [aggr1.json](/data/json/jmartin/aggr1.json)
+
+* **10 osób z największą liczbą imienin**
+
+```js
+db.imieniny.aggregate(
+  { $project: { _id : 0, names: 1, date : 1} },
+  { $unwind: "$names" },
+  { $group: { _id : "$names", count: {$sum : 1}} },
+  { $sort: {count: -1} },
+  { $limit : 10 }
+)
+```
+
+Wynik: [aggr1.json](/data/json/jmartin/aggr2.json)
+
+![](http://chart.apis.google.com/chart?chs=600x350&chg=4,10,1,4&cht=bhg&chd=t:84,64,36,36,32,32,28,28,28,28&chxt=x,y&chxl=1:|Juliana|Izydora|Teodora|Pawla|Leona|Feliksa|Grzegorza|Piotra|Marii|Jana&chxr=0,0,25)
