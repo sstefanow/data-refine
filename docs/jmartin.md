@@ -88,3 +88,20 @@ db.imieniny.aggregate(
 Wynik: [aggr1.json](/data/json/jmartin/aggr2.json)
 
 ![](http://chart.apis.google.com/chart?chs=600x350&chg=4,10,1,4&cht=bhg&chd=t:84,64,36,36,32,32,28,28,28,28&chxt=x,y&chxl=1:|Juliana|Izydora|Teodora|Pawla|Leona|Feliksa|Grzegorza|Piotra|Marii|Jana&chxr=0,0,25)
+
+## Agregacje z wykorzystaniem maszyny wirtualnej na UG
+
+* **porównanie ilości wierzących pięciu największych religii w Wielkiej Brytani - census1881**
+
+```js
+db.census1881.aggregate(
+  { $project: { _id : 0, religion: 1} },
+  { $group: { _id : "$religion", count: {$sum : 1}} },
+  { $sort: {count: -1} },
+  { $limit : 5 }
+)
+```
+
+Wynik: [aggr3.json](/data/json/jmartin/aggr3.json)
+
+![](http://chart.apis.google.com/chart?chs=450x200&cht=p&chd=t:45.7,17.6,16.2,13.6,6.9&chdl=catholic|methodist|presbyterian|the%20church%20of%20england|baptist&chl=45.7%|17.6%|16.2%|13.6%|6.9%)
