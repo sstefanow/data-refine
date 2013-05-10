@@ -47,8 +47,6 @@ Link do gotowego pliku z danymi (wersje: CSV i JSON) - [link](https://skydrive.l
 
 # Agregacje
 
-[Link do skryptu PHP](/../scripts/php/dszymczak-agregacje.php)
-
 ### Średnia cena wszystkich produktów w każdym roku. 
 Liczone od 2003 roku, ponieważ we wcześniejszych latach jest dużo mniej towarów.
 
@@ -61,7 +59,12 @@ db.ceny.aggregate(
 )
 ```
 
+
 Dane wynikowe:
+
+
+![1. agregacja - wykres](http://chart.apis.google.com/chart?chs=400x200&chbh=30,10&cht=lc&chtt=Srednia+cena+produktow+w+danym+roku&chd=t:55.22,61.67,68.28,79.83,75.97,79.48,81.54,84.09,90.33&chxt=x,y&chxl=0:|2003|2004|2005|2006|2007|2008|2009|2010|2011|1:|0|50|100|150|200|250|300)
+
 
 ```
 {
@@ -107,7 +110,8 @@ Dane wynikowe:
 }
 ```
 
-### 5 religii, którzych średnia liczba wyznawców jest najwyższa.
+
+### 5 religii z najwyższą średnią wieku wśród wyznawców.
 
 ```
 db.census1881.aggregate(
@@ -118,7 +122,12 @@ db.census1881.aggregate(
 )
 ```
 
+
 Dane wynikowe:
+
+
+![2. agregacja - wykres](http://chart.apis.google.com/chart?chs=500x300&chbh=60,10&cht=bvo&chtt=Najwyzszy+sredni+wiek+wyznawcow&chd=t:95,91,91,89,89&chxt=x,y&chxl=0:|f|proestant|scandinavian|bbl christ|moroviun|1:|0|20|40|60|80|100)
+
 
 ```
 {
@@ -148,6 +157,7 @@ Dane wynikowe:
 }
 ```
 
+
 ### Lista 5 najdroższych aut, które zmieszczą się w moim małym garażu garażu.
 
 ```
@@ -160,6 +170,10 @@ db.car_market.aggregate(
 ```
 
 Dane wynikowe:
+
+
+![3. agregacja - wykres](http://chart.apis.google.com/chart?chs=500x300&chbh=30,10&cht=bvo&chtt=Najdrozsze+samochody+-+Mercedes&chd=t:86.145,70.395,56.195,55.848,53.645&chxt=x,y&chxl=0:|C1500|E55|CLK430|E430|C43|1:|0|20000|40000|60000|80000|100000)
+
 
 ```
 {
