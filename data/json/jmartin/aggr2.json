@@ -1,0 +1,45 @@
+{
+        "result" : [
+                {
+                        "_id" : "Jana",
+                        "count" : 21
+                },
+                {
+                        "_id" : "Marii",
+                        "count" : 16
+                },
+                {
+                        "_id" : "Piotra",
+                        "count" : 9
+                },
+                {
+                        "_id" : "Grzegorza",
+                        "count" : 9
+                },
+                {
+                        "_id" : "Feliksa",
+                        "count" : 8
+                },
+                {
+                        "_id" : "Leona",
+                        "count" : 8
+                },
+                {
+                        "_id" : "PawĹa",
+                        "count" : 7
+                },
+                {
+                        "_id" : "Teodora",
+                        "count" : 7
+                },
+                {
+                        "_id" : "Izydora",
+                        "count" : 7
+                },
+                {
+                        "_id" : "Juliana",
+                        "count" : 7
+                }
+        ],
+        "ok" : 1
+}
