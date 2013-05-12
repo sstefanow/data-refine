@@ -278,6 +278,10 @@ Fragment z 299 rekordów.
 { "_id" : { "region" : "POMORSKIE", "year" : 2007 }, "value" : 202.14066964285715 }
 ```
 
+### Wykres zamina cen Chleba i Ryżu w województwie Pomorskim
+
+<img src="http://chart.apis.google.com/chart?cht=lc&chs=1000x300&chd=t:1.94,2.17,2.13,2.12,2.21,1.91,2.24,2.65,3.17,3.22,3.2,3.56|0,0,0,1.98,2.59,2.74,2.63,2.89,3.99,4.63,4.19,4.1&chds=0,5&chls=3,3,0|3,3,0&chdl=Chleb|Ry%C5%BC&chco=0000ff,ff0000&chxt=x,y&chxl=0:|2000|2001|2002|2003|2004|2005|2006|2007|2008|2009|2010|2011|1:||1|2|3|4|5"/>
+
 * [Link do pliku źródłowego](/scripts/c%23/lwasak_ceny_agg.cs)
 
 
