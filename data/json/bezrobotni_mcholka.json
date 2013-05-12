@@ -318,12 +318,6 @@
 	}
 	{
 		"wojewodztwo": "LUBELSKIE",
-		"powiat": "WOJ. LUBELSKIE",
-		"ilosc": "140.9",
-		"procent": "14.9"
-	}
-	{
-		"wojewodztwo": "LUBELSKIE",
 		"powiat": "Bialski",
 		"ilosc": "7.4",
 		"procent": "16.6"
@@ -468,12 +462,6 @@
 	}
 	{
 		"wojewodztwo": "LUBUSKIE",
-		"powiat": "WOJ. LUBUSKIE",
-		"ilosc": "65.3",
-		"procent": "16.8"
-	}
-	{
-		"wojewodztwo": "LUBUSKIE",
 		"powiat": "Gorzowski",
 		"ilosc": "3.4",
 		"procent": "14.1"
@@ -555,12 +543,6 @@
 		"powiat": "m. Zielona Góra",
 		"ilosc": "5.1",
 		"procent": "8.7"
-	}
-	{
-		"wojewodztwo": "£ÓDZKIE",
-		"powiat": "WOJ. £ÓDZKIE",
-		"ilosc": "164.0",
-		"procent": "14.9"
 	}
 	{
 		"wojewodztwo": "£ÓDZKIE",
@@ -708,12 +690,6 @@
 	}
 	{
 		"wojewodztwo": "MA£OPOLSKIE",
-		"powiat": "WOJ. MA£OPOLSKIE",
-		"ilosc": "176.7",
-		"procent": "12.5"
-	}
-	{
-		"wojewodztwo": "MA£OPOLSKIE",
 		"powiat": "Bocheñski",
 		"ilosc": "5.0",
 		"procent": "12.4"
@@ -843,12 +819,6 @@
 		"powiat": "m. Tarnów",
 		"ilosc": "6.4",
 		"procent": "10.7"
-	}
-	{
-		"wojewodztwo": "MAZOWIECKIE",
-		"powiat": "WOJ. MAZOWIECKIE",
-		"ilosc": "296.8",
-		"procent": "11.6"
 	}
 	{
 		"wojewodztwo": "MAZOWIECKIE",
@@ -1104,12 +1074,6 @@
 	}
 	{
 		"wojewodztwo": "OPOLSKIE",
-		"powiat": "WOJ. OPOLSKIE",
-		"ilosc": "57.8",
-		"procent": "15.5"
-	}
-	{
-		"wojewodztwo": "OPOLSKIE",
 		"powiat": "Brzeski",
 		"ilosc": "7.1",
 		"procent": "22.3"
@@ -1179,12 +1143,6 @@
 		"powiat": "m. Opole",
 		"ilosc": "5.8",
 		"procent": "8.1"
-	}
-	{
-		"wojewodztwo": "PODKARPACKIE",
-		"powiat": "WOJ. PODKARPACKIE",
-		"ilosc": "162.1",
-		"procent": "16.9"
 	}
 	{
 		"wojewodztwo": "PODKARPACKIE",
@@ -1338,12 +1296,6 @@
 	}
 	{
 		"wojewodztwo": "PODLASKIE",
-		"powiat": "WOJ. PODLASKIE",
-		"ilosc": "73.9",
-		"procent": "15.5"
-	}
-	{
-		"wojewodztwo": "PODLASKIE",
 		"powiat": "Bia³ostocki",
 		"ilosc": "9.3",
 		"procent": "19.1"
@@ -1443,12 +1395,6 @@
 		"powiat": "m. Suwa³ki",
 		"ilosc": "4.2",
 		"procent": "14.3"
-	}
-	{
-		"wojewodztwo": "POMORSKIE",
-		"powiat": "WOJ. POMORSKIE",
-		"ilosc": "126.5",
-		"procent": "14.5"
 	}
 	{
 		"wojewodztwo": "POMORSKIE",
@@ -1569,12 +1515,6 @@
 		"powiat": "m. Sopot",
 		"ilosc": "1.0",
 		"procent": "5.2"
-	}
-	{
-		"wojewodztwo": "ŒL¥SKIE",
-		"powiat": "WOJ. ŒL¥SKIE",
-		"ilosc": "225.4",
-		"procent": "12.0"
 	}
 	{
 		"wojewodztwo": "ŒL¥SKIE",
@@ -1794,12 +1734,6 @@
 	}
 	{
 		"wojewodztwo": "ŒWIÊTOKRZYSKIE",
-		"powiat": "WOJ. ŒWIÊTOKRZYSKIE",
-		"ilosc": "92.0",
-		"procent": "16.6"
-	}
-	{
-		"wojewodztwo": "ŒWIÊTOKRZYSKIE",
 		"powiat": "Kielecki",
 		"ilosc": "15.5",
 		"procent": "21.0"
@@ -1881,12 +1815,6 @@
 		"powiat": "W³oszczowski",
 		"ilosc": "3.1",
 		"procent": "14.8"
-	}
-	{
-		"wojewodztwo": "WARMIÑSKO-MAZURSKIE",
-		"powiat": "WOJ. WARMIÑSKO-MAZURSKIE",
-		"ilosc": "121.3",
-		"procent": "22.3"
 	}
 	{
 		"wojewodztwo": "WARMIÑSKO-MAZURSKIE",
@@ -2013,12 +1941,6 @@
 		"powiat": "m. Olsztyn",
 		"ilosc": "7.8",
 		"procent": "8.9"
-	}
-	{
-		"wojewodztwo": "WIELKOPOLSKIE",
-		"powiat": "WOJ. WIELKOPOLSKIE",
-		"ilosc": "162.5",
-		"procent": "10.7"
 	}
 	{
 		"wojewodztwo": "WIELKOPOLSKIE",
@@ -2229,12 +2151,6 @@
 		"powiat": "m. Poznañ",
 		"ilosc": "15.3",
 		"procent": "4.7"
-	}
-	{
-		"wojewodztwo": "ZACHODNIOPOMORSKIE",
-		"powiat": "WOJ. ZACHODNIOPOMORSKIE",
-		"ilosc": "119.2",
-		"procent": "18.9"
 	}
 	{
 		"wojewodztwo": "ZACHODNIOPOMORSKIE",

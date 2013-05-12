@@ -10,11 +10,12 @@ Dane pochodz¹ ze strony : [http://www.stat.gov.pl/gus](http://www.stat.gov.pl/gu
 - do oczyszczenia danych u¿y³em google refine
 - oczyszczenie wymaga³o usuniêcia zbêdnych kolumn, usuniêcia zbêdnych wierszy, podmienienia numeracji województw nazwami, posortowania województwami
 - po oczyszczeniu danych wyeksportowa³em je do formatu CSV równie¿ poprzez google refine
-- dane w formacie csv przekonwertowa³em do formatu JSON poprzez: [http://www.cparker15.com](http://www.cparker15.com/code/utilities/csv-to-json)
+- dane w formacie csv przekonwertowa³em do formatu JSON poprzez: [www.cparker15.com](http://www.cparker15.com/code/utilities/csv-to-json)
 
 ##Moje Dane:
 
 [Dane w formacie CSV](../data/csv/bezrobotni_mcholka.csv)
+
 [Dane w formacie JSON](../data/json/bezrobotni_mcholka.json)
 
 ##Przyk³adowe dane w formacie JSON:
