@@ -85,6 +85,7 @@ db.census1881.findOne()
 1. Przemysław Jakuła, [GeoNames - country, state, region, city, village, road, railroad](/docs/pjakula.md).
 1. Adam Dąbrowski, [Czołgi II wojny światowej] (/docs/ww2tanks.md).
 1. Mateusz Skorb, [Monety okolicznościowe 2 złote] (/docs/mskorb.md).
+1. Michał Chołka, [Bezrobotni] (docs/mcholka.md).
 
 ## Ściąga z Gita
 
