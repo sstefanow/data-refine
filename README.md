@@ -89,16 +89,30 @@ db.census1881.findOne()
 ## Ściąga z Gita
 
 * Scott Chacon, [Pro Git](http://git-scm.com/book);
-  [pl](http://git-scm.com/book/pl) (niekompletne tłumaczenie).
+  [niekompletne tłumaczenie na język polski](http://git-scm.com/book/pl).
+
+Dwa sposoby radzenia sobie z taką sytuacją:
+**This pull request can be automatically merged**.
+
+Sposób 1:
 
 ```sh
-git shortlog --no-merges
-
 git remote add pjz90 git://github.com/pjz90/data-refine.git
 git fetch pjz90
-git merge pjz99/master
+git merge pjz90/master
   .. edycja .. rozwiązywanie konfliktów
 git remote rm pjz90
+```
+
+Sposób 2 (sugerowany przez GitHub Team):
+
+```sh
+git checkout -b bbedra-master master
+git pull git://github.com/bbedra/data-refine.git master
+git checkout master
+git merge bbedra-master
+git push origin master
+git branch -d bedra-master
 ```
 
 Undo różnych rzeczy:
