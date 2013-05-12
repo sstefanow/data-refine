@@ -287,6 +287,6 @@ Fragment z 299 rekordów.
 
 ## Linki
 
-* [JSON z danymi](http://dl.dropbox.com/u/44655481/Data/Ceny.json)
+* [JSON z danymi](https://dl.dropboxusercontent.com/u/634385/ceny-towarow-i-uslug.json)
 * [Historia transformacji](http://dl.dropbox.com/u/44655481/Data/Transformations.json)
 
