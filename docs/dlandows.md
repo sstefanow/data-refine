@@ -64,7 +64,7 @@ coll.aggregate(
 }
 ```
 
-### Imieniny, które świętowane są dokładnie 3 razy w roku:
+### Imieniny, które świętowane są dokładnie 6 razy w roku:
 ```js
 coll = db.cal
 
