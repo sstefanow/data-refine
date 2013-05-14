@@ -86,6 +86,7 @@ db.census1881.findOne()
 1. Adam Dąbrowski, [Czołgi II wojny światowej] (/docs/ww2tanks.md).
 1. Mateusz Skorb, [Monety okolicznościowe 2 złote] (/docs/mskorb.md).
 1. Michał Chołka, [Bezrobotni] (docs/mcholka.md).
+1. Wojciech Szymański, [Wypadki drogowe] (docs/wszymanski.md).
 
 ## Ściąga z Gita
 
