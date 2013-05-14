@@ -56,3 +56,81 @@
 
 [plik csv przed użyciem Google Refine] (/data/csv/pomieszczenia_szkolne.csv)
 [Po użyciu Google Refine w formacie JSON](/data/json/pomieszczenia_szkolne.json)
+
+## Google Chart Tools
+
+Procentowe rozmieszczenie pomieszczeń szkolnych województwa podlaskiego w roku
+2011.
+
+![google_chart1](https://raw.github.com/aszulc/data-refine/master/images/aszulc_agr1.jpg)
+
+Ilość pomieszczeń danych wejewództw w latach 2007-2011.
+
+![google_chart2](https://raw.github.com/aszulc/data-refine/master/images/aszulc_agr2.jpg)
+
+## Aggregacje wykonane na kolekcji imieniny.
+
+Wypisanie dat, w które konkretne imie, w tym przypadku Bogdan, ma imieniny.
+
+```js
+coll = db.imieniny
+
+coll.aggregate([
+	{ $project: { _id : 0, names: 1, date : 1} },
+	{ $match : { names : "Bogdana" }},
+	{ $group: { _id: "$date"}}
+])
+```
+
+Częściowy wynik
+
+```js
+ {
+         "_id" : {
+                 "day" : 10,
+                 "month" : 12
+         }
+ },
+ {
+         "_id" : {
+                 "day" : 31,
+                 "month" : 8
+         }
+ },
+ {
+         "_id" : {
+                 "day" : 17,
+                 "month" : 7
+         }
+ },
+```
+
+Wypisanie imion, które tylko raz w roku obchodzą imieniny.
+
+```js
+coll = db.imieniny
+
+coll.aggregate([
+  { $project: { _id : 0, names: 1, date : 1} },
+  { $unwind: "$names" },
+  { $group: { _id : "$names", count: {$sum : 1}} },
+  { $match : { count : 1 }}
+])
+```
+
+Częściowy wynik
+
+```js
+ {
+         "_id" : "Eulalii",
+         "count" : 1
+ },
+ {
+         "_id" : "Polikarpa",
+         "count" : 1
+ },
+ {
+         "_id" : "Apolonii",
+         "count" : 1
+ }
+```
