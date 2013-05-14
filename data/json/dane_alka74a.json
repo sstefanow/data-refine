@@ -1,82 +1,1009 @@
-{"miejscowosc":"Brzeg Głogowski","wojewodztwo":"dolnośląskie","nazwa_zabytku":"Kościół Bożego Ciała","data":"XIII w."}
-{"miejscowosc":"Głogów","wojewodztwo":"dolnośląskie","nazwa_zabytku":"zamek książęcy","data":"XIII w."}
-{"miejscowosc":"Głogów","wojewodztwo":"dolnośląskie","nazwa_zabytku":"kościół św. Piotra","data":"XII w."}
-{"miejscowosc":"Głogów","wojewodztwo":"dolnośląskie","nazwa_zabytku":"kolegiata Wniebowzięcia NMP","data":"XIII w."}
-{"miejscowosc":"Głogów","wojewodztwo":"dolnośląskie","nazwa_zabytku":"kościół św. Mikołaja","data":"XIII w."}
-{"miejscowosc":"Nowy Kościół","wojewodztwo":"dolnośląskie","nazwa_zabytku":"ruiny kościoła Najświętszej Marii Panny","data":"XIII w."}
-{"miejscowosc":"Pastuchów","wojewodztwo":"dolnośląskie","nazwa_zabytku":"kościół św. Barbary","data":"XIII w."}
-{"miejscowosc":"Pielgrzymka","wojewodztwo":"dolnośląskie","nazwa_zabytku":"kościół Narodzenia Najświętszej Marii Panny","data":"XIII w."}
-{"miejscowosc":"Proszków","wojewodztwo":"dolnośląskie","nazwa_zabytku":"kościół św. Anny","data":"XIV w."}
-{"miejscowosc":"Raciborowice Górne","wojewodztwo":"dolnośląskie","nazwa_zabytku":"kościół św. Michała Archanioła","data":"XIII w."}
-{"miejscowosc":"Sędziszowa","wojewodztwo":"dolnośląskie","nazwa_zabytku":"ruiny kościoła św. Katarzyny","data":"XIII w."}
-{"miejscowosc":"Sokołowiec","wojewodztwo":"dolnośląskie","nazwa_zabytku":"kościół parafialny św. Jadwigi","data":"XIII w."}
-{"miejscowosc":"Środa Śląska","wojewodztwo":"dolnośląskie","nazwa_zabytku":"kościół św. Andrzeja","data":"XII w."}
-{"miejscowosc":"Święta Katarzyna","wojewodztwo":"dolnośląskie","nazwa_zabytku":"kościół obronny św. Katarzyny Aleksandryjskiej","data":"XIII w."}
-{"miejscowosc":"Środa Śląska","wojewodztwo":"dolnośląskie","nazwa_zabytku":"kościół św. Piotra i Pawła","data":"XIII w."}
-{"miejscowosc":"Tymowa","wojewodztwo":"dolnośląskie","nazwa_zabytku":"kościół Najświętszej Marii Panny","data":"XIII w."}
-{"miejscowosc":"Ujazd Górny","wojewodztwo":"dolnośląskie","nazwa_zabytku":"kościół św. Marcina","data":"XIII w."}
-{"miejscowosc":"Wądroże Wielkie","wojewodztwo":"dolnośląskie","nazwa_zabytku":"kościół Matki Bożej Różańcowej","data":"XIII w."}
-{"miejscowosc":"Wierzbna","wojewodztwo":"dolnośląskie","nazwa_zabytku":"kościół Wniebowzięcia NMP","data":"XIII w."}
-{"miejscowosc":"Wrocław","wojewodztwo":"dolnośląskie","nazwa_zabytku":"kościół św. Idziego","data":"XIII w."}
-{"miejscowosc":"Wrocław","wojewodztwo":"dolnośląskie","nazwa_zabytku":"katedra św. Jana Chrzciciela","data":"X-XII w."}
-{"miejscowosc":"Zbylutów","wojewodztwo":"dolnośląskie","nazwa_zabytku":"wiejski kościół parafialny pw. Najświętszej Marii Panny","data":"XIII w."}
-{"miejscowosc":"Złotoryja","wojewodztwo":"dolnośląskie","nazwa_zabytku":"kościół NMP - część wschodnia","data":"XIII w."}
-{"miejscowosc":"Inowrocław","wojewodztwo":"kujawsko-pomorskie","nazwa_zabytku":"Kościół Imienia Najświętszej Maryi Panny","data":"XII w."}
-{"miejscowosc":"Strzelno","wojewodztwo":"kujawsko-pomorskie","nazwa_zabytku":"kościół Świętej Trójcy i Najświętszej Marii Panny","data":"XII/XIII w."}
-{"miejscowosc":"Podgórze","wojewodztwo":"lubelskie","nazwa_zabytku":"kościół Chrystusa Pana Zbawiciela","data":"XIII w."}
-{"miejscowosc":"Drągowina","wojewodztwo":"lubuskie","nazwa_zabytku":"kościół Wniebowstąpienia Pańskiego","data":"XIII w."}
-{"miejscowosc":"Drzeńsko","wojewodztwo":"lubuskie","nazwa_zabytku":"kościół Jezusa Miłosiernego","data":"XIII w."}
-{"miejscowosc":"Iława","wojewodztwo":"lubuskie","nazwa_zabytku":"kościół św. Andrzeja","data":"XII w."}
-{"miejscowosc":"Kowalów","wojewodztwo":"lubuskie","nazwa_zabytku":"kościół św. Piotra i Pawła","data":"XIII w."}
-{"miejscowosc":"Stary Żagań","wojewodztwo":"lubuskie","nazwa_zabytku":"kościół wiejski","data":"XII w."}
-{"miejscowosc":"Inowłódz","wojewodztwo":"łódzkie","nazwa_zabytku":"kościół św. Idziego","data":"XI/XII w."}
-{"miejscowosc":"Strońsko","wojewodztwo":"łódzkie","nazwa_zabytku":"kościół św. Urszuli i 11 Tysięcy Dziewic","data":"XIII w."}
-{"miejscowosc":"Sulejów","wojewodztwo":"łódzkie","nazwa_zabytku":"Opactwo cystersów","data":"XII/XIII w."}
-{"miejscowosc":"Tum","wojewodztwo":"łódzkie","nazwa_zabytku":"Kolegiata NMP i św. Aleksego","data":"XII w."}
-{"miejscowosc":"Żarnów ","wojewodztwo":"łódzkie","nazwa_zabytku":"kościół św. Mikołaja","data":"XII w."}
-{"miejscowosc":"Czchów","wojewodztwo":"małopolskie","nazwa_zabytku":"Romańska wieża zamkowa","data":"XIII w."}
-{"miejscowosc":"Dziekanowice","wojewodztwo":"małopolskie","nazwa_zabytku":"Sanktuarium Macierzyństwa NMP","data":"XII/XIII w."}
-{"miejscowosc":"Kraków","wojewodztwo":"małopolskie","nazwa_zabytku":"rotunda Najświętszej Marii Panny","data":"X/XI w."}
-{"miejscowosc":"Kraków","wojewodztwo":"małopolskie","nazwa_zabytku":"kościół św. Gereona","data":"XI w."}
-{"miejscowosc":"Kraków","wojewodztwo":"małopolskie","nazwa_zabytku":"kościół Najświętszego Salwatora","data":"X-XII w."}
-{"miejscowosc":"Miechów","wojewodztwo":"małopolskie","nazwa_zabytku":"relikty pierwszego kościoła Bożogrobców","data":"XIII w."}
-{"miejscowosc":"Mogiła","wojewodztwo":"małopolskie","nazwa_zabytku":"opactwo cystersów z kościołem","data":"XIII w."}
-{"miejscowosc":"Prandocin","wojewodztwo":"małopolskie","nazwa_zabytku":"kościół św. Jana Chrzciciela","data":"XII w."}
-{"miejscowosc":"Tropie","wojewodztwo":"małopolskie","nazwa_zabytku":"kościół Świętych Pustelników Świerada i Benedykta","data":"XI/XII w."}
-{"miejscowosc":"Błonie","wojewodztwo":"mazowieckie","nazwa_zabytku":"kościół parafialny św. Trójcy","data":"XIII w."}
-{"miejscowosc":"Czersk","wojewodztwo":"mazowieckie","nazwa_zabytku":"relikty kaplicy zamkowej","data":"XIII w."}
-{"miejscowosc":"Czerwińsk","wojewodztwo":"mazowieckie","nazwa_zabytku":"kościół Zwiastowania Najświętszej Marii Panny","data":"XII w."}
-{"miejscowosc":"Przemyśl","wojewodztwo":"podkarpackie","nazwa_zabytku":"preromańska rotunda - relikty na Wzgórzu Zamkowym","data":"IX w."}
-{"miejscowosc":"Przemyśl","wojewodztwo":"podkarpackie","nazwa_zabytku":"preromańskie monasterium na Wzgórzu Zamkowym","data":"IX w."}
-{"miejscowosc":"Gdańsk","wojewodztwo":"pomorskie","nazwa_zabytku":"fundamenty kościoła św. Mikołaja pod Halą Targową","data":"XIII w."}
-{"miejscowosc":"Kałków","wojewodztwo":"opolskie","nazwa_zabytku":"kościół Narodzenia NMP i św. Jerzego","data":"XIII w."}
-{"miejscowosc":"Kępnica","wojewodztwo":"opolskie","nazwa_zabytku":"kościół Wniebowzięcia NMP","data":"XIII w."}
-{"miejscowosc":"Nysa","wojewodztwo":"opolskie","nazwa_zabytku":"kościół św. Jakuba i św. Agnieszki","data":"XIII w."}
-{"miejscowosc":"Wierzbięcice","wojewodztwo":"opolskie","nazwa_zabytku":"kościół św. Mikołaja","data":"XIV w."}
-{"miejscowosc":"Giebło","wojewodztwo":"śląskie","nazwa_zabytku":"kościół św. Jakuba","data":"XIII w."}
-{"miejscowosc":"Goźlice","wojewodztwo":"świętokrzyskie","nazwa_zabytku":"kościół parafialny Wniebowzięcia NMP","data":"XIII w."}
-{"miejscowosc":"Końskie","wojewodztwo":"świętokrzyskie","nazwa_zabytku":"kolegiata św. Mikołaja i Wojciecha","data":"XIII w."}
-{"miejscowosc":"Mieronice","wojewodztwo":"świętokrzyskie","nazwa_zabytku":"kościół św. Jakuba Starszego","data":"XIII w"}
-{"miejscowosc":"Mokrsko Dolne","wojewodztwo":"świętokrzyskie","nazwa_zabytku":"kościół Wniebowzięcia NMP","data":"XIII w."}
-{"miejscowosc":"Opatów","wojewodztwo":"świętokrzyskie","nazwa_zabytku":"Kolegiata św. Marcina","data":"XII w."}
-{"miejscowosc":"Samborzec","wojewodztwo":"świętokrzyskie","nazwa_zabytku":"kościół św. Trójcy","data":"XIII w."}
-{"miejscowosc":"Skalbmierz","wojewodztwo":"świętokrzyskie","nazwa_zabytku":"kościół św. Jana Chrzciciela","data":"XII/XIII w."}
-{"miejscowosc":"Czerwona Wieś","wojewodztwo":"wielkopolskie","nazwa_zabytku":"kościół św. Idziego","data":"XIII w."}
-{"miejscowosc":"Giecz","wojewodztwo":"wielkopolskie","nazwa_zabytku":"kościół pw. NMP","data":" XI w."}
-{"miejscowosc":"Gniezno","wojewodztwo":"wielkopolskie","nazwa_zabytku":"kościół św. Jerzego","data":"XII w."}
-{"miejscowosc":"Kazimierz Biskupi","wojewodztwo":"wielkopolskie","nazwa_zabytku":"kościół św. Marcina","data":"XII w."}
-{"miejscowosc":"Kościelec","wojewodztwo":"wielkopolskie","nazwa_zabytku":"kościół św. Wojciecha","data":"XII w."}
-{"miejscowosc":"Kościelec","wojewodztwo":"wielkopolskie","nazwa_zabytku":"kościół św. Andrzeja Apostoła","data":"XII w."}
-{"miejscowosc":"Kotłów","wojewodztwo":"wielkopolskie","nazwa_zabytku":"kościół Narodzenia Najświętszej Marii Panny","data":"XII w."}
-{"miejscowosc":"Krobia","wojewodztwo":"wielkopolskie","nazwa_zabytku":"kościół św. Idziego","data":"XII w."}
-{"miejscowosc":"Poznań","wojewodztwo":"wielkopolskie","nazwa_zabytku":"kościół św. Jana Jerozolimskiego za murami","data":"XI-XIII w."}
-{"miejscowosc":"Poznań","wojewodztwo":"wielkopolskie","nazwa_zabytku":"katedra św. Piotra i św. Pawła","data":"X-XI w."}
-{"miejscowosc":"Trzemeszno","wojewodztwo":"wielkopolskie","nazwa_zabytku":"opactwo benedyktynów","data":"X/XI w."}
-{"miejscowosc":"Tulce","wojewodztwo":"wielkopolskie","nazwa_zabytku":"Kościół Narodzenia Najświętszej Maryi Panny","data":"XIII w."}
-{"miejscowosc":"Banie","wojewodztwo":"zachodniopomorskie","nazwa_zabytku":"kościół MB Wspomożenia Wiernych","data":"XIII w."}
-{"miejscowosc":"Góralice","wojewodztwo":"zachodniopomorskie","nazwa_zabytku":"kościół pod wezwaniem św. Stanisława BM","data":"XIII w."}
-{"miejscowosc":"Kamień Pomorski","wojewodztwo":"zachodniopomorskie","nazwa_zabytku":"bazylika św. Jana Chrzciciela","data":"XII/XIII w."}
-{"miejscowosc":"Kołbacz","wojewodztwo":"zachodniopomorskie","nazwa_zabytku":"kościół w zespole klasztornym Cystersów","data":"XII/XIII w."}
-{"miejscowosc":"Moryń","wojewodztwo":"zachodniopomorskie","nazwa_zabytku":"bazylika romańska","data":"XIII w."}
-{"miejscowosc":"Piaseczno","wojewodztwo":"zachodniopomorskie","nazwa_zabytku":"kościół M.B. Królowej Różańca","data":"XIII w."}
-{"miejscowosc":"Rurka","wojewodztwo":"zachodniopomorskie","nazwa_zabytku":"kościół templariuszy","data":"XIII w."}
+{"continent":"Asia","country":"China","city":"Shanghai","basilica":"She Shan Basilica","year_of_designation":"1942"}
+{"continent":"Asia","country":"India","city":"Alleppey","basilica":"St. Andrew's Basilica","year_of_designation":"2010"}
+{"continent":"Asia","country":"India","city":"Angamaly","basilica":"St. George Basilica","year_of_designation":"2009"}
+{"continent":"Asia","country":"India","city":"Bandel","basilica":"Bandel Church","year_of_designation":"1988"}
+{"continent":"Asia","country":"India","city":"Bangalore","basilica":"St. Mary's Basilica","year_of_designation":"1973"}
+{"continent":"Asia","country":"India","city":"Chennai","basilica":"San Thome Basilica","year_of_designation":"1956"}
+{"continent":"Asia","country":"India","city":"Goa Velha","basilica":"Basilica of Bom Jesus","year_of_designation":"1946"}
+{"continent":"Asia","country":"India","city":"Kochi","basilica":"St. Mary's Cathedral Basilica","year_of_designation":"1974"}
+{"continent":"Asia","country":"India","city":"Kochi","basilica":"Santa Cruz Cathedral Basilica","year_of_designation":"1984"}
+{"continent":"Asia","country":"India","city":"Kochi","basilica":"Vallarpadam Church","year_of_designation":"2004"}
+{"continent":"Asia","country":"India","city":"Mumbai","basilica":"Mount Mary Church","year_of_designation":"1954"}
+{"continent":"Asia","country":"India","city":"Pallippuram","basilica":"Basilica of Our Lady of Snow","year_of_designation":"2012"}
+{"continent":"Asia","country":"India","city":"Pondicherry ","basilica":"Basilica of the Sacred Heart of Jesus","year_of_designation":"2011"}
+{"continent":"Asia","country":"India","city":"Ranchi","basilica":"Basilica of the Divine Motherhood of Our Lady","year_of_designation":"2004"}
+{"continent":"Asia","country":"India","city":"Sardhana","basilica":"Basilica of Our Lady of Graces","year_of_designation":"1961"}
+{"continent":"Asia","country":"India","city":"Secunderabad","basilica":"Basilica of Our Lady of the Assumption","year_of_designation":"2008"}
+{"continent":"Asia","country":"India","city":"Thiruvaiyaru","basilica":"Poondi Madha Basilica","year_of_designation":"1999"}
+{"continent":"Asia","country":"India","city":"Thoothukudi","basilica":"Our Lady of Snows Basilica","year_of_designation":"1982"}
+{"continent":"Asia","country":"India","city":"Thrissur","basilica":"Basilica of Our Lady of Dolours","year_of_designation":"1992"}
+{"continent":"Asia","country":"India","city":"Tiruchirapalli","basilica":"Basilica of the Holy Redeemer","year_of_designation":"2006"}
+{"continent":"Asia","country":"India","city":"Velankanni Town","basilica":"Basilica of Our Lady of Good Health","year_of_designation":"1962"}
+{"continent":"Asia","country":"Israel","city":"Haifa","basilica":"Stella Maris Monastery","year_of_designation":"1839"}
+{"continent":"Asia","country":"Israel","city":"Jerusalem","basilica":"Basilica of St Stephen","year_of_designation":"1903"}
+{"continent":"Asia","country":"Israel","city":"Jerusalem","basilica":"St Anne's Church","year_of_designation":"1954"}
+{"continent":"Asia","country":"Israel","city":"Jerusalem","basilica":"Hagia Maria Sion Abbey","year_of_designation":"1957"}
+{"continent":"Asia","country":"Palestine","city":"Jerusalem Governorate","basilica":"Al-Qubeiba","year_of_designation":"1919"}
+{"continent":"Asia","country":"Philippines","city":"Agoo","basilica":"Basilica Minore of Our Lady of Charity","year_of_designation":"1982"}
+{"continent":"Asia","country":"Philippines","city":"Batangas City","basilica":"Basilica of the Immaculate Conception","year_of_designation":"1948"}
+{"continent":"Asia","country":"Philippines","city":"Cebu","basilica":"Basilica of Santo Nino","year_of_designation":"1965"}
+{"continent":"Asia","country":"Philippines","city":"Malolos","basilica":"Malolos Cathedral","year_of_designation":"1999"}
+{"continent":"Asia","country":"Philippines","city":"Manila","basilica":"Basilica of San Sebastian","year_of_designation":"1890"}
+{"continent":"Asia","country":"Philippines","city":"Manila","basilica":"Manila Cathedral","year_of_designation":"1981"}
+{"continent":"Asia","country":"Philippines","city":"Manila","basilica":"Quiapo Church","year_of_designation":"1987"}
+{"continent":"Asia","country":"Philippines","city":"Manila","basilica":"Binondo Church","year_of_designation":"1992"}
+{"continent":"Asia","country":"Philippines","city":"Naga City","basilica":"Penafrancia Basilica","year_of_designation":"1985"}
+{"continent":"Asia","country":"Philippines","city":"Piat","basilica":"Basilica of Our Lady of Piat","year_of_designation":"1997"}
+{"continent":"Asia","country":"Philippines","city":"Taal","basilica":"Basilica de San Martin de Tours ","year_of_designation":"1948"}
+{"continent":"Asia","country":"Philippines","city":"Tayabas City","basilica":"Basilica of St Michael the Archangel","year_of_designation":"1988"}
+{"continent":"Asia","country":"Taiwan","city":"Kaohsiung","basilica":"Holy Rosary Cathedral","year_of_designation":"1995"}
+{"continent":"Asia","country":"Taiwan","city":"Wanluan","basilica":"Wanchin Basilica","year_of_designation":"1984"}
+{"continent":"Asia","country":"Sri Lanka","city":"Tewatta","basilica":"Basilica of Our Lady of Lanka","year_of_designation":"1973"}
+{"continent":"Asia","country":"Vietnam","city":"Ho Chi Minh City","basilica":"Saigon Notre-Dame Basilica","year_of_designation":"1962"}
+{"continent":"Asia","country":"Vietnam","city":"La Vang","basilica":"Our Lady of La Vang","year_of_designation":"1961"}
+{"continent":"Asia","country":"Vietnam","city":"Nam Đ?nh","basilica":"Basilica of the Immaculate Conception","year_of_designation":"2008"}
+{"continent":"Africa","country":"Algeria","city":"Algiers","basilica":"Notre Dame d'Afrique","year_of_designation":"1875"}
+{"continent":"Africa","country":"Algeria","city":"Annaba","basilica":"Basilique Saint Augustin","year_of_designation":"1914"}
+{"continent":"Africa","country":"Benin","city":"Ouidah","basilica":"Basilica of the Immaculate Conception","year_of_designation":"1989"}
+{"continent":"Africa","country":"Cameroon","city":"Yaoundé","basilica":"Marie-Reine-des-Apôtres","year_of_designation":"2006"}
+{"continent":"Africa","country":"Côte d'Ivoire","city":"Yamoussoukro","basilica":"Basilica of Our Lady of Peace of Yamoussoukro","year_of_designation":"1990"}
+{"continent":"Africa","country":"Egypt","city":"Cairo","basilica":"Basilica of St Therese of the Child Jesus","year_of_designation":"1972"}
+{"continent":"Africa","country":"Egypt","city":"Cairo","basilica":"Cathedral of Our Lady of Fatima","year_of_designation":"1993"}
+{"continent":"Africa","country":"Ghana","city":"Kumasi","basilica":"St Peter's Cathedral Basilica","year_of_designation":"2004"}
+{"continent":"Africa","country":"Ghana","city":"Navrongo","basilica":"Cathedral Basilica of Our Lady of Seven Sorrows","year_of_designation":"2006"}
+{"continent":"Africa","country":"Kenya","city":"Nairobi","basilica":"Cathedral Basilica of the Holy Family","year_of_designation":"1982"}
+{"continent":"Africa","country":"Nigeria","city":"Onitsha","basilica":"Cathedral Basilica of the Most Holy Trinity","year_of_designation":"2007"}
+{"continent":"Africa","country":"Rwanda","city":"Kabgayi","basilica":"Cathedral Basilica of Our Lady","year_of_designation":"1992"}
+{"continent":"Africa","country":"Senegal","city":"Poponguine","basilica":"Notre-Dame de la Délivrance","year_of_designation":"1991"}
+{"continent":"Africa","country":"Tunisia","city":"Carthage","basilica":"Saint Louis Cathedral","year_of_designation":"1918"}
+{"continent":"Africa","country":"Uganda","city":"Lodonga","basilica":"Basilica of the Blessed Virgin Mary","year_of_designation":"1961"}
+{"continent":"Africa","country":"Uganda","city":"Namugongo","basilica":"Basilica of the Uganda Martyrs","year_of_designation":"1993"}
+{"continent":"North and Central America","country":"Canada","city":"Charlottetown","basilica":"St. Dunstan's Basilica","year_of_designation":"1929"}
+{"continent":"North and Central America","country":"Canada","city":"Edmonton","basilica":"St. Joseph's Basilica","year_of_designation":"1984"}
+{"continent":"North and Central America","country":"Canada","city":"Halifax Regional Municipality","basilica":"St. Mary's Basilica","year_of_designation":"1950"}
+{"continent":"North and Central America","country":"Canada","city":"Labrador City","basilica":"Basilica of our Lady of Perpetual Help","year_of_designation":"2007"}
+{"continent":"North and Central America","country":"Canada","city":"London","basilica":"St. Peter's Cathedral Basilica","year_of_designation":"1961"}
+{"continent":"North and Central America","country":"Canada","city":"Miramichi","basilica":"St. Michael's Basilica","year_of_designation":"1989"}
+{"continent":"North and Central America","country":"Canada","city":"Montreal","basilica":"Mary","year_of_designation":"1919"}
+{"continent":"North and Central America","country":"Canada","city":"Montreal","basilica":"Saint Joseph's Oratory","year_of_designation":"1954"}
+{"continent":"North and Central America","country":"Canada","city":"Montreal","basilica":"Notre-Dame de Montréal Basilica","year_of_designation":"1982"}
+{"continent":"North and Central America","country":"Canada","city":"Montreal","basilica":"St. Patrick's Basilica","year_of_designation":"1988"}
+{"continent":"North and Central America","country":"Canada","city":"Ottawa","basilica":"Notre-Dame Cathedral Basilica","year_of_designation":"1879"}
+{"continent":"North and Central America","country":"Canada","city":"Ottawa","basilica":"St. Patrick's Basilica","year_of_designation":"1995"}
+{"continent":"North and Central America","country":"Canada","city":"Quebec City","basilica":"Notre-Dame de Québec Cathedral","year_of_designation":"1874"}
+{"continent":"North and Central America","country":"Canada","city":"Sainte-Anne-de-Beaupré","basilica":"Basilica of Sainte-Anne-de-Beaupré","year_of_designation":"1887"}
+{"continent":"North and Central America","country":"Canada","city":"St. John's","basilica":"Basilica of St. John the Baptist","year_of_designation":"1855"}
+{"continent":"North and Central America","country":"Canada","city":"Salaberry-de-Valleyfield","basilica":"Basilique-Cathédrale Sainte-Cécile","year_of_designation":"1991"}
+{"continent":"North and Central America","country":"Canada","city":"Sherbrooke","basilica":"Saint-Michel Basilica-Cathedral","year_of_designation":"1959"}
+{"continent":"North and Central America","country":"Canada","city":"Toronto","basilica":"St. Paul's Basilica","year_of_designation":"1999"}
+{"continent":"North and Central America","country":"Canada","city":"Trois-Rivieres","basilica":"Notre-Dame-du-Cap Basilica","year_of_designation":"1964"}
+{"continent":"North and Central America","country":"Canada","city":"Varennes","basilica":"Basilique Sainte-Anne-de-Varennes","year_of_designation":"1993"}
+{"continent":"North and Central America","country":"Canada","city":"Winnipeg","basilica":"Saint Boniface Cathedral","year_of_designation":"1949"}
+{"continent":"North and Central America","country":"Costa Rica","city":"Cartago","basilica":"Nuestra Senora de los Angeles Basilica","year_of_designation":"1935"}
+{"continent":"North and Central America","country":"Costa Rica","city":"El Tejar del Guarco","basilica":"Inmaculada Concepción","year_of_designation":"1985"}
+{"continent":"North and Central America","country":"Cuba","city":"Santiago de Cuba","basilica":"Basílica Santuario Nacional de Nuestra Senora de la Caridad del Cobre","year_of_designation":"1977"}
+{"continent":"North and Central America","country":"Curaçao","city":"Willemstad","basilica":"Basilica of St Ann","year_of_designation":"1974"}
+{"continent":"North and Central America","country":"Dominican Republic","city":"Salvaleón de Higüey","basilica":"Basílica Catedral Nuestra Senora de la Altagracia","year_of_designation":"1970"}
+{"continent":"North and Central America","country":"Dominican Republic","city":"Santo Domingo","basilica":"Basílica Catedral Metropolitana Santa María de la Encarnación","year_of_designation":"1920"}
+{"continent":"North and Central America","country":"El Salvador","city":"San Miguel","basilica":"San Miguel Cathedral","year_of_designation":"1966"}
+{"continent":"North and Central America","country":"El Salvador","city":"San Salvador","basilica":"San Salvador Cathedral","year_of_designation":"1843"}
+{"continent":"North and Central America","country":"El Salvador","city":"San Salvador","basilica":"Nuestra Senora de Guadalupe","year_of_designation":"1960"}
+{"continent":"North and Central America","country":"El Salvador","city":"San Vicente","basilica":"Nuestra Senora del Pilar","year_of_designation":"1962"}
+{"continent":"North and Central America","country":"Guadeloupe","city":"Basse-Terre","basilica":"Basse-Terre Cathedral","year_of_designation":"1877"}
+{"continent":"North and Central America","country":"Guatemala","city":"Esquipulas","basilica":"Basilica of Esquipulas","year_of_designation":"1961"}
+{"continent":"North and Central America","country":"Guatemala","city":"Guatemala City","basilica":"Nuestra Senora del Rosario","year_of_designation":"1969"}
+{"continent":"North and Central America","country":"Mexico","city":"Aguascalientes","basilica":"Aguascalientes Cathedral","year_of_designation":"1949"}
+{"continent":"North and Central America","country":"Mexico","city":"Apizaco","basilica":"Virgen de la Misericordia","year_of_designation":"1963"}
+{"continent":"North and Central America","country":"Mexico","city":"Chignahuapan","basilica":"Inmaculada Concepción","year_of_designation":"1998"}
+{"continent":"North and Central America","country":"Mexico","city":"Ciudad Victoria","basilica":"Nuestra Senora del Refugio","year_of_designation":"1990"}
+{"continent":"North and Central America","country":"Mexico","city":"Colima","basilica":"Colima Cathedral","year_of_designation":"1998"}
+{"continent":"North and Central America","country":"Mexico","city":"Culiacán","basilica":"Culiacán Cathedral","year_of_designation":"1974"}
+{"continent":"North and Central America","country":"Mexico","city":"Durango","basilica":"Durango","year_of_designation":"1957"}
+{"continent":"North and Central America","country":"Mexico","city":"Guadalajara","basilica":"Guadalajara Cathedral","year_of_designation":"1938"}
+{"continent":"North and Central America","country":"Mexico","city":"Guanajuato","basilica":"Nuestra Senora de Guanajuato","year_of_designation":"1957"}
+{"continent":"North and Central America","country":"Mexico","city":"Huamantla","basilica":"Nuestra Senora de la Caridad","year_of_designation":"1978"}
+{"continent":"North and Central America","country":"Mexico","city":"León","basilica":"León Cathedral","year_of_designation":"1920"}
+{"continent":"North and Central America","country":"Mexico","city":"Mazatlán","basilica":"Mazatlán Cathedral","year_of_designation":"1941"}
+{"continent":"North and Central America","country":"Mexico","city":"Mexico City","basilica":"Basilica of Our Lady of Guadalupe","year_of_designation":"1709"}
+{"continent":"North and Central America","country":"Mexico","city":"Mexico City","basilica":"San José y Nuestra Senora del Sagrado Corazón","year_of_designation":"1993"}
+{"continent":"North and Central America","country":"Mexico","city":"Monterrey","basilica":"El Roble Basilica","year_of_designation":"1973"}
+{"continent":"North and Central America","country":"Mexico","city":"Monterrey","basilica":"Basilica of Guadalupe","year_of_designation":"1983"}
+{"continent":"North and Central America","country":"Mexico","city":"Monterrey","basilica":"La Purisima","year_of_designation":"1989"}
+{"continent":"North and Central America","country":"Mexico","city":"Naucalpan","basilica":"Nuestra Senora de los Remedios","year_of_designation":"1998"}
+{"continent":"North and Central America","country":"Mexico","city":"Oaxaca","basilica":"Basílica de Nuestra Senora de la Soledad","year_of_designation":"1959"}
+{"continent":"North and Central America","country":"Mexico","city":"Ocotlán","basilica":"Virgin of Ocotlán","year_of_designation":"1957"}
+{"continent":"North and Central America","country":"Mexico","city":"Pachuca","basilica":"Santa María de Guadalupe","year_of_designation":"2004"}
+{"continent":"North and Central America","country":"Mexico","city":"Pátzcuaro","basilica":"Nuestra Senora de la Salud","year_of_designation":"1924"}
+{"continent":"North and Central America","country":"Mexico","city":"San Juan de los Lagos","basilica":"San Juan de los Lagos Cathedral","year_of_designation":"1947"}
+{"continent":"North and Central America","country":"Mexico","city":"San Luis Potosí","basilica":"Santa María de Guadalupe","year_of_designation":"1991"}
+{"continent":"North and Central America","country":"Mexico","city":"Talpa de Allende","basilica":"Nuestra Senora del Rosario de Talpa","year_of_designation":"1946"}
+{"continent":"North and Central America","country":"Mexico","city":"Zacatecas","basilica":"Zacatecas Cathedral","year_of_designation":"1959"}
+{"continent":"North and Central America","country":"Mexico","city":"Zapopan","basilica":"Nuestra Senora de Zapopan","year_of_designation":"1939"}
+{"continent":"North and Central America","country":"Nicaragua","city":"El Viejo","basilica":"National Shrine of Nuestra Senora de la Inmaculada Concepción","year_of_designation":"1995"}
+{"continent":"North and Central America","country":"Nicaragua","city":"León","basilica":"León Cathedral ","year_of_designation":"1957"}
+{"continent":"North and Central America","country":"Panama","city":"Atalaya","basilica":"Jesús Nazareno","year_of_designation":"1964"}
+{"continent":"North and Central America","country":"Panama","city":"Panama City","basilica":"Don Bosco","year_of_designation":"1988"}
+{"continent":"North and Central America","country":"Puerto Rico","city":"Hormigueros","basilica":"Nuestra Senora de la Monserrate","year_of_designation":"1998"}
+{"continent":"North and Central America","country":"Puerto Rico","city":"San Juan","basilica":"Cathedral of San Juan Bautista","year_of_designation":"1978"}
+{"continent":"North and Central America","country":"Saint Lucia","city":"Castries","basilica":"Cathedral Basilica of the Immaculate Conception in Castries","year_of_designation":"1999"}
+{"continent":"North and Central America","country":"United States","city":"Alameda","basilica":"St. Joseph's Basilica","year_of_designation":"1972"}
+{"continent":"North and Central America","country":"United States","city":"Asheville","basilica":"Basilica of St. Lawrence","year_of_designation":"1993"}
+{"continent":"North and Central America","country":"United States","city":"Atlanta","basilica":"Sacred Heart Basilica","year_of_designation":"2010"}
+{"continent":"North and Central America","country":"United States","city":"Baltimore","basilica":"Basilica of the National Shrine of the Assumption of the Blessed Virgin Mary","year_of_designation":"1937"}
+{"continent":"North and Central America","country":"United States","city":"Bardstown","basilica":"Basilica of St. Joseph Proto-Cathedral","year_of_designation":"2001"}
+{"continent":"North and Central America","country":"United States","city":"Beaumont","basilica":"St. Anthony Cathedral","year_of_designation":"2006"}
+{"continent":"North and Central America","country":"United States","city":"Belmont","basilica":"Belmont Abbey","year_of_designation":"1998"}
+{"continent":"North and Central America","country":"United States","city":"Boston","basilica":"Basilica and Shrine of Our Lady of Perpetual Help","year_of_designation":"1954"}
+{"continent":"North and Central America","country":"United States","city":"Canton","basilica":"Basilica of Saint John the Baptist ","year_of_designation":"2012"}
+{"continent":"North and Central America","country":"United States","city":"Carey","basilica":"Basilica and National Shrine of Our Lady of Consolation","year_of_designation":"1971"}
+{"continent":"North and Central America","country":"United States","city":"Carmel-by-the-Sea","basilica":"Mission San Carlos Borromeo de Carmelo","year_of_designation":"1960"}
+{"continent":"North and Central America","country":"United States","city":"Charleston","basilica":"Basilica of the Co-Cathedral of the Sacred Heart ","year_of_designation":"2009"}
+{"continent":"North and Central America","country":"United States","city":"Chattanooga","basilica":"Saints Peter and Paul Basilica","year_of_designation":"2011"}
+{"continent":"North and Central America","country":"United States","city":"Chicago","basilica":"Our Lady of Sorrows Basilica","year_of_designation":"1956"}
+{"continent":"North and Central America","country":"United States","city":"Chicago","basilica":"Queen of All Saints Basilica","year_of_designation":"1962"}
+{"continent":"North and Central America","country":"United States","city":"Chicago","basilica":"Basilica of St. Hyacinth","year_of_designation":"2003"}
+{"continent":"North and Central America","country":"United States","city":"Chicopee","basilica":"Basilica of St. Stanislaus","year_of_designation":"1991"}
+{"continent":"North and Central America","country":"United States","city":"Conewago Township","basilica":"Basilica of the Sacred Heart of Jesus","year_of_designation":"1962"}
+{"continent":"North and Central America","country":"United States","city":"Covington","basilica":"Cathedral Basilica of the Assumption","year_of_designation":"1953"}
+{"continent":"North and Central America","country":"United States","city":"Danville","basilica":"Basilica of SS Cyril and Methodius","year_of_designation":"1989"}
+{"continent":"North and Central America","country":"United States","city":"Daytona Beach","basilica":"Basilica of St. Paul","year_of_designation":"2006"}
+{"continent":"North and Central America","country":"United States","city":"Denver","basilica":"Cathedral Basilica of the Immaculate Conception","year_of_designation":"1979"}
+{"continent":"North and Central America","country":"United States","city":"Des Moines","basilica":"Basilica of St. John","year_of_designation":"1989"}
+{"continent":"North and Central America","country":"United States","city":"Dyersville","basilica":"Basilica of St. Francis Xavier","year_of_designation":"1957"}
+{"continent":"North and Central America","country":"United States","city":"Emmitsburg","basilica":"Basilica of the National Shrine of St. Elizabeth Ann Seton","year_of_designation":"1991"}
+{"continent":"North and Central America","country":"United States","city":"Galveston","basilica":"St. Mary's Cathedral Basilica","year_of_designation":"1979"}
+{"continent":"North and Central America","country":"United States","city":"Grand Rapids","basilica":"Basilica of St. Adalbert","year_of_designation":"1979"}
+{"continent":"North and Central America","country":"United States","city":"Hubertus","basilica":"Holy Hill National Shrine of Mary","year_of_designation":"2006"}
+{"continent":"North and Central America","country":"United States","city":"Key West","basilica":"Basilica of St Mary Star of the Sea","year_of_designation":"2012"}
+{"continent":"North and Central America","country":"United States","city":"Jamestown","basilica":"Basilica of St. James ","year_of_designation":"1988"}
+{"continent":"North and Central America","country":"United States","city":"Lackawanna","basilica":"Our Lady of Victory Basilica and National Shrine","year_of_designation":"1926"}
+{"continent":"North and Central America","country":"United States","city":"Latrobe","basilica":"Saint Vincent Archabbey","year_of_designation":"1955"}
+{"continent":"North and Central America","country":"United States","city":"Lewiston","basilica":"Basilica of Saints Peter and Paul ","year_of_designation":"2004"}
+{"continent":"North and Central America","country":"United States","city":"Lewiston","basilica":"Basilica of the National Shrine of Our Lady of Fatima","year_of_designation":"1975"}
+{"continent":"North and Central America","country":"United States","city":"Loretto","basilica":"Basilica of St. Michael the Archangel","year_of_designation":"1996"}
+{"continent":"North and Central America","country":"United States","city":"Mesilla","basilica":"Basilica of San Albino","year_of_designation":"2008"}
+{"continent":"North and Central America","country":"United States","city":"Milwaukee","basilica":"Basilica of St. Josaphat","year_of_designation":"1929"}
+{"continent":"North and Central America","country":"United States","city":"Minneapolis","basilica":"Basilica of Saint Mary","year_of_designation":"1926"}
+{"continent":"North and Central America","country":"United States","city":"Mobile","basilica":"Cathedral Basilica of the Immaculate Conception","year_of_designation":"1962"}
+{"continent":"North and Central America","country":"United States","city":"Natchez","basilica":"St. Mary Basilica","year_of_designation":"1998"}
+{"continent":"North and Central America","country":"United States","city":"Natchitoches","basilica":"Basilica of the Immaculate Conception ","year_of_designation":"2009"}
+{"continent":"North and Central America","country":"United States","city":"Newark","basilica":"Cathedral Basilica of the Sacred Heart","year_of_designation":"1995"}
+{"continent":"North and Central America","country":"United States","city":"New Haven","basilica":"Abbey of Gethsemani","year_of_designation":"1949"}
+{"continent":"North and Central America","country":"United States","city":"New Orleans","basilica":"St. Louis Cathedral","year_of_designation":"1964"}
+{"continent":"North and Central America","country":"United States","city":"New York City","basilica":"Basilica of Regina Pacis","year_of_designation":"2012"}
+{"continent":"North and Central America","country":"United States","city":"New York City","basilica":"Basilica of Our Lady of Perpetual Help","year_of_designation":"1969"}
+{"continent":"North and Central America","country":"United States","city":"New York City","basilica":"Cathedral Basilica of St. James ","year_of_designation":"1982"}
+{"continent":"North and Central America","country":"United States","city":"New York City","basilica":"St. Patrick's Old Cathedral","year_of_designation":"2010"}
+{"continent":"North and Central America","country":"United States","city":"Conception","basilica":"Conception Abbey","year_of_designation":"1940"}
+{"continent":"North and Central America","country":"United States","city":"Norfolk","basilica":"Basilica of Saint Mary of the Immaculate Conception","year_of_designation":"1991"}
+{"continent":"North and Central America","country":"United States","city":"Notre Dame","basilica":"Basilica of the Sacred Heart","year_of_designation":"1991"}
+{"continent":"North and Central America","country":"United States","city":"Orlando","basilica":"Mary","year_of_designation":"2009"}
+{"continent":"North and Central America","country":"United States","city":"Pensacola","basilica":"Basilica of St. Michael the Archangel ","year_of_designation":"2012"}
+{"continent":"North and Central America","country":"United States","city":"Philadelphia","basilica":"Cathedral Basilica of Saints Peter and Paul","year_of_designation":"1976"}
+{"continent":"North and Central America","country":"United States","city":"Phoenix","basilica":"St. Mary's Basilica","year_of_designation":"1985"}
+{"continent":"North and Central America","country":"United States","city":"St. Augustine","basilica":"Cathedral Basilica of St. Augustine","year_of_designation":"1976"}
+{"continent":"North and Central America","country":"United States","city":"St. Louis","basilica":"Basilica of St. Louis","year_of_designation":"1961"}
+{"continent":"North and Central America","country":"United States","city":"St. Louis","basilica":"Cathedral Basilica of St. Louis","year_of_designation":"1997"}
+{"continent":"North and Central America","country":"United States","city":"San Antonio","basilica":"Basilica of the National Shrine of the Little Flower","year_of_designation":"1998"}
+{"continent":"North and Central America","country":"United States","city":"San Diego","basilica":"Mission San Diego de Alcalá","year_of_designation":"1975"}
+{"continent":"North and Central America","country":"United States","city":"San Francisco","basilica":"Mission San Francisco de Asís","year_of_designation":"1952"}
+{"continent":"North and Central America","country":"United States","city":"San Jose","basilica":"Cathedral Basilica of St. Joseph","year_of_designation":"1997"}
+{"continent":"North and Central America","country":"United States","city":"San Juan","basilica":"Basilica of the National Shrine of Our Lady of San Juan del Valle","year_of_designation":"1954"}
+{"continent":"North and Central America","country":"United States","city":"San Juan Capistrano","basilica":"Mission Basilica San Juan Capistrano","year_of_designation":"2000"}
+{"continent":"North and Central America","country":"United States","city":"Santa Fe","basilica":"Cathedral Basilica of St. Francis of Assisi","year_of_designation":"2005"}
+{"continent":"North and Central America","country":"United States","city":"Scranton","basilica":"Basilica of the National Shrine of St. Ann","year_of_designation":"1997"}
+{"continent":"North and Central America","country":"United States","city":"Southampton","basilica":"Basilica of the Sacred Hearts of Jesus and Mary ","year_of_designation":"2012"}
+{"continent":"North and Central America","country":"United States","city":"Stamford","basilica":"Basilica of Saint John the Evangelist","year_of_designation":"2009"}
+{"continent":"North and Central America","country":"United States","city":"Syracuse","basilica":"Basilica of the Sacred Heart of Jesus ","year_of_designation":"1998"}
+{"continent":"North and Central America","country":"United States","city":"Vincennes","basilica":"St. Francis Xavier Cathedral and Library","year_of_designation":"1970"}
+{"continent":"North and Central America","country":"United States","city":"Washington","basilica":"Basilica of the National Shrine of the Immaculate Conception","year_of_designation":"1990"}
+{"continent":"North and Central America","country":"United States","city":"Waterbury","basilica":"Basilica of the Immaculate Conception","year_of_designation":"2008"}
+{"continent":"North and Central America","country":"United States","city":"Webster","basilica":"St. Joseph Basilica","year_of_designation":"1998"}
+{"continent":"South America","country":"Argentina","city":"Buenos Aires","basilica":"Nuestra Senora del Socorro","year_of_designation":"1898"}
+{"continent":"South America","country":"Argentina","city":"Buenos Aires","basilica":"Nuestra Senora del Rosario","year_of_designation":"1909"}
+{"continent":"South America","country":"Argentina","city":"Buenos Aires","basilica":"San José de Flores","year_of_designation":"1911"}
+{"continent":"South America","country":"Argentina","city":"Buenos Aires","basilica":"Santísimo Sacramento","year_of_designation":"1916"}
+{"continent":"South America","country":"Argentina","city":"Buenos Aires","basilica":"Nuestra Senora de la Merced","year_of_designation":"1917"}
+{"continent":"South America","country":"Argentina","city":"Buenos Aires","basilica":"Convent of Santa Ursula and the 11","year_of_designation":"1918"}
+{"continent":"South America","country":"Argentina","city":"Buenos Aires","basilica":"Nuestra Senora de Buenos Aires","year_of_designation":"1935"}
+{"continent":"South America","country":"Argentina","city":"Buenos Aires","basilica":"Nuestra Senora del Pilar","year_of_designation":"1936"}
+{"continent":"South America","country":"Argentina","city":"Buenos Aires","basilica":"San Nicolás de Bari","year_of_designation":"1937"}
+{"continent":"South America","country":"Argentina","city":"Buenos Aires","basilica":"Sagrado Corazón de Jesús","year_of_designation":"1939"}
+{"continent":"South America","country":"Argentina","city":"Buenos Aires","basilica":"Espíritu Santo","year_of_designation":"1939"}
+{"continent":"South America","country":"Argentina","city":"Buenos Aires","basilica":"San Carlos Borromeo y María Auxiliadora","year_of_designation":"1941"}
+{"continent":"South America","country":"Argentina","city":"Buenos Aires","basilica":"Santa Rosa de Lima","year_of_designation":"1941"}
+{"continent":"South America","country":"Argentina","city":"Buenos Aires","basilica":"San Antonio de Padua","year_of_designation":"1963"}
+{"continent":"South America","country":"Argentina","city":"Buenos Aires","basilica":"Nuestra Senora de la Piedad","year_of_designation":"2002"}
+{"continent":"South America","country":"Argentina","city":"Concepción del Uruguay","basilica":"Inmaculada Concepción del Uruguay","year_of_designation":"1980"}
+{"continent":"South America","country":"Argentina","city":"Córdoba","basilica":"Shrine of Nuestra Senora del Rosario del Milagro","year_of_designation":"1911"}
+{"continent":"South America","country":"Argentina","city":"Córdoba","basilica":"Nuestra Senora De La Merced","year_of_designation":"1926"}
+{"continent":"South America","country":"Argentina","city":"Esperanza","basilica":"Natividad de la Santísima Virgen","year_of_designation":"2005"}
+{"continent":"South America","country":"Argentina","city":"Itatí","basilica":"Nuestra Senora de Itati","year_of_designation":"1980"}
+{"continent":"South America","country":"Argentina","city":"La Plata","basilica":"Sagrado Corazón de Jesús","year_of_designation":"1966"}
+{"continent":"South America","country":"Argentina","city":"La Plata","basilica":"San Ponciano","year_of_designation":"1997"}
+{"continent":"South America","country":"Argentina","city":"La Rioja","basilica":"La Rioja Cathedral","year_of_designation":"1955"}
+{"continent":"South America","country":"Argentina","city":"Lomas de Zamora","basilica":"Lomas de Zamora Cathedral","year_of_designation":"1965"}
+{"continent":"South America","country":"Argentina","city":"Luján","basilica":"Nuestra Senora de Luján","year_of_designation":"1930"}
+{"continent":"South America","country":"Argentina","city":"Mar del Plata","basilica":"Mar del Plata Cathedral","year_of_designation":"1923"}
+{"continent":"South America","country":"Argentina","city":"Mendoza","basilica":"San Francisco","year_of_designation":"1926"}
+{"continent":"South America","country":"Argentina","city":"Mendoza","basilica":"Nuestra Senora del Rosario","year_of_designation":"1962"}
+{"continent":"South America","country":"Argentina","city":"Mercedes","basilica":"Mercedes Cathedral","year_of_designation":"1949"}
+{"continent":"South America","country":"Argentina","city":"Morón","basilica":"Morón Cathedral","year_of_designation":"1962"}
+{"continent":"South America","country":"Argentina","city":"Nogoyá","basilica":"Nuestra Senora del Carmen","year_of_designation":"1967"}
+{"continent":"South America","country":"Argentina","city":"Rosario","basilica":"Cathedral Basilica of Our Lady of the Rosary","year_of_designation":"1964"}
+{"continent":"South America","country":"Argentina","city":"Rosario","basilica":"San José","year_of_designation":"1998"}
+{"continent":"South America","country":"Argentina","city":"Salta","basilica":"Salta Cathedral","year_of_designation":"1938"}
+{"continent":"South America","country":"Argentina","city":"Salta","basilica":"San Francisco Convent","year_of_designation":"1997"}
+{"continent":"South America","country":"Argentina","city":"San Fernando del Valle de Catamarca","basilica":"San Fernando del Valle de Catamarca Cathedral","year_of_designation":"1941"}
+{"continent":"South America","country":"Argentina","city":"San Juan","basilica":"Desamaparados Basilica","year_of_designation":"2008"}
+{"continent":"South America","country":"Argentina","city":"San Salvador de Jujuy","basilica":"San Salvador de Jujuy Cathedral","year_of_designation":"1973"}
+{"continent":"South America","country":"Argentina","city":"Santa Fe","basilica":"Nuestra Senora de Guadalupe","year_of_designation":"1953"}
+{"continent":"South America","country":"Argentina","city":"Santa Fe","basilica":"Nuestra Senora del Carmen","year_of_designation":"1986"}
+{"continent":"South America","country":"Argentina","city":"Santiago del Estero","basilica":"Santiago del Estero Cathedral","year_of_designation":"1971"}
+{"continent":"South America","country":"Argentina","city":"San Miguel de Tucumán","basilica":"Convent of Santo Domingo","year_of_designation":"1941"}
+{"continent":"South America","country":"Argentina","city":"Villa del Rosario","basilica":"Nuestra Senora del Rosario","year_of_designation":"1955"}
+{"continent":"South America","country":"Bolivia","city":"Copacabana","basilica":"Virgen de la Candelaria","year_of_designation":"1940"}
+{"continent":"South America","country":"Bolivia","city":"La Paz","basilica":"San Francisco","year_of_designation":"1948"}
+{"continent":"South America","country":"Bolivia","city":"La Paz","basilica":"La Paz Cathedral","year_of_designation":"1948"}
+{"continent":"South America","country":"Bolivia","city":"La Paz","basilica":"María Auxiliadora","year_of_designation":"2000"}
+{"continent":"South America","country":"Bolivia","city":"Potosí","basilica":"Potosí Cathedral","year_of_designation":"1938"}
+{"continent":"South America","country":"Bolivia","city":"Santa Cruz de la Sierra","basilica":"Santa Cruz de la Sierra Cathedral","year_of_designation":"1980"}
+{"continent":"South America","country":"Bolivia","city":"Sucre","basilica":"Sucre Cathedral","year_of_designation":"1925"}
+{"continent":"South America","country":"Bolivia","city":"Sucre","basilica":"San Francisco","year_of_designation":"1999"}
+{"continent":"South America","country":"Brazil","city":"Aparecida","basilica":"Basilica of the National Shrine of Our Lady of Aparecida","year_of_designation":"1981"}
+{"continent":"South America","country":"Brazil","city":"Assis","basilica":"Sao Vicente de Paulo","year_of_designation":"1998"}
+{"continent":"South America","country":"Brazil","city":"Barbacena","basilica":"Sao José Operário","year_of_designation":"1965"}
+{"continent":"South America","country":"Brazil","city":"Belém","basilica":"Nossa Senhora de Nazaré do Desterro","year_of_designation":"1923"}
+{"continent":"South America","country":"Brazil","city":"Belo Horizonte","basilica":"Nossa Senhora de Lourdes","year_of_designation":"1958"}
+{"continent":"South America","country":"Brazil","city":"Belo Horizonte","basilica":"Sao Joao Maria Vianney","year_of_designation":"1986"}
+{"continent":"South America","country":"Brazil","city":"Boa Esperança","basilica":"Nossa Senhora das Dores","year_of_designation":"1999"}
+{"continent":"South America","country":"Brazil","city":"Borba","basilica":"Borba Cathedral","year_of_designation":"2003"}
+{"continent":"South America","country":"Brazil","city":"Borda da Mata","basilica":"Nuestra Senora del Carmen","year_of_designation":"2005"}
+{"continent":"South America","country":"Brazil","city":"Botucatu","basilica":"Botucatu Cathedral","year_of_designation":"1965"}
+{"continent":"South America","country":"Brazil","city":"Campinas","basilica":"Nossa Senhora do Carmo","year_of_designation":"1974"}
+{"continent":"South America","country":"Brazil","city":"Campos dos Goytacazes","basilica":"Campos dos Goytacazes Cathedral","year_of_designation":"1965"}
+{"continent":"South America","country":"Brazil","city":"Canindé","basilica":"Sao Francisco das Chagas","year_of_designation":"1925"}
+{"continent":"South America","country":"Brazil","city":"Conceiçao do Rio Verde","basilica":"Nossa Senhora da Conceiçao","year_of_designation":"1974"}
+{"continent":"South America","country":"Brazil","city":"Congonhas","basilica":"Senhor Bom Jesus","year_of_designation":"1957"}
+{"continent":"South America","country":"Brazil","city":"Conselheiro Lafaiete","basilica":"Sagrado Coraçao de Jesus","year_of_designation":"2003"}
+{"continent":"South America","country":"Brazil","city":"Cuiabá","basilica":"Cuiabá Cathedral","year_of_designation":"1974"}
+{"continent":"South America","country":"Brazil","city":"Curitiba","basilica":"Curitiba Cathedral","year_of_designation":"1993"}
+{"continent":"South America","country":"Brazil","city":"Curvelo","basilica":"Sao Geraldo Majela","year_of_designation":"1966"}
+{"continent":"South America","country":"Brazil","city":"Diamantina","basilica":"Sagrado Coraçao de Jesus","year_of_designation":"1920"}
+{"continent":"South America","country":"Brazil","city":"Iguape","basilica":"Nossa Senhora das Nevest","year_of_designation":"1962"}
+{"continent":"South America","country":"Brazil","city":"Itatiba","basilica":"Nossa Senhora do Belém","year_of_designation":"1991"}
+{"continent":"South America","country":"Brazil","city":"Joao Pessoa","basilica":"Joao Pessoa Cathedral","year_of_designation":"1997"}
+{"continent":"South America","country":"Brazil","city":"Mariana","basilica":"Mariana Cathedral","year_of_designation":"1963"}
+{"continent":"South America","country":"Brazil","city":"Marília","basilica":"Marília Cathedral","year_of_designation":"1975"}
+{"continent":"South America","country":"Brazil","city":"Maringá","basilica":"Cathedral of Maringá","year_of_designation":"1982"}
+{"continent":"South America","country":"Brazil","city":"Niterói","basilica":"Nossa Senhora Auxiliadora","year_of_designation":"1950"}
+{"continent":"South America","country":"Brazil","city":"Olinda","basilica":"Monastery of Sao Bento de Olinda","year_of_designation":"1998"}
+{"continent":"South America","country":"Brazil","city":"Poços de Caldas","basilica":"Nossa Senhora da Saúde","year_of_designation":"1948"}
+{"continent":"South America","country":"Brazil","city":"Recife","basilica":"Nossa Senhora do Carmo","year_of_designation":"1920"}
+{"continent":"South America","country":"Brazil","city":"Recife","basilica":"Nossa Senhora de Penha","year_of_designation":"1949"}
+{"continent":"South America","country":"Brazil","city":"Rio de Janeiro","basilica":"Santa Teresinha do Menino Jesus","year_of_designation":"1927"}
+{"continent":"South America","country":"Brazil","city":"Rio de Janeiro","basilica":"Nossa Senhora de Lourdes","year_of_designation":"1959"}
+{"continent":"South America","country":"Brazil","city":"Rio de Janeiro","basilica":"Imaculado Coraçao de Maria","year_of_designation":"1963"}
+{"continent":"South America","country":"Brazil","city":"Rio de Janeiro","basilica":"Imaculada Conceiçao","year_of_designation":"2002"}
+{"continent":"South America","country":"Brazil","city":"Salvador","basilica":"Cathedral of Salvador","year_of_designation":"1922"}
+{"continent":"South America","country":"Brazil","city":"Salvador","basilica":"Church of Nosso Senhor do Bonfim","year_of_designation":"1926"}
+{"continent":"South America","country":"Brazil","city":"Salvador","basilica":"Nossa Senhora da Conceiçao da Praia","year_of_designation":"1946"}
+{"continent":"South America","country":"Brazil","city":"Salvador","basilica":"Sao Sebastiao","year_of_designation":"1982"}
+{"continent":"South America","country":"Brazil","city":"Santa Maria","basilica":"Nossa Senhora Medianeira","year_of_designation":"1987"}
+{"continent":"South America","country":"Brazil","city":"Santos ","basilica":"Santo Antônio do Embaré","year_of_designation":"1952"}
+{"continent":"South America","country":"Brazil","city":"Sao Joao del Rei","basilica":"Sao Joao del Rei Cathedral","year_of_designation":"1964"}
+{"continent":"South America","country":"Brazil","city":"Sao José do Rio Preto","basilica":"Nossa Senhora Aparecida","year_of_designation":"1954"}
+{"continent":"South America","country":"Brazil","city":"Sao Paulo","basilica":"Monastery of Sao Bento","year_of_designation":"1922"}
+{"continent":"South America","country":"Brazil","city":"Sao Paulo","basilica":"Nossa Senhora do Carmo","year_of_designation":"1950"}
+{"continent":"South America","country":"Brazil","city":"Sao Paulo","basilica":"Santíssimo Sacramento","year_of_designation":"1958"}
+{"continent":"South America","country":"Brazil","city":"Sao Paulo","basilica":"Nossa Senhora da Penha","year_of_designation":"1985"}
+{"continent":"South America","country":"Brazil","city":"Tremembé","basilica":"Senhor Bom Jesus","year_of_designation":"1974"}
+{"continent":"South America","country":"Brazil","city":"Trindade","basilica":"Divino Pai Eterno","year_of_designation":"2006"}
+{"continent":"South America","country":"Brazil","city":"Vitória","basilica":"Santo Antônio","year_of_designation":"2008"}
+{"continent":"South America","country":"Chile","city":"Andacollo","basilica":"Nuestra Senora de Andacollo","year_of_designation":"1998"}
+{"continent":"South America","country":"Chile","city":"Antofagasta","basilica":"Corazón de María","year_of_designation":"1999"}
+{"continent":"South America","country":"Chile","city":"Maipú","basilica":"National Shrine of Maipú","year_of_designation":"1987"}
+{"continent":"South America","country":"Chile","city":"Rengo","basilica":"Santa Ana","year_of_designation":"1997"}
+{"continent":"South America","country":"Chile","city":"Santiago","basilica":"Nuestra Senora de la Merced","year_of_designation":"1922"}
+{"continent":"South America","country":"Chile","city":"Santiago","basilica":"Nuestra Senora del Perpetuo Socorro","year_of_designation":"1925"}
+{"continent":"South America","country":"Chile","city":"Santiago","basilica":"Corazón de María","year_of_designation":"1929"}
+{"continent":"South America","country":"Chile","city":"Santiago","basilica":"Basilica of Salvador","year_of_designation":"1937"}
+{"continent":"South America","country":"Chile","city":"Santiago","basilica":"Basilica of Lourdes","year_of_designation":"1992"}
+{"continent":"South America","country":"Colombia","city":"Bogotá","basilica":"Primary Cathedral of Bogotá","year_of_designation":"1907"}
+{"continent":"South America","country":"Colombia","city":"Bogotá","basilica":"El Senor de Monserrate","year_of_designation":"1956"}
+{"continent":"South America","country":"Colombia","city":"Bogotá","basilica":"Sagrado Corazón de Jesús","year_of_designation":"1964"}
+{"continent":"South America","country":"Colombia","city":"Buga","basilica":"Buga Basilica","year_of_designation":"1937"}
+{"continent":"South America","country":"Colombia","city":"Cartagena","basilica":"Cartagena Cathedral","year_of_designation":"1953"}
+{"continent":"South America","country":"Colombia","city":"Chiquinquirá","basilica":"Nuestra Senora del Rosario","year_of_designation":"1927"}
+{"continent":"South America","country":"Colombia","city":"Duitama","basilica":"Basilica of Mongui","year_of_designation":"1966"}
+{"continent":"South America","country":"Colombia","city":"Girón","basilica":"San Juan Bautista","year_of_designation":"1998"}
+{"continent":"South America","country":"Colombia","city":"Ipiales","basilica":"Las Lajas Cathedral","year_of_designation":"1954"}
+{"continent":"South America","country":"Colombia","city":"Jardín","basilica":"Inmaculada Concepción","year_of_designation":"2003"}
+{"continent":"South America","country":"Colombia","city":"La Ceja","basilica":"Nuestra Senora del Carmen","year_of_designation":"2003"}
+{"continent":"South America","country":"Colombia","city":"La Estrella","basilica":"Nuestra Senora del Rosario de Chiquinquirá","year_of_designation":"1986"}
+{"continent":"South America","country":"Colombia","city":"Manizales","basilica":"Manizales Cathedral","year_of_designation":"1951"}
+{"continent":"South America","country":"Colombia","city":"Medellín","basilica":"Metropolitan Cathedral of Medellín","year_of_designation":"1948"}
+{"continent":"South America","country":"Colombia","city":"Medellín","basilica":"Nuestra Senora de la Candelaria","year_of_designation":"1970"}
+{"continent":"South America","country":"Colombia","city":"Popayán","basilica":"Popayán Cathedral","year_of_designation":"1953"}
+{"continent":"South America","country":"Colombia","city":"San Pedro","basilica":"Basílica Menor del Senor de los Milagros","year_of_designation":"1981"}
+{"continent":"South America","country":"Colombia","city":"Santa Fe de Antioquia","basilica":"Santa Fe de Antioquia Cathedral","year_of_designation":"1941"}
+{"continent":"South America","country":"Colombia","city":"Santa Marta","basilica":"Santa Marta Cathedral","year_of_designation":"1930"}
+{"continent":"South America","country":"Colombia","city":"Santa Rosa de Cabal","basilica":"Nuestra Senora de las Victorias","year_of_designation":"2004"}
+{"continent":"South America","country":"Colombia","city":"Santa Rosa de Osos","basilica":"Nuestra Senora de las Misericordias","year_of_designation":"1972"}
+{"continent":"South America","country":"Colombia","city":"Sincelejo","basilica":"El Senor de los Milagros","year_of_designation":"1963"}
+{"continent":"South America","country":"Colombia","city":"Tunja","basilica":"Tunja Cathedral","year_of_designation":"1980"}
+{"continent":"South America","country":"Colombia","city":"Ubaté","basilica":"Santo Cristo de Ubaté","year_of_designation":"1992"}
+{"continent":"South America","country":"Colombia","city":"Yarumal","basilica":"Nuestra Senora de las Mercedes","year_of_designation":"1999"}
+{"continent":"South America","country":"Ecuador","city":"Ambato","basilica":"Nuestra Senora de la Elevación","year_of_designation":"1961"}
+{"continent":"South America","country":"Ecuador","city":"Cuenca","basilica":"Perpetuo Socorro","year_of_designation":"1966"}
+{"continent":"South America","country":"Ecuador","city":"El Cisne","basilica":"Nuestra Senora del Cisne","year_of_designation":"1980"}
+{"continent":"South America","country":"Ecuador","city":"El Quinche","basilica":"Nuestra Senora de la Presentación del Quinche","year_of_designation":"1959"}
+{"continent":"South America","country":"Ecuador","city":"Guayaquil","basilica":"Nuestra Senora de La Merced","year_of_designation":"1962"}
+{"continent":"South America","country":"Ecuador","city":"Ibarra","basilica":"Nuestra Senora de La Merced","year_of_designation":"1964"}
+{"continent":"South America","country":"Ecuador","city":"Montecristi","basilica":"Santísima Virgen de Monserrat","year_of_designation":"1988"}
+{"continent":"South America","country":"Ecuador","city":"Quito","basilica":"Nuestra Senora de la Merced","year_of_designation":"1920"}
+{"continent":"South America","country":"Ecuador","city":"Quito","basilica":"San Francisco","year_of_designation":"1965"}
+{"continent":"South America","country":"Ecuador","city":"Quito","basilica":"Basílica del Voto Nacional","year_of_designation":"1991"}
+{"continent":"South America","country":"Ecuador","city":"Yaguachi","basilica":"San Jacinto","year_of_designation":"1980"}
+{"continent":"South America","country":"Paraguay","city":"Pilar","basilica":"Nuestra Senora del Pilar","year_of_designation":"1979"}
+{"continent":"South America","country":"Peru","city":"Arequipa","basilica":"Basilica Cathedral of Arequipa","year_of_designation":"1940"}
+{"continent":"South America","country":"Peru","city":"Ayacucho","basilica":"Ayacucho Cathedral","year_of_designation":"1960"}
+{"continent":"South America","country":"Peru","city":"Cusco","basilica":"Cathedral of Santo Domingo","year_of_designation":"1928"}
+{"continent":"South America","country":"Peru","city":"Cusco","basilica":"Nuestra Senora de las Mercedes","year_of_designation":"1946"}
+{"continent":"South America","country":"Peru","city":"Lima","basilica":"Cathedral of Lima","year_of_designation":"1921"}
+{"continent":"South America","country":"Peru","city":"Lima","basilica":"La Merced","year_of_designation":"1924"}
+{"continent":"South America","country":"Peru","city":"Lima","basilica":"El Rosario","year_of_designation":"1929"}
+{"continent":"South America","country":"Peru","city":"Lima","basilica":"María Auxiliadora","year_of_designation":"1962"}
+{"continent":"South America","country":"Peru","city":"Lima","basilica":"Monastery of San Francisco","year_of_designation":"1963"}
+{"continent":"South America","country":"Peru","city":"Lima","basilica":"Santa Rosa de Lima Basilica","year_of_designation":"1993"}
+{"continent":"South America","country":"Peru","city":"Puno","basilica":"Puno Cathedral","year_of_designation":"1963"}
+{"continent":"South America","country":"Peru","city":"Trujillo","basilica":"Trujillo Cathedral","year_of_designation":"1967"}
+{"continent":"South America","country":"Uruguay","city":"Colonia del Sacramento","basilica":"Santíssimo Sacramento","year_of_designation":"1997"}
+{"continent":"South America","country":"Uruguay","city":"Florida","basilica":"Florida Cathedral","year_of_designation":"1963"}
+{"continent":"South America","country":"Uruguay","city":"Paysandú","basilica":"Nuestra Senora del Rosario y San Benito de Palermo","year_of_designation":"1949"}
+{"continent":"South America","country":"Uruguay","city":"Salto","basilica":"Salto Cathedral","year_of_designation":"1997"}
+{"continent":"South America","country":"Uruguay","city":"San José de Mayo","basilica":"San José de Mayo Cathedral","year_of_designation":"1957"}
+{"continent":"South America","country":"Venezuela","city":"Barquisimeto","basilica":"Santo Cristo de la Gracia","year_of_designation":"1993"}
+{"continent":"South America","country":"Venezuela","city":"Caracas","basilica":"Shrine Basilica of the Holy Chapel","year_of_designation":"1926"}
+{"continent":"South America","country":"Venezuela","city":"Caracas","basilica":"San Pedro Apóstol","year_of_designation":"1962"}
+{"continent":"South America","country":"Venezuela","city":"Caracas","basilica":"Santa Teresa","year_of_designation":"1974"}
+{"continent":"South America","country":"Venezuela","city":"Santa Ana de Coro","basilica":"Coro Cathedral","year_of_designation":"1977"}
+{"continent":"South America","country":"Venezuela","city":"El Valle del Espíritu Santo","basilica":"Nuestra Senora de El Valle","year_of_designation":"1995"}
+{"continent":"South America","country":"Venezuela","city":"Guanare","basilica":"Guanare Cathedral","year_of_designation":"1949"}
+{"continent":"South America","country":"Venezuela","city":"Guanare","basilica":"Nuestra Senora de Coromoto","year_of_designation":"2006"}
+{"continent":"South America","country":"Venezuela","city":"La Grita","basilica":"Espíritu Santo","year_of_designation":"1976"}
+{"continent":"South America","country":"Venezuela","city":"Maracaibo","basilica":"Nuestra Senora de Chiquinquirá","year_of_designation":"1920"}
+{"continent":"South America","country":"Venezuela","city":"Mérida","basilica":"Mérida Cathedral","year_of_designation":"1991"}
+{"continent":"South America","country":"Venezuela","city":"Táriba","basilica":"Nuestra Senora de la Consolación","year_of_designation":"1959"}
+{"continent":"South America","country":"Venezuela","city":"Timotes","basilica":"Santa Lucía","year_of_designation":"2002"}
+{"continent":"South America","country":"Venezuela","city":"Valencia","basilica":"Valencia Cathedral","year_of_designation":"1960"}
+{"continent":"Australia and Oceania","country":"Australia","city":"City of Boroondara","basilica":"Our Lady of Victories Basilica","year_of_designation":"1996"}
+{"continent":"Australia and Oceania","country":"Australia","city":"Fremantle","basilica":"St Patrick's Basilica","year_of_designation":"1994"}
+{"continent":"Australia and Oceania","country":"Australia","city":"Geelong","basilica":"St Mary of the Angels Basilica","year_of_designation":"2004"}
+{"continent":"Australia and Oceania","country":"Australia","city":"Melbourne","basilica":"St Patrick's Cathedral","year_of_designation":"1974"}
+{"continent":"Australia and Oceania","country":"Australia","city":"Sydney","basilica":"St Mary's Cathedral","year_of_designation":"1932"}
+{"continent":"Australia and Oceania","country":"Guam","city":"Hagatna","basilica":"Dulce Nombre de Maria Cathedral Basilica","year_of_designation":"1985"}
+{"continent":"Europe","country":"Austria","city":"Absam","basilica":"St Michael's Basilica","year_of_designation":"1999"}
+{"continent":"Europe","country":"Austria","city":"Altenmarkt an der Triesting","basilica":"Kleinmariazell Abbey","year_of_designation":"2007"}
+{"continent":"Europe","country":"Austria","city":"Attnang-Puchheim","basilica":"Maria Puchheim in Attnang Pilgrimage Church","year_of_designation":"1951"}
+{"continent":"Europe","country":"Austria","city":"Bergheim","basilica":"Maria Plain Basilica","year_of_designation":"1951"}
+{"continent":"Europe","country":"Austria","city":"Enns ","basilica":"St Lawrence's Basilica","year_of_designation":"1970"}
+{"continent":"Europe","country":"Austria","city":"Frauenkirchen","basilica":"Frauenkirchen Basilica","year_of_designation":"1990"}
+{"continent":"Europe","country":"Austria","city":"Geras","basilica":"Geras Abbey","year_of_designation":"1954"}
+{"continent":"Europe","country":"Austria","city":"Gratwein","basilica":"Rein Abbey","year_of_designation":"1979"}
+{"continent":"Europe","country":"Austria","city":"Graz","basilica":"Mariatrost Basilica","year_of_designation":"1999"}
+{"continent":"Europe","country":"Austria","city":"Hall in Tirol","basilica":"Hall Convent","year_of_designation":"1914"}
+{"continent":"Europe","country":"Austria","city":"Innsbruck","basilica":"Wilten Abbey","year_of_designation":"1957"}
+{"continent":"Europe","country":"Austria","city":"Klosterneuburg","basilica":"Klosterneuburg Monastery","year_of_designation":"1936"}
+{"continent":"Europe","country":"Austria","city":"Kramsach","basilica":"Mariathal Basilica","year_of_designation":"2008"}
+{"continent":"Europe","country":"Austria","city":"Lesachtal","basilica":"Maria Luggau Basilica","year_of_designation":"1986"}
+{"continent":"Europe","country":"Austria","city":"Lilienfeld","basilica":"Lilienfeld Abbey","year_of_designation":"1976"}
+{"continent":"Europe","country":"Austria","city":"Linz","basilica":"Pöstlingberg-Kirche","year_of_designation":"1964"}
+{"continent":"Europe","country":"Austria","city":"Loretto","basilica":"Maria Loretto Basilica","year_of_designation":"1997"}
+{"continent":"Europe","country":"Austria","city":"Maria Taferl","basilica":"Maria Taferl Basilica","year_of_designation":"1947"}
+{"continent":"Europe","country":"Austria","city":"Mariazell","basilica":"Mariazell Basilica","year_of_designation":"1907"}
+{"continent":"Europe","country":"Austria","city":"Mondsee ","basilica":"St Michael's Basilica","year_of_designation":"2005"}
+{"continent":"Europe","country":"Austria","city":"Rankweil","basilica":"Rankweil Basilica","year_of_designation":"1985"}
+{"continent":"Europe","country":"Austria","city":"Rosenburg-Mold","basilica":"Maria Dreieichen Basilica","year_of_designation":"1957"}
+{"continent":"Europe","country":"Austria","city":"Sankt Florian","basilica":"St. Florian's Priory","year_of_designation":"1999"}
+{"continent":"Europe","country":"Austria","city":"Seckau","basilica":"Seckau Abbey","year_of_designation":"1930"}
+{"continent":"Europe","country":"Austria","city":"Sonntagberg","basilica":"Sonntagberg Basilica","year_of_designation":"1964"}
+{"continent":"Europe","country":"Austria","city":"Stams","basilica":"Stams Abbey","year_of_designation":"1983"}
+{"continent":"Europe","country":"Austria","city":"Vienna","basilica":"Dominikanerkirche","year_of_designation":"1927"}
+{"continent":"Europe","country":"Austria","city":"Vienna","basilica":"Piaristenkirche Maria Treu Vienna","year_of_designation":"1949"}
+{"continent":"Europe","country":"Austria","city":"Vienna","basilica":"Schottenkirche","year_of_designation":"1958"}
+{"continent":"Europe","country":"Austria","city":"Wullersdorf","basilica":"Mariä Roggendorf Basilica","year_of_designation":"1988"}
+{"continent":"Europe","country":"Belarus","city":"Budslau","basilica":"Basilica of Our Lady of the Assumption","year_of_designation":"1993"}
+{"continent":"Europe","country":"Belarus","city":"Hrodna","basilica":"Cathedral of St Francis Xavier","year_of_designation":"1990"}
+{"continent":"Europe","country":"Belarus","city":"Pinsk","basilica":"Cathedral of the Assumption","year_of_designation":"1996"}
+{"continent":"Europe","country":"Belgium","city":"Antwerp","basilica":"Berchem Basilica","year_of_designation":"1878"}
+{"continent":"Europe","country":"Belgium","city":"Aubel","basilica":"Val-Dieu Abbey","year_of_designation":"1946"}
+{"continent":"Europe","country":"Belgium","city":"Bruges","basilica":"Sint-Salvator Cathedral","year_of_designation":"1921"}
+{"continent":"Europe","country":"Belgium","city":"Bruges","basilica":"Basilica of the Holy Blood","year_of_designation":"1923"}
+{"continent":"Europe","country":"Belgium","city":"Bruges","basilica":"St Andrew's Abbey","year_of_designation":"1952"}
+{"continent":"Europe","country":"Belgium","city":"Brussels","basilica":"Basilica of the Sacred Heart","year_of_designation":"1952"}
+{"continent":"Europe","country":"Belgium","city":"Chaudfontaine","basilica":"Notre-Dame de Chevremont","year_of_designation":"1928"}
+{"continent":"Europe","country":"Belgium","city":"Chievres","basilica":"Basilica of Our Lady of Tongre","year_of_designation":"1951"}
+{"continent":"Europe","country":"Belgium","city":"Dendermonde","basilica":"Dendermonde Abbey","year_of_designation":"1938"}
+{"continent":"Europe","country":"Belgium","city":"Edegem","basilica":"Basilica of Our Lady of Lourdes","year_of_designation":"2008"}
+{"continent":"Europe","country":"Belgium","city":"Estinnes","basilica":"Abbey of Bonne Espérance","year_of_designation":"1957"}
+{"continent":"Europe","country":"Belgium","city":"Florenville","basilica":"Orval Abbey","year_of_designation":"1939"}
+{"continent":"Europe","country":"Belgium","city":"Ghent","basilica":"Oostakker Basilica","year_of_designation":"1924"}
+{"continent":"Europe","country":"Belgium","city":"Grimbergen","basilica":"Grimbergen Abbey","year_of_designation":"1998"}
+{"continent":"Europe","country":"Belgium","city":"Halle","basilica":"Halle Basilica","year_of_designation":"1946"}
+{"continent":"Europe","country":"Belgium","city":"Hasselt","basilica":"Virga Jesse Basilica","year_of_designation":"1998"}
+{"continent":"Europe","country":"Belgium","city":"Liege ","basilica":"Saint-Martin","year_of_designation":"1886"}
+{"continent":"Europe","country":"Belgium","city":"Mechelen","basilica":"Basilica of Our Lady of Hanswijk","year_of_designation":"1987"}
+{"continent":"Europe","country":"Belgium","city":"Moorslede","basilica":"Basilica of Our Lady of Dadizele","year_of_designation":"1882"}
+{"continent":"Europe","country":"Belgium","city":"Péruwelz","basilica":"Notre-Dame de Bonsecours","year_of_designation":"1910"}
+{"continent":"Europe","country":"Belgium","city":"Saint-Hubert","basilica":"Saint-Hubert Basilica","year_of_designation":"1927"}
+{"continent":"Europe","country":"Belgium","city":"Scherpenheuvel-Zichem","basilica":"Our Lady of Scherpenheuvel Basilica","year_of_designation":"1922"}
+{"continent":"Europe","country":"Belgium","city":"Sint-Truiden","basilica":"Kortenbos Basilica","year_of_designation":"1936"}
+{"continent":"Europe","country":"Belgium","city":"Tongeren","basilica":"Tongeren Basilica","year_of_designation":"1930"}
+{"continent":"Europe","country":"Belgium","city":"Vilvoorde","basilica":"Onze-Lieve-Vrouw ten Troost","year_of_designation":"2006"}
+{"continent":"Europe","country":"Belgium","city":"Walcourt","basilica":"Walcourt Basilica","year_of_designation":"1950"}
+{"continent":"Europe","country":"Belgium","city":"Wavre","basilica":"Basse-Wavre Basilica","year_of_designation":"1999"}
+{"continent":"Europe","country":"Croatia","city":"Đakovo","basilica":"St Peter's Cathedral","year_of_designation":"1965"}
+{"continent":"Europe","country":"Croatia","city":"Marija Bistrica","basilica":"Basilica of Mary Mother of God of Bistrica","year_of_designation":"1923"}
+{"continent":"Europe","country":"Croatia","city":"Poreč","basilica":"Euphrasian Basilica","year_of_designation":"1931"}
+{"continent":"Europe","country":"Croatia","city":"Rijeka","basilica":"Basilica of the Blessed Virgin Mary of Trsat","year_of_designation":"1930"}
+{"continent":"Europe","country":"Croatia","city":"Šibenik","basilica":"Cathedral of St. James","year_of_designation":"1895"}
+{"continent":"Europe","country":"Croatia","city":"Zadar","basilica":"Cathedral of St. Anastasia","year_of_designation":"1867"}
+{"continent":"Europe","country":"Croatia","city":"Zagreb","basilica":"Basilica of the Sacred Heart of Jesus","year_of_designation":"1941"}
+{"continent":"Europe","country":"Czech Republic","city":"Brno","basilica":"Basilica of the Assumption","year_of_designation":"1987"}
+{"continent":"Europe","country":"Czech Republic","city":"Bystřice pod Hostýnem","basilica":"Svatý Hostýn","year_of_designation":"1982"}
+{"continent":"Europe","country":"Czech Republic","city":"Česká Lípa","basilica":"All Saints Basilica","year_of_designation":"1927"}
+{"continent":"Europe","country":"Czech Republic","city":"Frýdek-Místek","basilica":"Basilica of the Visitation","year_of_designation":"2001"}
+{"continent":"Europe","country":"Czech Republic","city":"Jablonné v Podještědí","basilica":"Basilica of St Lawrence and St Zdislava","year_of_designation":"1996"}
+{"continent":"Europe","country":"Czech Republic","city":"Jiříkov","basilica":"Basilica of Our Lady Help of Christians","year_of_designation":"1926"}
+{"continent":"Europe","country":"Czech Republic","city":"Krupka","basilica":"Basilica of Our Lady of Sorrows","year_of_designation":"1924"}
+{"continent":"Europe","country":"Czech Republic","city":"Olomouc","basilica":"Basilica of the Visitation","year_of_designation":"1995"}
+{"continent":"Europe","country":"Czech Republic","city":"Prague","basilica":"Břevnov Monastery","year_of_designation":"1948"}
+{"continent":"Europe","country":"Czech Republic","city":"Prague","basilica":"Basilica of St James","year_of_designation":"1974"}
+{"continent":"Europe","country":"Czech Republic","city":"Prague","basilica":"Strahov Monastery","year_of_designation":"1991"}
+{"continent":"Europe","country":"Czech Republic","city":"Prague","basilica":"Basilica of St Peter and St Paul","year_of_designation":"2003"}
+{"continent":"Europe","country":"Czech Republic","city":"Příbram","basilica":"Strahov Monastery","year_of_designation":"1905"}
+{"continent":"Europe","country":"Czech Republic","city":"Velehrad","basilica":"Basilica of the Assumption of the Blessed Virgin Mary and SS Cyril and Methodius","year_of_designation":"1928"}
+{"continent":"Europe","country":"France","city":"Aiguebelle","basilica":"Aiguebelle Abbey","year_of_designation":"1937"}
+{"continent":"Europe","country":"France","city":"Aix-en-Provence","basilica":"Aix Cathedral","year_of_designation":"1875"}
+{"continent":"Europe","country":"France","city":"Albert","basilica":"Notre-Dame de Brebieres","year_of_designation":"1899"}
+{"continent":"Europe","country":"France","city":"Albi","basilica":"Albi Cathedral","year_of_designation":"1947"}
+{"continent":"Europe","country":"France","city":"Alençon","basilica":"Basilica of Our Lady of Alençon","year_of_designation":"2009"}
+{"continent":"Europe","country":"France","city":"Amiens","basilica":"Amiens Cathedral","year_of_designation":"1854"}
+{"continent":"Europe","country":"France","city":"Angers","basilica":"Sainte-Madeleine","year_of_designation":"1922"}
+{"continent":"Europe","country":"France","city":"Annecy","basilica":"La Visitation","year_of_designation":"1951"}
+{"continent":"Europe","country":"France","city":"Annecy","basilica":"Saint-Joseph des Fins","year_of_designation":"1964"}
+{"continent":"Europe","country":"France","city":"Apt","basilica":"Apt Cathedral","year_of_designation":"1879"}
+{"continent":"Europe","country":"France","city":"Arcachon","basilica":"Notre-Dame","year_of_designation":"1953"}
+{"continent":"Europe","country":"France","city":"Argenteuil","basilica":"Saint-Denis","year_of_designation":"1898"}
+{"continent":"Europe","country":"France","city":"Arles","basilica":"Church of St. Trophime","year_of_designation":"1882"}
+{"continent":"Europe","country":"France","city":"Arras","basilica":"Arras Cathedral","year_of_designation":"1855"}
+{"continent":"Europe","country":"France","city":"Ars-sur-Formans","basilica":"Saint-Sixte","year_of_designation":"1997"}
+{"continent":"Europe","country":"France","city":"Auch","basilica":"Auch Cathedral","year_of_designation":"1928"}
+{"continent":"Europe","country":"France","city":"Auray","basilica":"Sainte-Anne d\u2019Auray","year_of_designation":"1874"}
+{"continent":"Europe","country":"France","city":"Autun","basilica":"Autun Cathedral","year_of_designation":"1949"}
+{"continent":"Europe","country":"France","city":"Avignon","basilica":"Avignon Cathedral","year_of_designation":"1854"}
+{"continent":"Europe","country":"France","city":"Avioth","basilica":"Notre-Dame d\u2019Avioth","year_of_designation":"1993"}
+{"continent":"Europe","country":"France","city":"Avranches","basilica":"Saint-Gervais-et-Saint-Protais","year_of_designation":"1894"}
+{"continent":"Europe","country":"France","city":"Beaune","basilica":"Notre-Dame de Beaune","year_of_designation":"1957"}
+{"continent":"Europe","country":"France","city":"Belfort","basilica":"Belfort Cathedral","year_of_designation":"1952"}
+{"continent":"Europe","country":"France","city":"Bernay","basilica":"Notre-Dame de la Couture","year_of_designation":"1949"}
+{"continent":"Europe","country":"France","city":"Besançon","basilica":"Besançon Cathedral","year_of_designation":"1877"}
+{"continent":"Europe","country":"France","city":"Besançon","basilica":"Basilica of Saint-Ferjeux","year_of_designation":"1912"}
+{"continent":"Europe","country":"France","city":"Blois","basilica":"Notre-Dame de la Trinité","year_of_designation":"1956"}
+{"continent":"Europe","country":"France","city":"Bon-Encontre","basilica":"Notre-Dame de Bon-Encontre","year_of_designation":"1875"}
+{"continent":"Europe","country":"France","city":"Bonlieu-sur-Roubion","basilica":"Sainte-Anne","year_of_designation":"1899"}
+{"continent":"Europe","country":"France","city":"Bonsecours","basilica":"Notre-Dame de Bon-Secours","year_of_designation":"1919"}
+{"continent":"Europe","country":"France","city":"Bordeaux","basilica":"Saint-Seurin","year_of_designation":"1873"}
+{"continent":"Europe","country":"France","city":"Bordeaux","basilica":"Saint Michael's Basilica","year_of_designation":"1903"}
+{"continent":"Europe","country":"France","city":"Boulogne-sur-Mer","basilica":"Notre-Dame de Boulogne","year_of_designation":"1879"}
+{"continent":"Europe","country":"France","city":"Brioude","basilica":"Saint-Julien","year_of_designation":"1957"}
+{"continent":"Europe","country":"France","city":"Calmont","basilica":"Notre-Dame de Ceignac","year_of_designation":"1936"}
+{"continent":"Europe","country":"France","city":"Cambrai","basilica":"Cambrai Cathedral","year_of_designation":"1896"}
+{"continent":"Europe","country":"France","city":"Carcassonne","basilica":"Basilica of St. Nazaire and St. Celsus","year_of_designation":"1898"}
+{"continent":"Europe","country":"France","city":"Caudry","basilica":"Sainte-Maxellende","year_of_designation":"1991"}
+{"continent":"Europe","country":"France","city":"Chambéry","basilica":"Chambéry Cathedral","year_of_designation":"1874"}
+{"continent":"Europe","country":"France","city":"Charleville-Mézieres","basilica":"Basilique Notre-Dame de Mézieres","year_of_designation":"1946"}
+{"continent":"Europe","country":"France","city":"Chartres","basilica":"Chartres Cathedral","year_of_designation":"1908"}
+{"continent":"Europe","country":"France","city":"Châteauneuf-sur-Cher","basilica":"Notre-Dame des Enfants","year_of_designation":"1898"}
+{"continent":"Europe","country":"France","city":"Chaumont","basilica":"Saint-Jean-Baptiste","year_of_designation":"1948"}
+{"continent":"Europe","country":"France","city":"Cherbourg-Octeville","basilica":"Sainte-Trinité","year_of_designation":"1921"}
+{"continent":"Europe","country":"France","city":"Clermont-Ferrand","basilica":"Notre-Dame du Port","year_of_designation":"1886"}
+{"continent":"Europe","country":"France","city":"Cléry-Saint-André","basilica":"Notre-Dame de Cléry","year_of_designation":"1894"}
+{"continent":"Europe","country":"France","city":"Dinan","basilica":"Saint-Sauveur","year_of_designation":"1953"}
+{"continent":"Europe","country":"France","city":"Dole","basilica":"Notre-Dame de Dole","year_of_designation":"1950"}
+{"continent":"Europe","country":"France","city":"Domrémy-la-Pucelle","basilica":"Sainte-Jeanne-d\u2019Arc","year_of_designation":"1938"}
+{"continent":"Europe","country":"France","city":"Douvres-la-Délivrande","basilica":"Notre-Dame de la Délivrance","year_of_designation":"1895"}
+{"continent":"Europe","country":"France","city":"Épinal","basilica":"Saint-Maurice","year_of_designation":"1933"}
+{"continent":"Europe","country":"France","city":"Évron","basilica":"Notre-Dame de l\u2019Épine","year_of_designation":"1939"}
+{"continent":"Europe","country":"France","city":"Faverney","basilica":"Notre-Dame de la Blanche","year_of_designation":"1912"}
+{"continent":"Europe","country":"France","city":"Gray","basilica":"Notre-Dame","year_of_designation":"1948"}
+{"continent":"Europe","country":"France","city":"Grenoble","basilica":"Saint-Joseph","year_of_designation":"1937"}
+{"continent":"Europe","country":"France","city":"Grenoble","basilica":"Sacré-Cour","year_of_designation":"1952"}
+{"continent":"Europe","country":"France","city":"Guingamp","basilica":"Notre-Dame de Bon-Secours","year_of_designation":"1899"}
+{"continent":"Europe","country":"France","city":"Haguenau","basilica":"Notre-Dame","year_of_designation":"1892"}
+{"continent":"Europe","country":"France","city":"Hennebont","basilica":"Notre-Dame du Paradis","year_of_designation":"1912"}
+{"continent":"Europe","country":"France","city":"Issoudun","basilica":"Notre-Dame du Sacré-Cour","year_of_designation":"1874"}
+{"continent":"Europe","country":"France","city":"Josselin","basilica":"Notre-Dame du Roncier","year_of_designation":"1891"}
+{"continent":"Europe","country":"France","city":"Jungholtz","basilica":"Thierenbach Priory","year_of_designation":"1936"}
+{"continent":"Europe","country":"France","city":"Lablachere","basilica":"Notre-Dame de Bon-Secours","year_of_designation":"1930"}
+{"continent":"Europe","country":"France","city":"La Chapelle-Montligeon","basilica":"Notre-Dame de Montligeon","year_of_designation":"1928"}
+{"continent":"Europe","country":"France","city":"La Chapelle-Saint-Laurent","basilica":"Notre-Dame de Pitié","year_of_designation":"1964"}
+{"continent":"Europe","country":"France","city":"La Guerche-de-Bretagne","basilica":"Notre-Dame","year_of_designation":"1951"}
+{"continent":"Europe","country":"France","city":"Lalouvesc","basilica":"Saint-Jean-François Régis","year_of_designation":"1888"}
+{"continent":"Europe","country":"France","city":"La Salette-Fallavaux","basilica":"Notre-Dame de la Salette","year_of_designation":"1879"}
+{"continent":"Europe","country":"France","city":"Laval","basilica":"Notre-Dame d\u2019Avénieres","year_of_designation":"1898"}
+{"continent":"Europe","country":"France","city":"L'Épine","basilica":"Notre-Dame de l\u2019Épine","year_of_designation":"1913"}
+{"continent":"Europe","country":"France","city":"Le Puy-en-Velay","basilica":"Le Puy Cathedral","year_of_designation":"1856"}
+{"continent":"Europe","country":"France","city":"Liesse-Notre-Dame","basilica":"Notre-Dame de Liesse","year_of_designation":"1912"}
+{"continent":"Europe","country":"France","city":"Lille","basilica":"Lille Cathedral","year_of_designation":"1904"}
+{"continent":"Europe","country":"France","city":"Limoux","basilica":"Notre-Dame de Marceille","year_of_designation":"1912"}
+{"continent":"Europe","country":"France","city":"Lisieux","basilica":"Basilica of St. Thérese ","year_of_designation":"1954"}
+{"continent":"Europe","country":"France","city":"Longpont-sur-Orge","basilica":"Notre-Dame de Bonne-Garde","year_of_designation":"1913"}
+{"continent":"Europe","country":"France","city":"Lourdes","basilica":"Notre-Dame de l\u2019Immaculee-Conception","year_of_designation":"1874"}
+{"continent":"Europe","country":"France","city":"Lourdes","basilica":"Rosary Basilica","year_of_designation":"1926"}
+{"continent":"Europe","country":"France","city":"Lourdes","basilica":"Basilica of St. Pius X","year_of_designation":"1958"}
+{"continent":"Europe","country":"France","city":"Lutterbach","basilica":"Saint-Martin-du-Sacré-Coeur","year_of_designation":"1922"}
+{"continent":"Europe","country":"France","city":"Luxeuil-les-Bains","basilica":"Saint-Pierre","year_of_designation":"1925"}
+{"continent":"Europe","country":"France","city":"Lyon","basilica":"Notre-Dame de Fourviere","year_of_designation":"1897"}
+{"continent":"Europe","country":"France","city":"Lyon","basilica":"St-Martin-d'Ainay","year_of_designation":"1905"}
+{"continent":"Europe","country":"France","city":"Marseille","basilica":"Notre-Dame de la Garde","year_of_designation":"1879"}
+{"continent":"Europe","country":"France","city":"Marseille","basilica":"Marseille Cathedral","year_of_designation":"1896"}
+{"continent":"Europe","country":"France","city":"Marseille","basilica":"Abbey of Saint Victor","year_of_designation":"1934"}
+{"continent":"Europe","country":"France","city":"Marseille","basilica":"Sacré-Cour","year_of_designation":"1997"}
+{"continent":"Europe","country":"France","city":"Mattaincourt","basilica":"Saint-Pierre Fourier","year_of_designation":"1897"}
+{"continent":"Europe","country":"France","city":"Mauriac","basilica":"Notre-Dame des Miracles","year_of_designation":"1921"}
+{"continent":"Europe","country":"France","city":"Mayenne","basilica":"Notre-Dame des Miracles","year_of_designation":"1900"}
+{"continent":"Europe","country":"France","city":"Meaux","basilica":"Meaux Cathedral","year_of_designation":"1912"}
+{"continent":"Europe","country":"France","city":"Mende","basilica":"Mende Cathedral","year_of_designation":"1874"}
+{"continent":"Europe","country":"France","city":"Menton","basilica":"Saint-Michel Archange","year_of_designation":"1999"}
+{"continent":"Europe","country":"France","city":"Metz","basilica":"Saint-Vincent","year_of_designation":"1933"}
+{"continent":"Europe","country":"France","city":"Montpellier","basilica":"Montpellier Cathedral","year_of_designation":"1847"}
+{"continent":"Europe","country":"France","city":"Montpellier","basilica":"Notre-Dame des Tables","year_of_designation":"1939"}
+{"continent":"Europe","country":"France","city":"Moulins","basilica":"Moulins Cathedral","year_of_designation":"1949"}
+{"continent":"Europe","country":"France","city":"Nancy","basilica":"Saint-Epvre","year_of_designation":"1874"}
+{"continent":"Europe","country":"France","city":"Nancy","basilica":"Sacré-Cour","year_of_designation":"1905"}
+{"continent":"Europe","country":"France","city":"Nancy","basilica":"Notre-Dame de Lourdes","year_of_designation":"1925"}
+{"continent":"Europe","country":"France","city":"Nantes","basilica":"Saint-Nicolas","year_of_designation":"1882"}
+{"continent":"Europe","country":"France","city":"Nantes","basilica":"Saint-Donatien-et-Saint-Rogatien","year_of_designation":"1889"}
+{"continent":"Europe","country":"France","city":"Narbonne","basilica":"Narbonne Cathedral","year_of_designation":"1886"}
+{"continent":"Europe","country":"France","city":"Narbonne","basilica":"Saint-Paul","year_of_designation":"1953"}
+{"continent":"Europe","country":"France","city":"Neuvy-Saint-Sépulchre","basilica":"Saint-Jacques","year_of_designation":"1910"}
+{"continent":"Europe","country":"France","city":"Nevers","basilica":"Nevers Cathedral","year_of_designation":"1868"}
+{"continent":"Europe","country":"France","city":"Nice","basilica":"Nice Cathedral","year_of_designation":"1949"}
+{"continent":"Europe","country":"France","city":"Nice","basilica":"Notre-Dame de l\u2019Assomption","year_of_designation":"1978"}
+{"continent":"Europe","country":"France","city":"Nîmes","basilica":"Nîmes Cathedral","year_of_designation":"1877"}
+{"continent":"Europe","country":"France","city":"Orcival","basilica":"Notre-Dame d\u2019Orcival","year_of_designation":"1894"}
+{"continent":"Europe","country":"France","city":"Orléans","basilica":"Orléans Cathedral","year_of_designation":"1855"}
+{"continent":"Europe","country":"France","city":"Ottrott","basilica":"Mont Sainte-Odile","year_of_designation":"2006"}
+{"continent":"Europe","country":"France","city":"Paray-le-Monial","basilica":"Sacré-Cour","year_of_designation":"1875"}
+{"continent":"Europe","country":"France","city":"Paris","basilica":"Notre Dame de Paris","year_of_designation":"1805"}
+{"continent":"Europe","country":"France","city":"Paris","basilica":"Basilique Ste-Clotilde","year_of_designation":"1898"}
+{"continent":"Europe","country":"France","city":"Paris","basilica":"Basilique du Sacré-Cour","year_of_designation":"1919"}
+{"continent":"Europe","country":"France","city":"Paris","basilica":"Basilique Notre-Dame-des-Victoires","year_of_designation":"1927"}
+{"continent":"Europe","country":"France","city":"Paris","basilica":"Notre-Dame du Perpétuel Secours","year_of_designation":"1966"}
+{"continent":"Europe","country":"France","city":"Périgueux","basilica":"Périgueux Cathedral","year_of_designation":"1897"}
+{"continent":"Europe","country":"France","city":"Perpignan","basilica":"Perpignan Cathedral","year_of_designation":"1875"}
+{"continent":"Europe","country":"France","city":"Poitiers","basilica":"Poitiers Cathedral","year_of_designation":"1912"}
+{"continent":"Europe","country":"France","city":"Pontivy","basilica":"Notre Dame de Joie","year_of_designation":"1959"}
+{"continent":"Europe","country":"France","city":"Pontmain","basilica":"Notre-Dame de la Priere","year_of_designation":"1905"}
+{"continent":"Europe","country":"France","city":"Saint-Vincent-de-Paul","basilica":"Notre-Dame de Buglose","year_of_designation":"1966"}
+{"continent":"Europe","country":"France","city":"Quimper","basilica":"Quimper Cathedral","year_of_designation":"1870"}
+{"continent":"Europe","country":"France","city":"Quintin","basilica":"Notre-Dame de la Délivrance","year_of_designation":"1933"}
+{"continent":"Europe","country":"France","city":"Reims","basilica":"Abbey of Saint-Remi","year_of_designation":"1870"}
+{"continent":"Europe","country":"France","city":"Reims","basilica":"Saint-Clotilde","year_of_designation":"1902"}
+{"continent":"Europe","country":"France","city":"Rennes","basilica":"Saint-Sauveur et Notre-Dame des Miracles et des Vertus","year_of_designation":"1916"}
+{"continent":"Europe","country":"France","city":"Rennes","basilica":"Saint-Aubin et Notre-Dame de Bonne Nouvelle","year_of_designation":"1916"}
+{"continent":"Europe","country":"France","city":"Riom","basilica":"Saint-Amable","year_of_designation":"1912"}
+{"continent":"Europe","country":"France","city":"Rocamadour","basilica":"Notre-Dame de Rocamadour","year_of_designation":"1913"}
+{"continent":"Europe","country":"France","city":"Rodez","basilica":"Rodez Cathedral","year_of_designation":"1874"}
+{"continent":"Europe","country":"France","city":"Rouen","basilica":"Sacré-Cour","year_of_designation":"1918"}
+{"continent":"Europe","country":"France","city":"Saint-Avold","basilica":"Notre-Dame de Bon-Secours","year_of_designation":"1932"}
+{"continent":"Europe","country":"France","city":"Saint-Benoît-sur-Loire","basilica":"Fleury Abbey","year_of_designation":"1949"}
+{"continent":"Europe","country":"France","city":"Saint-Brieuc","basilica":"Saint-Brieuc Cathedral","year_of_designation":"1875"}
+{"continent":"Europe","country":"France","city":"Saint-Brieuc","basilica":"Notre-Dame d\u2019Espérance","year_of_designation":"1902"}
+{"continent":"Europe","country":"France","city":"Saint-Claude","basilica":"Saint-Claude Cathedral","year_of_designation":"1950"}
+{"continent":"Europe","country":"France","city":"Saintes","basilica":"Saintes Cathedral","year_of_designation":"1870"}
+{"continent":"Europe","country":"France","city":"Saintes","basilica":"Saint-Eutrope","year_of_designation":"1886"}
+{"continent":"Europe","country":"France","city":"Saint-Étienne-le-Laus","basilica":"Notre-Dame du Laus","year_of_designation":"1892"}
+{"continent":"Europe","country":"France","city":"Saint-Laurent-sur-Sevre","basilica":"Basilica of Saint Louis de Montfort","year_of_designation":"1962"}
+{"continent":"Europe","country":"France","city":"Saint-Nicolas-de-Port","basilica":"Saint-Nicolas","year_of_designation":"1950"}
+{"continent":"Europe","country":"France","city":"Saint-Omer","basilica":"Saint-Omer Cathedral","year_of_designation":"1879"}
+{"continent":"Europe","country":"France","city":"Saint-Pol-de-Léon","basilica":"Saint-Pol-de-Léon Cathedral","year_of_designation":"1901"}
+{"continent":"Europe","country":"France","city":"Saint-Quentin","basilica":"Basilica of Saint-Quentin","year_of_designation":"1876"}
+{"continent":"Europe","country":"France","city":"Saint-Raphaël","basilica":"Notre Dame de la Victoire","year_of_designation":"2004"}
+{"continent":"Europe","country":"France","city":"Saulieu","basilica":"Saint-Andoche","year_of_designation":"1919"}
+{"continent":"Europe","country":"France","city":"Saxon-Sion","basilica":"Notre-Dame de Sion","year_of_designation":"1933"}
+{"continent":"Europe","country":"France","city":"Sées","basilica":"Sées Cathedral","year_of_designation":"1871"}
+{"continent":"Europe","country":"France","city":"Sées","basilica":"Notre-Dame de l\u2019Immaculee-Conception","year_of_designation":"1902"}
+{"continent":"Europe","country":"France","city":"Soissons","basilica":"Soissons Cathedral","year_of_designation":"1857"}
+{"continent":"Europe","country":"France","city":"Tarascon","basilica":"Frigolet Abbey","year_of_designation":"1984"}
+{"continent":"Europe","country":"France","city":"Thonon-les-Bains","basilica":"Saint-François-de-Sales","year_of_designation":"1993"}
+{"continent":"Europe","country":"France","city":"Toulouse","basilica":"Notre-Dame de la Daurade","year_of_designation":"1876"}
+{"continent":"Europe","country":"France","city":"Toulouse","basilica":"Basilique St-Sernin","year_of_designation":"1878"}
+{"continent":"Europe","country":"France","city":"Tours","basilica":"Saint-Martin","year_of_designation":"1925"}
+{"continent":"Europe","country":"France","city":"Tréguier","basilica":"Tréguier Cathedral","year_of_designation":"1947"}
+{"continent":"Europe","country":"France","city":"Troyes","basilica":"Saint-Urbain","year_of_designation":"1964"}
+{"continent":"Europe","country":"France","city":"Valence","basilica":"Valence Cathedral","year_of_designation":"1847"}
+{"continent":"Europe","country":"France","city":"Valenciennes","basilica":"Notre-Dame du Saint-Cordon","year_of_designation":"1922"}
+{"continent":"Europe","country":"France","city":"Vannes","basilica":"Vannes Cathedral","year_of_designation":"1886"}
+{"continent":"Europe","country":"France","city":"Verdelais","basilica":"Notre-Dame","year_of_designation":"1923"}
+{"continent":"Europe","country":"France","city":"Verdun","basilica":"Verdun Cathedral","year_of_designation":"1947"}
+{"continent":"Europe","country":"France","city":"Vézelay","basilica":"Vézelay Abbey","year_of_designation":"1920"}
+{"continent":"Europe","country":"France","city":"Vinay","basilica":"Notre-Dame de l\u2019Osier","year_of_designation":"1924"}
+{"continent":"Europe","country":"France","city":"Vion","basilica":"Notre-Dame du Chene","year_of_designation":"1894"}
+{"continent":"Europe","country":"Germany","city":"Altenstadt","basilica":"St Michael's Basilica","year_of_designation":"1965"}
+{"continent":"Europe","country":"Germany","city":"Altötting","basilica":"Bruder-Konrad Basilica","year_of_designation":"1913"}
+{"continent":"Europe","country":"Germany","city":"Amberg","basilica":"St Martin's Basilica","year_of_designation":"1980"}
+{"continent":"Europe","country":"Germany","city":"Aschaffenburg","basilica":"Basilica of SS Peter and Alexander","year_of_designation":"1958"}
+{"continent":"Europe","country":"Germany","city":"Augsburg","basilica":"St. Ulrich's and St. Afra's Abbey","year_of_designation":"1973"}
+{"continent":"Europe","country":"Germany","city":"Bad Staffelstein","basilica":"Basilica of the Fourteen Holy Helpers","year_of_designation":"1897"}
+{"continent":"Europe","country":"Germany","city":"Bamberg","basilica":"Bamberg Cathedral","year_of_designation":"1923"}
+{"continent":"Europe","country":"Germany","city":"Benediktbeuern","basilica":"Benediktbeuern Abbey","year_of_designation":"1972"}
+{"continent":"Europe","country":"Germany","city":"Berlin","basilica":"Basilica of St John the Baptist Patron of Breslau","year_of_designation":"1906"}
+{"continent":"Europe","country":"Germany","city":"Berlin","basilica":"St. Hedwig's Cathedral","year_of_designation":"1927"}
+{"continent":"Europe","country":"Germany","city":"Berlin","basilica":"Rosenkranz Basilica","year_of_designation":"1950"}
+{"continent":"Europe","country":"Germany","city":"Bethen","basilica":"Bethen Basilica","year_of_designation":"1977"}
+{"continent":"Europe","country":"Germany","city":"Bingen am Rhein","basilica":"St Martin's Basilica","year_of_designation":"1930"}
+{"continent":"Europe","country":"Germany","city":"Bonn","basilica":"Bonn Minster","year_of_designation":"1956"}
+{"continent":"Europe","country":"Germany","city":"Cologne","basilica":"St. Gereon's Basilica","year_of_designation":"1920"}
+{"continent":"Europe","country":"Germany","city":"Cologne","basilica":"Church of St. Ursula","year_of_designation":"1920"}
+{"continent":"Europe","country":"Germany","city":"Cologne","basilica":"St Severin's Basilica","year_of_designation":"1953"}
+{"continent":"Europe","country":"Germany","city":"Cologne","basilica":"St Maria im Kapitol Basilica","year_of_designation":"1965"}
+{"continent":"Europe","country":"Germany","city":"Cologne","basilica":"St Aposteln Basilica","year_of_designation":"1965"}
+{"continent":"Europe","country":"Germany","city":"Cologne","basilica":"St Kunibert's Basilica","year_of_designation":"1998"}
+{"continent":"Europe","country":"Germany","city":"Dillingen an der Donau","basilica":"St Peter's Basilica","year_of_designation":"1979"}
+{"continent":"Europe","country":"Germany","city":"Dormagen","basilica":"Knechtsteden Abbey","year_of_designation":"1974"}
+{"continent":"Europe","country":"Germany","city":"Düsseldorf","basilica":"St Suitbertus Basilica","year_of_designation":"1967"}
+{"continent":"Europe","country":"Germany","city":"Düsseldorf","basilica":"St Lambertus Basilica","year_of_designation":"1974"}
+{"continent":"Europe","country":"Germany","city":"Düsseldorf","basilica":"Gerresheim Abbey","year_of_designation":"1982"}
+{"continent":"Europe","country":"Germany","city":"Ellwangen","basilica":"St Vitus Basilica","year_of_designation":"1964"}
+{"continent":"Europe","country":"Germany","city":"Essen","basilica":"Werden Abbey","year_of_designation":"1993"}
+{"continent":"Europe","country":"Germany","city":"Ettal","basilica":"Ettal Abbey","year_of_designation":"1920"}
+{"continent":"Europe","country":"Germany","city":"Fritzlar","basilica":"Fritzlar Cathedral","year_of_designation":"2004"}
+{"continent":"Europe","country":"Germany","city":"Glees","basilica":"Maria Laach Abbey","year_of_designation":"1926"}
+{"continent":"Europe","country":"Germany","city":"Gößweinstein","basilica":"Gössweinstein Basilica","year_of_designation":"1948"}
+{"continent":"Europe","country":"Germany","city":"Hanover","basilica":"St Clemens Basilica","year_of_designation":"1998"}
+{"continent":"Europe","country":"Germany","city":"Hildesheim","basilica":"St Godehard's Basilica","year_of_designation":"1963"}
+{"continent":"Europe","country":"Germany","city":"Ingolstadt","basilica":"Liebfrauenmünster","year_of_designation":"1964"}
+{"continent":"Europe","country":"Germany","city":"Kall","basilica":"Steinfeld Abbey","year_of_designation":"1960"}
+{"continent":"Europe","country":"Germany","city":"Kempten im Allgäu","basilica":"St Laurenz Basilica","year_of_designation":"1969"}
+{"continent":"Europe","country":"Germany","city":"Kevelaer","basilica":"Kevelaer Basilica","year_of_designation":"1923"}
+{"continent":"Europe","country":"Germany","city":"Kiedrich","basilica":"Basilica of SS Dionysius and Valentinus","year_of_designation":"2010"}
+{"continent":"Europe","country":"Germany","city":"Koblenz","basilica":"St Kastor's Basilica","year_of_designation":"1991"}
+{"continent":"Europe","country":"Germany","city":"Konstanz","basilica":"Cathedral of Konstanz","year_of_designation":"1955"}
+{"continent":"Europe","country":"Germany","city":"Landshut","basilica":"St. Martin's Church","year_of_designation":"2001"}
+{"continent":"Europe","country":"Germany","city":"Marktleugast","basilica":"Marienweiher Basilica","year_of_designation":"1993"}
+{"continent":"Europe","country":"Germany","city":"Mönchengladbach","basilica":"Gladbach Abbey","year_of_designation":"1973"}
+{"continent":"Europe","country":"Germany","city":"Neuss","basilica":"Neuss Münster","year_of_designation":"2009"}
+{"continent":"Europe","country":"Germany","city":"Niddatal","basilica":"Ilbenstadt Abbey","year_of_designation":"1928"}
+{"continent":"Europe","country":"Germany","city":"Niederalteich","basilica":"Niederaltaich Abbey","year_of_designation":"1931"}
+{"continent":"Europe","country":"Germany","city":"Osterhofen","basilica":"St Margareta's Basilica","year_of_designation":"1982"}
+{"continent":"Europe","country":"Germany","city":"Ottobeuren","basilica":"Ottobeuren Abbey","year_of_designation":"1925"}
+{"continent":"Europe","country":"Germany","city":"Prüm","basilica":"St Salvator's Basilica","year_of_designation":"1950"}
+{"continent":"Europe","country":"Germany","city":"Regensburg","basilica":"St. Emmeram's Abbey","year_of_designation":"1964"}
+{"continent":"Europe","country":"Germany","city":"Regensburg","basilica":"Alte Kapelle","year_of_designation":"1964"}
+{"continent":"Europe","country":"Germany","city":"Saarbrücken","basilica":"Basilica of St John the Baptist","year_of_designation":"1975"}
+{"continent":"Europe","country":"Germany","city":"Sankt Wendel","basilica":"St Wendel's Cathedral","year_of_designation":"1960"}
+{"continent":"Europe","country":"Germany","city":"Scheyern","basilica":"Scheyern Abbey","year_of_designation":"1979"}
+{"continent":"Europe","country":"Germany","city":"Seligenstadt","basilica":"Seligenstadt Abbey","year_of_designation":"1925"}
+{"continent":"Europe","country":"Germany","city":"Speyer","basilica":"Speyer Cathedral","year_of_designation":"1925"}
+{"continent":"Europe","country":"Germany","city":"Straubing","basilica":"St Jakob's Basilica","year_of_designation":"1989"}
+{"continent":"Europe","country":"Germany","city":"Streithausen","basilica":"Marienstatt Abbey","year_of_designation":"1927"}
+{"continent":"Europe","country":"Germany","city":"Trier","basilica":"St. Matthias' Abbey","year_of_designation":"1920"}
+{"continent":"Europe","country":"Germany","city":"Trier","basilica":"Basilica of Our Lady of the Assumption","year_of_designation":"1951"}
+{"continent":"Europe","country":"Germany","city":"Trier","basilica":"Saint Paulin Church","year_of_designation":"1958"}
+{"continent":"Europe","country":"Germany","city":"Tuntenhausen","basilica":"Tuntenhausen Basilica","year_of_designation":"1942"}
+{"continent":"Europe","country":"Germany","city":"Uhldingen-Mühlhofen","basilica":"Birnau Basilica","year_of_designation":"1971"}
+{"continent":"Europe","country":"Germany","city":"Ulm","basilica":"Wiblingen Abbey","year_of_designation":"1993"}
+{"continent":"Europe","country":"Germany","city":"Waldsassen","basilica":"Basilica of the Assumption and St John the Evangelist","year_of_designation":"1969"}
+{"continent":"Europe","country":"Germany","city":"Walldürn","basilica":"Walldürn Basilica","year_of_designation":"1962"}
+{"continent":"Europe","country":"Germany","city":"Weingarten","basilica":"Weingarten Abbey","year_of_designation":"1956"}
+{"continent":"Europe","country":"Germany","city":"Wemding","basilica":"Maria Brünnlein Basilica","year_of_designation":"1998"}
+{"continent":"Europe","country":"Germany","city":"Werl","basilica":"Werl Basilica","year_of_designation":"1953"}
+{"continent":"Europe","country":"Germany","city":"Worms","basilica":"Worms Cathedral","year_of_designation":"1923"}
+{"continent":"Europe","country":"Germany","city":"Xanten","basilica":"Xanten Cathedral","year_of_designation":"1936"}
+{"continent":"Europe","country":"Greece","city":"Athens","basilica":"Cathedral of St Dionysius","year_of_designation":"1877"}
+{"continent":"Europe","country":"Hungary","city":"Budapest","basilica":"Saint Stephen's Basilica","year_of_designation":"1931"}
+{"continent":"Europe","country":"Hungary","city":"Budapest","basilica":"Máriaremete Basilica","year_of_designation":"1991"}
+{"continent":"Europe","country":"Hungary","city":"Eger","basilica":"Eger Cathedral","year_of_designation":"1970"}
+{"continent":"Europe","country":"Hungary","city":"Gödöllő","basilica":"Máriabesnyő","year_of_designation":"2008"}
+{"continent":"Europe","country":"Hungary","city":"Győr","basilica":"Győr Cathedral","year_of_designation":"1997"}
+{"continent":"Europe","country":"Hungary","city":"Keszthely","basilica":"Keszthely Basilica","year_of_designation":"1989"}
+{"continent":"Europe","country":"Hungary","city":"Máriapócs","basilica":"Shrine of the Weeping Mother of God","year_of_designation":"1948"}
+{"continent":"Europe","country":"Hungary","city":"Mátraverebély","basilica":"Matraverebély-Szentkut Basilica","year_of_designation":"1970"}
+{"continent":"Europe","country":"Hungary","city":"Pannonhalma","basilica":"Pannonhalma Archabbey","year_of_designation":"1942"}
+{"continent":"Europe","country":"Hungary","city":"Pécs","basilica":"Pécs Cathedral","year_of_designation":"1991"}
+{"continent":"Europe","country":"Hungary","city":"Székesfehérvár","basilica":"Székesfehérvár Cathedral","year_of_designation":"1938"}
+{"continent":"Europe","country":"Hungary","city":"Veszprém","basilica":"Veszprém Cathedral","year_of_designation":"1981"}
+{"continent":"Europe","country":"Hungary","city":"Zirc","basilica":"Zirc Abbey","year_of_designation":"1982"}
+{"continent":"Europe","country":"Iceland","city":"Reykjavík","basilica":"Landakotskirkja","year_of_designation":"1999"}
+{"continent":"Europe","country":"Ireland","city":"Knock","basilica":"Knock Shrine","year_of_designation":"1979"}
+{"continent":"Europe","country":"Ireland","city":"Pettigo","basilica":"St Patrick's Purgatory","year_of_designation":"1931"}
+{"continent":"Europe","country":"Latvia","city":"Aglona","basilica":"Basilica of the Assumption","year_of_designation":"1980"}
+{"continent":"Europe","country":"Lithuania","city":"Kaunas","basilica":"Kaunas Cathedral Basilica","year_of_designation":"1921"}
+{"continent":"Europe","country":"Lithuania","city":"Marijampole","basilica":"Basilica of St Michael the Archangel","year_of_designation":"1992"}
+{"continent":"Europe","country":"Lithuania","city":"Šiluva","basilica":"Basilica of the Nativity of the Blessed Virgin Mary","year_of_designation":"1974"}
+{"continent":"Europe","country":"Lithuania","city":"Vilnius","basilica":"Vilnius Cathedral","year_of_designation":"1985"}
+{"continent":"Europe","country":"Lithuania","city":"Žemaičiu Kalvarija","basilica":"Basilica of Our Lady","year_of_designation":"1988"}
+{"continent":"Europe","country":"Luxembourg","city":"Echternach","basilica":"Abbey of Echternach","year_of_designation":"1939"}
+{"continent":"Europe","country":"Malta","city":"Birkirkara","basilica":"Collegiate Church of Sant' Elena","year_of_designation":"1950"}
+{"continent":"Europe","country":"Malta","city":"Gharb","basilica":"Ta' Pinu","year_of_designation":"1932"}
+{"continent":"Europe","country":"Malta","city":"Nadur","basilica":"Basilica of SS Peter and Paul","year_of_designation":"1967"}
+{"continent":"Europe","country":"Malta","city":"Senglea","basilica":"Collegiate Church of the Nativity of the Virgin Mary","year_of_designation":"1920"}
+{"continent":"Europe","country":"Malta","city":"Valletta","basilica":"Our Lady of Fair Havens Basilica","year_of_designation":"1816"}
+{"continent":"Europe","country":"Malta","city":"Valletta","basilica":"Basilica of Our Lady of Carmel","year_of_designation":"1895"}
+{"continent":"Europe","country":"Malta","city":"Victoria","basilica":"Basilica of St George Martyr","year_of_designation":"1958"}
+{"continent":"Europe","country":"Malta","city":"Xaghra","basilica":"Basilica of the Nativity of the Virgin Mary","year_of_designation":"1967"}
+{"continent":"Europe","country":"Netherlands","city":"Almelo","basilica":"Basilica of St George","year_of_designation":"2009"}
+{"continent":"Europe","country":"Netherlands","city":"Arnhem","basilica":"St Walburgis","year_of_designation":"1964"}
+{"continent":"Europe","country":"Netherlands","city":"Boxmeer","basilica":"SS Petrus and Paulus","year_of_designation":"1999"}
+{"continent":"Europe","country":"Netherlands","city":"Haarlem","basilica":"Cathedral of Saint Bavo","year_of_designation":"1948"}
+{"continent":"Europe","country":"Netherlands","city":"Halderberge","basilica":"Oudenbosch Basilica","year_of_designation":"1912"}
+{"continent":"Europe","country":"Netherlands","city":"Hengelo","basilica":"St Lambertus","year_of_designation":"1997"}
+{"continent":"Europe","country":"Netherlands","city":"'s-Hertogenbosch","basilica":"St. John's Cathedral","year_of_designation":"1929"}
+{"continent":"Europe","country":"Netherlands","city":"Hulst","basilica":"St Willibrordus","year_of_designation":"1935"}
+{"continent":"Europe","country":"Netherlands","city":"IJsselstein","basilica":"St Nicolas","year_of_designation":"1972"}
+{"continent":"Europe","country":"Netherlands","city":"Laren","basilica":"St John the Baptist","year_of_designation":"1937"}
+{"continent":"Europe","country":"Netherlands","city":"Maastricht","basilica":"Basilica of Our Lady of the Assumption","year_of_designation":"1932"}
+{"continent":"Europe","country":"Netherlands","city":"Maastricht","basilica":"Basilica of Saint Servatius","year_of_designation":"1985"}
+{"continent":"Europe","country":"Netherlands","city":"Meerssen","basilica":"Basilica of the Holy Sacrament","year_of_designation":"1938"}
+{"continent":"Europe","country":"Netherlands","city":"Oldenzaal","basilica":"Basilica of St Plechelm","year_of_designation":"1950"}
+{"continent":"Europe","country":"Netherlands","city":"Oosterhout","basilica":"St John the Baptist","year_of_designation":"1977"}
+{"continent":"Europe","country":"Netherlands","city":"Raalte","basilica":"Basilica of the Exaltation of the Holy Cross","year_of_designation":"1992"}
+{"continent":"Europe","country":"Netherlands","city":"Schiedam","basilica":"Basilica of St Lidwina and Our Lady of the Rosary","year_of_designation":"1990"}
+{"continent":"Europe","country":"Netherlands","city":"Sint Odiliënberg","basilica":"Basilica of SS Wiro","year_of_designation":"1957"}
+{"continent":"Europe","country":"Netherlands","city":"Sittard","basilica":"Basilica of Our Lady of the Sacred Heart","year_of_designation":"1883"}
+{"continent":"Europe","country":"Netherlands","city":"Susteren","basilica":"Susteren Abbey","year_of_designation":"2007"}
+{"continent":"Europe","country":"Netherlands","city":"Tubbergen","basilica":"Basilica of St Pancratius","year_of_designation":"2000"}
+{"continent":"Europe","country":"Netherlands","city":"Zwolle","basilica":"Basilica of Our Lady of the Assumption","year_of_designation":"1999"}
+{"continent":"Europe","country":"Poland","city":"Augustów","basilica":"Basilica of the Sacred Heart of Jesus","year_of_designation":"2001"}
+{"continent":"Europe","country":"Poland","city":"Białystok","basilica":"Białystok Cathedral","year_of_designation":"1985"}
+{"continent":"Europe","country":"Poland","city":"Bielsk Podlaski","basilica":"Basilica of the Nativity and St Nicholas","year_of_designation":"1996"}
+{"continent":"Europe","country":"Poland","city":"Bochnia","basilica":"Basilica of St Nicholas","year_of_designation":"1997"}
+{"continent":"Europe","country":"Poland","city":"Braniewo","basilica":"Basilica of St Catherine","year_of_designation":"2001"}
+{"continent":"Europe","country":"Poland","city":"Brzesko","basilica":"Basilica of St Mary Magdalene and St Stanislaus","year_of_designation":"2003"}
+{"continent":"Europe","country":"Poland","city":"Brzozów","basilica":"Jesuit Church","year_of_designation":"1927"}
+{"continent":"Europe","country":"Poland","city":"Bydgoszcz","basilica":"Basilica of St Vincent de Paul","year_of_designation":"1997"}
+{"continent":"Europe","country":"Poland","city":"Chełm","basilica":"Basilica of the Birth of the Virgin Mary","year_of_designation":"1988"}
+{"continent":"Europe","country":"Poland","city":"Chełmża","basilica":"Basilica of the Holy Trinity","year_of_designation":"1982"}
+{"continent":"Europe","country":"Poland","city":"Chojnice","basilica":"Basilica of the Beheading of St John the Baptist","year_of_designation":"1993"}
+{"continent":"Europe","country":"Poland","city":"Czerwińsk nad Wisłą","basilica":"Abbey church in Czerwińsk nad Wisłą","year_of_designation":"1967"}
+{"continent":"Europe","country":"Poland","city":"Częstochowa","basilica":"Jasna Góra Monastery","year_of_designation":"1906"}
+{"continent":"Europe","country":"Poland","city":"Częstochowa","basilica":"Częstochowa Cathedral","year_of_designation":"1962"}
+{"continent":"Europe","country":"Poland","city":"Dąbrowa Białostocka","basilica":"Różanystok","year_of_designation":"1987"}
+{"continent":"Europe","country":"Poland","city":"Dąbrowa Górnicza","basilica":"Basilica of Our Lady of the Angels","year_of_designation":"1901"}
+{"continent":"Europe","country":"Poland","city":"Dobre Miasto","basilica":"Basilica of the Holy Saviour and All Saints","year_of_designation":"1989"}
+{"continent":"Europe","country":"Poland","city":"Frombork","basilica":"Frombork Cathedral","year_of_designation":"1965"}
+{"continent":"Europe","country":"Poland","city":"Gdańsk","basilica":"Dominican Church","year_of_designation":"1928"}
+{"continent":"Europe","country":"Poland","city":"Gdańsk","basilica":"St. Mary's Church","year_of_designation":"1965"}
+{"continent":"Europe","country":"Poland","city":"Gdańsk","basilica":"Oliwa Cathedral","year_of_designation":"1976"}
+{"continent":"Europe","country":"Poland","city":"Gdańsk","basilica":"Basilica of St Brigid","year_of_designation":"1991"}
+{"continent":"Europe","country":"Poland","city":"Gidle","basilica":"Dominican Church","year_of_designation":"1998"}
+{"continent":"Europe","country":"Poland","city":"Gietrzwałd","basilica":"Basilica of the Nativity of the Virgin Mary","year_of_designation":"1970"}
+{"continent":"Europe","country":"Poland","city":"Gniezno","basilica":"Gniezno Cathedral","year_of_designation":"1931"}
+{"continent":"Europe","country":"Poland","city":"Gostyń","basilica":"Święta Góra","year_of_designation":"1970"}
+{"continent":"Europe","country":"Poland","city":"Jarosław","basilica":"Jarosław Monastery","year_of_designation":"1966"}
+{"continent":"Europe","country":"Poland","city":"Kalisz","basilica":"Basilica of the Assumption","year_of_designation":"1978"}
+{"continent":"Europe","country":"Poland","city":"Kalwaria Zebrzydowska","basilica":"Kalwaria Zebrzydowska park","year_of_designation":"1980"}
+{"continent":"Europe","country":"Poland","city":"Kamienna Góra","basilica":"Basilica of the Assumption","year_of_designation":"1998"}
+{"continent":"Europe","country":"Poland","city":"Katowice","basilica":"Basilica of St Louis the King and the Assumption","year_of_designation":"1974"}
+{"continent":"Europe","country":"Poland","city":"Kętrzyn","basilica":"Basilica of St George","year_of_designation":"1999"}
+{"continent":"Europe","country":"Poland","city":"Kielce","basilica":"Kielce Cathedral","year_of_designation":"1970"}
+{"continent":"Europe","country":"Poland","city":"Kiwity","basilica":"Stoczek Monastery","year_of_designation":"1987"}
+{"continent":"Europe","country":"Poland","city":"Kodeń","basilica":"Basilica of St Ann","year_of_designation":"1973"}
+{"continent":"Europe","country":"Poland","city":"Kołobrzeg","basilica":"Basilica of the Assumption","year_of_designation":"1986"}
+{"continent":"Europe","country":"Poland","city":"Kraków","basilica":"Franciscan Church","year_of_designation":"1919"}
+{"continent":"Europe","country":"Poland","city":"Kraków","basilica":"Dominican Church","year_of_designation":"1957"}
+{"continent":"Europe","country":"Poland","city":"Kraków","basilica":"Church of St Peter and St Paul","year_of_designation":"1960"}
+{"continent":"Europe","country":"Poland","city":"Kraków","basilica":"Basilica of the Sacred Heart of Jesus","year_of_designation":"1960"}
+{"continent":"Europe","country":"Poland","city":"Kraków","basilica":"St. Mary's Basilica","year_of_designation":"1963"}
+{"continent":"Europe","country":"Poland","city":"Kraków","basilica":"Mogiła Abbey","year_of_designation":"1970"}
+{"continent":"Europe","country":"Poland","city":"Kraków","basilica":"Carmelite Church","year_of_designation":"1996"}
+{"continent":"Europe","country":"Poland","city":"Kraków","basilica":"St. Florian's Church","year_of_designation":"1999"}
+{"continent":"Europe","country":"Poland","city":"Kraków","basilica":"Skałka","year_of_designation":"2003"}
+{"continent":"Europe","country":"Poland","city":"Kraków","basilica":"Basilica of the Divine Mercy","year_of_designation":"2003"}
+{"continent":"Europe","country":"Poland","city":"Kraków","basilica":"Corpus Christi Basilica","year_of_designation":"2005"}
+{"continent":"Europe","country":"Poland","city":"Krosno","basilica":"Basilica of the Holy Trinity","year_of_designation":"1998"}
+{"continent":"Europe","country":"Poland","city":"Kruszwica","basilica":"Basilica of St Peter and St Paul","year_of_designation":"1970"}
+{"continent":"Europe","country":"Poland","city":"Leśna Podlaska","basilica":"Basilica of St Peter and St Paul","year_of_designation":"1984"}
+{"continent":"Europe","country":"Poland","city":"Leśnica","basilica":"Basilica of St Ann","year_of_designation":"1980"}
+{"continent":"Europe","country":"Poland","city":"Leżajsk","basilica":"Leżajsk Monastery","year_of_designation":"1928"}
+{"continent":"Europe","country":"Poland","city":"Limanowa","basilica":"Basilica of Our Lady of Sorrows","year_of_designation":"1991"}
+{"continent":"Europe","country":"Poland","city":"Łódź","basilica":"Łódź Cathedral","year_of_designation":"1989"}
+{"continent":"Europe","country":"Poland","city":"Łowicz","basilica":"Łowicz Cathedral","year_of_designation":"1999"}
+{"continent":"Europe","country":"Poland","city":"Lublin","basilica":"Dominican Church","year_of_designation":"1967"}
+{"continent":"Europe","country":"Poland","city":"Miechów","basilica":"Basilica of the Holy Sepulchre","year_of_designation":"1996"}
+{"continent":"Europe","country":"Poland","city":"Mielec","basilica":"Basilica of St Matthew","year_of_designation":"2006"}
+{"continent":"Europe","country":"Poland","city":"Nowe Miasto Lubawskie","basilica":"Basilica of St Thomas the Apostle","year_of_designation":"1971"}
+{"continent":"Europe","country":"Poland","city":"Nowy Sącz","basilica":"Basilica of St Margaret","year_of_designation":"1992"}
+{"continent":"Europe","country":"Poland","city":"Nowy Targ","basilica":"Sanctuary of Our Lady of Ludźmierz","year_of_designation":"2001"}
+{"continent":"Europe","country":"Poland","city":"Oleśnica","basilica":"Basilica of St John the Apostle","year_of_designation":"1998"}
+{"continent":"Europe","country":"Poland","city":"Olkusz","basilica":"Basilica of St Andrew the Apostle","year_of_designation":"2001"}
+{"continent":"Europe","country":"Poland","city":"Olsztyn","basilica":"Basilica of St James the Apostle","year_of_designation":"2004"}
+{"continent":"Europe","country":"Poland","city":"Opole","basilica":"Opole Cathedral","year_of_designation":"1934"}
+{"continent":"Europe","country":"Poland","city":"Parczew","basilica":"Basilica of St John the Baptist","year_of_designation":"1989"}
+{"continent":"Europe","country":"Poland","city":"Pelplin","basilica":"Pelplin Abbey","year_of_designation":"1965"}
+{"continent":"Europe","country":"Poland","city":"Piekary Śląskie","basilica":"Piekary Śląskie Basilica","year_of_designation":"1962"}
+{"continent":"Europe","country":"Poland","city":"Płock","basilica":"Masovian Blessed Virgin Mary Cathedral","year_of_designation":"1910"}
+{"continent":"Europe","country":"Poland","city":"Poświętne","basilica":"Basilica of St Philip Neri and St John the Baptist","year_of_designation":"1973"}
+{"continent":"Europe","country":"Poland","city":"Poznań","basilica":"Archcathedral Basilica of St. Peter and St. Paul","year_of_designation":"1962"}
+{"continent":"Europe","country":"Poland","city":"Przemyśl","basilica":"Cathedral of St. John the Baptist","year_of_designation":"1960"}
+{"continent":"Europe","country":"Poland","city":"Przeworsk","basilica":"Basilica of the Holy Spirit","year_of_designation":"1982"}
+{"continent":"Europe","country":"Poland","city":"Przytoczna","basilica":"Basilica of Our Lady of Rokitno","year_of_designation":"2001"}
+{"continent":"Europe","country":"Poland","city":"Pszów","basilica":"Basilica of the Nativity of the Virgin Mary","year_of_designation":"1997"}
+{"continent":"Europe","country":"Poland","city":"Pułtusk","basilica":"Basilica of the Annunciation","year_of_designation":"1974"}
+{"continent":"Europe","country":"Poland","city":"Radków","basilica":"Wambierzyce","year_of_designation":"1935"}
+{"continent":"Europe","country":"Poland","city":"Radom","basilica":"Basilica of St Casimir","year_of_designation":"2003"}
+{"continent":"Europe","country":"Poland","city":"Reszel","basilica":"Święta Lipka","year_of_designation":"1983"}
+{"continent":"Europe","country":"Poland","city":"Rybnik","basilica":"Basilica of St Anthony of Padua","year_of_designation":"1993"}
+{"continent":"Europe","country":"Poland","city":"Sandomierz","basilica":"Sandomierz Cathedral","year_of_designation":"1960"}
+{"continent":"Europe","country":"Poland","city":"Sejny","basilica":"Basilica of the Visitation","year_of_designation":"1973"}
+{"continent":"Europe","country":"Poland","city":"Ślesin","basilica":"Sanctuary of Our Lady of Licheń","year_of_designation":"2005"}
+{"continent":"Europe","country":"Poland","city":"Sosnowiec","basilica":"Sosnowiec Cathedral","year_of_designation":"1999"}
+{"continent":"Europe","country":"Poland","city":"Stalowa Wola","basilica":"Basilica of Mary Queen of Poland","year_of_designation":"1998"}
+{"continent":"Europe","country":"Poland","city":"Strzegom","basilica":"Basilica of St Peter and St Paul","year_of_designation":"2002"}
+{"continent":"Europe","country":"Poland","city":"Szczecin","basilica":"Cathedral Basilica of St. James the Apostle","year_of_designation":"1983"}
+{"continent":"Europe","country":"Poland","city":"Tarnów","basilica":"Tarnów Cathedral","year_of_designation":"1972"}
+{"continent":"Europe","country":"Poland","city":"Teresin","basilica":"Niepokalanów","year_of_designation":"1980"}
+{"continent":"Europe","country":"Poland","city":"Toruń","basilica":"Cathedral Basilica of St. John the Baptist and St. John the Evangelist","year_of_designation":"1935"}
+{"continent":"Europe","country":"Poland","city":"Trzebnica","basilica":"Sanctuary of St. Jadwiga in Trzebnica","year_of_designation":"1943"}
+{"continent":"Europe","country":"Poland","city":"Trzemeszno","basilica":"Basilica of the Assumption","year_of_designation":"1969"}
+{"continent":"Europe","country":"Poland","city":"Twardogóra","basilica":"Basilica of Our Lady Help of Christians","year_of_designation":"2003"}
+{"continent":"Europe","country":"Poland","city":"Wadowice","basilica":"Basilica of the Presentation","year_of_designation":"1993"}
+{"continent":"Europe","country":"Poland","city":"Warsaw","basilica":"Basilica of the Sacred Heart of Jesus","year_of_designation":"1923"}
+{"continent":"Europe","country":"Poland","city":"Warsaw","basilica":"St. John's Cathedral","year_of_designation":"1961"}
+{"continent":"Europe","country":"Poland","city":"Warsaw","basilica":"Cathedral of St Michael the Archangel and St Florian","year_of_designation":"1997"}
+{"continent":"Europe","country":"Poland","city":"Warsaw","basilica":"Holy Cross Church","year_of_designation":"2002"}
+{"continent":"Europe","country":"Poland","city":"Wąwolnica","basilica":"Basilica of St Adalbert","year_of_designation":"2001"}
+{"continent":"Europe","country":"Poland","city":"Węgrów","basilica":"Basilica of the Assumption","year_of_designation":"1997"}
+{"continent":"Europe","country":"Poland","city":"Wiślica","basilica":"Collegiate church in Wiślica","year_of_designation":"2004"}
+{"continent":"Europe","country":"Poland","city":"Wrocław","basilica":"Wrocław Cathedral","year_of_designation":"1907"}
+{"continent":"Europe","country":"Poland","city":"Wrocław","basilica":"St. Elisabeth's Church","year_of_designation":"2003"}
+{"continent":"Europe","country":"Portugal","city":"Braga","basilica":"Sameiro Sanctuary","year_of_designation":"1964"}
+{"continent":"Europe","country":"Portugal","city":"Évora","basilica":"Cathedral of Évora","year_of_designation":"1929"}
+{"continent":"Europe","country":"Portugal","city":"Fátima","basilica":"Sanctuary of Our Lady of Fátima","year_of_designation":"1954"}
+{"continent":"Europe","country":"Portugal","city":"Lisbon","basilica":"Estrela Basilica","year_of_designation":"1789"}
+{"continent":"Europe","country":"Portugal","city":"Lisbon","basilica":"Nossa Senhora dos Mártires","year_of_designation":"1784"}
+{"continent":"Europe","country":"Portugal","city":"Mafra Municipality","basilica":"Mafra National Palace","year_of_designation":"1730"}
+{"continent":"Europe","country":"Romania","city":"Cacica","basilica":"Shrine Basilica of Cacica","year_of_designation":"2000"}
+{"continent":"Europe","country":"Romania","city":"Lipova","basilica":"Maria Radna Basilica","year_of_designation":"1992"}
+{"continent":"Europe","country":"Romania","city":"Miercurea-Ciuc","basilica":"Basilica of Our Lady","year_of_designation":"1948"}
+{"continent":"Europe","country":"Romania","city":"Oradea","basilica":"Oradea Cathedral","year_of_designation":"1991"}
+{"continent":"Europe","country":"San Marino","city":"City of San Marino","basilica":"Basilica of San Marino","year_of_designation":"1926"}
+{"continent":"Europe","country":"Serbia","city":"Sremska Mitrovica","basilica":"Sremska Mitrovica Cathedral","year_of_designation":"1991"}
+{"continent":"Europe","country":"Serbia","city":"Subotica","basilica":"Subotica Cathedral","year_of_designation":"1974"}
+{"continent":"Europe","country":"Slovakia","city":"Bardejov","basilica":"Basilica of St Giles","year_of_designation":"2000"}
+{"continent":"Europe","country":"Slovakia","city":"Kežmarok","basilica":"Basilica of the Exaltation of the Holy Cross","year_of_designation":"1998"}
+{"continent":"Europe","country":"Slovakia","city":"Levoča","basilica":"Mariánska hora","year_of_designation":"1988"}
+{"continent":"Europe","country":"Slovakia","city":"Ľutina","basilica":"Basilica of the Assumption","year_of_designation":"1988"}
+{"continent":"Europe","country":"Slovakia","city":"Rajecká Lesná","basilica":"Basilica of the Nativity of the Blessed Virgin Mary","year_of_designation":"2002"}
+{"continent":"Europe","country":"Slovakia","city":"Šaštín-Stráže","basilica":"Basilica of the Seven Sorrows of the Blessed Virgin Mary","year_of_designation":"1964"}
+{"continent":"Europe","country":"Slovakia","city":"Staré Hory","basilica":"Basilica of the Visitation","year_of_designation":"1990"}
+{"continent":"Europe","country":"Slovakia","city":"Trnava","basilica":"Basilica of St Nicholas","year_of_designation":"2008"}
+{"continent":"Europe","country":"Slovakia","city":"Vranov nad Topľou","basilica":"Basilica of the Birth of the Virgin Mary","year_of_designation":"2008"}
+{"continent":"Europe","country":"Slovenia","city":"Brestanica","basilica":"Basilica of St Mary of Lourdes","year_of_designation":"1928"}
+{"continent":"Europe","country":"Slovenia","city":"Ivančna Gorica","basilica":"Stična Abbey","year_of_designation":"1936"}
+{"continent":"Europe","country":"Slovenia","city":"Majšperk","basilica":"Basilica of the Virgin Mary Protectress jacketed","year_of_designation":"2009"}
+{"continent":"Europe","country":"Slovenia","city":"Maribor","basilica":"Basilica of Mary","year_of_designation":"1906"}
+{"continent":"Europe","country":"Slovenia","city":"Nova Gorica","basilica":"Sveta Gora","year_of_designation":"1906"}
+{"continent":"Europe","country":"Slovenia","city":"Radovljica","basilica":"Basilica of Mary Help of Christians","year_of_designation":"1988"}
+{"continent":"Europe","country":"Slovenia","city":"Žalec","basilica":"Basilica of the Visitation","year_of_designation":"1984"}
+{"continent":"Europe","country":"Spain","city":"Alba de Tormes","basilica":"Santa Teresa","year_of_designation":"1870"}
+{"continent":"Europe","country":"Spain","city":"Algemesí","basilica":"San Jaime Apóstol","year_of_designation":"1986"}
+{"continent":"Europe","country":"Spain","city":"Arcos de la Frontera","basilica":"Santa María de la Asunción","year_of_designation":"1993"}
+{"continent":"Europe","country":"Spain","city":"Aspe","basilica":"Nuestra Senora del Socorro","year_of_designation":"2006"}
+{"continent":"Europe","country":"Spain","city":"Azpeitia","basilica":"San Ignacio de Loyola","year_of_designation":"1921"}
+{"continent":"Europe","country":"Spain","city":"Barcelona","basilica":"Cathedral of Santa Eulalia","year_of_designation":"1867"}
+{"continent":"Europe","country":"Spain","city":"Barcelona","basilica":"Mare de Déu de la Merce","year_of_designation":"1918"}
+{"continent":"Europe","country":"Spain","city":"Barcelona","basilica":"Santa Maria del Mar","year_of_designation":"1923"}
+{"continent":"Europe","country":"Spain","city":"Barcelona","basilica":"Santa Maria del Pi","year_of_designation":"1925"}
+{"continent":"Europe","country":"Spain","city":"Barcelona","basilica":"Sant Josep Oriol","year_of_designation":"1936"}
+{"continent":"Europe","country":"Spain","city":"Barcelona","basilica":"Sants Just i Pastor","year_of_designation":"1946"}
+{"continent":"Europe","country":"Spain","city":"Barcelona","basilica":"Sagrat Cor","year_of_designation":"1961"}
+{"continent":"Europe","country":"Spain","city":"Barcelona","basilica":"Basilica of the Purest Conception","year_of_designation":"2009"}
+{"continent":"Europe","country":"Spain","city":"Barcelona","basilica":"Sagrada Família","year_of_designation":"2010"}
+{"continent":"Europe","country":"Spain","city":"Bilbao","basilica":"Santiago Cathedral","year_of_designation":"1819"}
+{"continent":"Europe","country":"Spain","city":"Bilbao","basilica":"Basilica of Begona","year_of_designation":"1908"}
+{"continent":"Europe","country":"Spain","city":"Candelaria","basilica":"Basilica of Candelaria","year_of_designation":"2011"}
+{"continent":"Europe","country":"Spain","city":"Cangas del Narcea","basilica":"Santa María Magdalena","year_of_designation":"1992"}
+{"continent":"Europe","country":"Spain","city":"Caravaca de la Cruz","basilica":"Basilica of Vera Cruz","year_of_designation":"2007"}
+{"continent":"Europe","country":"Spain","city":"Castelló d'Empúries","basilica":"Santa Maria","year_of_designation":"2006"}
+{"continent":"Europe","country":"Spain","city":"Castellón de la Plana","basilica":"Santa María de Lledó","year_of_designation":"1983"}
+{"continent":"Europe","country":"Spain","city":"Ciudad Real","basilica":"Ciudad Real Cathedral","year_of_designation":"1967"}
+{"continent":"Europe","country":"Spain","city":"Ciutadella de Menorca","basilica":"Cathedral of Minorca","year_of_designation":"1953"}
+{"continent":"Europe","country":"Spain","city":"Colmenar Viejo","basilica":"Asunción de Nuestra Senora","year_of_designation":"2002"}
+{"continent":"Europe","country":"Spain","city":"Córdoba","basilica":"San Pedro ","year_of_designation":"2005"}
+{"continent":"Europe","country":"Spain","city":"Covadonga","basilica":"Santa María la Real","year_of_designation":"1901"}
+{"continent":"Europe","country":"Spain","city":"Durango","basilica":"Santa María de Uribarri","year_of_designation":"2001"}
+{"continent":"Europe","country":"Spain","city":"Elche/Elx","basilica":"Santa María de Elche","year_of_designation":"1951"}
+{"continent":"Europe","country":"Spain","city":"Elorrio","basilica":"Purísima Concepción","year_of_designation":"1966"}
+{"continent":"Europe","country":"Spain","city":"Escorca","basilica":"Santuari de Lluc","year_of_designation":"1962"}
+{"continent":"Europe","country":"Spain","city":"Foz","basilica":"San Martín de Mondonedo","year_of_designation":"2007"}
+{"continent":"Europe","country":"Spain","city":"Gijón","basilica":"Sagrado Corazón","year_of_designation":"2003"}
+{"continent":"Europe","country":"Spain","city":"Granada","basilica":"San Juan de Dios","year_of_designation":"1916"}
+{"continent":"Europe","country":"Spain","city":"Granada","basilica":"Nuestra Senora de las Angustias","year_of_designation":"1922"}
+{"continent":"Europe","country":"Spain","city":"Graus","basilica":"Santa María de la Pena","year_of_designation":"1810"}
+{"continent":"Europe","country":"Spain","city":"Guadalupe","basilica":"Santa María de Guadalupe","year_of_designation":"1955"}
+{"continent":"Europe","country":"Spain","city":"Huesca","basilica":"San Lorenzo","year_of_designation":"1884"}
+{"continent":"Europe","country":"Spain","city":"Igualada","basilica":"Santa Maria","year_of_designation":"1948"}
+{"continent":"Europe","country":"Spain","city":"Jerez de la Frontera","basilica":"Nuestra Senora de la Merced","year_of_designation":"1949"}
+{"continent":"Europe","country":"Spain","city":"Jerez de la Frontera","basilica":"Nuestra Senora del Carmen","year_of_designation":"1967"}
+{"continent":"Europe","country":"Spain","city":"La Seu d'Urgell","basilica":"Urgell Cathedral","year_of_designation":"1905"}
+{"continent":"Europe","country":"Spain","city":"Las Palmas de Gran Canaria","basilica":"Las Palmas Cathedral","year_of_designation":"1894"}
+{"continent":"Europe","country":"Spain","city":"Lekeitio","basilica":"Basilica of the Assumption","year_of_designation":"1884"}
+{"continent":"Europe","country":"Spain","city":"León","basilica":"Basilica of San Isidoro","year_of_designation":"1942"}
+{"continent":"Europe","country":"Spain","city":"León","basilica":"Basilica of Our Lady of the Way","year_of_designation":"2009"}
+{"continent":"Europe","country":"Spain","city":"Llanes","basilica":"Llanes Cathedral","year_of_designation":"1973"}
+{"continent":"Europe","country":"Spain","city":"Lugo","basilica":"Lugo Cathedral","year_of_designation":"1896"}
+{"continent":"Europe","country":"Spain","city":"Madrid","basilica":"Nuestra Senora de Atocha","year_of_designation":"1863"}
+{"continent":"Europe","country":"Spain","city":"Madrid","basilica":"San Vicente de Paul","year_of_designation":"1923"}
+{"continent":"Europe","country":"Spain","city":"Madrid","basilica":"St. Michael's Basilica ","year_of_designation":"1930"}
+{"continent":"Europe","country":"Spain","city":"Madrid","basilica":"San Francisco el Grande","year_of_designation":"1962"}
+{"continent":"Europe","country":"Spain","city":"Madrid","basilica":"Nuestra Padre Jesús de Medinaceli","year_of_designation":"1973"}
+{"continent":"Europe","country":"Spain","city":"Málaga","basilica":"Málaga Cathedral","year_of_designation":"1855"}
+{"continent":"Europe","country":"Spain","city":"Málaga","basilica":"Dulce Nombre de Jesús Nazareno del Paso y Maria Santísima de la Esperanza","year_of_designation":"1998"}
+{"continent":"Europe","country":"Spain","city":"Málaga","basilica":"Nuestra Senora de la Victoria y de las Mercedes","year_of_designation":"2007"}
+{"continent":"Europe","country":"Spain","city":"Manresa","basilica":"Santa Maria de la Seu","year_of_designation":"1886"}
+{"continent":"Europe","country":"Spain","city":"Mataró","basilica":"Santa Maria","year_of_designation":"1928"}
+{"continent":"Europe","country":"Spain","city":"Mondonedo","basilica":"Mondonedo Cathedral","year_of_designation":"1962"}
+{"continent":"Europe","country":"Spain","city":"Monistrol de Montserrat","basilica":"Santa Maria de Montserrat","year_of_designation":"1881"}
+{"continent":"Europe","country":"Spain","city":"Morella","basilica":"Santa María la Mayor","year_of_designation":"1958"}
+{"continent":"Europe","country":"Spain","city":"Onati","basilica":"Sanctuary of Arantzazu","year_of_designation":"1921"}
+{"continent":"Europe","country":"Spain","city":"Oria","basilica":"Nuestra Senora de las Mercedes","year_of_designation":"1890"}
+{"continent":"Europe","country":"Spain","city":"Oviedo","basilica":"Cathedral of San Salvador","year_of_designation":"1872"}
+{"continent":"Europe","country":"Spain","city":"Palma de Mallorca","basilica":"La Seu","year_of_designation":"1905"}
+{"continent":"Europe","country":"Spain","city":"Palma de Mallorca","basilica":"Sant Francesc","year_of_designation":"1943"}
+{"continent":"Europe","country":"Spain","city":"Ponferrada","basilica":"Nuestra Senora de la Encina","year_of_designation":"1958"}
+{"continent":"Europe","country":"Spain","city":"Pontevedra","basilica":"Santa María La Mayor","year_of_designation":"1962"}
+{"continent":"Europe","country":"Spain","city":"Portugalete","basilica":"Santa María de Portugalete","year_of_designation":"1951"}
+{"continent":"Europe","country":"Spain","city":"Salamanca","basilica":"Old Cathedral","year_of_designation":"1854"}
+{"continent":"Europe","country":"Spain","city":"San Lorenzo de El Escorial","basilica":"Valle de los Caídos","year_of_designation":"1960"}
+{"continent":"Europe","country":"Spain","city":"Sanlúcar de Barrameda","basilica":"Nuestra Senora de la Caridad","year_of_designation":"1997"}
+{"continent":"Europe","country":"Spain","city":"San Sebastián","basilica":"Basilica of Saint Mary of the Chorus","year_of_designation":"1973"}
+{"continent":"Europe","country":"Spain","city":"Santo Domingo de Silos","basilica":"Santo Domingo de Silos Abbey","year_of_designation":"2000"}
+{"continent":"Europe","country":"Spain","city":"Segorbe","basilica":"Segorbe Cathedral","year_of_designation":"1985"}
+{"continent":"Europe","country":"Spain","city":"Seville","basilica":"Nuestra Senora de la Esperanza de la Macarena","year_of_designation":"1966"}
+{"continent":"Europe","country":"Spain","city":"Seville","basilica":"Jesús del Gran Poder","year_of_designation":"1992"}
+{"continent":"Europe","country":"Spain","city":"Seville","basilica":"Basilica of Mary Help of Christians","year_of_designation":"2008"}
+{"continent":"Europe","country":"Spain","city":"Seville","basilica":"Basilica of the Christ of the Expiration","year_of_designation":"2012"}
+{"continent":"Europe","country":"Spain","city":"Sigüenza","basilica":"Sigüenza Cathedral","year_of_designation":"1948"}
+{"continent":"Europe","country":"Spain","city":"Solsona","basilica":"Solsona Cathedral","year_of_designation":"1953"}
+{"continent":"Europe","country":"Spain","city":"Talavera de la Reina","basilica":"Nuestra Senora del Prado","year_of_designation":"1989"}
+{"continent":"Europe","country":"Spain","city":"Tarragona","basilica":"Tarragona Cathedral","year_of_designation":"1894"}
+{"continent":"Europe","country":"Spain","city":"Telde","basilica":"San Juan Bautista","year_of_designation":"1973"}
+{"continent":"Europe","country":"Spain","city":"Teror","basilica":"Nuestra Senora del Pino","year_of_designation":"1915"}
+{"continent":"Europe","country":"Spain","city":"Terrassa","basilica":"Terrassa Cathedral","year_of_designation":"1951"}
+{"continent":"Europe","country":"Spain","city":"Tortosa","basilica":"Tortosa Cathedral","year_of_designation":"1919"}
+{"continent":"Europe","country":"Spain","city":"Tremp","basilica":"Mare de Deu de Valldeflors","year_of_designation":"1923"}
+{"continent":"Europe","country":"Spain","city":"Valencia","basilica":"Saint Mary of Valencia Cathedral","year_of_designation":"1886"}
+{"continent":"Europe","country":"Spain","city":"Valencia","basilica":"Nuestra Senora de los Desamparados","year_of_designation":"1948"}
+{"continent":"Europe","country":"Spain","city":"Valencia","basilica":"San Vicente Ferrer","year_of_designation":"1951"}
+{"continent":"Europe","country":"Spain","city":"Valladolid","basilica":"National Shrine of the Great Promise","year_of_designation":"1964"}
+{"continent":"Europe","country":"Spain","city":"Vic","basilica":"Vic Cathedral","year_of_designation":"1893"}
+{"continent":"Europe","country":"Spain","city":"Vilafranca del Penedes","basilica":"Santa María","year_of_designation":"1919"}
+{"continent":"Europe","country":"Spain","city":"Villarreal","basilica":"San Pascual Baylón","year_of_designation":"1996"}
+{"continent":"Europe","country":"Spain","city":"Vimbodí i Poblet","basilica":"Poblet Monastery","year_of_designation":"1963"}
+{"continent":"Europe","country":"Spain","city":"Vitoria","basilica":"Vitoria Cathedral","year_of_designation":"1844"}
+{"continent":"Europe","country":"Spain","city":"Xativa","basilica":"Santa Maria","year_of_designation":"1973"}
+{"continent":"Europe","country":"Spain","city":"Yecla","basilica":"Purísima Concepción","year_of_designation":"1868"}
+{"continent":"Europe","country":"Spain","city":"Zaragoza","basilica":"Basilica of Our Lady of the Pillar","year_of_designation":"1948"}
+{"continent":"Europe","country":"Spain","city":"Zaragoza","basilica":"Church of Santa Engracia de Zaragoza","year_of_designation":"1991"}
+{"continent":"Europe","country":"Switzerland","city":"Bern","basilica":"Basilica of the Holy Trinity","year_of_designation":"1956"}
+{"continent":"Europe","country":"Switzerland","city":"Fribourg","basilica":"Fribourg Basilica","year_of_designation":"1932"}
+{"continent":"Europe","country":"Switzerland","city":"Geneva","basilica":"Notre-Dame","year_of_designation":"1954"}
+{"continent":"Europe","country":"Switzerland","city":"Kreuzlingen","basilica":"Basilica of St Ulrich and St Afra","year_of_designation":"1967"}
+{"continent":"Europe","country":"Switzerland","city":"Lausanne","basilica":"Notre-Dame","year_of_designation":"1992"}
+{"continent":"Europe","country":"Switzerland","city":"Lugano","basilica":"Heart of Jesus Basilica","year_of_designation":"1952"}
+{"continent":"Europe","country":"Switzerland","city":"Metzerlen-Mariastein","basilica":"Mariastein Abbey","year_of_designation":"1926"}
+{"continent":"Europe","country":"Switzerland","city":"Morbio Inferiore","basilica":"Santa Maria dei Miracoli","year_of_designation":"1990"}
+{"continent":"Europe","country":"Switzerland","city":"Neuchâtel","basilica":"Basilica of Our Lady of the Assumption","year_of_designation":"2007"}
+{"continent":"Europe","country":"Switzerland","city":"Orselina","basilica":"Madonna del Sasso","year_of_designation":"1918"}
+{"continent":"Europe","country":"Switzerland","city":"Saint-Maurice","basilica":"St. Maurice's Abbey","year_of_designation":"1948"}
+{"continent":"Europe","country":"Switzerland","city":"Sion","basilica":"Basilique de Valere","year_of_designation":"1984"}
+{"continent":"Europe","country":"Turkey","city":"Istanbul","basilica":"Cathedral of the Holy Spirit","year_of_designation":"1909"}
+{"continent":"Europe","country":"Turkey","city":"Istanbul","basilica":"St. Anthony of Padua Church in Istanbul","year_of_designation":"1932"}
+{"continent":"Europe","country":"Ukraine","city":"Lviv","basilica":"Latin Cathedral","year_of_designation":"1910"}
+{"continent":"Europe","country":"United Kingdom","city":"Birmingham","basilica":"St. Chad's Cathedral","year_of_designation":"1941"}
+{"continent":"Europe","country":"United Kingdom","city":"Manchester","basilica":"Corpus Christi Priory","year_of_designation":"1904"}
+{"continent":"Europe","country":"United Kingdom","city":"Stratton-on-the-Fosse","basilica":"Downside Abbey","year_of_designation":"1935"}

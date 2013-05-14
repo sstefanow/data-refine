@@ -59,7 +59,7 @@ db.census1881.findOne()
 1. Pawel Kaminski, [Sacramento crimes](/docs/pkamin.md).
 1. Marcin Gigołło, [Kody pocztowe](/docs/6i6ant.md).
 1. Daniel Szymczak, [Wskaźniki wydajności](/docs/dszymczak.md).
-1. Alicja Kopczyńska, [Zabytki romańskie w Polsce](/docs/alka74a.md).
+1. Alicja Kopczyńska, [Lista bazylik na świecie](/docs/alka74a.md).
 1. Michał Frankowski, [Natura 2000](/docs/mfrankowski.md).
 1. Dorian Sawa, [Kody pocztowe](/docs/dsawa.md).
 1. Jakub Ciechowski [Najbardziej pracowici](/docs/jciechowski.md).
