@@ -64,6 +64,53 @@ http://www.stat.gov.pl/bdl/app/strona.html?p_name=indeks (Główny Urząd Statys
     }
 ```
 
+## Przykład agregacji:
+
+```js
+
+/* Nawięcej obiektów pod jednym kodem pocztowym */
+
+coll = db.kody_pocztowe
+
+coll.aggregate(
+  { $group: {_id: "$kod", postal_codes: { $sum: 1 } } },
+  { $sort: { postal_codes: -1 } },
+  { $limit: 5 }
+)
+
+/* Najwięcej ulic o danej nazwie w jednym województwie */
+
+coll.aggregate(
+  { $group: {_id: { ulica: "$ulica", wojewodztwo: "$wojewodztwo" }, ulice: { $sum: 1 } } },
+  /* { $match: { ulica: { $ne: null } } }, */
+  { $sort: { ulice: -1 } },
+  { $limit: 20 }
+)
+
+/* Największy wzrost ceny */
+
+coll = db.ceny
+
+coll.aggregate(
+  { $group: {_id: "$towar", max_cena: { $max: "$cena"  }, min_cena: { $min: "$cena" } } },
+  { $match: { max_cena: { $gt: 0 }, min_cena: { $gt: 0 } } },
+  { $project: { max_cena: 1, min_cena: 1, diff: { $divide: ["$max_cena", "$min_cena"] } } },
+  { $sort: { diff: -1 } },
+  { $limit: 5 }
+)
+
+/* Miesiac, w ktorym najwiecej osob ma imieniny */
+
+coll = db.imieniny
+
+coll.aggregate(
+  { $unwind: "$names" },
+  { $group: {_id: { month: "$date.month" }, namesPerMonth: { $sum: 1 } } },
+  { $sort: { namesPerMonth: -1 } },
+  { $limit: 5 }
+)
+```
+
 ## Pliki:
 
 [plik csv przed użyciem Google Refine] (/data/csv/wypadki_drogowe.csv)
