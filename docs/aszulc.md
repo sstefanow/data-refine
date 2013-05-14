@@ -59,16 +59,11 @@
 
 ## Google Chart Tools
 
-Procentowe rozmieszczenie pomieszczeń szkolnych województwa podlaskiego w roku
-2011.
-
 ![google_chart1](https://raw.github.com/aszulc/data-refine/master/images/aszulc_agr1.jpg)
-
-Ilość pomieszczeń danych wejewództw w latach 2007-2011.
 
 ![google_chart2](https://raw.github.com/aszulc/data-refine/master/images/aszulc_agr2.jpg)
 
-## Aggregacje wykonane na kolekcji imieniny.
+## Agregacje wykonane na kolekcji imieniny.
 
 Wypisanie dat, w które konkretne imie, w tym przypadku Bogdan, ma imieniny.
 
