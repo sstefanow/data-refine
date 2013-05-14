@@ -19,9 +19,13 @@ Obszary Natura 2000 na terenie województwa pomorskiego
 
 ## Przykładowe dane:
 ```json
-{"nazwa": "Zatoka Pucka", "wojewodztwo": "pomorskie", "powiat": "obszar morski poza NUTS", "gmina": "obszar morski poza NUTS", "powierzchnia": 62430.4}
-{"nazwa": "Lasy Lęborskie", "wojewodztwo": "pomorskie", "powiat": "gdański", "gmina": "Choczewo, Gniewino, Luzino, Łęczyce", "powierzchnia": 8565.3}
-{"nazwa": "Puszcza Darżlubska", "wojewodztwo": "pomorskie", "powiat": "gdański", "gmina": "Puck, Reda, Wejherowo", "powierzchnia": 6452.6}
+    {
+      "powierzchnia" : 18.7,
+      "gmina" : "Cieszków",
+      "nazwa" : "Chłodnia w Cieszkowie",
+      "powiat" : "milicki",
+      "wojewodztwo" : "dolnośląskie"
+    }
 ```
 
 
