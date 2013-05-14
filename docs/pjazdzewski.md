@@ -169,6 +169,110 @@ db.nosql.aggregate( {
 "ok" : 1}
 ```
 
+## Map-Reduce
+
+### 1\. Wydatki agregowane wg. dostawcy
+```js
+var map = function() {
+    emit(this.Supplier, this.Amount);
+};
+
+var reduce = function(key, value) {
+	return Array.sum(value);
+};
+
+var params = {
+	out: "task_1"
+};
+
+db.nosql.mapReduce(map, reduce, params);
+```
+
+### Wynik 
+```json
+{ "_id" : "3M SECURITY PRINTING & SYSTEMS LTD", "value" : 96042.62 }
+{ "_id" : "AGEF AFGHANISTAN", "value" : 29950 }
+{ "_id" : "ALLIED ELECTRIC VEHICLES", "value" : 8247.5 }
+{ "_id" : "ALPINE RESOURCING LIMITED", "value" : 3488.75 }
+```
+
+### 2\. Wydatki agregowane wg. dostawcy + ilosc zamowien, srednia wartosc zamowienia
+```js
+var map = function() {
+    emit(this.Supplier, {
+		count: 1,
+		sum: this.Amount
+	});
+};
+
+var reduce = function(key, value) {
+	var obj = {count: 0, sum: 0};
+	for(var i=0; i<value.length; i++){
+		obj.count += value[i].count;
+		obj.sum += value[i].sum; 
+	}
+	return obj;
+};
+
+var finalize = function (key, value) {
+	value.avg = value.sum/value.count;
+    return value;
+};
+
+var params = {
+	out: "task_2",
+	finalize: finalize
+};
+
+db.nosql.mapReduce(map, reduce, params);
+```
+
+### Wynik 
+```json
+{ "_id" : "CANON (UK) LIMITED", "value" : { "count" : 1, "sum" : 13746.13, "avg" : 13746.13 } }
+{ "_id" : "CANON (UK) LTD", "value" : { "count" : 5, "sum" : 22918.95, "avg" : 4583.79 } }
+{ "_id" : "CAPITA", "value" : { "count" : 1, "sum" : 3430.67, "avg" : 3430.67 } }
+```
+
+### 3\. Dla kazdego dostawcy zbierz w pary daty jego zamowien wraz z ich wartosciami   
+```js
+var map = function() {
+    emit(this.Supplier, {
+		date: this.Date,
+		sum: this.Amount
+	});
+};
+
+var reduce = function(key, value) {
+	var obj = {dates:[], sum:0};
+	for(var i=0; i<value.length; i++){
+		if(value[i].date){
+			obj.dates.push( value[i].date );
+		}
+		obj.sum += value[i].sum;
+	}
+	return obj;
+};
+
+var params = {
+	out: "task_3"
+};
+
+db.nosql.mapReduce(map, reduce, params);
+```
+
+### Wynik 
+```json
+{ "_id" : "ALLIED ELECTRIC VEHICLES", "value" : { "date" : "02.07.2010", "sum" : 8247.5 } }
+{ "_id" : "ALPINE RESOURCING LIMITED", "value" : { "date" : "11.10.2010", "sum" : 3488.75 } }
+{ "_id" : "ALTIUS CONSULTING LTD", "value" : { "dates" : [      
+				"14.05.2010",   "24.05.2010",   "24.05.2010",       
+				"06.08.2010",   "06.08.2010",   "11.08.2010",   
+				"30.07.2010",   "30.07.2010",   "30.07.2010",       
+				"02.06.2010",   "08.06.2010",   "08.06.2010",   
+				"04.10.2010" ], "sum" : 46922.71 } }
+```
+			   
 ## Procedura oczyszczania - 28 kroków:
 ```json
 [
