@@ -44,8 +44,80 @@ Strona Głównego Urzędu Statystycznego [GUS](http://www.stat.gov.pl/bdl/app/st
       "2011" : 2812.11
     }
 ```
-## Przykładowe agregacje:
-Coming soon
+## Agregacje:
+
+1.Porównanie średnich dochodów w Gdańsku i Olsztynie (wykres stworzony za pomocą Google Charts)
+![Chart1](https://raw.github.com/dszafranek/data-refine/master/images/dszafranek1.png)
+
+2.Porównanie dochodów w województwach Pomorskim, Mazowieckim oraz Warmińsko-Mazurskim
+![Chart2](https://raw.github.com/dszafranek/data-refine/master/images/dszafranek2.png)
+
+3.Wypisanie 3 najdrozszych marek samochodow ( wykorzystana kolekcja car_market)
+
+```js
+	db.car_market.aggregate(
+						{$group :{_id : "$make", price : { $sum : "$price"}}},
+						{$sort: {price: -1}},
+						{$limit: 3}
+							)
+```
+
+Wynik:
+
+```js
+	"result" : [
+				{
+					"_id" : "mercedes-benz",
+					"price" : 1186003
+				},
+				{
+					"_id" : "bmw",
+					"price" : 797690
+				},
+				{
+					"_id" : "jaguar",
+					"price" : 723345
+				}
+			]
+```
+
+4.Wszystkie duże lotniska z Polski ( wykorzystana kolekcja airports)
+
+```js
+	db.airports.aggregate(
+					{$match: {iso_country: "PL", type: "large_airport"}}, 
+					{$group: {_id: "$name"}}
+					)
+```
+
+Wynik:
+
+```js
+	"result" : [
+        {
+                "_id" : "Copernicus Wrocław Airport"
+        },
+        {
+                "_id" : "Poznań-Ławica Airport"
+        },
+        {
+                "_id" : "Katowice International Airport"
+        },
+        {
+                "_id" : "Modlin Airport"
+        },
+        {
+                "_id" : "John Paul II International Airport Kraków-Balice Airport"
+        },
+        {
+                "_id" : "Warsaw Chopin Airport"
+        },
+        {
+                "_id" : "Gdańsk Lech Wałęsa Airport"
+        }
+],
+"ok" : 1
+```
 
 ## Odnośniki do plików:
 [Plik csv przed oczyszczeniem] (/data/csv/wynagrodzenia_brutto-dszafranek.csv)
