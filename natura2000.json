@@ -1,106 +1,972 @@
-{"nazwa": "Bagna Izbickie", "wojewodztwo": "pomorskie", "powiat": "słupski", "gmina": "Główczyce", "powierzchnia": 786.4}
-{"nazwa": "Białe Błoto", "wojewodztwo": "pomorskie", "powiat": "słupski, gdański", "gmina": "Cewice Linia", "powierzchnia": 43.4}
-{"nazwa": "Białogóra", "wojewodztwo": "pomorskie", "powiat": "gdański", "gmina": "Krokowa, Choczewo", "powierzchnia": 1132.8}
-{"nazwa": "Bytowskie Jeziora Lobeliowe", "wojewodztwo": "pomorskie", "powiat": "słupski", "gmina": "Bytów, Studzienice", "powierzchnia": 2490.3}
-{"nazwa": "Dolina Górnej Łeby", "wojewodztwo": "pomorskie", "powiat": "gdański", "gmina": "Chmielno, Kartuzy, Linia, Luzino, Łęczyce", "powierzchnia": 2550.1}
-{"nazwa": "Dolina Kłodawy", "wojewodztwo": "pomorskie", "powiat": "gdański", "gmina": "Trąbki Wielkie", "powierzchnia": 10.7}
-{"nazwa": "Dolina Reknicy", "wojewodztwo": "pomorskie", "powiat": "gdański", "gmina": "Kolbudy", "powierzchnia": 68.4}
-{"nazwa": "Dolina Środkowej Wietcisy", "wojewodztwo": "pomorskie", "powiat": "starogardzki", "gmina": "Liniewo, Nowa Karczma", "powierzchnia": 430.9}
-{"nazwa": "Hopowo", "wojewodztwo": "pomorskie", "powiat": "gdański", "gmina": "Somonino", "powierzchnia": 8.1}
-{"nazwa": "Jar Rzeki Raduni", "wojewodztwo": "pomorskie", "powiat": "gdański", "gmina": "Somonino, Żukowo", "powierzchnia": 87.7}
-{"nazwa": "Jeziorka Chośnickie", "wojewodztwo": "pomorskie", "powiat": "słupski", "gmina": "Parchowo", "powierzchnia": 214.3}
-{"nazwa": "Jezioro Piasek", "wojewodztwo": "pomorskie", "powiat": "słupski", "gmina": "Miastko", "powierzchnia": 54.8}
-{"nazwa": "Kurze Grzędy", "wojewodztwo": "pomorskie", "powiat": "gdański", "gmina": "Kartuzy, Sierakowice", "powierzchnia": 1586.6}
-{"nazwa": "Biała", "wojewodztwo": "pomorskie", "powiat": "gdański", "gmina": "Wejherowo", "powierzchnia": 418.8}
-{"nazwa": "Mechowiska Sulęczyńskie", "wojewodztwo": "pomorskie", "powiat": "gdański", "gmina": "Sulęczyno", "powierzchnia": 45.6}
-{"nazwa": "Mierzeja Sarbska", "wojewodztwo": "pomorskie", "powiat": "słupski, gdański", "gmina": "Łeba, Wicko, Choczewo", "powierzchnia": 1882.9}
-{"nazwa": "Orle", "wojewodztwo": "pomorskie", "powiat": "gdański", "gmina": "Wejherowo", "powierzchnia": 269.9}
-{"nazwa": "Pełcznica", "wojewodztwo": "pomorskie", "powiat": "gdański", "gmina": "Szemud, Wejherowo", "powierzchnia": 253.1}
-{"nazwa": "Piaśnickie Łąki", "wojewodztwo": "pomorskie", "powiat": "gdański", "gmina": "Krokowa", "powierzchnia": 1085}
-{"nazwa": "Pływające wyspy pod Rekowem", "wojewodztwo": "pomorskie", "powiat": "słupski", "gmina": "Bytów", "powierzchnia": 107.9}
-{"nazwa": "Ostoja Słowińska", "wojewodztwo": "pomorskie", "powiat": "obszar morski poza NUTS, słupski", "gmina": "Łeba, Wicko, Główczyce, Smołdzino, Ustka", "powierzchnia": 32955.3}
-{"nazwa": "Przymorskie Błota", "wojewodztwo": "pomorskie", "powiat": "koszaliński, słupski", "gmina": "Ustka, Postomino", "powierzchnia": 1688.9}
-{"nazwa": "Przywidz", "wojewodztwo": "pomorskie", "powiat": "gdański", "gmina": "Przywidz, Trąbki Wielkie", "powierzchnia": 953.1}
-{"nazwa": "Sandr Brdy", "wojewodztwo": "pomorskie", "powiat": "słupski", "gmina": "Chojnice, Lipnica, Studzienice, Brusy", "powierzchnia": 7492.6}
-{"nazwa": "Staniszewskie Błoto", "wojewodztwo": "pomorskie", "powiat": "gdański", "gmina": "Chmielno, Kartuzy", "powierzchnia": 917.2}
-{"nazwa": "Studzienickie Torfowiska", "wojewodztwo": "pomorskie", "powiat": "słupski", "gmina": "Studzienice", "powierzchnia": 175.3}
-{"nazwa": "Trzy Młyny", "wojewodztwo": "pomorskie", "powiat": "gdański", "gmina": "Krokowa", "powierzchnia": 765.9}
-{"nazwa": "Twierdza Wisłoujście", "wojewodztwo": "pomorskie", "powiat": "trójmiejski", "gmina": "Gdańsk", "powierzchnia": 16.2}
-{"nazwa": "Waćmierz", "wojewodztwo": "pomorskie", "powiat": "starogardzki", "gmina": "Subkowy", "powierzchnia": 388.3}
-{"nazwa": "Dolna Wisła", "wojewodztwo": "pomorskie", "powiat": "bydgosko-toruński, starogardzki", "gmina": "Nowe, Sadlinki, Gniew, Kwidzyn, Ryjewo, Malbork, Miłoradz, Pelplin, Subkowy, Tczew, Sztum", "powierzchnia": 10374.2}
-{"nazwa": "Jeziora Wdzydzkie", "wojewodztwo": "pomorskie", "powiat": "starogardzki", "gmina": "Dziemiany, Karsin, Kościerzyna, Lipusz, Stara Kiszewa", "powierzchnia": 13583.8}
-{"nazwa": "Jezioro Krasne", "wojewodztwo": "pomorskie", "powiat": "słupski", "gmina": "Przechlewo", "powierzchnia": 95.6}
-{"nazwa": "Dolina Łupawy", "wojewodztwo": "pomorskie", "powiat": "słupski", "gmina": "Czarna Dąbrówka Cewice Damnica Główczyce, Potęgowo, Smołdzino", "powierzchnia": 5508.6}
-{"nazwa": "Dolina Stropnej", "wojewodztwo": "pomorskie", "powiat": "słupski", "gmina": "Parchowo, Studzienice", "powierzchnia": 963.4}
-{"nazwa": "Dolina Wieprzy i Studnicy", "wojewodztwo": "pomorskie", "powiat": "koszaliński, słupski", "gmina": "Miastko,Trzebielino, Koczała, Kępice, Kobylnica, Postomino, Sławno, Darłowo", "powierzchnia": 14349}
-{"nazwa": "Jeziora Lobeliowe koło Soszycy", "wojewodztwo": "pomorskie", "powiat": "słupski", "gmina": "Czarna Dąbrówka", "powierzchnia": 132.4}
-{"nazwa": "Łebskie Bagna", "wojewodztwo": "pomorskie", "powiat": "słupski", "gmina": "Nowa Wieś Lęborska", "powierzchnia": 211.5}
-{"nazwa": "Miasteckie Jeziora Lobeliowe", "wojewodztwo": "pomorskie", "powiat": "słupski", "gmina": "Miastko ", "powierzchnia": 1372.5}
-{"nazwa": "Torfowisko Pobłockie", "wojewodztwo": "pomorskie", "powiat": "słupski", "gmina": "Główczyce", "powierzchnia": 111.6}
-{"nazwa": "Ostoja w Ujściu Wisły", "wojewodztwo": "pomorskie", "powiat": "obszar morski poza NUTS, trójmiejski, gdański", "gmina": "Stegna, Gdańsk", "powierzchnia": 883.5}
-{"nazwa": "Górkowski Las", "wojewodztwo": "pomorskie", "powiat": "słupski", "gmina": "Wicko", "powierzchnia": 99.3}
-{"nazwa": "Widowo", "wojewodztwo": "pomorskie", "powiat": "gdański", "gmina": "Krokowa", "powierzchnia": 91.5}
-{"nazwa": "Bunkier w Oliwie", "wojewodztwo": "pomorskie", "powiat": "trójmiejski", "gmina": "Gdańsk", "powierzchnia": 0.1}
-{"nazwa": "Czerwona Woda pod Babilonem", "wojewodztwo": "pomorskie", "powiat": "słupski", "gmina": "Chojnice, Człuchów, Konarzyny, Przechlewo", "powierzchnia": 821.1}
-{"nazwa": "Ostoja Zapceńska", "wojewodztwo": "pomorskie", "powiat": "słupski", "gmina": "Lipnica, Studzienice, Brusy", "powierzchnia": 3804.9}
-{"nazwa": "Doliny Brdy i Chociny", "wojewodztwo": "pomorskie", "powiat": "słupski", "gmina": "Chojnice, Konarzyny", "powierzchnia": 1455.8}
-{"nazwa": "Duży Okoń", "wojewodztwo": "pomorskie", "powiat": "słupski", "gmina": "Człuchów", "powierzchnia": 21.5}
-{"nazwa": "Las Wolność", "wojewodztwo": "pomorskie", "powiat": "słupski", "gmina": "Chojnice", "powierzchnia": 335.3}
-{"nazwa": "Mętne", "wojewodztwo": "pomorskie", "powiat": "słupski", "gmina": "Czersk, Brusy", "powierzchnia": 523.7}
-{"nazwa": "Ostoja Masłowiczki", "wojewodztwo": "pomorskie", "powiat": "słupski", "gmina": "Kołczygłowy, Miastko, Tuchomie", "powierzchnia": 1680}
-{"nazwa": "Bielawa i Bory Bażynowe", "wojewodztwo": "pomorskie", "powiat": "gdański", "gmina": "Władysławowo, Krokowa, Puck", "powierzchnia": 1341.5}
-{"nazwa": "Sporysz", "wojewodztwo": "pomorskie", "powiat": "słupski", "gmina": "Rzeczenica", "powierzchnia": 481.1}
-{"nazwa": "Zielenina", "wojewodztwo": "pomorskie", "powiat": "gdański, starogardzki", "gmina": "Przywidz, Trąbki Wielkie, Skarszewy", "powierzchnia": 643.8}
-{"nazwa": "Dolina Szczyry", "wojewodztwo": "pomorskie", "powiat": "pilski, słupski", "gmina": "Debrzno, Czarne, Okonek", "powierzchnia": 347}
-{"nazwa": "Grądy nad Jeziorami Zduńskim i Szpęgawskim", "wojewodztwo": "pomorskie", "powiat": "starogardzki", "gmina": "Starogard Gdański, Tczew", "powierzchnia": 236.3}
-{"nazwa": "Guzy", "wojewodztwo": "pomorskie", "powiat": "gdański", "gmina": "Przywidz", "powierzchnia": 115.2}
-{"nazwa": "Jezioro Dymno", "wojewodztwo": "pomorskie", "powiat": "słupski", "gmina": "Koczała", "powierzchnia": 114.7}
-{"nazwa": "Jezioro Krąg", "wojewodztwo": "pomorskie", "powiat": "starogardzki", "gmina": "Stara Kiszewa", "powierzchnia": 424.4}
-{"nazwa": "Karwickie Źródliska", "wojewodztwo": "pomorskie", "powiat": "słupski", "gmina": "Cewice", "powierzchnia": 371.8}
-{"nazwa": "Kaszubskie Klify", "wojewodztwo": "pomorskie", "powiat": "gdański", "gmina": "Władysławowo", "powierzchnia": 227.6}
-{"nazwa": "Leniec nad Wierzycą", "wojewodztwo": "pomorskie", "powiat": "starogardzki", "gmina": "Kościerzyna", "powierzchnia": 25}
-{"nazwa": "Lubieszynek", "wojewodztwo": "pomorskie", "powiat": "starogardzki", "gmina": "Liniewo, Nowa Karczma", "powierzchnia": 671.4}
-{"nazwa": "Mechowiska Zęblewskie", "wojewodztwo": "pomorskie", "powiat": "gdański", "gmina": "Szemud", "powierzchnia": 107.9}
-{"nazwa": "Mikołajki Pomorskie", "wojewodztwo": "pomorskie", "powiat": "starogardzki", "gmina": "Prabuty, Mikołajki Pomorskie", "powierzchnia": 132.4}
-{"nazwa": "Młosino-Lubnia", "wojewodztwo": "pomorskie", "powiat": "słupski, starogardzki", "gmina": "Brusy, Dziemiany, Karsin", "powierzchnia": 2469.5}
-{"nazwa": "Nowa Brda", "wojewodztwo": "pomorskie", "powiat": "słupski", "gmina": "Lipnica, Konarzyny, Koczała, Przechlewo", "powierzchnia": 10020.9}
-{"nazwa": "Ostoja Borzyszkowska", "wojewodztwo": "pomorskie", "powiat": "słupski", "gmina": "Lipnica", "powierzchnia": 6454.2}
-{"nazwa": "Prokowo", "wojewodztwo": "pomorskie", "powiat": "gdański", "gmina": "Kartuzy, Przodkowo", "powierzchnia": 885.6}
-{"nazwa": "Rynna Dłużnicy", "wojewodztwo": "pomorskie", "powiat": "starogardzki", "gmina": "Kościerzyna", "powierzchnia": 353.4}
-{"nazwa": "Stary Bukowiec", "wojewodztwo": "pomorskie", "powiat": "starogardzki", "gmina": "Stara Kiszewa", "powierzchnia": 308.4}
-{"nazwa": "Wielki Klincz", "wojewodztwo": "pomorskie", "powiat": "starogardzki", "gmina": "Kościerzyna, Nowa Karczma", "powierzchnia": 288.2}
-{"nazwa": "Wejherowo", "wojewodztwo": "pomorskie", "powiat": "gdański", "gmina": "Wejherowo", "powierzchnia": 0.2}
-{"nazwa": "Torfowisko Trzebielino", "wojewodztwo": "pomorskie", "powiat": "słupski", "gmina": "Trzebielino", "powierzchnia": 99.9}
-{"nazwa": "Szumleś", "wojewodztwo": "pomorskie", "powiat": "gdański, starogardzki", "gmina": "Przywidz, Nowa Karczma", "powierzchnia": 976.5}
-{"nazwa": "Sztumskie Pole", "wojewodztwo": "pomorskie", "powiat": "starogardzki", "gmina": "Sztum", "powierzchnia": 571.9}
-{"nazwa": "Dąbrówka", "wojewodztwo": "pomorskie", "powiat": "starogardzki", "gmina": "Kościerzyna, Nowa Karczma", "powierzchnia": 504.6}
-{"nazwa": "Huta Dolna", "wojewodztwo": "pomorskie", "powiat": "gdański", "gmina": "Przywidz", "powierzchnia": 66}
-{"nazwa": "Nowa Sikorska Huta", "wojewodztwo": "pomorskie", "powiat": "gdański, starogardzki", "gmina": "Stężyca, Kościerzyna", "powierzchnia": 174.7}
-{"nazwa": "Piotrowo", "wojewodztwo": "pomorskie", "powiat": "gdański, starogardzki", "gmina": "Somonino, Kościerzyna, Nowa Karczma", "powierzchnia": 483}
-{"nazwa": "Pomlewo", "wojewodztwo": "pomorskie", "powiat": "gdański", "gmina": "Kolbudy, Przywidz", "powierzchnia": 177.4}
-{"nazwa": "Wilcze Błota", "wojewodztwo": "pomorskie", "powiat": "starogardzki", "gmina": "Stara Kiszewa", "powierzchnia": 9}
-{"nazwa": "Dolina Wierzycy", "wojewodztwo": "pomorskie", "powiat": "starogardzki", "gmina": "Stara Kiszewa, Starogard Gdański, Skarszewy", "powierzchnia": 4618.3}
-{"nazwa": "Uroczyska Pojezierza Kaszubskiego", "wojewodztwo": "pomorskie", "powiat": "gdański, starogardzki", "gmina": "Chmielno, Kartuzy, Somonino, Stężyca, Kościerzyna", "powierzchnia": 3922.3}
-{"nazwa": "Jeziora Choczewskie", "wojewodztwo": "pomorskie", "powiat": "gdański", "gmina": "Choczewo, Gniewino, Łęczyce", "powierzchnia": 1120}
-{"nazwa": "Jeziora Kistowskie", "wojewodztwo": "pomorskie", "powiat": "słupski, gdański", "gmina": "Parchowo, Sierakowice, Sulęczyno", "powierzchnia": 367.5}
-{"nazwa": "Lasy Rekowskie", "wojewodztwo": "pomorskie", "powiat": "słupski", "gmina": "Bytów, Lipnica, Tuchomie", "powierzchnia": 2288.5}
-{"nazwa": "Opalińskie Buczyny", "wojewodztwo": "pomorskie", "powiat": "gdański", "gmina": "Gniewino", "powierzchnia": 355.7}
-{"nazwa": "Klify Poddębskie", "wojewodztwo": "pomorskie", "powiat": "słupski", "gmina": "Ustka", "powierzchnia": 594.4}
-{"nazwa": "Szczodrowo", "wojewodztwo": "pomorskie", "powiat": "starogardzki", "gmina": "Skarszewy", "powierzchnia": 223.6}
-{"nazwa": "Wielki Sandr Brdy", "wojewodztwo": "pomorskie", "powiat": "słupski", "gmina": "Chojnice, Lipnica, Studzienice, Brusy, Konarzyny", "powierzchnia": 37106.2}
-{"nazwa": "Dolina Słupi", "wojewodztwo": "pomorskie", "powiat": "słupski", "gmina": "Czarna Dąbrówka, Borzytuchom, Bytów, Kołczygłowy, Parchowo, Trzebielino, Dębnica Kaszubska, Kobylnica, Słupsk", "powierzchnia": 37471.8}
-{"nazwa": "Pobrzeże Słowińskie", "wojewodztwo": "pomorskie", "powiat": "słupski", "gmina": "Łeba, Wicko, Główczyce, Smołdzino, Ustka", "powierzchnia": 21819.4}
-{"nazwa": "Ujście Wisły", "wojewodztwo": "pomorskie", "powiat": "trójmiejski, gdański", "gmina": "Stegna, Gdańsk", "powierzchnia": 1748.1}
-{"nazwa": "Zatoka Pucka", "wojewodztwo": "pomorskie", "powiat": "obszar morski poza NUTS", "gmina": "obszar morski poza NUTS", "powierzchnia": 62430.4}
-{"nazwa": "Lasy Lęborskie", "wojewodztwo": "pomorskie", "powiat": "gdański", "gmina": "Choczewo, Gniewino, Luzino, Łęczyce", "powierzchnia": 8565.3}
-{"nazwa": "Puszcza Darżlubska", "wojewodztwo": "pomorskie", "powiat": "gdański", "gmina": "Puck, Reda, Wejherowo", "powierzchnia": 6452.6}
-{"nazwa": "Lasy Mirachowskie", "wojewodztwo": "pomorskie", "powiat": "gdański", "gmina": "Chmielno, Kartuzy, Sierakowice, Linia", "powierzchnia": 8232.4}
-{"nazwa": "Bory Tucholskie", "wojewodztwo": "pomorskie", "powiat": "bydgosko-toruński, słupski, gdański", "gmina": "Drzycim, Jeżewo, Lniano, Nowe, Osie, Warlubie, Cekcyn, Gostycyn, Kęsowo, Lubiewo, Śliwice, Tuchola, Chojnice, Czersk, Osieczna, Osiek, Smętowo Graniczne, Bytów, Lipnica, Parchowo, Studzienice, Brusy, Czersk, Konarzyny, Kościerzyna, Dziemiany, Karsin...  ", "powierzchnia": 322535.9}
-{"nazwa": "Bielawskie Błota", "wojewodztwo": "pomorskie", "powiat": "gdański", "gmina": "Władysławowo, Krokowa, Puck", "powierzchnia": 1101.3}
-{"nazwa": "Zatoka Pucka i Półwysep Helski", "wojewodztwo": "pomorskie", "powiat": "obszar morski poza NUTS, gdański", "gmina": "Hel, Jastarnia, Puck, Władysławowo, Kosakowo", "powierzchnia": 26484.8}
-{"nazwa": "Ławica Słupska", "wojewodztwo": "pomorskie", "powiat": "obszar morski poza NUTS", "gmina": "obszar morski poza NUTS", "powierzchnia": 80050.3}
-{"nazwa": "Bezlist koło Gniewowa", "wojewodztwo": "pomorskie", "powiat": "woj. pomorskie", "gmina": "woj. pomorskie", "powierzchnia": 19}
-{"nazwa": "Dolina Słupi", "wojewodztwo": "pomorskie", "powiat": "woj. pomorskie", "gmina": "woj. pomorskie", "powierzchnia": 6}
-{"nazwa": "Jezioro Księże w Lipuszu", "wojewodztwo": "pomorskie", "powiat": "woj. pomorskie", "gmina": "woj. pomorskie", "powierzchnia": 15}
-{"nazwa": "Jezioro Wicko i Modelskie Wydmy", "wojewodztwo": "pomorskie", "powiat": "woj. pomorskie", "gmina": "woj. pomorskie", "powierzchnia": 1834}
-{"nazwa": "Klify i Rafy Kamienne Orłowa", "wojewodztwo": "pomorskie", "powiat": "woj. pomorskie", "gmina": "woj. pomorskie", "powierzchnia": 335}
+{"powierzchnia" : 18.7, "gmina" : "Cieszków", "nazwa" : "Chłodnia w Cieszkowie", "powiat" : "milicki", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 5233.3, "gmina" : "Wińsko, Wołów", "nazwa" : "Dębniańskie Mokradła", "powiat" : "wołowski", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 991.2, "gmina" : "Żmigród, Wińsko, Wołów", "nazwa" : "Dolina Łachy", "powiat" : "trzebnicki, wołowski", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 87.8, "gmina" : "Pieszyce", "nazwa" : "Kamionki", "powiat" : "dzierżoniowski", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 170.1, "gmina" : "Złoty Stok", "nazwa" : "Kopalnie w Złotym Stoku", "powiat" : "ząbkowicki", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 0.3, "gmina" : "Lądek-Zdrój", "nazwa" : "Kościół w Konradowie", "powiat" : "kłodzki", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 11.5, "gmina" : "Lwówek Śląski ", "nazwa" : "Panieńskie Skały", "powiat" : "lwówecki", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 142.5, "gmina" : "Polanica-Zdrój, Szczytna", "nazwa" : "Piekielna Dolina koło Polanicy", "powiat" : "wałbrzyski", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 6635, "gmina" : "Janowice Wielkie, Kamienna Góra, Marciszów, Kowary", "nazwa" : "Rudawy Janowickie", "powiat" : "jeleniogórski, kamiennogórski", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 6.3, "gmina" : "Ząbkowice Śląskie", "nazwa" : "Skałki Stoleckie", "powiat" : "ząbkowicki", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 8.7, "gmina" : "Leśna", "nazwa" : "Sztolnie w Leśnej", "powiat" : "lubański", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 225.8, "gmina" : "Szczytna", "nazwa" : "Torfowisko pod Zieleńcem", "powiat" : "kłodzki", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 6663.7, "gmina" : "Bolesławiec, Gromadka", "nazwa" : "Wrzosowisko Przemkowskie", "powiat" : "bolesławiecki", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 19038.5, "gmina" : "Bystrzyca Kłodzka, Lądek-Zdrój, Międzylesie, Stronie Śląskie", "nazwa" : "Góry Bialskie i Grupa Śnieżnika", "powiat" : "kłodzki", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 8348.9, "gmina" : "Oława, Jelcz-Laskowice, Czernica, Siechnice, Wrocław", "nazwa" : "Grądy w Dolinie Odry", "powiat" : "oławski, wrocławski, miasto Wrocław", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 5423.2, "gmina" : "Bystrzyca Kłodzka, Kłodzko, Lądek-Zdrój, Stronie Śląskie", "nazwa" : "Pasmo Krowiarki", "powiat" : "kłodzki", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 240.3, "gmina" : "Świebodzice, Wałbrzych", "nazwa" : "Przełomy Pełcznicy pod Książem", "powiat" : "świdnicki, wałbrzyski", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 403.6, "gmina" : "Dzierżoniów, Marcinowice", "nazwa" : "Wzgórza Kiełczyńskie", "powiat" : "dzierżoniowski, świdnicki", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 36.1, "gmina" : "Lądek-Zdrój", "nazwa" : "Czarne Urwisko koło Lutyni", "powiat" : "kłodzki", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 1162.1, "gmina" : "Świebodzice, Dobromierz, Stare Bogaczowice", "nazwa" : "Dobromierz", "powiat" : "wałbrzyski, świdnicki", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 73.1, "gmina" : "Lądek-Zdrój, Stronie Śląskie", "nazwa" : "Biała Lądecka", "powiat" : "kłodzki", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 1310.2, "gmina" : "Miękinia, Oborniki Śląskie, Wisznia Mała, Wrocław", "nazwa" : "Dolina Widawy", "powiat" : "trzebnicki, średzki, miasto Wrocław", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 35005.3, "gmina" : "Bolków, Męcinka, Paszowice, Janowice Wielkie, Jeżów Sudecki, Marciszów, Wojcieszów, Świerzawa, Złotoryja", "nazwa" : "Góry i Pogórze Kaczawskie", "powiat" : "jeleniogórski, kamiennogórski, złotoryjski, jaworski", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 24098.9, "gmina" : "Kamienna Góra, Lubawka, Boguszów-Gorce, Jedlina-Zdrój, Czarny Bór, Głuszyca, Mieroszów, Wałbrzych", "nazwa" : "Góry Kamienne", "powiat" : "kamiennogórski, wałbrzyski", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 287.9, "gmina" : "Lewin Kłodzki, Szczytna", "nazwa" : "Grodczyn i Homole koło Dusznik", "powiat" : "kłodzki", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 5059.3, "gmina" : "Dzierżoniów, Marcinowice, Łagiewniki, Jordanów Śląski, Sobótka", "nazwa" : "Masyw Ślęży", "powiat" : "dzierżoniowski, świdnicki, wrocławski", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 82026.4, "gmina" : "Milicz, Żmigród, Trzebnica, Prusice, Krośnice, Twardogóra,Sośnie, Odolanów, Przygodzice ", "nazwa" : "Ostoja nad Baryczą", "powiat" : "ostrowski, trzebnicki, oleśnicki, milicki ", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 74, "gmina" : "Wleń, Pielgrzymka", "nazwa" : "Ostrzyca Proboszczowicka", "powiat" : "lwówecki, złotoryjski", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 330.7, "gmina" : "Zgorzelec, Bogatynia", "nazwa" : "Przełom Nysy Kłodzkiej koło Morzyszowa", "powiat" : "zgorzelecki", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 239.6, "gmina" : "Podgórzyn, Jelenia Góra", "nazwa" : "Stawy Sobieszowskie", "powiat" : "jeleniogórski, miasto Jelenia Góra", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 188.7, "gmina" : "Długołęka", "nazwa" : "Stawy w Borowej", "powiat" : "wrocławski", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 4765, "gmina" : "Szklarska Poręba, Mirsk, Świeradów-Zdrój", "nazwa" : "Torfowiska Gór Izerskich", "powiat" : "jeleniogórski, lubański, lwówecki", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 41.8, "gmina" : "Bolesławiec", "nazwa" : "Żwirownie w Starej Olesznej", "powiat" : "bolesławiecki", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 5972.2, "gmina" : "Nowogrodziec, Osiecznica", "nazwa" : "Dolina Dolnej Kwisy", "powiat" : "bolesławiecki", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 38.8, "gmina" : "Prochowice", "nazwa" : "Irysowy Zagon koło Gromadzynia", "powiat" : "legnicki", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 837.8, "gmina" : "Kunice, Miłkowice", "nazwa" : "Pątnów Legnicki", "powiat" : "legnicki", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 359.8, "gmina" : "Wołów", "nazwa" : "Zagórzyckie Łąki", "powiat" : "wołowski", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 15373, "gmina" : "Jeżów Sudecki, Stara Kamienica, Lubomierz, Lwówek Śląski, Wleń, Pielgrzymka, Świerzawa", "nazwa" : "Ostoja nad Bobrem", "powiat" : "jeleniogórski", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 834.6, "gmina" : "Kąty Wrocławskie, Mietków, Sobótka", "nazwa" : "Przeplatki nad Bystrzycą", "powiat" : "wrocławski", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 1432.4, "gmina" : "Boguszów-Gorce, Szczawno-Zdrój, Stare Bogaczowice, Wałbrzych", "nazwa" : "Masyw Chełmca", "powiat" : "wałbrzyski", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 2798.1, "gmina" : "Duszniki-Zdrój, Lewin Kłodzki", "nazwa" : "Góry Orlickie", "powiat" : "kłodzki", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 539.7, "gmina" : "Bystrzyca Kłodzka, Międzylesie, Szczytna", "nazwa" : "Dzika Orlica", "powiat" : "kłodzki", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 3379.7, "gmina" : "Kłodzko, Bardo, Stoszowice, Nowa Ruda", "nazwa" : "Góry Bardzkie", "powiat" : "kłodzki, ząbkowski", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 10141.6, "gmina" : "Bolesławiec, Osiecznica", "nazwa" : "Wrzosowiska Świętoszowsko-Ławszowskie", "powiat" : "bolesławicki", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 223.5, "gmina" : "Bierutów", "nazwa" : "Bierutów", "powiat" : "oleśnicki", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 1661.7, "gmina" : "Zgorzelec, Bogatynia", "nazwa" : "Przełomowa Dolina Nysy Łużyckiej", "powiat" : "jeleniogórski", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 206.4, "gmina" : "Ciepłowody, Ziębice", "nazwa" : "Muszkowicki Las Bukowy", "powiat" : "ząbkowicki", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 119.6, "gmina" : "Wrocław", "nazwa" : "Las Pilczycki", "powiat" : "miasto Wrocław", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 12.4, "gmina" : "Bystrzyca Kłodzka", "nazwa" : "Sztolnia w Młotach", "powiat" : "kłodzki", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 21324.9, "gmina" : "Bielawa, Pieszyce, Dzierżoniów, Kłodzko, Nowa Ruda, Świdnica, Jedlina-Zdrój, Głuszyca, Walim, Stoszowice", "nazwa" : "Ostoja Nietoperzy Gór Sowich", "powiat" : "dzierżoniowski, kłodzki, świdnicki, wałbrzyski, ząbkowicki", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 8067.8, "gmina" : "Nowogrodziec, Osiecznica, Węgliniec", "nazwa" : "Uroczyska Borów Dolnośląskich", "powiat" : "bolesławiecki, zgorzelecki", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 82.1, "gmina" : "Borów", "nazwa" : "Ludów Śląski", "powiat" : "strzeliński", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 3836.2, "gmina" : "Przeworno, Strzelin, Ziębice", "nazwa" : "Wzgórza Strzelińskie", "powiat" : "strzeliński, ząbkowicki", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 211.3, "gmina" : "Mysłakowice", "nazwa" : "Stawy Karpnickie", "powiat" : "jeleniogórski", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 157.4, "gmina" : "Mysłakowice, Podgórzyn, Jelenia Góra", "nazwa" : "Źródła Pijawnika", "powiat" : "jeleniogórski, miasto Jelenia Góra", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 84.8, "gmina" : "Lwówek Śląski", "nazwa" : "Żerkowice-Skała", "powiat" : "lwówecki", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 2094, "gmina" : "Wrocław, Dobroszyce, Długołęka", "nazwa" : "Kumaki Dobrej", "powiat" : "oleśnicki, wrocławski, miasto Wrocław", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 660.9, "gmina" : "Prusice, Wołów", "nazwa" : "Wzgórza Warzęgowskie", "powiat" : "trzebnicki, wołowski", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 3087.5, "gmina" : "Bierutów, Oleśnica, Jelcz-Laskowice, Czernica, Długołęka", "nazwa" : "Lasy Grędzińskie", "powiat" : "oleśnicki, oławski, wrocławski", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 3237.2, "gmina" : "Piława Górna, Dzierżoniów, Łagiewniki, Niemcza, Kondratowice", "nazwa" : "Wzgórza Niemczańskie", "powiat" : "dzierżoniowski, strzeliński", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 951.7, "gmina" : "Bystrzyca Kłodzka, Szczytna", "nazwa" : "Dolina Bystrzycy Łomnickiej", "powiat" : "wałbrzyski", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 3165.8, "gmina" : "Góra, Wąsosz", "nazwa" : "Dolina Dolnej Baryczy", "powiat" : "górowski", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 2353.4, "gmina" : "Pieńsk, Węgliniec, Zgorzelec, ", "nazwa" : "Pieńska Dolina Nysy Łużyckiej", "powiat" : "zgorzelecki", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 29.5, "gmina" : "Gromadka", "nazwa" : "Gałuszki w Chocianowie", "powiat" : "bolesławiecki", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 40.1, "gmina" : "Gaworzyce", "nazwa" : "Dalkowskie Jary", "powiat" : "polkowicki", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 15.6, "gmina" : "Jelcz-Laskowice", "nazwa" : "Dąbrowy Janikowskie", "powiat" : "oławski", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 552.9, "gmina" : "Osiecznica", "nazwa" : "Dąbrowy Kliczkowskie", "powiat" : "bolesławski", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 1118.8, "gmina" : "Dobroszyce, Oleśnica ,Twardogóra", "nazwa" : "Dolina Oleśnicy i Potoku Boguszyckiego", "powiat" : "oleśnicki", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 156, "gmina" : "Lubin", "nazwa" : "Ćródliska koło Zimnej Wody", "powiat" : "legnicko-głogowski", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 1359.7, "gmina" : "Trzebnica, Zawonia", "nazwa" : "Skoroszowskie Łąki", "powiat" : "trzebnicki", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 31.4, "gmina" : "Świdnica", "nazwa" : "Modraszki koło Opoczki", "powiat" : "świdnicki", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 119.9, "gmina" : "Jeżów Sudecki, Wleń", "nazwa" : "Góra Wapienna", "powiat" : "jeleniogórski, iwówecki", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 7128.9, "gmina" : "Kłodzko, Lądek-Zdrój, Stronie Śląskie, Złoty Stok", "nazwa" : "Góry Złote", "powiat" : "kłodzki, ząbkowicki", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 62.6, "gmina" : "Gromadka, Radwanice", "nazwa" : "Jelonek Przemkowski", "powiat" : "bolesławiecki, polkowicki", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 486.3, "gmina" : "Przeworno, Strzelin, Wiązów", "nazwa" : "Karszówek", "powiat" : "strzeliński", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 2.8, "gmina" : "Dzierżoniów", "nazwa" : "Kiełczyn", "powiat" : "dzierżoniowski", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 142.8, "gmina" : "Żukowice", "nazwa" : "Kozioróg w Czernej", "powiat" : "kłodzki", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 111.9, "gmina" : "Twardogóra", "nazwa" : "Leśne Stawki koło Goszcza", "powiat" : "oleśnicki", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 6433.4, "gmina" : "Piechowice, Stara Kamienica, Leśna, Mirsk, Świeradów-Zdrój", "nazwa" : "Łąki Gór i Pogórza Izerskiego", "powiat" : "jeleniogórski, lubański, iwówecki", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 2084.4, "gmina" : "Kostomłoty, Miękinia, Kąty Wrocławskie, Wrocław", "nazwa" : "Łęgi nad Bystrzycą", "powiat" : "wrocławski, średzki, miasto Wrocław", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 127.2, "gmina" : "Kamieniec Ząbkowicki, Ziębice", "nazwa" : "Łęgi koło Chałupek", "powiat" : "wałbrzyski", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 75.3, "gmina" : "Janowice Wielkie", "nazwa" : "Trzcińskie Mokradła", "powiat" : "jeleniogórski", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 12.9, "gmina" : "Toruń", "nazwa" : "Forty w Toruniu", "powiat" : "bydgosko-toruński", "wojewodztwo" : "kujawsko-pomorskie"}
+{"powierzchnia" : 7030.1, "gmina" : "Dąbrowa Chełmińska, Dobrcz Osielsko, Solec Kujawski, Chełmno, Unisław, Pruszcz, Świecie, Zławieś Wielka, Bydgoszcz", "nazwa" : "Solecka Dolina Wisły", "powiat" : "bydgosko-toruński", "wojewodztwo" : "kujawsko-pomorskie"}
+{"powierzchnia" : 13459.4, "gmina" : "Kruszwica, Jeziora Wielkie, Piotrków Kujawski, Skulsk", "nazwa" : "Jezioro Gopło", "powiat" : "koniński, włocławski", "wojewodztwo" : "kujawsko-pomorskie"}
+{"powierzchnia" : 1392, "gmina" : "Solec KujawsSolec Kujawski, Wielka Nieszawka, Zławieś Wielka", "nazwa" : "Dybowska Dolina Wisły", "powiat" : "bydgosko-toruński", "wojewodztwo" : "kujawsko-pomorskie"}
+{"powierzchnia" : 3891.7, "gmina" : "Ciechocinek, Nieszawa, Aleksandrów Kujawski, Raciążek, Czernikowo, Lubicz, Obrowo, Wielka Nieszawka, Toruń", "nazwa" : "Nieszawska Dolina Wisły", "powiat" : "bydgosko-toruński, włocławski", "wojewodztwo" : "kujawsko-pomorskie"}
+{"powierzchnia" : 109.3, "gmina" : "Fabianki, Lipno", "nazwa" : "Cyprianka", "powiat" : "włocławski", "wojewodztwo" : "kujawsko-pomorskie"}
+{"powierzchnia" : 222.8, "gmina" : "Grudziądz", "nazwa" : "Cytadela Grudziądz", "powiat" : "bydgosko-toruński", "wojewodztwo" : "kujawsko-pomorskie"}
+{"powierzchnia" : 6320.7, "gmina" : "Jeżewo, Osie, Warlubie, Osieczna(woj. pomorskie), Osiek(woj. pomorskie), Lubichowo(woj. pomorskie), ", "nazwa" : "Sandr Wdy", "powiat" : "świecki, starogardzki (woj. pomorskie)", "wojewodztwo" : "kujawsko-pomorskie"}
+{"powierzchnia" : 146.1, "gmina" : "Skępe", "nazwa" : "Torfowisko Mieleńskie", "powiat" : "włocławski", "wojewodztwo" : "kujawsko-pomorskie"}
+{"powierzchnia" : 13.2, "gmina" : "Ciechocinek, Aleksandrów Kujawski", "nazwa" : "Ciechocinek", "powiat" : "włocławski", "wojewodztwo" : "kujawsko-pomorskie"}
+{"powierzchnia" : 5.3, "gmina" : "Dąbrowa Chełmińska", "nazwa" : "Torfowisko Linie", "powiat" : "bydgosko-toruński", "wojewodztwo" : "kujawsko-pomorskie"}
+{"powierzchnia" : 499, "gmina" : "Nowe, Warlubie, Osiek", "nazwa" : "Krzewiny", "powiat" : "bydgosko-toruński, starogardzki", "wojewodztwo" : "kujawsko-pomorskie"}
+{"powierzchnia" : 3948.4, "gmina" : "Cekcyn, Gostycyn, Tuchola", "nazwa" : "Doliny Brdy i Stążki w Borach Tucholskich", "powiat" : "bydgosko-toruński", "wojewodztwo" : "kujawsko-pomorskie"}
+{"powierzchnia" : 15.8, "gmina" : "Świecie", "nazwa" : "Zamek Świecie", "powiat" : "bydgosko-toruński", "wojewodztwo" : "kujawsko-pomorskie"}
+{"powierzchnia" : 1061.3, "gmina" : "Kcynia", "nazwa" : "Lisi Kąt", "powiat" : "włocławski", "wojewodztwo" : "kujawsko-pomorskie"}
+{"powierzchnia" : 2130.8, "gmina" : "Szubin", "nazwa" : "Łąki Trzęślicowe w Foluszu", "powiat" : "włocławski", "wojewodztwo" : "kujawsko-pomorskie"}
+{"powierzchnia" : 3456.4, "gmina" : "Barcin, Gąsawa, Rogowo, Żnin", "nazwa" : "Ostoja Barcińsko-Gąsawska", "powiat" : "włocławski", "wojewodztwo" : "kujawsko-pomorskie"}
+{"powierzchnia" : 2816.2, "gmina" : "Białe Błota, Nakło nad Notecią, Szubin, Łabiszyn", "nazwa" : "Równina Szubińsko-Łabiszyńska", "powiat" : "bydgosko-toruński, włocławski", "wojewodztwo" : "kujawsko-pomorskie"}
+{"powierzchnia" : 361.9, "gmina" : "Szubin", "nazwa" : "Solniska Szubińskie", "powiat" : "włocławski", "wojewodztwo" : "kujawsko-pomorskie"}
+{"powierzchnia" : 3899.3, "gmina" : "Baruchowo, Kowal", "nazwa" : "Błota Kłócieńskie", "powiat" : "włocławski", "wojewodztwo" : "kujawsko-pomorskie"}
+{"powierzchnia" : 2183.7, "gmina" : "Szubin, Grudziądz, Gruta, Łasin, Rogóźno, Świecie nad Osą", "nazwa" : "Dolina Osy", "powiat" : "bydgosko-toruński", "wojewodztwo" : "kujawsko-pomorskie"}
+{"powierzchnia" : 0.1, "gmina" : "Śliwice", "nazwa" : "Kościół w Śliwicach", "powiat" : "bydgosko-toruński", "wojewodztwo" : "kujawsko-pomorskie"}
+{"powierzchnia" : 181.8, "gmina" : "Świedziebnia", "nazwa" : "Mszar Płociczno", "powiat" : "bydgosko-toruński", "wojewodztwo" : "kujawsko-pomorskie"}
+{"powierzchnia" : 4176.9, "gmina" : "Brodnica, Brzozie, Zbiczno, Kurzętnik, Jabłonowo Pomorskie, Biskupiec", "nazwa" : "Ostoja Brodnicka", "powiat" : "bydgosko-toruński, elbląski", "wojewodztwo" : "kujawsko-pomorskie"}
+{"powierzchnia" : 151.9, "gmina" : "Lubraniec", "nazwa" : "Słone Łąki w Dolinie Zgłowiączki", "powiat" : "włocławski", "wojewodztwo" : "kujawsko-pomorskie"}
+{"powierzchnia" : 307.5, "gmina" : "Lipno", "nazwa" : "Stary Zagaj", "powiat" : "włocławski", "wojewodztwo" : "kujawsko-pomorskie"}
+{"powierzchnia" : 4763.8, "gmina" : "Nieszawa, Waganiec, Bobrowniki, Czernikowo, Fabianki, Włocławek", "nazwa" : "Włocławska Dolina Wisły", "powiat" : "bydgosko-toruński, włocławski", "wojewodztwo" : "kujawsko-pomorskie"}
+{"powierzchnia" : 1002.4, "gmina" : "Chełmno, Kijewo Królewskie, Unisław", "nazwa" : "Zbocza Płutowskie", "powiat" : "bydgosko-toruński", "wojewodztwo" : "kujawsko-pomorskie"}
+{"powierzchnia" : 25.8, "gmina" : "Jabłonna", "nazwa" : "Chmiel", "powiat" : "lubelski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 19.8, "gmina" : "Milanów", "nazwa" : "Czarny Las", "powiat" : "bialski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 179.5, "gmina" : "Adamów", "nazwa" : "Debry", "powiat" : "chełmsko-zamojski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 87.8, "gmina" : "Zalesie", "nazwa" : "Dobryń", "powiat" : "bialski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 1523.3, "gmina" : "Łęczna, Milejów, Puchaczów", "nazwa" : "Dolina Środkowego Wieprza", "powiat" : "lubelski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 16.6, "gmina" : "Uchanie", "nazwa" : "Gliniska", "powiat" : "chełmsko-zamojski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 1752.6, "gmina" : "Annopol, Dzierzkowice, Gościeradów", "nazwa" : "Gościeradów", "powiat" : "puławski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 34.4, "gmina" : "Zamość", "nazwa" : "Hubale", "powiat" : "chełmsko-zamojski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 2065.6, "gmina" : "Cyców, Ludwin, Puchaczów, Urszulin", "nazwa" : "Jeziora Uściwierskie", "powiat" : "bialski, lubelski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 24, "gmina" : "Zamość", "nazwa" : "Kąty", "powiat" : "chełmsko-zamojski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 535.2, "gmina" : "Hańsk, Stary Brus, Urszulin", "nazwa" : "Krowie Bagno", "powiat" : "bialski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 11, "gmina" : "Jabłonna", "nazwa" : "Olszanka", "powiat" : "lubelski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 10159.1, "gmina" : "Wierzbica, Ludwin, Sosnowica, Hańsk, Stary Brus, Urszulin", "nazwa" : "Ostoja Poleska", "powiat" : "bialski, chełmsko-zamojski, lubelski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 149.5, "gmina" : "Tyszowce", "nazwa" : "Pastwiska nad Huczwą", "powiat" : "chełmsko-zamojski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 1080.7, "gmina" : "Puławy, Kazimierz Dolny, Końskowola", "nazwa" : "Płaskowyż Nałęczowski", "powiat" : "puławski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 55.7, "gmina" : "Miączyn", "nazwa" : "Popówka", "powiat" : "chełmsko-zamojski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 8472.8, "gmina" : "Józefów, Adamów, Zamość, Zwierzyniec", "nazwa" : "Roztocze Środkowe", "powiat" : "chełmsko-zamojski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 5, "gmina" : "Chełm", "nazwa" : "Stawska Góra", "powiat" : "chełmsko-zamojski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 27.2, "gmina" : "Dołhobyczów", "nazwa" : "Suśle Wzgórza", "powiat" : "chełmsko-zamojski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 80.6, "gmina" : "Krasnobród", "nazwa" : "Sztolnie w Senderkach", "powiat" : "chełmsko-zamojski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 122.8, "gmina" : "Wólka, Świdnik", "nazwa" : "Świdnik", "powiat" : "lubelski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 202.4, "gmina" : "Krasnobród", "nazwa" : "Święty Roch", "powiat" : "chełmsko-zamojski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 2124.2, "gmina" : "Chełm, Dorohusk, Kamień, Ruda-Huta", "nazwa" : "Torfowiska Chełmskie", "powiat" : "chełmsko-zamojski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 175.4, "gmina" : "Chełm", "nazwa" : "Torfowisko Sobowice", "powiat" : "chełmsko-zamojski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 2693.1, "gmina" : "Komarów-Osada, Tyszowce", "nazwa" : "Dolina Sieniochy", "powiat" : "chełmsko-zamojski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 188.4, "gmina" : "Krasnystaw", "nazwa" : "Wodny Dół", "powiat" : "chełmsko-zamojski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 8.4, "gmina" : "Grabowiec", "nazwa" : "Wygon Grabowiecki", "powiat" : "chełmsko-zamojski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 391.8, "gmina" : "Susiec, Tomaszów Lubelski", "nazwa" : "Zarośle", "powiat" : "chełmsko-zamojski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 30.4, "gmina" : "Jarczów, Lubycza Królewska", "nazwa" : "Żurawce", "powiat" : "chełmsko-zamojski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 1778.1, "gmina" : "Izbica, Krasnystaw", "nazwa" : "Izbicki Przełom Wieprza", "powiat" : "chełmsko-zamojski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 34544.2, "gmina" : "Dzwola, Janów Lubelski, Modliborzyce, Potok Wielki, Biłgoraj, Frampol (woj. lubelskie), Zaklików, Radomyśl nad Sanem, Pysznica, Jarocin (woj. podkarpackie)", "nazwa" : "Uroczyska Lasów Janowskich", "powiat" : "janowski, biłgorajski (woj. lubelskie), stalowowolski (wowj. podkarpackie) ", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 8173.3, "gmina" : "Kodeń, Sławatycze, Dorohusk, Dubienka, Ruda-Huta, Horodło, Hanna, Wola, Uhruska", "nazwa" : "Poleska Dolina Bugu", "powiat" : "bialski, chełmsko-zamojski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 636.8, "gmina" : "Siedliszcze, Cyców", "nazwa" : "Dobromyśl", "powiat" : "chełmsko-zamojski, lubelski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 34671.5, "gmina" : "Aleksandrów Biłgoraj,Frampol, Józefów, Księżpol, Łukowa, Obsza, Tereszpol, Susiec, Radecznica, Cieszanów, Narol", "nazwa" : "Uroczyska Puszczy Solskiej", "powiat" : "chełmsko-zamojski, przemyski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 1556.1, "gmina" : "Dołhobyczów, Hrubieszów, Mircze", "nazwa" : "Zachodniowołyńska Dolina Bugu", "powiat" : "chełmsko-zamojski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 199.3, "gmina" : "Tyszowce, Łaszczów", "nazwa" : "Dobużek", "powiat" : "chełmsko-zamojski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 1135, "gmina" : "Turobin, Rudnik, Żółkiewka, Nielisz, Sułów", "nazwa" : "Dolina Łętowni", "powiat" : "chełmsko-zamojski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 9709.3, "gmina" : "Sawin, Hańsk, Włodawa, Wola Uhruska", "nazwa" : "Lasy Sobiborskie", "powiat" : "bialski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 17.9, "gmina" : "Szczebrzeszyn ", "nazwa" : "Niedzieliska", "powiat" : "chełmsko-zamojski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 15116.4, "gmina" : "Puławy, Kazimierz Dolny, Juzefów nad Wisła, Łaziska, Wików, Annopol, Janowiec(woj. lubelskie); Przyłek, Chotcza, Solec nad Wisłą(woj. mazowieckie); Zawichost, Ożarów, Tarłów(woj. świętokrzyskie)", "nazwa" : "Przełom Wisły w Małopolsce", "powiat" : "puławski, opolski, kraśnicki, puławski (woj. lubelskie); zwoleński, lipski,  (woj. mazowieckie); sandomierski, opatowski,(woj. świętokrzyskie)", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 10.7, "gmina" : "Sawin", "nazwa" : "Podpakule", "powiat" : "chełmsko-zamojski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 8182.3, "gmina" : "Firlej, Jeziorzany, Kock, Michów, Baranów, Puławy, Żyrzyn, Ryki, Ułęż", "nazwa" : "Dolny Wieprz", "powiat" : "lubelski, puławski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 24.9, "gmina" : "Terespol", "nazwa" : "Terespol", "powiat" : "bialski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 2724.4, "gmina" : "Opole Lubelskie, Poniatowa", "nazwa" : "Opole Lubelskie", "powiat" : "puławski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 1157, "gmina" : "Puławy", "nazwa" : "Puławy", "powiat" : "puławski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 84.2, "gmina" : "Sawin", "nazwa" : "Bachus", "powiat" : "chełmsko-zamojski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 38, "gmina" : "Sawin", "nazwa" : "Serniawy", "powiat" : "chełmsko-zamojski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 938.3, "gmina" : "Grabowiec, Miączyn, Skierbieszów", "nazwa" : "Dolina Wolicy", "powiat" : "chełmsko-zamojski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 65.5, "gmina" : "Kraśniczyn", "nazwa" : "Drewniki", "powiat" : "chełmsko-zamojski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 2.9, "gmina" : "Skierbieszów", "nazwa" : "Horodysko", "powiat" : "chełmsko-zamojski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 367, "gmina" : "Izbica, Skierbieszów", "nazwa" : "Las Orłowski", "powiat" : "chełmsko-zamojski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 12, "gmina" : "Grabowiec", "nazwa" : "Rogów", "powiat" : "chełmsko-zamojski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 127.8, "gmina" : "Chodel, Opole Lubelskie", "nazwa" : "Komaszyce", "powiat" : "puławski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 33.5, "gmina" : "Chełm", "nazwa" : "Nowosiółki (Julianów)", "powiat" : "chełmsko-zamojski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 871, "gmina" : "Rejowiec Fabryczny, Siedliszcze", "nazwa" : "Pawłów", "powiat" : "chełmsko-zamojski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 203, "gmina" : "Zalesie", "nazwa" : "Dolina Krzny", "powiat" : "bialski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 98, "gmina" : "Kamień", "nazwa" : "Kamień", "powiat" : "chełmsko-zamojski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 7.2, "gmina" : "Sawin, Wierzbica", "nazwa" : "Sawin", "powiat" : "chełmsko-zamojski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 4.2, "gmina" : "Bełżyce", "nazwa" : "Wierzchowiska", "powiat" : "lubelski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 3.3, "gmina" : "Tomaszów Lubelski", "nazwa" : "Borowa Góra", "powiat" : "chełmsko-zamojski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 741.5, "gmina" : "Turobin, Wysokie", "nazwa" : "Guzówka", "powiat" : "chełmsko-zamojski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 21.7, "gmina" : "Leśniowice", "nazwa" : "Kumów Majoracki", "powiat" : "chełmsko-zamojski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 3.1, "gmina" : "Telatyn", "nazwa" : "Posadów", "powiat" : "chełmsko-zamojski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 50.6, "gmina" : "Wojsławice", "nazwa" : "Putnowice", "powiat" : "chełmsko-zamojski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 6.9, "gmina" : "Żmudź", "nazwa" : "Żmudź", "powiat" : "chełmsko-zamojski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 98, "gmina" : "Ludwin", "nazwa" : "Brzeziczno", "powiat" : "lubelski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 368.4, "gmina" : "Kraśnik, Trzydnik Duży", "nazwa" : "Polichna", "powiat" : "puławski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 247.1, "gmina" : "Dzierzkowice, Urzędów", "nazwa" : "Dzierzkowice", "powiat" : "puławski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 311.4, "gmina" : "Komarów-Osada, Łabunie", "nazwa" : "Łabunie", "powiat" : "chełmsko-zamojski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 157.7, "gmina" : "Łopiennik Górny", "nazwa" : "Łopiennik", "powiat" : "chełmsko-zamojski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 130.1, "gmina" : "Annopol", "nazwa" : "Świeciechów", "powiat" : "puławski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 932.5, "gmina" : "Gościeradów, Zaklików", "nazwa" : "Szczecyn", "powiat" : "puławski, tarnobrzeski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 483.7, "gmina" : "Mircze, Tyszowce", "nazwa" : "Adelina", "powiat" : "chełmsko-zamojski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 208.7, "gmina" : "Łabunie, Sitno", "nazwa" : "Bródek", "powiat" : "chełmsko-zamojski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 597, "gmina" : "Miączyn, Sitno", "nazwa" : "Dolina Górnej Siniochy", "powiat" : "chełmsko-zamojski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 2054.7, "gmina" : "Łabunie, Zamość", "nazwa" : "Doliny Łabuńki i Topornicy", "powiat" : "chełmsko-zamojski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 165.5, "gmina" : "Miączyn", "nazwa" : "Kazimierówka", "powiat" : "chełmsko-zamojski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 177.9, "gmina" : "Bełżec, Narol", "nazwa" : "Minokąt", "powiat" : "chełmsko-zamojski, przemyski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 133.7, "gmina" : "Chełm, Siennica Różana", "nazwa" : "Siennica Różana", "powiat" : "chełmsko-zamojski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 28.6, "gmina" : "Sitno", "nazwa" : "Kornelówka", "powiat" : "chełmsko-zamojski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 267.2, "gmina" : "Zamość", "nazwa" : "Niedzielski Las", "powiat" : "chełmsko-zamojski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 5810, "gmina" : "Lubycza Królewska, Horyniec-Zdrój, Narol", "nazwa" : "Uroczyska Roztocza Wschodniego", "powiat" : "chełmsko-zamojski, przemyski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 1100.8, "gmina" : "Adamów, Zamość", "nazwa" : "Uroczyska Lasów Adamowskich", "powiat" : "chełmsko-zamojski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 8.4, "gmina" : "Ludwin", "nazwa" : "Jelino", "powiat" : "lubelski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 456.2, "gmina" : "Wólka, Lublin", "nazwa" : "Bystrzyca Jakubowicka", "powiat" : "lubelski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 8518, "gmina" : "Aleksandrów, Biłgoraj, Biszcza, Księżpol, Łukowa, Obsza, Harasiuki, Ulanów", "nazwa" : "Dolina Dolnej Tanwi", "powiat" : "chełmsko-zamojski, tarnobrzeski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 18.8, "gmina" : "Sosnowica", "nazwa" : "Wrzosowisko w Orzechowie", "powiat" : "bialski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 3598.6, "gmina" : "Białopole, Dubienka, Horodło, Hrubieszów", "nazwa" : "Uroczyska Lasów Strzeleckich", "powiat" : "chełmsko-zamojski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 368.1, "gmina" : "Ulhówek", "nazwa" : "Tarnoszyn", "powiat" : "chełmsko-zamojski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 25.4, "gmina" : "Wisznice", "nazwa" : "Horodyszcze", "powiat" : "bialski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 784.1, "gmina" : "Dorohusk, Ruda-Huta", "nazwa" : "Las Żaliński", "powiat" : "chełmsko-zamojski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 472.9, "gmina" : "Dołhobyczów, Mircze", "nazwa" : "Lasy Dołhobyczowskie", "powiat" : "chełmsko-zamojski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 153, "gmina" : "Mircze", "nazwa" : "Lasy Mirczańskie", "powiat" : "chełmsko-zamojski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 91.6, "gmina" : "Uścimów", "nazwa" : "Maśluchy", "powiat" : "lubelski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 36.5, "gmina" : "Drelów", "nazwa" : "Obuwik w Uroczysku Świdów", "powiat" : "bialski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 3, "gmina" : "Ostrów Lubelski, Uścimów, Dębowa Kłoda, Parczew", "nazwa" : "Ostoja Parczewska", "powiat" : "bialski, lubelski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 7137.7, "gmina" : "Międzyrzecz, Trzciel, Szczaniec  Świebodzin, Zbąszynek, Babimost", "nazwa" : "Dolina Leniwej Obry", "powiat" : "gorzowski, zielonogórski", "wojewodztwo" : "lubuskie"}
+{"powierzchnia" : 7377.4, "gmina" : "Międzyrzecz, Sulęcin, Lubrza, Świebodzin", "nazwa" : "Nietoperek", "powiat" : "gorzowski, zielonogórski", "wojewodztwo" : "lubuskie"}
+{"powierzchnia" : 498.5, "gmina" : "Lubiszyn", "nazwa" : "Torfowisko Chłopiny", "powiat" : "gorzowski", "wojewodztwo" : "lubuskie"}
+{"powierzchnia" : 239.4, "gmina" : "Cybinka", "nazwa" : "Torfowisko Młodno", "powiat" : "gorzowski", "wojewodztwo" : "lubuskie"}
+{"powierzchnia" : 3994.5, "gmina" : "Deszczno, Santok, Gorzów Wielkopolski", "nazwa" : "Ujście Noteci", "powiat" : "gorzowski", "wojewodztwo" : "lubuskie"}
+{"powierzchnia" : 1423.3, "gmina" : "Gromadka", "nazwa" : "Buczyna Szprotawsko-Piotrowicka", "powiat" : "bolesławiecki", "wojewodztwo" : "lubuskie"}
+{"powierzchnia" : 6771, "gmina" : "Sulęcin, Torzym, Łagów", "nazwa" : "Buczyny Łagowsko-Sulęcińskie", "powiat" : "gorzowski, zielonogórski", "wojewodztwo" : "lubuskie"}
+{"powierzchnia" : 2232.8, "gmina" : "Rzepin, Torzym", "nazwa" : "Dolina Ilanki", "powiat" : "gorzowski", "wojewodztwo" : "lubuskie"}
+{"powierzchnia" : 5033.9, "gmina" : "Bytnica, Maszewo, Cybinka, Słubice, Torzym, Łagów", "nazwa" : "Dolina Pliszki", "powiat" : "gorzowski, zielonogórski", "wojewodztwo" : "lubuskie"}
+{"powierzchnia" : 3070.3, "gmina" : "Bojadła, Zabór, Zielona Góra, Sulechów, Trzebiechów", "nazwa" : "Kargowskie Zakola Odry", "powiat" : "zielonogórski", "wojewodztwo" : "lubuskie"}
+{"powierzchnia" : 825.1, "gmina" : "Słubice", "nazwa" : "Łęgi Słubickie", "powiat" : "gorzowski", "wojewodztwo" : "lubuskie"}
+{"powierzchnia" : 6040.3, "gmina" : "Żukowice", "nazwa" : "Nowosolska Dolina Odry", "powiat" : "głogowski", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 908.4, "gmina" : "Cybinka, Słubice", "nazwa" : "Ujście Ilanki", "powiat" : "gorzowski", "wojewodztwo" : "lubuskie"}
+{"powierzchnia" : 48.1, "gmina" : "Nowogród Bobrzański", "nazwa" : "Mopkowy tunel koło Krzystkowic", "powiat" : "zielonogórski", "wojewodztwo" : "lubuskie"}
+{"powierzchnia" : 44.3, "gmina" : "Rzepin", "nazwa" : "Torfowiska Sułowskie", "powiat" : "gorzowski", "wojewodztwo" : "lubuskie"}
+{"powierzchnia" : 512.2, "gmina" : "Niegosławice, Szprotawa", "nazwa" : "Borowina", "powiat" : "zielonogórski", "wojewodztwo" : "lubuskie"}
+{"powierzchnia" : 891.9, "gmina" : "Krosno Odrzańskie", "nazwa" : "Bory Chrobotkowe koło Brzózki", "powiat" : "zielonogórski", "wojewodztwo" : "lubuskie"}
+{"powierzchnia" : 2309, "gmina" : "Santok, Skwierzyna, Drezdenko", "nazwa" : "Bory Chrobotkowe Puszczy Noteckiej", "powiat" : "gorzowski", "wojewodztwo" : "lubuskie"}
+{"powierzchnia" : 630, "gmina" : "Nowogród Bobrzański, Kożuchów", "nazwa" : "Broniszów", "powiat" : "zielonogórski", "wojewodztwo" : "lubuskie"}
+{"powierzchnia" : 33.9, "gmina" : "Bytnica", "nazwa" : "Bytnica", "powiat" : "zielonogórski", "wojewodztwo" : "lubuskie"}
+{"powierzchnia" : 29.7, "gmina" : "Bytnica, Skąpe", "nazwa" : "Dębowe Aleje w Gryżynie i Zawiszach", "powiat" : "zielonogórski", "wojewodztwo" : "lubuskie"}
+{"powierzchnia" : 2995.8, "gmina" : "Drezdenko", "nazwa" : "Jeziora Gościmskie", "powiat" : "gorzowski", "wojewodztwo" : "lubuskie"}
+{"powierzchnia" : 11192.9, "gmina" : "Bytnica, Krosno Odrzańskie, Maszewo, Łagów", "nazwa" : "Lasy Dobrosułowskie", "powiat" : "zielonogórski", "wojewodztwo" : "lubuskie"}
+{"powierzchnia" : 449.9, "gmina" : "Przewóz, Łęknica,Trzebiel", "nazwa" : "Łęgi nad Nysą Łużycką", "powiat" : "zielonogórski", "wojewodztwo" : "lubuskie"}
+{"powierzchnia" : 609.8, "gmina" : "Gubin, Brody, Lubsko", "nazwa" : "Mierkowskie Wydmy", "powiat" : "zielonogórski", "wojewodztwo" : "lubuskie"}
+{"powierzchnia" : 0.1, "gmina" : "Otyń", "nazwa" : "Otyń", "powiat" : "zielonogórski", "wojewodztwo" : "lubuskie"}
+{"powierzchnia" : 0.3, "gmina" : "Skwierzyna", "nazwa" : "Skwierzyna", "powiat" : "gorzowski", "wojewodztwo" : "lubuskie"}
+{"powierzchnia" : 1630.4, "gmina" : "Torzym, Łagów", "nazwa" : "Stara Dąbrowa w Korytach", "powiat" : "gorzowski, zielonogórski", "wojewodztwo" : "lubuskie"}
+{"powierzchnia" : 0.1, "gmina" : "Sulechów", "nazwa" : "Sulechów", "powiat" : "zielonogórski", "wojewodztwo" : "lubuskie"}
+{"powierzchnia" : 12226.9, "gmina" : "Gozdnica, Iłowa, Przewóz, Wymiarki", "nazwa" : "Wilki nad Nysą", "powiat" : "zielonogórski", "wojewodztwo" : "lubuskie"}
+{"powierzchnia" : 993, "gmina" : "Szprotawa, Żagań, Małomice", "nazwa" : "Małomickie Łęgi", "powiat" : "zielonogórski", "wojewodztwo" : "lubuskie"}
+{"powierzchnia" : 41.7, "gmina" : "Nowa Sól", "nazwa" : "Żurawie Bagno Sławskie", "powiat" : "zielonogórski", "wojewodztwo" : "lubuskie"}
+{"powierzchnia" : 615.3, "gmina" : "Maszewo", "nazwa" : "Bory Chrobotkowe koło Bytomca", "powiat" : "zielonogórski", "wojewodztwo" : "lubuskie"}
+{"powierzchnia" : 293.9, "gmina" : "Rzepin", "nazwa" : "Rynna Jezior Rzepińskich", "powiat" : "gorzowski", "wojewodztwo" : "lubuskie"}
+{"powierzchnia" : 65.1, "gmina" : "Brody", "nazwa" : "Brożek", "powiat" : "zielonogórski", "wojewodztwo" : "lubuskie"}
+{"powierzchnia" : 829.2, "gmina" : "Gubin, Brody", "nazwa" : "Jeziora Brodzkie", "powiat" : "zielonogórski", "wojewodztwo" : "lubuskie"}
+{"powierzchnia" : 206.1, "gmina" : "Bobrowice", "nazwa" : "Jezioro Janiszowice", "powiat" : "zielonogórski", "wojewodztwo" : "lubuskie"}
+{"powierzchnia" : 31.5, "gmina" : "Nowogród Bobrzański", "nazwa" : "Nowogrodzkie Przygiełkowisko", "powiat" : "zielonogórski", "wojewodztwo" : "lubuskie"}
+{"powierzchnia" : 1767.7, "gmina" : "Węgliniec", "nazwa" : "Przygiełkowiska Koło Gozdnicy", "powiat" : "zgorzelecki", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 7.3, "gmina" : "Maszewo", "nazwa" : "Diabelski Staw koło Radomicka", "powiat" : "zielonogórski", "wojewodztwo" : "lubuskie"}
+{"powierzchnia" : 724.5, "gmina" : "Jasień, Lipinki Łużyckie, Żary", "nazwa" : "Dolina Lubszy", "powiat" : "zielonogórski", "wojewodztwo" : "lubuskie"}
+{"powierzchnia" : 79.9, "gmina" : "Gorzów Wielkopolski", "nazwa" : "Murawy Gorzowskie", "powiat" : "gorzowski", "wojewodztwo" : "lubuskie"}
+{"powierzchnia" : 159.2, "gmina" : "Wymiarki", "nazwa" : "Łęgi koło Wymiarek", "powiat" : "zielonogórski", "wojewodztwo" : "lubuskie"}
+{"powierzchnia" : 4375.4, "gmina" : "Lubsko, Tuplice, Brody", "nazwa" : "Uroczyska Borów Zasieckich", "powiat" : "zielonogórski", "wojewodztwo" : "lubuskie"}
+{"powierzchnia" : 86.3, "gmina" : "Zielona Góra", "nazwa" : "Zimna Woda", "powiat" : "zielonogórski", "wojewodztwo" : "lubuskie"}
+{"powierzchnia" : 619.7, "gmina" : "Babimost", "nazwa" : "Bory Babimojskie", "powiat" : "zielonogórski", "wojewodztwo" : "lubuskie"}
+{"powierzchnia" : 378.6, "gmina" : "Lipinki Łużyckie, Żary", "nazwa" : "Skroda", "powiat" : "zielonogórski", "wojewodztwo" : "lubuskie"}
+{"powierzchnia" : 65, "gmina" : "Lubsko", "nazwa" : "Lubski Łęg Śnieżycowy", "powiat" : "zielonogórski", "wojewodztwo" : "lubuskie"}
+{"powierzchnia" : 1336.8, "gmina" : "Bytnica, Krosno Odrzańskie, Czerwieńsk", "nazwa" : "Rynna Gryżyny", "powiat" : "zielonogórski", "wojewodztwo" : "lubuskie"}
+{"powierzchnia" : 1730.1, "gmina" : "Żagań, Bobrowice, Nowogród Bobrzański, Dąbie", "nazwa" : "Dolina Dolnego Bobru", "powiat" : "zielonogórski", "wojewodztwo" : "lubuskie"}
+{"powierzchnia" : 1534.6, "gmina" : "Bobrowice, Gubin, Krosno Odrzańskie", "nazwa" : "Dąbrowy Gubińskie", "powiat" : "zielonogórski", "wojewodztwo" : "lubuskie"}
+{"powierzchnia" : 1245.1, "gmina" : "Żary", "nazwa" : "Las Żarski", "powiat" : "zielonogórski", "wojewodztwo" : "lubuskie"}
+{"powierzchnia" : 26596.4, "gmina" : "Kłodawa, Santok, Strzelce Krajeńskie, Zwierzyn, Pełczyce, Barlinek, Nowogródek Pomorski", "nazwa" : "Ostoja Barlinecka", "powiat" : "stargardzki, gorzowski", "wojewodztwo" : "lubuskie"}
+{"powierzchnia" : 101.5, "gmina" : "Zgierz", "nazwa" : "Dąbrowa Grotnicka", "powiat" : "łódzki", "wojewodztwo" : "łódzkie"}
+{"powierzchnia" : 40.1, "gmina" : "Nowe Ostrowy", "nazwa" : "Dąbrowa Świetlista w Pernie", "powiat" : "skierniewicki", "wojewodztwo" : "łódzkie"}
+{"powierzchnia" : 2016.4, "gmina" : "Inowłódz, Lubochnia, Tomaszów Mazowiecki", "nazwa" : "Lasy Spalskie", "powiat" : "piotrkowski", "wojewodztwo" : "łódzkie"}
+{"powierzchnia" : 191.2, "gmina" : "Masłowice, Gorzkowice, Łęki Szlacheckie", "nazwa" : "Łąka w Bęczkowicach", "powiat" : "piotrkowski", "wojewodztwo" : "łódzkie"}
+{"powierzchnia" : 25.2, "gmina" : "Tomaszów Mazowiecki", "nazwa" : "Niebieskie Źródła", "powiat" : "tomaszowski", "wojewodztwo" : "łódzkie"}
+{"powierzchnia" : 21886.2, "gmina" : "Uniejów, Łęczyca, Góra Świętej Małgorzaty, Grabów, Świnice Warckie, Dąbie, Bedlno, Krzyżanów, Kutno, Piątek, Witonia, Łowicz, Bielawy, Domaniewice, Zduny", "nazwa" : "Pradolina Bzury-Neru", "powiat" : "sieradzki, skierniewicki, koniński", "wojewodztwo" : "łódzkie"}
+{"powierzchnia" : 9317.2, "gmina" : "Działoszyn, Pątnów, Wierzchlas, Rudniki", "nazwa" : "Załęczański Łuk Warty", "powiat" : "sieradzki", "wojewodztwo" : "łódzkie"}
+{"powierzchnia" : 3787.4, "gmina" : "Przedbórz, Aleksandrów, Ręczno, Sulejów", "nazwa" : "Dolina Środkowej Pilicy", "powiat" : "piotrkowski", "wojewodztwo" : "łódzkie"}
+{"powierzchnia" : 2525.4, "gmina" : "Rawa Mazowiecka, Nowy Kawęczyn, Puszcza Mariańska, Bolimów, Skierniewice", "nazwa" : "Dolina Rawki", "powiat" : "skierniewicki, warszawski-zachodni", "wojewodztwo" : "łódzkie"}
+{"powierzchnia" : 101, "gmina" : "Koluszki", "nazwa" : "Buczyna Gałkowska", "powiat" : "łódzki", "wojewodztwo" : "łódzkie"}
+{"powierzchnia" : 529, "gmina" : "Brzeziny", "nazwa" : "Buczyna Janinowska", "powiat" : "łódzki", "wojewodztwo" : "łódzkie"}
+{"powierzchnia" : 19.7, "gmina" : "Kobiele Wielkie", "nazwa" : "Cisy w Jasieniu", "powiat" : "piotrkowski", "wojewodztwo" : "łódzkie"}
+{"powierzchnia" : 44.3, "gmina" : "Koluszki", "nazwa" : "Dąbrowy Świetliste koło Redzenia", "powiat" : "łódzki", "wojewodztwo" : "łódzkie"}
+{"powierzchnia" : 61.5, "gmina" : "Gorzkowice", "nazwa" : "Lasy Gorzkowickie", "powiat" : "piotrkowski", "wojewodztwo" : "łódzkie"}
+{"powierzchnia" : 1670.5, "gmina" : "Łask, Sędziejowice, Widawa, Dobroń, Zelów, Dłutów", "nazwa" : "Grabia", "powiat" : "łódzki, piotrkowski, sieradzki", "wojewodztwo" : "łódzkie"}
+{"powierzchnia" : 54.9, "gmina" : "Zgierz", "nazwa" : "Grądy nad Lindą", "powiat" : "łódzki", "wojewodztwo" : "łódzkie"}
+{"powierzchnia" : 47, "gmina" : "Żytno", "nazwa" : "Las Dębowiec", "powiat" : "piotrkowski", "wojewodztwo" : "łódzkie"}
+{"powierzchnia" : 286.5, "gmina" : "Tomaszów Mazowiecki", "nazwa" : "Lasy Smardzewickie", "powiat" : "piotrkowski", "wojewodztwo" : "łódzkie"}
+{"powierzchnia" : 369.5, "gmina" : "Goszczanów", "nazwa" : "Lipickie Mokradła", "powiat" : "sieradzki", "wojewodztwo" : "łódzkie"}
+{"powierzchnia" : 206, "gmina" : "Wolbórz, Sulejów", "nazwa" : "Lubiaszów w Puszczy Pilickiej", "powiat" : "piotrkowski", "wojewodztwo" : "łódzkie"}
+{"powierzchnia" : 72.7, "gmina" : "Gorzkowice", "nazwa" : "Dąbrowy w Marianku", "powiat" : "piotrkowski", "wojewodztwo" : "łódzkie"}
+{"powierzchnia" : 132.3, "gmina" : "Nieborów, Bolimów, Skierniewice", "nazwa" : "Polany Puszczy Bolimowskiej", "powiat" : "skierniewicki", "wojewodztwo" : "łódzkie"}
+{"powierzchnia" : 35, "gmina" : "Ozorków, Parzęczew", "nazwa" : "Słone Łąki w Pełczyskach", "powiat" : "łódzki", "wojewodztwo" : "łódzkie"}
+{"powierzchnia" : 45.3, "gmina" : "Gidle, Żytno", "nazwa" : "Torfowiska Żytno - Ewina", "powiat" : "piotrkowski", "wojewodztwo" : "łódzkie"}
+{"powierzchnia" : 41.9, "gmina" : "Ręczno", "nazwa" : "Wielkopole - Jodły pod Czartorią", "powiat" : "piotrkowski", "wojewodztwo" : "łódzkie"}
+{"powierzchnia" : 67.4, "gmina" : "Piątek, Zgierz", "nazwa" : "Silne Błota", "powiat" : "łódzki, skierniewicki", "wojewodztwo" : "łódzkie"}
+{"powierzchnia" : 28.5, "gmina" : "Stryków", "nazwa" : "Szczypiorniak i Kowaliki", "powiat" : "łódzki", "wojewodztwo" : "łódzkie"}
+{"powierzchnia" : 92.3, "gmina" : "Brzeziny, Dmosin", "nazwa" : "Wola Cyrusowa", "powiat" : "łódzki", "wojewodztwo" : "łódzkie"}
+{"powierzchnia" : 475.3, "gmina" : "Lubochnia, Tomaszów Mazowiecki", "nazwa" : "Łąki Ciebłowickie", "powiat" : "piotrkowski", "wojewodztwo" : "łódzkie"}
+{"powierzchnia" : 151.2, "gmina" : "Szczerców", "nazwa" : "Święte Ługi", "powiat" : "piotrkowski", "wojewodztwo" : "łódzkie"}
+{"powierzchnia" : 184, "gmina" : "Czarny Dunajec, Jabłonka, Raba Wyżna", "nazwa" : "Czarna Orawa", "powiat" : "nowosądecki", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 1865.6, "gmina" : "Jerzmanowice-Przeginia, Skała, Sułoszowa, Wielka Wieś", "nazwa" : "Dolina Prądnika", "powiat" : "krakowski", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 886.5, "gmina" : "Jerzmanowice-Przeginia, Krzeszowice, Wielka Wieś, Zabierzów", "nazwa" : "Dolinki Jurajskie", "powiat" : "krakowski", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 584.8, "gmina" : "Klucze, Olkusz", "nazwa" : "Jaroszowiec", "powiat" : "oświęcimski", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 5.7, "gmina" : "Racławice", "nazwa" : "Kalina-Lisiniec", "powiat" : "krakowski", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 599.6, "gmina" : "Drwinia, Niepołomice", "nazwa" : "Koło Grobli", "powiat" : "krakowski", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 36.4, "gmina" : "Jodłownik, Limanowa", "nazwa" : "Kostrza", "powiat" : "nowosądecki", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 25.4, "gmina" : "Drwinia", "nazwa" : "Lipówka", "powiat" : "krakowski", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 20.4, "gmina" : "Trzyciąż", "nazwa" : "Michałowiec", "powiat" : "oświęcimski", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 275.2, "gmina" : "Bystra-Sidzina, Zawoja", "nazwa" : "Na Policy", "powiat" : "nowosądecki, oświęcimski", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 1963.9, "gmina" : "Dąbrowa Górnicza, Klucze", "nazwa" : "Pustynia Błędowska", "powiat" : "oświęcimski, sosnowiecki", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 11, "gmina" : "Racławice", "nazwa" : "Sterczów-Ścianka", "powiat" : "krakowski", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 9.3, "gmina" : "Racławice", "nazwa" : "Wały", "powiat" : "krakowski", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 17997.9, "gmina" : "Dobra, Kamienica, Mszana Dolna, Niedźwiedź, Słopnice, Nowy Targ, Ochotnica Dolna, Rabka-Zdrój", "nazwa" : "Ostoja Gorczańska", "powiat" : "nowosądecki", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 57931, "gmina" : "Ochotnica Dolna, Szczawnica, Piwniczna-Zdrój, Rytro, Stary Sącz, Krościenko nad Dunajcem, Muszyna, Nawojowa, Krynica-Zdrój, Łabowa, Łącko", "nazwa" : "Ostoja Popradzka", "powiat" : "nowosądecki", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 586.3, "gmina" : "Bobowa, Korzenna, Ciężkowice, Zakliczyn", "nazwa" : "Ostoje Nietoperzy okolic Bukowca", "powiat" : "nowosądecki, tarnowski", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 716, "gmina" : "Łapsze Niżne, Nowy Targ, Bukowina Tatrzańska", "nazwa" : "Dolina Białki", "powiat" : "nowosądecki", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 1875.9, "gmina" : "Szczawnica", "nazwa" : "Małe Pieniny", "powiat" : "nowosądecki", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 53.4, "gmina" : "Kościelisko", "nazwa" : "Polana Biały Potok", "powiat" : "nowosądecki", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 1289.2, "gmina" : "Lipinki, Dębowiec", "nazwa" : "Bednarka", "powiat" : "nowosądecki, krośnieński", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 76.4, "gmina" : "Krzeszowice", "nazwa" : "Czerna", "powiat" : "krakowski", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 1994, "gmina" : "Kamionka Wielka, Nawojowa, Nowy Sącz", "nazwa" : "Nawojowa", "powiat" : "nowosądecki", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 3251.2, "gmina" : "Kamionka Wielka, Łabowa, Nawojowa", "nazwa" : "Łabowa", "powiat" : "nowosądecki", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 569.1, "gmina" : "Szczawnica", "nazwa" : "Podkowce w Szczawnicy", "powiat" : "nowosądecki", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 163.8, "gmina" : "Krynica-Zdrój", "nazwa" : "Krynica", "powiat" : "nowosądecki", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 33.6, "gmina" : "Mszana Dolna", "nazwa" : "Luboń Wielki", "powiat" : "nowosądecki", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 39.8, "gmina" : "Krzeszowice", "nazwa" : "Krzeszowice", "powiat" : "krakowski", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 25.7, "gmina" : "Łapsze Niżne", "nazwa" : "Niedzica", "powiat" : "nowosądecki", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 88.6, "gmina" : "Wiśniowa", "nazwa" : "Kościół w Węglówce", "powiat" : "krakowski", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 788.9, "gmina" : "Gromnik, Tuchów, Ryglice", "nazwa" : "Ostoja w Paśmie Brzanki", "powiat" : "tarnowski", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 325.7, "gmina" : "Nowy Wiśnicz", "nazwa" : "Nowy Wiśnicz", "powiat" : "krakowski", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 18.2, "gmina" : "Słaboszów", "nazwa" : "Cybowa Góra", "powiat" : "krakowski", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 0.2, "gmina" : "Ochotnica Dolna", "nazwa" : "Ochotnica", "powiat" : "nowosądecki, oświęcimski", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 6.4, "gmina" : "Książ Wielki", "nazwa" : "Giebułtów", "powiat" : "krakowski", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 3097, "gmina" : "Dobra, Jodłownik, Laskowa, Limanowa, Łukowica, Słopnice, Raciechowice, Łącko, Łososina Dolna", "nazwa" : "Ostoje Nietoperzy Beskidu Wyspowego", "powiat" : "krakowski, nowosądecki", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 15.2, "gmina" : "Słaboszów", "nazwa" : "Grzymałów", "powiat" : "krakowski", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 25.6, "gmina" : "Miechów", "nazwa" : "Kalina Mała", "powiat" : "krakowski", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 4.9, "gmina" : "Miechów ", "nazwa" : "Komorów", "powiat" : "krakowski", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 19.2, "gmina" : "Książ Wielki", "nazwa" : "Kwiatówka", "powiat" : "krakowski", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 181.8, "gmina" : "Sękowa", "nazwa" : "Źródliska Wisłoki", "powiat" : "gorlicki ", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 72.4, "gmina" : "Alwernia, Czernichów", "nazwa" : "Rudno", "powiat" : "krakowski, oświęcimski", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 22.5, "gmina" : "Liszki", "nazwa" : "Dolina Sanki", "powiat" : "krakowski", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 216.5, "gmina" : "Skawina, Kalwaria Zebrzydowska, Lanckorona", "nazwa" : "Cedron", "powiat" : "krakowski, oświęcimski", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 12.9, "gmina" : "Kozłów", "nazwa" : "Biała Góra", "powiat" : "krakowski", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 12.6, "gmina" : "Miechów", "nazwa" : "Kaczmarowe Doły", "powiat" : "krakowski", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 7.3, "gmina" : "Charsznica, Miechów", "nazwa" : "Chodów - Falniów", "powiat" : "krakowski", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 4, "gmina" : "Racławice", "nazwa" : "Dąbie", "powiat" : "krakowski", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 282.9, "gmina" : "Kraków", "nazwa" : "Dębnicko-Tyniecki obszar łąkowy", "powiat" : "krakowski", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 844.3, "gmina" : "Szczurowa, Wietrzychowice", "nazwa" : "Dębówka nad rzeką Uszewką", "powiat" : "tarnowski", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 999.8, "gmina" : "Bochnia, Rzezawa, Szczurowa", "nazwa" : "Dolina rzeki Gróbki", "powiat" : "krakowski, tarnowski", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 704.2, "gmina" : "Wietrzychowice, Radłów", "nazwa" : "Jadowniki Mokre", "powiat" : "tarnowski", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 59.8, "gmina" : "Kraków", "nazwa" : "Łąki Nowohuckie", "powiat" : "krakowski", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 54.2, "gmina" : "Kozłów", "nazwa" : "Kępie na Wyżynie Miechowskiej", "powiat" : "krakowski", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 2.4, "gmina" : "Racławice", "nazwa" : "Opalonki", "powiat" : "krakowski", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 11.3, "gmina" : "Miechów", "nazwa" : "Poradów", "powiat" : "krakowski", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 19.4, "gmina" : "Miechów", "nazwa" : "Pstroszyce", "powiat" : "krakowski", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 4.4, "gmina" : "Miechów", "nazwa" : "Sławice Duchowne", "powiat" : "krakowski", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 3.7, "gmina" : "Charsznica", "nazwa" : "Uniejów Parcele", "powiat" : "krakowski", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 7.9, "gmina" : "Miechów", "nazwa" : "Widnica", "powiat" : "krakowski", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 447.2, "gmina" : "Czernichów", "nazwa" : "Rudniańskie Modraszki - Kajasówka", "powiat" : "krakowski", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 44.6, "gmina" : "Dobra", "nazwa" : "Uroczysko Łopień", "powiat" : "nowosądecki", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 44.1, "gmina" : "Skawina, Kraków", "nazwa" : "Skawiński obszar łąkowy", "powiat" : "krakowski", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 347.9, "gmina" : "Kłaj, Niepołomice", "nazwa" : "Torfowisko Wielkie Błoto", "powiat" : "krakowski", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 16.7, "gmina" : "Mszana Dolna", "nazwa" : "Lubogoszcz", "powiat" : "nowosądecki", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 24.4, "gmina" : "Mszana Dolna", "nazwa" : "Łąki koło Kasiny Wielkiej", "powiat" : "nowosądecki", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 501, "gmina" : "Oświęcim, Kęty, Brzeszcze, Wilamowice", "nazwa" : "Dolna Soła", "powiat" : "oświęcimski, bielski", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 48.7, "gmina" : "Alwernia, Spytkowice", "nazwa" : "Wiśliska", "powiat" : "oświęcimski", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 1293.9, "gmina" : "Czchów, Gręboszów, Gromnik, Pleśna, Tarnów, Wietrzychowice, Żabno, Zakliczyn, Wojnicz, Radłów", "nazwa" : "Dolny Dunajec", "powiat" : "tarnowski", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 150.2, "gmina" : "Nowy Targ", "nazwa" : "Górny Dunajec", "powiat" : "nowosądecki", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 345.4, "gmina" : "Laskowa, Limanowa, Słopnice, Tymbark, Łososina Dolna", "nazwa" : "Łososina", "powiat" : "nowosądecki", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 755.8, "gmina" : "Kamienica, Łukowica, Chełmiec, Łącko, Podegrodzie, Stary Sącz, Krościenko nad Dunajcem, Szczawnica, Ochotnica Dolna, Nowy Sącz", "nazwa" : "Środkowy Dunajec z dopływami", "powiat" : "nowosądecki", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 140, "gmina" : "Łapanów, Jodłownik", "nazwa" : "Tarnawka", "powiat" : "krakowski, nowosądecki", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 957.5, "gmina" : "Uście Gorlickie, Bobowa, Grybów, Korzenna, Ciężkowice, Gromnik, Pleśna, Tarnów, Tuchów, Ryglice ", "nazwa" : "Biała Tarnowska", "powiat" : "nowosądecki, tarnowski", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 7.4, "gmina" : "Bolesław", "nazwa" : "Armeria", "powiat" : "oświęcimski", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 4.9, "gmina" : "Bolesław", "nazwa" : "Pleszczotka", "powiat" : "oświęcimski", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 249.3, "gmina" : "Mszana Dolna, Lubień, Pcim", "nazwa" : "Raba z Mszanką", "powiat" : "krakowski, nowosądecki", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 2789, "gmina" : "Gorlice, Ropa, Sękowa, Uście Gorlickie", "nazwa" : "Ostoje Nietoperzy Powiatu Gorlickiego", "powiat" : "nowosądecki", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 0.3, "gmina" : "Ochotnica Dolna", "nazwa" : "Tylmanowa", "powiat" : "nowosądecki", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 180.6, "gmina" : "Lipowiec Kościelny", "nazwa" : "Baranie Góry", "powiat" : "ciechanowsko-płocki", "wojewodztwo" : "mazowieckie"}
+{"powierzchnia" : 52.2, "gmina" : "Radziejowice", "nazwa" : "Dąbrowa Radziejowska", "powiat" : "warszawski-zachodni", "wojewodztwo" : "mazowieckie"}
+{"powierzchnia" : 552.6, "gmina" : "Wodynie", "nazwa" : "Dąbrowy Seroczyńskie", "powiat" : "siedlecki", "wojewodztwo" : "mazowieckie"}
+{"powierzchnia" : 24, "gmina" : "Pomiechówek", "nazwa" : "Dolina Wkry", "powiat" : "warszawski-wschodni", "wojewodztwo" : "mazowieckie"}
+{"powierzchnia" : 2379.3, "gmina" : "Chotcza, Przyłęk, Zwoleń", "nazwa" : "Dolina Zwoleńki", "powiat" : "radomski", "wojewodztwo" : "mazowieckie"}
+{"powierzchnia" : 97, "gmina" : "Liw", "nazwa" : "Kantor Stary", "powiat" : "ostrołęcko-siedlecki", "wojewodztwo" : "mazowieckie"}
+{"powierzchnia" : 113.1, "gmina" : "Dąbrówka", "nazwa" : "Krogulec", "powiat" : "warszawski-wschodni", "wojewodztwo" : "mazowieckie"}
+{"powierzchnia" : 38.8, "gmina" : "Nieporęt", "nazwa" : "Łęgi Czarnej Strugi", "powiat" : "warszawski-wschodni", "wojewodztwo" : "mazowieckie"}
+{"powierzchnia" : 149.7, "gmina" : "Lipowiec Kościelny", "nazwa" : "Olszyny Rumockie", "powiat" : "ciechanowsko-płocki", "wojewodztwo" : "mazowieckie"}
+{"powierzchnia" : 46036.7, "gmina" : "Radziejowice, Janów Podlaski, Konstantynów, Rokitno, Terespol, Sarnaki, Mielnik, Serock, Platerów, Brok, Małkinia Górna, Nur, Zaręby Kościelne, Korczew, Ceranów, Jabłonna Lacka, Repki, Sterdyń, Kosów Lacki, Łochów, Sadowne, Dąbrówka, Brańszczyk, Somianka", "nazwa" : "Ostoja Nadbużańska", "powiat" : "ostrołęcko-siedlecki, warszawski-wschodni, bialski, łomżyński", "wojewodztwo" : "mazowieckie"}
+{"powierzchnia" : 204.5, "gmina" : "Brudzeń Duży, Stara Biała", "nazwa" : "Sikórz", "powiat" : "ciechanowsko-płocki", "wojewodztwo" : "mazowieckie"}
+{"powierzchnia" : 427.8, "gmina" : "Wyszków, Zabrodzie", "nazwa" : "Wydmy Lucynowsko-Mostowieckie", "powiat" : "ostrołęcko-siedlecki", "wojewodztwo" : "mazowieckie"}
+{"powierzchnia" : 668.6, "gmina" : "Iłża, Wierzbica", "nazwa" : "Pakosław", "powiat" : "radomski", "wojewodztwo" : "mazowieckie"}
+{"powierzchnia" : 31821.6, "gmina" : "Poświętne, Inowłódz, Rzeczyca, Mogielnica, Nowe Miasto nad Pilicą , Odrzywół, Białobrzegi, Promna, Stromiec, Wyśmierzyce,  Warka, Grabów nad Pilicą, Klwów, Magnuszew", "nazwa" : "Dolina Dolnej Pilicy", "powiat" : "piotrkowski, radomski, warszawski-zachodni", "wojewodztwo" : "mazowieckie"}
+{"powierzchnia" : 157.2, "gmina" : "Wieliszew, Nowy Dwór Mazowiecki, Czosnów, Pomiechówek, Zakroczym, Skępe", "nazwa" : "Forty Modlińskie", "powiat" : "warszawski-wschodni", "wojewodztwo" : "mazowieckie"}
+{"powierzchnia" : 1620.4, "gmina" : "Nowy Duninów, Łąck, Płock", "nazwa" : "Uroczyska Łąckie", "powiat" : "ciechanowsko-płocki", "wojewodztwo" : "mazowieckie"}
+{"powierzchnia" : 1037, "gmina" : "Celestynów, Kołbiel, Osieck", "nazwa" : "Bagna Celestynowskie", "powiat" : "warszawski-wschodni", "wojewodztwo" : "mazowieckie"}
+{"powierzchnia" : 921.4, "gmina" : "Maciejowice", "nazwa" : "Bagna Orońskie", "powiat" : "warszawski-wschodni", "wojewodztwo" : "mazowieckie"}
+{"powierzchnia" : 161, "gmina" : "Ceranów", "nazwa" : "Dąbrowy Ceranowskie", "powiat" : "ostrołęcko-siedlecki", "wojewodztwo" : "mazowieckie"}
+{"powierzchnia" : 1475.7, "gmina" : "Siennica, Otwock, Kołbiel, Wiązowna", "nazwa" : "Dolina Środkowego Świdra", "powiat" : "warszawski-wschodni", "wojewodztwo" : "mazowieckie"}
+{"powierzchnia" : 45.7, "gmina" : "Mokobody", "nazwa" : "Dzwonecznik w Kisielanach", "powiat" : "ostrołęcko-siedlecki", "wojewodztwo" : "mazowieckie"}
+{"powierzchnia" : 49.6, "gmina" : "Parysów Latowicz", "nazwa" : "Gołe Łąki", "powiat" : "warszawski-wschodni", "wojewodztwo" : "mazowieckie"}
+{"powierzchnia" : 186.5, "gmina" : "Wiśniew, Siedlce", "nazwa" : "Gołobórz", "powiat" : "ostrołęcko-siedlecki", "wojewodztwo" : "mazowieckie"}
+{"powierzchnia" : 20659.1, "gmina" : "Iłów, Jabłonna, Nowy Dwór Mazowiecki, Czosnów, Leoncin, Zakroczym, Bodzanów, Gąbin, Mała Wieś, Słubice, Słupno, Wyszogród, Czerwińsk nad Wisłą, Brochów, Młodzieszyn, Łomianki, Płock, Warszawa", "nazwa" : "Kampinoska Dolina Wisły", "powiat" : "ciechanowsko-płocki, warszawski-wschodni, warszawski-zachodni", "wojewodztwo" : "mazowieckie"}
+{"powierzchnia" : 1468.9, "gmina" : "Grabów nad Pilicą, Magnuszew", "nazwa" : "Łękawica", "powiat" : "radomski", "wojewodztwo" : "mazowieckie"}
+{"powierzchnia" : 115.2, "gmina" : "Warszawa", "nazwa" : "Las Jana III Sobieskiego", "powiat" : "warszawski", "wojewodztwo" : "mazowieckie"}
+{"powierzchnia" : 13622.7, "gmina" : "Olszanka, Mokobody, Mordy, Siedlce, Suchożebry, Węgrów, Grębków, Korytnica, Liw, Łochów, Wierzbno, Jadów, Wyszków ", "nazwa" : "Ostoja Nadliwiecka", "powiat" : "ostrołęcko-siedlecki, warszawski-wschodni", "wojewodztwo" : "mazowieckie"}
+{"powierzchnia" : 1275.8, "gmina" : "Stężyca, Trojanów", "nazwa" : "Podebłocie", "powiat" : "warszawski-wschodni, puławski", "wojewodztwo" : "mazowieckie"}
+{"powierzchnia" : 241.9, "gmina" : "Zielonka, Warszawa", "nazwa" : "Poligon Rembertów", "powiat" : "warszawski-wschodni", "wojewodztwo" : "mazowieckie"}
+{"powierzchnia" : 28230.4, "gmina" : "Sieciechów, Policzna, Garbatka-Letnisko, Głowaczów, Kozienice, Pionki, Gózd, Jastrzębia, Jedlnia-Letnisko, Zwoleń, Radom", "nazwa" : "Puszcza Kozienicka", "powiat" : "radomski", "wojewodztwo" : "mazowieckie"}
+{"powierzchnia" : 153.2, "gmina" : "Mrozy", "nazwa" : "Rogoźnica", "powiat" : "warszawski-wschodni", "wojewodztwo" : "mazowieckie"}
+{"powierzchnia" : 53.8, "gmina" : "Parysów, Latowicz", "nazwa" : "Torfowiska Czernik", "powiat" : "warszawski-wschodni", "wojewodztwo" : "mazowieckie"}
+{"powierzchnia" : 31.4, "gmina" : "Wołomin", "nazwa" : "Białe Błota", "powiat" : "warszawski-wschodni", "wojewodztwo" : "mazowieckie"}
+{"powierzchnia" : 105.3, "gmina" : "Piaseczno", "nazwa" : "Stawy w Żabieńcu", "powiat" : "warszawski-zachodni", "wojewodztwo" : "mazowieckie"}
+{"powierzchnia" : 2.2, "gmina" : "Zielonka", "nazwa" : "Strzebla Błotna w Zielonce", "powiat" : "warszawski-wschodni", "wojewodztwo" : "mazowieckie"}
+{"powierzchnia" : 129.8, "gmina" : "Warszawa", "nazwa" : "Las Bielański", "powiat" : "warszawski", "wojewodztwo" : "mazowieckie"}
+{"powierzchnia" : 103.7, "gmina" : "Warszawa", "nazwa" : "Las Natoliński", "powiat" : "warszawski", "wojewodztwo" : "mazowieckie"}
+{"powierzchnia" : 51.1, "gmina" : "Nowy Dwór Mazowiecki", "nazwa" : "Ostoja Nowodworska", "powiat" : "warszawski-wschodni", "wojewodztwo" : "mazowieckie"}
+{"powierzchnia" : 45, "gmina" : "Puszcza Mariańska, Bolimów", "nazwa" : "Grabinka", "powiat" : "skierniewicki, warszawski-zachodni", "wojewodztwo" : "mazowieckie"}
+{"powierzchnia" : 1816, "gmina" : "Serock, Pomiechówek", "nazwa" : "Świetliste dąbrowy i grądy w Jabłonnej", "powiat" : "warszawski-wschodni", "wojewodztwo" : "mazowieckie"}
+{"powierzchnia" : 558.8, "gmina" : "Kadzidło", "nazwa" : "Bory bagienne i torfowiska Karaska", "powiat" : "ostrołęcko-siedlecki", "wojewodztwo" : "mazowieckie"}
+{"powierzchnia" : 1124.5, "gmina" : "Czarnia, Kadzidło, Myszyniec", "nazwa" : "Bory Chrobotkowe Karaska", "powiat" : "ostrołęcko-siedlecki", "wojewodztwo" : "mazowieckie"}
+{"powierzchnia" : 340, "gmina" : "Czosnów", "nazwa" : "Łąki Kazuńskie", "powiat" : "warszawski-wschodni", "wojewodztwo" : "mazowieckie"}
+{"powierzchnia" : 1937, "gmina" : "Łyse", "nazwa" : "Myszynieckie Bory Sasankowe", "powiat" : "ostrołęcko-siedlecki", "wojewodztwo" : "mazowieckie"}
+{"powierzchnia" : 954.6, "gmina" : "Karczew", "nazwa" : "Łąki Ostrówieckie", "powiat" : "warszawski-wschodni", "wojewodztwo" : "mazowieckie"}
+{"powierzchnia" : 129, "gmina" : "Gostynin, Nowy Duninów", "nazwa" : "Dolina Skrwy Lewej", "powiat" : "ciechanowsko-płocki", "wojewodztwo" : "mazowieckie"}
+{"powierzchnia" : 2214.1, "gmina" : "Krasnosielc, Baranowo, Jednorożec", "nazwa" : "Zachodnio kurpiowskie Bory Sasankowe", "powiat" : "ostrołęcko-siedlecki", "wojewodztwo" : "mazowieckie"}
+{"powierzchnia" : 173.4, "gmina" : "Puszcza Mariańska", "nazwa" : "Łąki Żukowskie", "powiat" : "warszawski-zachodni", "wojewodztwo" : "mazowieckie"}
+{"powierzchnia" : 1.1, "gmina" : "Płońsk", "nazwa" : "Aleja Pachnicowa", "powiat" : "ciechanowsko-płocki", "wojewodztwo" : "mazowieckie"}
+{"powierzchnia" : 222.1, "gmina" : "Góra Kalwaria, Piaseczno", "nazwa" : "Łąki Soleckie", "powiat" : "warszawski-zachodni", "wojewodztwo" : "mazowieckie"}
+{"powierzchnia" : 55.4, "gmina" : "Nysa", "nazwa" : "Forty Nyskie", "powiat" : "nyski", "wojewodztwo" : "opolskie"}
+{"powierzchnia" : 5084.3, "gmina" : "Leśnica, Strzelce Opolskie, Ujazd, Zdzieszowice", "nazwa" : "Góra Świętej Anny", "powiat" : "opolski", "wojewodztwo" : "opolskie"}
+{"powierzchnia" : 832.4, "gmina" : "Gogolin, Izbicko", "nazwa" : "Kamień Śląski", "powiat" : "opolski", "wojewodztwo" : "opolskie"}
+{"powierzchnia" : 771.6, "gmina" : "Głuchołazy", "nazwa" : "Ostoja Sławniowicko-Burgrabicka", "powiat" : "nyski", "wojewodztwo" : "opolskie"}
+{"powierzchnia" : 4541.3, "gmina" : "Dąbrowa, Lewin Brzeski, Łambinowice, Niemodlin, Tułowice", "nazwa" : "Bory Niemodlińskie", "powiat" : "nyski, opolski", "wojewodztwo" : "opolskie"}
+{"powierzchnia" : 5583.3, "gmina" : "Głubczyce, Głuchołazy, Lubrza, Prudnik", "nazwa" : "Góry Opawskie", "powiat" : "nyski, opolski", "wojewodztwo" : "opolskie"}
+{"powierzchnia" : 1106.3, "gmina" : "Dobrodzień, Jemielnica, Kolonowskie, Krupski Młyn, Zawadzkie", "nazwa" : "Dolina Małej Panwi", "powiat" : "bytomski, opolski", "wojewodztwo" : "opolskie"}
+{"powierzchnia" : 4394.5, "gmina" : "Jelcz-Laskowice, Lubsza, Namysłów, Świerczów", "nazwa" : "Lasy Barucickie", "powiat" : "nyski", "wojewodztwo" : "opolskie"}
+{"powierzchnia" : 795, "gmina" : "Chrząstowice", "nazwa" : "Łąki w okolicach Chrząstowic", "powiat" : "opolski", "wojewodztwo" : "opolskie"}
+{"powierzchnia" : 619.9, "gmina" : "Reńska Wieś, Zdzieszowice", "nazwa" : "Łęg Zdzieszowicki", "powiat" : "opolski", "wojewodztwo" : "opolskie"}
+{"powierzchnia" : 933.5, "gmina" : "Popielów", "nazwa" : "Łąki w okolicach Karłowic nad Stobrawą", "powiat" : "opolski", "wojewodztwo" : "opolskie"}
+{"powierzchnia" : 356.6, "gmina" : "Kluczbork, Wołczyn", "nazwa" : "Łąki w okolicach Kluczborka nad Stobrawą", "powiat" : "nyski", "wojewodztwo" : "opolskie"}
+{"powierzchnia" : 1439.6, "gmina" : "Olszanka, Grodków, Lewin Brzeski, Niemodlin", "nazwa" : "Opolska Dolina Nysy Kłodzkiej", "powiat" : "nyski, opolski", "wojewodztwo" : "opolskie"}
+{"powierzchnia" : 166, "gmina" : "Głuchołazy, Nysa", "nazwa" : "Przyłęk nad Białą Głuchołaską", "powiat" : "nyski", "wojewodztwo" : "opolskie"}
+{"powierzchnia" : 316.5, "gmina" : "Wołczyn", "nazwa" : "Teklusia", "powiat" : "nyski", "wojewodztwo" : "opolskie"}
+{"powierzchnia" : 96.6, "gmina" : "Kietrz", "nazwa" : "Rozumicki Las", "powiat" : "opolski", "wojewodztwo" : "opolskie"}
+{"powierzchnia" : 101.7, "gmina" : "Gogolin, Krapkowice", "nazwa" : "Żywocickie Łęgi", "powiat" : "opolski", "wojewodztwo" : "opolskie"}
+{"powierzchnia" : 20084.5, "gmina" : "Lipinki, Sękowa, Dębowiec, Krempna, Nowy Żmigród, Osiek Jasielski, Dukla", "nazwa" : "Ostoja Magurska", "powiat" : "nowosądecki, krośnieński", "wojewodztwo" : "podkarpackie"}
+{"powierzchnia" : 0.1, "gmina" : "Nowa Sarzyna", "nazwa" : "Kołacznia", "powiat" : "tarnobrzeski", "wojewodztwo" : "podkarpackie"}
+{"powierzchnia" : 1374.8, "gmina" : "Dydnia, Nozdrzec, Radymno, Jarosław, Laszki, Dubiecko, Krasiczyn, Krzywcza, Medyka, Orły, Przemyśl, Stubno, Żurawica, Dynów, Sanok, Przemyśl", "nazwa" : "Rzeka San", "powiat" : "krośnieński, przemyski, rzeszowski", "wojewodztwo" : "podkarpackie"}
+{"powierzchnia" : 51.7, "gmina" : "Medyka", "nazwa" : "Fort Salis Soglio", "powiat" : "przemyski", "wojewodztwo" : "podkarpackie"}
+{"powierzchnia" : 686.7, "gmina" : "Chorkówka, Dukla, Jedlicze, Miejsce Piastowe", "nazwa" : "Jasiołka", "powiat" : "krośnieński", "wojewodztwo" : "podkarpackie"}
+{"powierzchnia" : 39656.8, "gmina" : "Rokietnica, Roźwienica, Bircza, Dubiecko, Fredropol, Krasiczyn, Krzywcza, Przemyśl, Żurawica, Trzyciąż, Chełm", "nazwa" : "Ostoja Przemyska", "powiat" : "przemyski", "wojewodztwo" : "podkarpackie"}
+{"powierzchnia" : 29286.8, "gmina" : "Krempna, Dukla, Iwonicz-Zdrój, Rymanów, Bukowsko, Komańcza, Zarszyn, Jaśliska", "nazwa" : "Ostoja Jaśliska", "powiat" : "krośnieński", "wojewodztwo" : "podkarpackie"}
+{"powierzchnia" : 2743.8, "gmina" : "Krempna, Nowy Żmigród, Dukla", "nazwa" : "Łysa Góra", "powiat" : "krośnieński", "wojewodztwo" : "podkarpackie"}
+{"powierzchnia" : 5241, "gmina" : "Iwonicz-Zdrój, Rymanów, Bukowsko, Zarszyn", "nazwa" : "Rymanów", "powiat" : "krośnieński", "wojewodztwo" : "podkarpackie"}
+{"powierzchnia" : 11633, "gmina" : "Cieszanów, Horyniec-Zdrój, Narol, Lubaczów", "nazwa" : "Horyniec", "powiat" : "przemyski", "wojewodztwo" : "podkarpackie"}
+{"powierzchnia" : 2285.5, "gmina" : "Dukla", "nazwa" : "Trzciana", "powiat" : "krośnieński, przemyski", "wojewodztwo" : "podkarpackie"}
+{"powierzchnia" : 5, "gmina" : "Zaklików", "nazwa" : "Dąbrowa koło Zaklikowa", "powiat" : "tarnobrzeski", "wojewodztwo" : "podkarpackie"}
+{"powierzchnia" : 10176.6, "gmina" : "Kuryłówka, Krzeszów, Pysznica, Radomyśl nad Sanem, Jarosław, Wiązownica, Leżajsk,Nowa Sarzyna, Nisko, Rudnik nad Sanem, Ulanów, Sieniawa, Tryńcza, Stalowa Wola, Zaleszany, Gorzyce, Czernichów, Bobowa, Korzenna, Ciężkowice, Zakliczyn, Racławice", "nazwa" : "Dolina Dolnego Sanu", "powiat" : "przemyski, tarnobrzeski", "wojewodztwo" : "podkarpackie"}
+{"powierzchnia" : 136.7, "gmina" : "Frysztak, Wiśniowa", "nazwa" : "Klonówka", "powiat" : "rzeszowski", "wojewodztwo" : "podkarpackie"}
+{"powierzchnia" : 1440.2, "gmina" : "Dębica, Ropczyce", "nazwa" : "Las nad Braciejową", "powiat" : "rzeszowski, tarnobrzeski", "wojewodztwo" : "podkarpackie"}
+{"powierzchnia" : 2270.2, "gmina" : "Laszki, Lubaczów, Wielkie Oczy", "nazwa" : "Łukawiec", "powiat" : "przemyski", "wojewodztwo" : "podkarpackie"}
+{"powierzchnia" : 3347.7, "gmina" : "Łańcut, Markowa, Jawornik Polski, Kańczuga, Chmielnik, Hyżne", "nazwa" : "Nad Husowem", "powiat" : "przemyski, rzeszowski", "wojewodztwo" : "podkarpackie"}
+{"powierzchnia" : 1181.8, "gmina" : "Ustrzyki Dolne", "nazwa" : "Moczary", "powiat" : "krośnieński", "wojewodztwo" : "podkarpackie"}
+{"powierzchnia" : 989.6, "gmina" : "Jasienica Rosielna, Korczyna", "nazwa" : "Ostoja Czarnorzecka", "powiat" : "krośnieński", "wojewodztwo" : "podkarpackie"}
+{"powierzchnia" : 572.9, "gmina" : "Zarszyn", "nazwa" : "Patria nad Odrzechową", "powiat" : "krośnieński", "wojewodztwo" : "podkarpackie"}
+{"powierzchnia" : 1064.6, "gmina" : "Domaradz, Haczów, Korczyna, Krościenko Wyżne, Rymanów, Wojaszówka, Lubenia, Besko, Czudec, Frysztak, Niebylec, Strzyżów, Wiśniowa, Krosno, Rzeszów, Boguchwała", "nazwa" : "Wisłok Środkowy z Dopływami", "powiat" : "krośnieński, rzeszowski", "wojewodztwo" : "podkarpackie"}
+{"powierzchnia" : 260.9, "gmina" : "Jasło, Kołaczyce", "nazwa" : "Golesz", "powiat" : "krośnieński", "wojewodztwo" : "podkarpackie"}
+{"powierzchnia" : 174.4, "gmina" : "Zarszyn", "nazwa" : "Jaćmierz", "powiat" : "krośnieński", "wojewodztwo" : "podkarpackie"}
+{"powierzchnia" : 60.5, "gmina" : "Dębowiec, Osiek Jasielski", "nazwa" : "Józefów - Wola Dębowiecka", "powiat" : "krośnieński", "wojewodztwo" : "podkarpackie"}
+{"powierzchnia" : 198, "gmina" : "Dydnia", "nazwa" : "Kościół w Dydni", "powiat" : "krośnieński", "wojewodztwo" : "podkarpackie"}
+{"powierzchnia" : 0.3, "gmina" : "Zarszyn", "nazwa" : "Kościół w Nowosielcach", "powiat" : "krośnieński", "wojewodztwo" : "podkarpackie"}
+{"powierzchnia" : 1.4, "gmina" : "Dukla", "nazwa" : "Kościół w Równem", "powiat" : "krośnieński", "wojewodztwo" : "podkarpackie"}
+{"powierzchnia" : 350.6, "gmina" : "Nowy Żmigród", "nazwa" : "Kościół w Skalniku", "powiat" : "krośnieński", "wojewodztwo" : "podkarpackie"}
+{"powierzchnia" : 50.1, "gmina" : "Rymanów", "nazwa" : "Ladzin", "powiat" : "krośnieński", "wojewodztwo" : "podkarpackie"}
+{"powierzchnia" : 125.6, "gmina" : "Rymanów, Besko", "nazwa" : "Las Hrabeński", "powiat" : "krośnieński", "wojewodztwo" : "podkarpackie"}
+{"powierzchnia" : 30.8, "gmina" : "Jasło", "nazwa" : "Las Niegłowicki", "powiat" : "krośnieński", "wojewodztwo" : "podkarpackie"}
+{"powierzchnia" : 1578.7, "gmina" : "Baligród, Lesko, Sanok, Bukowsko, Komańcza, Zagórz, Olszanica, Solina", "nazwa" : "Dorzecze Górnego Sanu", "powiat" : "krośnieński", "wojewodztwo" : "podkarpackie"}
+{"powierzchnia" : 51, "gmina" : "Jasło, Skołyszyn", "nazwa" : "Łąki nad Młynówką", "powiat" : "krośnieński", "wojewodztwo" : "podkarpackie"}
+{"powierzchnia" : 13.1, "gmina" : "Korczyna, Krościenko Wyżne", "nazwa" : "Łąki w Komborni", "powiat" : "krośnieński", "wojewodztwo" : "podkarpackie"}
+{"powierzchnia" : 294.1, "gmina" : "Głogów Małopolski, Świlcza, Trzebownisko", "nazwa" : "Mrowle Łąki", "powiat" : "rzeszowski", "wojewodztwo" : "podkarpackie"}
+{"powierzchnia" : 13.5, "gmina" : "Dukla", "nazwa" : "Osuwiska w Lipowicy", "powiat" : "krośnieński", "wojewodztwo" : "podkarpackie"}
+{"powierzchnia" : 79.8, "gmina" : "Sanok, Zagórz", "nazwa" : "Sanisko w Bykowcach", "powiat" : "krośnieński", "wojewodztwo" : "podkarpackie"}
+{"powierzchnia" : 327.7, "gmina" : "Skołyszyn, Brzyska, Szerzyny", "nazwa" : "Liwocz", "powiat" : "tarnowski, krosnieński", "wojewodztwo" : "podkarpackie"}
+{"powierzchnia" : 2656.4, "gmina" : "Leżajsk, Nowa Sarzyna, Rakszawa, Sokołów Małopolski", "nazwa" : "Lasy Leżajskie", "powiat" : "rzeszowski, tarnobrzeski", "wojewodztwo" : "podkarpackie"}
+{"powierzchnia" : 532.2, "gmina" : "Harasiuki", "nazwa" : "Bory Bagienne nad Bukową", "powiat" : "tarnobrzeski", "wojewodztwo" : "podkarpackie"}
+{"powierzchnia" : 4059.7, "gmina" : "Gawłuszowice, Padew Narodowa, Baranów Sandomierski, Gorzyce, Tarnobrzeg, Sandomierz, Dwikozy, Łoniów, Samborzec, Osiek, Połaniec, Koprzywnica", "nazwa" : "Tarnobrzeska Dolina Wisły", "powiat" : "tarnobrzeski, sandomiersko-jędrzejowski", "wojewodztwo" : "podkarpackie"}
+{"powierzchnia" : 574.8, "gmina" : "Jarosław, Przeworsk, Tryńcza", "nazwa" : "Starodub w Pełkiniach", "powiat" : "przemyski", "wojewodztwo" : "podkarpackie"}
+{"powierzchnia" : 9.6, "gmina" : "Wojaszówka", "nazwa" : "Łąki nad Wojkówką", "powiat" : "krośnieński", "wojewodztwo" : "podkarpackie"}
+{"powierzchnia" : 2653.1, "gmina" : "Gorlice, Biecz, Lipinki, Ropa, Sękowa, Jodłowa, Pilzno, Dębowiec, Krempna, Skołyszyn, Brzyska, Brzostek, Jasło, Nowy Żmigród, Osiek Jasielski, Tarnowiec, Chorkówka Jedlicze, Kołaczyce ", "nazwa" : "Wisłoka z dopływami", "powiat" : "nowosądecki, krośnieński, tarnobrzeski", "wojewodztwo" : "podkarpackie"}
+{"powierzchnia" : 453.7, "gmina" : "Czarna, Pilzno, Dębica, Żyraków, Gawłuszowice, Mielec, Ostrów, Sędziszów Małopolsk, Wielopole Skrzyńskie, Mielec, Przecław", "nazwa" : "Dolna Wisłoka z Dopływami", "powiat" : "rzeszowski, tarnobrzeski", "wojewodztwo" : "podkarpackie"}
+{"powierzchnia" : 18015.4, "gmina" : "Stary Dzików, Adamówka, Wiązownica, Oleszyce, Sieniawa", "nazwa" : "Lasy Sieniawskie", "powiat" : "przemyski", "wojewodztwo" : "podkarpackie"}
+{"powierzchnia" : 5910.1, "gmina" : "Jeleniewo, Przerośl, Rutka-Tartak, Suwałki, Szypliszki", "nazwa" : "Jeleniewo", "powiat" : "suwalski", "wojewodztwo" : "podlaskie"}
+{"powierzchnia" : 6823, "gmina" : "Choroszcz, Łapy, Suraż, Turośń Kościelna, Tykocin, Kobylin-Borzymy, Sokoły", "nazwa" : "Narwiańskie Bagna", "powiat" : "białostocki, łomżyński", "wojewodztwo" : "podlaskie"}
+{"powierzchnia" : 6349.5, "gmina" : "Jeleniewo, Przerośl, Rutka-Tartak, Wiżajny", "nazwa" : "Ostoja Suwalska", "powiat" : "suwalski", "wojewodztwo" : "podlaskie"}
+{"powierzchnia" : 16072.1, "gmina" : "Nowinka, Giby, Krasnopol, Suwałki", "nazwa" : "Ostoja Wigierska", "powiat" : "suwalski", "wojewodztwo" : "podlaskie"}
+{"powierzchnia" : 107068.7, "gmina" : "Augustów, Lipsk, Nowinka, Płaska, Sztabin, Giby, Krasnopol, Sejny, Raczki, Suwałki", "nazwa" : "Ostoja Augustowska", "powiat" : "suwalski", "wojewodztwo" : "podlaskie"}
+{"powierzchnia" : 136084.4, "gmina" : "Czarna Białostocka , Dobrzyniewo Duże, Gródek, Supraśl, Wasilków, Zabłudów, Jasionówka, Knyszyn, Krypno, Dąbrowa Białostocka, Janów, Sidra, Sokółka, Suchowola, Szudziałowo, Michałowo, Krynki", "nazwa" : "Ostoja Knyszyńska", "powiat" : "białostocki, suwalski", "wojewodztwo" : "podlaskie"}
+{"powierzchnia" : 13630.9, "gmina" : "Giby, Krasnopol, Puńsk, Sejny, Suwałki", "nazwa" : "Pojezierze Sejneńskie", "powiat" : "suwalski", "wojewodztwo" : "podlaskie"}
+{"powierzchnia" : 121206.2, "gmina" : "Bargłów Kościelny, Lipsk, Sztabin, Tykocin, Zawady, Grajewo, Radziłów, Rajgród, Jedwabne, Wizna, Goniądz,Jaświły, Mońki, Trzcianne, Dąbrowa Białostocka, Nowy Dwór, Suchowola, Rutki ", "nazwa" : "Dolina Biebrzy", "powiat" : "białostocki, łomżyński, suwalski", "wojewodztwo" : "podlaskie"}
+{"powierzchnia" : 20306.8, "gmina" : "Juchnowiec Kościelny, Łapy, Poświętne, Suraż, Zabłudów, Bielsk Podlaski, Wyszki, Czyże, Narew, Narewka, Michałowo", "nazwa" : "Ostoja w Dolinie Górnej Narwi", "powiat" : "białostocki, łomżyński", "wojewodztwo" : "podlaskie"}
+{"powierzchnia" : 117.1, "gmina" : "Mielnik, Siemiatycze", "nazwa" : "Schrony Brzeskiego Rejonu Umocnionego", "powiat" : "łomżyński", "wojewodztwo" : "podlaskie"}
+{"powierzchnia" : 157.3, "gmina" : "Bielsk Podlaski", "nazwa" : "Murawy w Haćkach", "powiat" : "bielski", "wojewodztwo" : "podlaskie"}
+{"powierzchnia" : 1701.3, "gmina" : "Rutka-Tartak", "nazwa" : "Dolina Szeszupy", "powiat" : "suwalski", "wojewodztwo" : "podlaskie"}
+{"powierzchnia" : 98.5, "gmina" : "Rutka-Tartak, Wiżajny", "nazwa" : "Torfowiska Gór Sudawskich", "powiat" : "suwalski", "wojewodztwo" : "podlaskie"}
+{"powierzchnia" : 5052.2, "gmina" : "Szumowo, Zambrów", "nazwa" : "Czerwony Bór", "powiat" : "łomżyński", "wojewodztwo" : "podlaskie"}
+{"powierzchnia" : 2479.9, "gmina" : "Dubicze Cerkiewne, Kleszczele", "nazwa" : "Jelonka", "powiat" : "hajnowski", "wojewodztwo" : "podlaskie"}
+{"powierzchnia" : 1446.6, "gmina" : "Turośl, Zbójna, Kolno, Mały Płock, Stawiski, Jedwabne, Piątnica", "nazwa" : "Mokradła Kolneńskie i Kurpiowskie", "powiat" : "łomżyński", "wojewodztwo" : "podlaskie"}
+{"powierzchnia" : 5524, "gmina" : "Kleszczele, Boćki, Orla", "nazwa" : "Ostoja w Dolinie Górnego Nurca", "powiat" : "hajnowski, bielski", "wojewodztwo" : "podlaskie"}
+{"powierzchnia" : 4070.7, "gmina" : "Bakałarzewo, Filipów, Przerośl, Raczki", "nazwa" : "Dolina Górnej Rospudy", "powiat" : "suwalski", "wojewodztwo" : "podlaskie"}
+{"powierzchnia" : 3223.2, "gmina" : "Turośl, Zbójna, Kolno, Mały Płock, Nowogród", "nazwa" : "Dolina Pisy", "powiat" : "łomżyński", "wojewodztwo" : "podlaskie"}
+{"powierzchnia" : 18605, "gmina" : "Miastkowo, Zbójna, Choroszcz-obszar wiejski, Dobrzyniewo Duże Tykocin-miasto, Tykocin-obszar wiejski, Zawady, Mały Płock, Łomża, Nowogród-miasto, Nowogród-obszar wiejski, Piątnica, Wizna, Krypno, Trzcianne, Miasto Łomża", "nazwa" : "Ostoja Narwiańska", "powiat" : "białostocki, łomżyński", "wojewodztwo" : "podlaskie"}
+{"powierzchnia" : 786.4, "gmina" : "Główczyce", "nazwa" : "Bagna Izbickie", "powiat" : "słupski", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 43.4, "gmina" : "Cewice Linia", "nazwa" : "Białe Błoto", "powiat" : "słupski, gdański", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 1132.8, "gmina" : "Krokowa, Choczewo", "nazwa" : "Białogóra", "powiat" : "gdański", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 2490.3, "gmina" : "Bytów, Studzienice", "nazwa" : "Bytowskie Jeziora Lobeliowe", "powiat" : "bytowski", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 2550.1, "gmina" : "Chmielno, Kartuzy, Linia, Luzino, Łęczyce", "nazwa" : "Dolina Górnej Łeby", "powiat" : "gdański", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 10.7, "gmina" : "Trąbki Wielkie", "nazwa" : "Dolina Kłodawy", "powiat" : "gdański", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 68.4, "gmina" : "Kolbudy", "nazwa" : "Dolina Reknicy", "powiat" : "gdański", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 430.9, "gmina" : "Liniewo, Nowa Karczma", "nazwa" : "Dolina Środkowej Wietcisy", "powiat" : "starogardzki", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 8.1, "gmina" : "Somonino", "nazwa" : "Hopowo", "powiat" : "gdański", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 87.7, "gmina" : "Somonino, Żukowo", "nazwa" : "Jar Rzeki Raduni", "powiat" : "gdański", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 214.3, "gmina" : "Parchowo", "nazwa" : "Jeziorka Chośnickie", "powiat" : "słupski", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 54.8, "gmina" : "Miastko", "nazwa" : "Jezioro Piasek", "powiat" : "słupski", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 1586.6, "gmina" : "Kartuzy, Sierakowice", "nazwa" : "Kurze Grzędy", "powiat" : "gdański", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 418.8, "gmina" : "Wejherowo", "nazwa" : "Biała", "powiat" : "gdański", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 45.6, "gmina" : "Sulęczyno", "nazwa" : "Mechowiska Sulęczyńskie", "powiat" : "gdański", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 1882.9, "gmina" : "Łeba, Wicko, Choczewo", "nazwa" : "Mierzeja Sarbska", "powiat" : "słupski, gdański", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 269.9, "gmina" : "Wejherowo", "nazwa" : "Orle", "powiat" : "gdański", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 253.1, "gmina" : "Szemud, Wejherowo", "nazwa" : "Pełcznica", "powiat" : "gdański", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 1085, "gmina" : "Krokowa", "nazwa" : "Piaśnickie Łąki", "powiat" : "gdański", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 107.9, "gmina" : "Bytów", "nazwa" : "Pływające wyspy pod Rekowem", "powiat" : "słupski", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 32955.3, "gmina" : "Łeba, Wicko, Główczyce, Smołdzino, Ustka", "nazwa" : "Ostoja Słowińska", "powiat" : "obszar morski poza NUTS, słupski", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 1688.9, "gmina" : "Ustka, Postomino", "nazwa" : "Przymorskie Błota", "powiat" : "koszaliński, słupski", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 953.1, "gmina" : "Przywidz, Trąbki Wielkie", "nazwa" : "Przywidz", "powiat" : "gdański", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 7492.6, "gmina" : "Chojnice, Lipnica, Studzienice, Brusy", "nazwa" : "Sandr Brdy", "powiat" : "słupski", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 917.2, "gmina" : "Chmielno, Kartuzy", "nazwa" : "Staniszewskie Błoto", "powiat" : "gdański", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 175.3, "gmina" : "Studzienice", "nazwa" : "Studzienickie Torfowiska", "powiat" : "słupski", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 765.9, "gmina" : "Krokowa", "nazwa" : "Trzy Młyny", "powiat" : "gdański", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 16.2, "gmina" : "Gdańsk", "nazwa" : "Twierdza Wisłoujście", "powiat" : "trójmiejski", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 388.3, "gmina" : "Subkowy", "nazwa" : "Waćmierz", "powiat" : "starogardzki", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 10374.2, "gmina" : "Nowe, Sadlinki, Gniew, Kwidzyn, Ryjewo, Malbork, Miłoradz, Pelplin, Subkowy, Tczew, Sztum", "nazwa" : "Dolna Wisła", "powiat" : "bydgosko-toruński, starogardzki", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 13583.8, "gmina" : "Dziemiany, Karsin, Kościerzyna, Lipusz, Stara Kiszewa", "nazwa" : "Jeziora Wdzydzkie", "powiat" : "starogardzki", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 95.6, "gmina" : "Przechlewo", "nazwa" : "Jezioro Krasne", "powiat" : "słupski", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 5508.6, "gmina" : "Czarna Dąbrówka Cewice Damnica Główczyce, Potęgowo, Smołdzino", "nazwa" : "Dolina Łupawy", "powiat" : "słupski", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 963.4, "gmina" : "Parchowo, Studzienice", "nazwa" : "Dolina Stropnej", "powiat" : "słupski", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 14349, "gmina" : "Miastko,Trzebielino, Koczała, Kępice, Kobylnica, Postomino, Sławno, Darłowo", "nazwa" : "Dolina Wieprzy i Studnicy", "powiat" : "koszaliński, słupski", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 132.4, "gmina" : "Czarna Dąbrówka", "nazwa" : "Jeziora Lobeliowe koło Soszycy", "powiat" : "słupski", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 211.5, "gmina" : "Nowa Wieś Lęborska", "nazwa" : "Łebskie Bagna", "powiat" : "słupski", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 1372.5, "gmina" : "Miastko ", "nazwa" : "Miasteckie Jeziora Lobeliowe", "powiat" : "słupski", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 111.6, "gmina" : "Główczyce", "nazwa" : "Torfowisko Pobłockie", "powiat" : "słupski", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 883.5, "gmina" : "Stegna, Gdańsk", "nazwa" : "Ostoja w Ujściu Wisły", "powiat" : "obszar morski poza NUTS, trójmiejski, gdański", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 99.3, "gmina" : "Wicko", "nazwa" : "Górkowski Las", "powiat" : "słupski", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 91.5, "gmina" : "Krokowa", "nazwa" : "Widowo", "powiat" : "gdański", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 0.1, "gmina" : "Gdańsk", "nazwa" : "Bunkier w Oliwie", "powiat" : "trójmiejski", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 821.1, "gmina" : "Chojnice, Człuchów, Konarzyny, Przechlewo", "nazwa" : "Czerwona Woda pod Babilonem", "powiat" : "słupski", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 3804.9, "gmina" : "Lipnica, Studzienice, Brusy", "nazwa" : "Ostoja Zapceńska", "powiat" : "słupski", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 1455.8, "gmina" : "Chojnice, Konarzyny", "nazwa" : "Doliny Brdy i Chociny", "powiat" : "słupski", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 21.5, "gmina" : "Człuchów", "nazwa" : "Duży Okoń", "powiat" : "słupski", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 335.3, "gmina" : "Chojnice", "nazwa" : "Las Wolność", "powiat" : "słupski", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 523.7, "gmina" : "Czersk, Brusy", "nazwa" : "Mętne", "powiat" : "słupski", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 1680, "gmina" : "Kołczygłowy, Miastko, Tuchomie", "nazwa" : "Ostoja Masłowiczki", "powiat" : "słupski", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 1341.5, "gmina" : "Władysławowo, Krokowa, Puck", "nazwa" : "Bielawa i Bory Bażynowe", "powiat" : "gdański", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 481.1, "gmina" : "Rzeczenica", "nazwa" : "Sporysz", "powiat" : "słupski", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 643.8, "gmina" : "Przywidz, Trąbki Wielkie, Skarszewy", "nazwa" : "Zielenina", "powiat" : "gdański, starogardzki", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 347, "gmina" : "Debrzno, Czarne, Okonek", "nazwa" : "Dolina Szczyry", "powiat" : "pilski, słupski", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 236.3, "gmina" : "Starogard Gdański, Tczew", "nazwa" : "Grądy nad Jeziorami Zduńskim i Szpęgawskim", "powiat" : "starogardzki", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 115.2, "gmina" : "Przywidz", "nazwa" : "Guzy", "powiat" : "gdański", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 114.7, "gmina" : "Koczała", "nazwa" : "Jezioro Dymno", "powiat" : "słupski", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 424.4, "gmina" : "Stara Kiszewa", "nazwa" : "Jezioro Krąg", "powiat" : "starogardzki", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 371.8, "gmina" : "Cewice", "nazwa" : "Karwickie Źródliska", "powiat" : "słupski", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 227.6, "gmina" : "Władysławowo", "nazwa" : "Kaszubskie Klify", "powiat" : "gdański", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 25, "gmina" : "Kościerzyna", "nazwa" : "Leniec nad Wierzycą", "powiat" : "starogardzki", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 671.4, "gmina" : "Liniewo, Nowa Karczma", "nazwa" : "Lubieszynek", "powiat" : "starogardzki", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 107.9, "gmina" : "Szemud", "nazwa" : "Mechowiska Zęblewskie", "powiat" : "gdański", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 132.4, "gmina" : "Prabuty, Mikołajki Pomorskie", "nazwa" : "Mikołajki Pomorskie", "powiat" : "starogardzki", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 2469.5, "gmina" : "Brusy, Dziemiany, Karsin", "nazwa" : "Młosino-Lubnia", "powiat" : "słupski, starogardzki", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 10020.9, "gmina" : "Lipnica, Konarzyny, Koczała, Przechlewo", "nazwa" : "Nowa Brda", "powiat" : "słupski", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 6454.2, "gmina" : "Lipnica", "nazwa" : "Ostoja Borzyszkowska", "powiat" : "słupski", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 885.6, "gmina" : "Kartuzy, Przodkowo", "nazwa" : "Prokowo", "powiat" : "gdański", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 353.4, "gmina" : "Kościerzyna", "nazwa" : "Rynna Dłużnicy", "powiat" : "starogardzki", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 308.4, "gmina" : "Stara Kiszewa", "nazwa" : "Stary Bukowiec", "powiat" : "starogardzki", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 288.2, "gmina" : "Kościerzyna, Nowa Karczma", "nazwa" : "Wielki Klincz", "powiat" : "starogardzki", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 0.2, "gmina" : "Wejherowo", "nazwa" : "Wejherowo", "powiat" : "gdański", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 99.9, "gmina" : "Trzebielino", "nazwa" : "Torfowisko Trzebielino", "powiat" : "słupski", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 976.5, "gmina" : "Przywidz, Nowa Karczma", "nazwa" : "Szumleś", "powiat" : "gdański, starogardzki", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 571.9, "gmina" : "Sztum", "nazwa" : "Sztumskie Pole", "powiat" : "starogardzki", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 504.6, "gmina" : "Kościerzyna, Nowa Karczma", "nazwa" : "Dąbrówka", "powiat" : "starogardzki", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 66, "gmina" : "Przywidz", "nazwa" : "Huta Dolna", "powiat" : "gdański", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 174.7, "gmina" : "Stężyca, Kościerzyna", "nazwa" : "Nowa Sikorska Huta", "powiat" : "gdański, starogardzki", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 483, "gmina" : "Somonino, Kościerzyna, Nowa Karczma", "nazwa" : "Piotrowo", "powiat" : "gdański, starogardzki", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 177.4, "gmina" : "Kolbudy, Przywidz", "nazwa" : "Pomlewo", "powiat" : "gdański", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 9, "gmina" : "Stara Kiszewa", "nazwa" : "Wilcze Błota", "powiat" : "starogardzki", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 4618.3, "gmina" : "Stara Kiszewa, Starogard Gdański, Skarszewy", "nazwa" : "Dolina Wierzycy", "powiat" : "starogardzki", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 3922.3, "gmina" : "Chmielno, Kartuzy, Somonino, Stężyca, Kościerzyna", "nazwa" : "Uroczyska Pojezierza Kaszubskiego", "powiat" : "gdański, starogardzki", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 1120, "gmina" : "Choczewo, Gniewino, Łęczyce", "nazwa" : "Jeziora Choczewskie", "powiat" : "gdański", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 367.5, "gmina" : "Parchowo, Sierakowice, Sulęczyno", "nazwa" : "Jeziora Kistowskie", "powiat" : "słupski, gdański", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 2288.5, "gmina" : "Bytów, Lipnica, Tuchomie", "nazwa" : "Lasy Rekowskie", "powiat" : "słupski", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 355.7, "gmina" : "Gniewino", "nazwa" : "Opalińskie Buczyny", "powiat" : "gdański", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 594.4, "gmina" : "Ustka", "nazwa" : "Klify Poddębskie", "powiat" : "słupski", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 223.6, "gmina" : "Skarszewy", "nazwa" : "Szczodrowo", "powiat" : "starogardzki", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 266.9, "gmina" : "Jasienica, Dębowiec, Goleszów, Skoczów", "nazwa" : "Cieszyńskie Źródła Tufowe", "powiat" : "bielski", "wojewodztwo" : "śląskie"}
+{"powierzchnia" : 3490.8, "gmina" : "Radzionków, Tarnowskie Góry, Zbrosławice, Bytom", "nazwa" : "Podziemia Tarnogórsko-Bytomskie", "powiat" : "bytomski", "wojewodztwo" : "śląskie"}
+{"powierzchnia" : 13.1, "gmina" : "Lipie", "nazwa" : "Szachownica", "powiat" : "częstochowski", "wojewodztwo" : "śląskie"}
+{"powierzchnia" : 26405.4, "gmina" : "Radziechowy-Wieprz, Węgierska Górka, Szczyrk, Jasienica, Jaworze, Wilkowice, Ustroń, Wisła, Brenna, Goleszów, Istebna, Lipowa, Milówka, Bielsko-Biała", "nazwa" : "Beskid Śląski", "powiat" : "bielski", "wojewodztwo" : "śląskie"}
+{"powierzchnia" : 0.1, "gmina" : "Radziechowy-Wieprz", "nazwa" : "Kościół w Radziechowach", "powiat" : "bielski", "wojewodztwo" : "śląskie"}
+{"powierzchnia" : 0.4, "gmina" : "Brenna", "nazwa" : "Kościół w Górkach Wielkich", "powiat" : "bielski", "wojewodztwo" : "śląskie"}
+{"powierzchnia" : 5767.5, "gmina" : "Klucze, Wolbrom, Łazy, Ogrodzieniec, Pilica", "nazwa" : "Ostoja Środkowojurajska", "powiat" : "oświęcimski, sosnowiecki", "wojewodztwo" : "śląskie"}
+{"powierzchnia" : 586.1, "gmina" : "Racibórz, Nędza", "nazwa" : "Stawy Łężczok", "powiat" : "raciborski ", "wojewodztwo" : "śląskie"}
+{"powierzchnia" : 156.6, "gmina" : "Krzyżanowice", "nazwa" : "Graniczny Meander Odry", "powiat" : "rybnicki", "wojewodztwo" : "śląskie"}
+{"powierzchnia" : 2210.9, "gmina" : "Mstów, Olsztyn, Częstochowa", "nazwa" : "Ostoja Olsztyńsko-Mirowska", "powiat" : "częstochowski", "wojewodztwo" : "śląskie"}
+{"powierzchnia" : 518.1, "gmina" : "Koniecpol, Lelów, Szczekociny", "nazwa" : "Suchy Młyn", "powiat" : "częstochowski, sosnowiecki", "wojewodztwo" : "śląskie"}
+{"powierzchnia" : 2748.1, "gmina" : "Janów, Niegowa, Żarki", "nazwa" : "Ostoja Złotopotocka", "powiat" : "częstochowski", "wojewodztwo" : "śląskie"}
+{"powierzchnia" : 1702.1, "gmina" : "Jasienica, Chybie, Skoczów, Strumień", "nazwa" : "Pierściec", "powiat" : "bielski", "wojewodztwo" : "śląskie"}
+{"powierzchnia" : 7186.2, "gmina" : "Kozy, Porąbka, Wilkowice, Czernichów, Łodygowice, Bielsko-Biała, Stryszawa, Andrychów, Łękawica, Ślemień", "nazwa" : "Beskid Mały", "powiat" : "oświęcimski, bielski", "wojewodztwo" : "śląskie"}
+{"powierzchnia" : 6.6, "gmina" : "Lipie", "nazwa" : "Stawiska", "powiat" : "częstochowski", "wojewodztwo" : "śląskie"}
+{"powierzchnia" : 5.6, "gmina" : "Kłobuck", "nazwa" : "Torfowisko przy Dolinie Kocinki", "powiat" : "częstochowski", "wojewodztwo" : "śląskie"}
+{"powierzchnia" : 100.6, "gmina" : "Mstów, Częstochowa", "nazwa" : "Przełom Warty koło Mstowa", "powiat" : "częstochowski", "wojewodztwo" : "śląskie"}
+{"powierzchnia" : 234.7, "gmina" : "Ciasna, Herby", "nazwa" : "Łęgi w lasach nad Liswartą", "powiat" : "bytomski", "wojewodztwo" : "śląskie"}
+{"powierzchnia" : 23.5, "gmina" : "Częstochowa", "nazwa" : "Walaszczyki w Częstochowie", "powiat" : "częstochowski", "wojewodztwo" : "śląskie"}
+{"powierzchnia" : 12.2, "gmina" : "Konopiska", "nazwa" : "Bagno w Korzonku", "powiat" : "częstochowski", "wojewodztwo" : "śląskie"}
+{"powierzchnia" : 39.2, "gmina" : "Poczesna", "nazwa" : "Poczesna koło Częstochowy", "powiat" : "częstochowski", "wojewodztwo" : "śląskie"}
+{"powierzchnia" : 7.2, "gmina" : "Koniecpol, Lelów", "nazwa" : "Białka Lelowska", "powiat" : "częstochowski", "wojewodztwo" : "śląskie"}
+{"powierzchnia" : 1391.2, "gmina" : "Niegowa, Zawiercie, Kroczyce, Włodowice", "nazwa" : "Ostoja Kroczycka", "powiat" : "częstochowski, sosnowiecki", "wojewodztwo" : "śląskie"}
+{"powierzchnia" : 194.3, "gmina" : "Irządze, Szczekociny", "nazwa" : "Źródła Rajecznicy", "powiat" : "sosnowiecki", "wojewodztwo" : "śląskie"}
+{"powierzchnia" : 256.1, "gmina" : "Ogrodzieniec, Pilica", "nazwa" : "Buczyny w Szypowicach i Las Niwiski", "powiat" : "sosnowiecki", "wojewodztwo" : "śląskie"}
+{"powierzchnia" : 38.9, "gmina" : "Woźniki", "nazwa" : "Bagno Bruch koło Pyrzowic", "powiat" : "bytomski", "wojewodztwo" : "śląskie"}
+{"powierzchnia" : 33.7, "gmina" : "Wielowieś", "nazwa" : "Hubert", "powiat" : "gliwicki", "wojewodztwo" : "śląskie"}
+{"powierzchnia" : 296.5, "gmina" : "Dąbrowa Górnicza", "nazwa" : "Lipienniki w Dąbrowie Górniczej", "powiat" : "sosnowiecki", "wojewodztwo" : "śląskie"}
+{"powierzchnia" : 2, "gmina" : "Sosnowiec", "nazwa" : "Torfowisko Sosnowiec-Bory", "powiat" : "sosnowiecki", "wojewodztwo" : "śląskie"}
+{"powierzchnia" : 1650.3, "gmina" : "Pszczyna, Goczałkowice-Zdrój", "nazwa" : "Zbiornik Goczałkowicki - Ujście Wisły i Bajerki", "powiat" : "tyski", "wojewodztwo" : "śląskie"}
+{"powierzchnia" : 115.1, "gmina" : "Krzyżanowice", "nazwa" : "Las koło Tworkowa", "powiat" : "rybnicki", "wojewodztwo" : "śląskie"}
+{"powierzchnia" : 2384.1, "gmina" : "Końskie, Stąporków, Bliżyn, Mniów, Zagnańsk", "nazwa" : "Dolina Krasnej", "powiat" : "kielecki", "wojewodztwo" : "świętokrzyskie"}
+{"powierzchnia" : 8081.3, "gmina" : "Bieliny, Bodzentyn, Masłów, Nowa Słupia, Waśniów, Łączna, Pawłów", "nazwa" : "Łysogóry", "powiat" : "kielecki", "wojewodztwo" : "świętokrzyskie"}
+{"powierzchnia" : 26515.6, "gmina" : "Busko-Zdrój, Pińczów, Nowy Korczyn, Opatowiec, Wiślica, Imielno, Kije, Michałów, Złota", "nazwa" : "Ostoja Nidziańska", "powiat" : "sandomiersko-jędrzejowski", "wojewodztwo" : "świętokrzyskie"}
+{"powierzchnia" : 11605.2, "gmina" : "Przedbórz, Słupia (Konecka), Kluczewsko, Krasocin, Łopuszno", "nazwa" : "Ostoja Przedborska", "powiat" : "piotrkowski, kielecki, sandomiersko-jędrzejowski", "wojewodztwo" : "świętokrzyskie"}
+{"powierzchnia" : 19120.9, "gmina" : "Stąporków, Skarżysko-Kamienna, Bliżyn, Miedziana Góra, Mniów, Strawczyn, Zagnańsk, Łączna, Suchedniów", "nazwa" : "Lasy Suchedniowskie", "powiat" : "kielecki", "wojewodztwo" : "świętokrzyskie"}
+{"powierzchnia" : 2383.5, "gmina" : "Szydłowiec, Skarżysko-Kamienna, Bliżyn, Skarżysko Kościelne", "nazwa" : "Lasy Skarżyskie", "powiat" : "radomski, kielecki", "wojewodztwo" : "świętokrzyskie"}
+{"powierzchnia" : 753.4, "gmina" : "Stąporków, Bliżyn", "nazwa" : "Uroczysko Pięty", "powiat" : "kielecki", "wojewodztwo" : "świętokrzyskie"}
+{"powierzchnia" : 5116.8, "gmina" : "Moskorzew, Radków, Jędrzejów, Małogoszcz, Nagłowice, Oksa, Sobków, Chęciny, Włoszczowa", "nazwa" : "Dolina Białej Nidy", "powiat" : "sandomiersko-jędrzejowski", "wojewodztwo" : "świętokrzyskie"}
+{"powierzchnia" : 612.7, "gmina" : "Miedziana Góra, Piekoszów, Strawczyn, Kielce", "nazwa" : "Dolina Bobrzy", "powiat" : "kielecki", "wojewodztwo" : "świętokrzyskie"}
+{"powierzchnia" : 5780.6, "gmina" : "Paradyż, Żarnów, Aleksandrów, Fałków, Końskie, Ruda Maleniecka, Chlewiska, Stąporków, Radoszyce, Smyków", "nazwa" : "Dolina Czarnej", "powiat" : "piotrkowski, radomski, kielecki", "wojewodztwo" : "świętokrzyskie"}
+{"powierzchnia" : 1191.5, "gmina" : "Chęciny, Morawica, Daleszyce", "nazwa" : "Dolina Czarnej Nidy", "powiat" : "kielecki", "wojewodztwo" : "świętokrzyskie"}
+{"powierzchnia" : 912.4, "gmina" : "Kozłów, Książ Wielki, Sędziszów", "nazwa" : "Dolina Górnej Mierzawy", "powiat" : "krakowski, sandomiersko-jędrzejowski", "wojewodztwo" : "świętokrzyskie"}
+{"powierzchnia" : 11195.1, "gmina" : "Masłowice, Przedbórz, Wielgomłyny, Żytno, Koniecpol, Kluczewsko, Krasocin, Żarnowiec, Słupia (Jędrzejowska), Moskorzew, Secemin, Lelów, Szczekociny, Włoszczowa", "nazwa" : "Dolina Górnej Pilicy", "powiat" : "piotrkowski, częstochowski, sosnowiecki, sandomiersko-jędrzejowski", "wojewodztwo" : "świętokrzyskie"}
+{"powierzchnia" : 2585.3, "gmina" : "Solec nad Wisłą, Tarłów, Bałtów, Bodzechów, Ostrowiec Świętokrzyski, Ćmielów", "nazwa" : "Dolina Kamiennej", "powiat" : "radomski, kielecki, sandomiersko-jędrzejowski", "wojewodztwo" : "świętokrzyskie"}
+{"powierzchnia" : 1320.1, "gmina" : "Wodzisław, Michałów", "nazwa" : "Dolina Mierzawy", "powiat" : "sandomiersko-jędrzejowski", "wojewodztwo" : "świętokrzyskie"}
+{"powierzchnia" : 337.9, "gmina" : "Górno, Daleszyce", "nazwa" : "Dolina Warkocza", "powiat" : "kielecki", "wojewodztwo" : "świętokrzyskie"}
+{"powierzchnia" : 77, "gmina" : "Sandomierz, Dwikozy", "nazwa" : "Góry Pieprzowe", "powiat" : "sandomiersko-jędrzejowski", "wojewodztwo" : "świętokrzyskie"}
+{"powierzchnia" : 1743.5, "gmina" : "Osiek, Rytwiany, Staszów", "nazwa" : "Kras Staszowski", "powiat" : "sandomiersko-jędrzejowski", "wojewodztwo" : "świętokrzyskie"}
+{"powierzchnia" : 691.1, "gmina" : "Bałtów, Bodzechów", "nazwa" : "Krzemionki Opatowskie", "powiat" : "kielecki", "wojewodztwo" : "świętokrzyskie"}
+{"powierzchnia" : 1523.5, "gmina" : "Masłów, Zagnańsk, Łączna", "nazwa" : "Ostoja Barcza", "powiat" : "kielecki", "wojewodztwo" : "świętokrzyskie"}
+{"powierzchnia" : 811.8, "gmina" : "Gowarczów (woj. świętokrzyskie), Przysucha (woj. mazowieckie)", "nazwa" : "Ostoja Brzeźnicka", "powiat" : "koniecki (woj. świętokrzyskie), przysuski (woj. mazowieckie)", "wojewodztwo" : "świętokrzyskie"}
+{"powierzchnia" : 466.6, "gmina" : "Jędrzejów", "nazwa" : "Ostoja Gaj", "powiat" : "sandomiersko-jędrzejowski", "wojewodztwo" : "świętokrzyskie"}
+{"powierzchnia" : 3589.2, "gmina" : "Bieliny, Łagów, Nowa Słupia, Baćkowice, Waśniów", "nazwa" : "Ostoja Jeleniowska", "powiat" : "kielecki, sandomiersko-jędrzejowski", "wojewodztwo" : "świętokrzyskie"}
+{"powierzchnia" : 4256.8, "gmina" : "Działoszyce, Wiślica, Czarnocin, Michałów, Pińczów, Złota", "nazwa" : "Ostoja Kozubowska", "powiat" : "sandomiersko-jędrzejowski", "wojewodztwo" : "świętokrzyskie"}
+{"powierzchnia" : 906, "gmina" : "Końskie, Ruda Maleniecka", "nazwa" : "Ostoja Pomorzany", "powiat" : "kielecki", "wojewodztwo" : "świętokrzyskie"}
+{"powierzchnia" : 7847.4, "gmina" : "Bodzentyn, Suchedniów, Pawłów, Wąchock", "nazwa" : "Ostoja Sieradowicka", "powiat" : "kielecki", "wojewodztwo" : "świętokrzyskie"}
+{"powierzchnia" : 2204.1, "gmina" : "Imielno, Sobków, Chęciny, Morawica", "nazwa" : "Ostoja Sobkowsko-Korytnicka", "powiat" : "kielecki, sandomiersko-jędrzejowski", "wojewodztwo" : "świętokrzyskie"}
+{"powierzchnia" : 1194.5, "gmina" : "Kije, Chmielnik, Pińczów", "nazwa" : "Ostoja Stawiany", "powiat" : "kielecki, sandomiersko-jędrzejowski", "wojewodztwo" : "świętokrzyskie"}
+{"powierzchnia" : 8072.9, "gmina" : "Busko-Zdrój, Pińczów, Chmielnik, Nowy Korczyn, Pacanów, Gnojno, Solec-Zdrój, Stopnica, Wiślica", "nazwa" : "Ostoja Szaniecko-Solecka", "powiat" : "kielecki, sandomiersko-jędrzejowski", "wojewodztwo" : "świętokrzyskie"}
+{"powierzchnia" : 224.6, "gmina" : "Masłów", "nazwa" : "Ostoja Wierzejska", "powiat" : "kielecki", "wojewodztwo" : "świętokrzyskie"}
+{"powierzchnia" : 4480, "gmina" : "Łoniów, Iwaniska, Opatów, Klimontów, Bogoria, Staszów", "nazwa" : "Ostoja Żyznów", "powiat" : "sandomiersko-jędrzejowski", "wojewodztwo" : "świętokrzyskie"}
+{"powierzchnia" : 272.6, "gmina" : "Górno, Masłów", "nazwa" : "Przełom Lubrzanki", "powiat" : "kielecki", "wojewodztwo" : "świętokrzyskie"}
+{"powierzchnia" : 2349.2, "gmina" : "Bełżyce, Iłża, Brody, Mirzec", "nazwa" : "Uroczyska Lasów Starachowickich", "powiat" : "radomski, kielecki", "wojewodztwo" : "świętokrzyskie"}
+{"powierzchnia" : 1868.7, "gmina" : "Bodzechów, Brody, Bodzentyn, Kunów, Waśniów, Pawłów", "nazwa" : "Wzgórza Kunowskie", "powiat" : "kielecki", "wojewodztwo" : "świętokrzyskie"}
+{"powierzchnia" : 10406.9, "gmina" : "Bieliny, Górno, Łagów, Pierzchnica, Raków, Daleszyce", "nazwa" : "Lasy Cisowsko-Orłowińskie", "powiat" : "kielecki", "wojewodztwo" : "świętokrzyskie"}
+{"powierzchnia" : 8616.5, "gmina" : "Krasocin, Małogoszcz, Sobków, Chęciny, Łopuszno, Piekoszów, Sitkówka-Nowiny, Kielce", "nazwa" : "Wzgórza Chęcińsko-Kieleckie", "powiat" : "kielecki, sandomiersko-jędrzejowski", "wojewodztwo" : "świętokrzyskie"}
+{"powierzchnia" : 12561.5, "gmina" : "Ciechocin, Golub-Dobrzyń, Radomin, Wąpielsk, Lubicz, Toruń, Bobrowo, Brodnica, Brzozie, Bartniczka, Zbiczno, Grodziczno, Kurzętnik, Iława, Lubawa, Nowe Miasto Lubawskie, Gietrzwałd, Olsztynek, Ostróda, Grunwald, Miłomłyn", "nazwa" : "Dolina Drwęcy", "powiat" : "bydgosko-toruński, włocławski, elbląski, olsztyński", "wojewodztwo" : "warmińsko-mazurskie"}
+{"powierzchnia" : 56.9, "gmina" : "Kętrzyn", "nazwa" : "Gierłoż", "powiat" : "olsztyński", "wojewodztwo" : "warmińsko-mazurskie"}
+{"powierzchnia" : 814.8, "gmina" : "Iława, Biskupiec", "nazwa" : "Jezioro Karaś", "powiat" : "elbląski", "wojewodztwo" : "warmińsko-mazurskie"}
+{"powierzchnia" : 162.1, "gmina" : "Węgorzewo", "nazwa" : "Mamerki", "powiat" : "ełcki", "wojewodztwo" : "warmińsko-mazurskie"}
+{"powierzchnia" : 14754.3, "gmina" : "Dubeninki, Gołdap", "nazwa" : "Puszcza Romincka", "powiat" : "ełcki", "wojewodztwo" : "warmińsko-mazurskie"}
+{"powierzchnia" : 8418.5, "gmina" : "Braniewo, Pieniężno, Płoskinia, Wilczęta, Godkowo, Lubomino, Orneta, Gietrzwałd, Jonkowo, Olsztynek, Stawiguda, Świątki, Łukta, Miłakowo", "nazwa" : "Rzeka Pasłęka", "powiat" : "elbląski, olsztyński", "wojewodztwo" : "warmińsko-mazurskie"}
+{"powierzchnia" : 40862.6, "gmina" : "Nowy Dwór Gdański, Sztutowo, Krynica Morska, Braniewo, Frombork, Elbląg, Tolkmicko", "nazwa" : "Zalew Wiślany i Mierzeja Wiślana", "powiat" : "elbląski, gdański", "wojewodztwo" : "warmińsko-mazurskie"}
+{"powierzchnia" : 122.7, "gmina" : "Lelkowo", "nazwa" : "Bieńkowo", "powiat" : "elbląski", "wojewodztwo" : "warmińsko-mazurskie"}
+{"powierzchnia" : 450.9, "gmina" : "Małdyty", "nazwa" : "Budwity", "powiat" : "elbląski", "wojewodztwo" : "warmińsko-mazurskie"}
+{"powierzchnia" : 499.1, "gmina" : "Mrągowo", "nazwa" : "Gązwa", "powiat" : "olsztyński", "wojewodztwo" : "warmińsko-mazurskie"}
+{"powierzchnia" : 8866.9, "gmina" : "Górzno, Bartniczka, Świedziebnia, Lubowidz, Lidzbark", "nazwa" : "Ostoja Lidzbarska", "powiat" : "ciechanowsko-płocki, bydgosko-toruński , elbląski", "wojewodztwo" : "warmińsko-mazurskie"}
+{"powierzchnia" : 3384.3, "gmina" : "Lidzbark, Działdowo, Płośnica, Rybno, Dąbrówno", "nazwa" : "Ostoja Welska", "powiat" : "elbląski", "wojewodztwo" : "warmińsko-mazurskie"}
+{"powierzchnia" : 1259.7, "gmina" : "Lidzbark, Grodziczno", "nazwa" : "Przełomowa Dolina Rzeki Wel", "powiat" : "elbląski", "wojewodztwo" : "warmińsko-mazurskie"}
+{"powierzchnia" : 25340.1, "gmina" : "Kowale Oleckie, Gołdap, Banie Mazurskie, Kruklanki, Pozezdrze, Wydminy, Świętajno", "nazwa" : "Ostoja Borecka", "powiat" : "ełcki", "wojewodztwo" : "warmińsko-mazurskie"}
+{"powierzchnia" : 2260.5, "gmina" : "Tolkmicko, Milejewo, Elbląg", "nazwa" : "Doliny Erozyjne Wysoczyzny Elbląskiej", "powiat" : "elbląski", "wojewodztwo" : "warmińsko-mazurskie"}
+{"powierzchnia" : 642.9, "gmina" : "Łukta", "nazwa" : "Jezioro Długie", "powiat" : "elbląski", "wojewodztwo" : "warmińsko-mazurskie"}
+{"powierzchnia" : 642.7, "gmina" : "Pasłęk", "nazwa" : "Murawy koło Pasłęka", "powiat" : "elbląski", "wojewodztwo" : "warmińsko-mazurskie"}
+{"powierzchnia" : 1453.6, "gmina" : "Godkowo, Morąg", "nazwa" : "Uroczysko Markowo", "powiat" : "elbląski", "wojewodztwo" : "warmińsko-mazurskie"}
+{"powierzchnia" : 1525.9, "gmina" : "Dobre Miasto, Dywity, Jonkowo, Świątki", "nazwa" : "Warmińskie Buczyny", "powiat" : "olsztyński", "wojewodztwo" : "warmińsko-mazurskie"}
+{"powierzchnia" : 313.7, "gmina" : "Ełk, Stare Juchy", "nazwa" : "Jezioro Woszczelskie", "powiat" : "ełcki", "wojewodztwo" : "warmińsko-mazurskie"}
+{"powierzchnia" : 929.4, "gmina" : "Iława, Nowe Miasto Lubawskie", "nazwa" : "Ostoja Radomno", "powiat" : "elbląski", "wojewodztwo" : "warmińsko-mazurskie"}
+{"powierzchnia" : 1428, "gmina" : "Biskupiec, Nowe Miasto Lubawskie", "nazwa" : "Dolina Kakaju", "powiat" : "elbląski", "wojewodztwo" : "warmińsko-mazurskie"}
+{"powierzchnia" : 65.8, "gmina" : "Kalinowo", "nazwa" : "Torfowisko Zocie", "powiat" : "ełcki", "wojewodztwo" : "warmińsko-mazurskie"}
+{"powierzchnia" : 326.2, "gmina" : "Miłakowo", "nazwa" : "Jezioro Wukśniki", "powiat" : "elbląski", "wojewodztwo" : "warmińsko-mazurskie"}
+{"powierzchnia" : 226.5, "gmina" : "Jonkowo", "nazwa" : "Jonkowo-Warkały", "powiat" : "olsztyński", "wojewodztwo" : "warmińsko-mazurskie"}
+{"powierzchnia" : 264, "gmina" : "Lidzbark Warmiński", "nazwa" : "Kaszuny", "powiat" : "olsztyński", "wojewodztwo" : "warmińsko-mazurskie"}
+{"powierzchnia" : 77.2, "gmina" : "Ełk", "nazwa" : "Murawy na Pojezierzu Ełckim", "powiat" : "ełcki", "wojewodztwo" : "warmińsko-mazurskie"}
+{"powierzchnia" : 3430.6, "gmina" : "Lubawa, Dąbrówno, Grunwald, Ostróda", "nazwa" : "Ostoja Dylewskie Wzgórza", "powiat" : "elbląski", "wojewodztwo" : "warmińsko-mazurskie"}
+{"powierzchnia" : 3356.7, "gmina" : "Barciany, Srokowo, Węgorzewo", "nazwa" : "Ostoja nad Oświnem", "powiat" : "olsztyński, ełcki", "wojewodztwo" : "warmińsko-mazurskie"}
+{"powierzchnia" : 14573, "gmina" : "Giżycko, Pozezdrze, Węgorzewo", "nazwa" : "Ostoja Północnomazurska", "powiat" : "ełcki", "wojewodztwo" : "warmińsko-mazurskie"}
+{"powierzchnia" : 1186.5, "gmina" : "Lidzbark Warmiński, Dobre Miasto", "nazwa" : "Swajnie", "powiat" : "olsztyński", "wojewodztwo" : "warmińsko-mazurskie"}
+{"powierzchnia" : 27, "gmina" : "Bartoszyce, Sępopol", "nazwa" : "Torfowiska Źródliliskowe koło Łabędnika", "powiat" : "olsztyński", "wojewodztwo" : "warmińsko-mazurskie"}
+{"powierzchnia" : 57826.6, "gmina" : "Pisz, Rozogi, Mikołajki, Mrągowo, Piecki, Sorkwity, Biskupiec, Ruciane-Nida, Dźwierzuty, Szczytno, Świętajno", "nazwa" : "Ostoja Piska", "powiat" : "olsztyński, ełcki", "wojewodztwo" : "warmińsko-mazurskie"}
+{"powierzchnia" : 11385.7, "gmina" : "Banie Mazurskie, Budry", "nazwa" : "Niecka Skaliska", "powiat" : "ełcki", "wojewodztwo" : "warmińsko-mazurskie"}
+{"powierzchnia" : 89.1, "gmina" : "Małdyty", "nazwa" : "Niedźwiedzie Wielkie", "powiat" : "elbląski", "wojewodztwo" : "warmińsko-mazurskie"}
+{"powierzchnia" : 377.2, "gmina" : "Susz, Iława", "nazwa" : "Aleje Pojezierza Iławskiego", "powiat" : "elbląski", "wojewodztwo" : "warmińsko-mazurskie"}
+{"powierzchnia" : 32612.8, "gmina" : "Janowo, Wielbark, Nidzica, Olsztynek, Purda, Stawiguda, Jedwabno, Pasym, Szczytno", "nazwa" : "Ostoja Napiwodzko-Ramucka", "powiat" : "olsztyński", "wojewodztwo" : "warmińsko-mazurskie"}
+{"powierzchnia" : 21029.4, "gmina" : "Stary Dzierzgoń, Zalewo, Iława, Susz", "nazwa" : "Ostoja Iławska", "powiat" : "elbląski, starogardzki", "wojewodztwo" : "warmińsko-mazurskie"}
+{"powierzchnia" : 1569.3, "gmina" : "Miłki, Orzysz", "nazwa" : "Mazurskie Bagna", "powiat" : "ełcki", "wojewodztwo" : "warmińsko-mazurskie"}
+{"powierzchnia" : 4305.1, "gmina" : "Mikołajki, Mrągowo", "nazwa" : "Mazurska Ostoja Żółwia Baranowo", "powiat" : "olsztyński", "wojewodztwo" : "warmińsko-mazurskie"}
+{"powierzchnia" : 9938.1, "gmina" : "Oborniki, Czerwonak, Murowana Goślina, Suchy Las, Poznań", "nazwa" : "Biedrusko", "powiat" : "poznański", "wojewodztwo" : "wielkopolskie"}
+{"powierzchnia" : 885.2, "gmina" : "Obrzycko", "nazwa" : "Dąbrowy Obrzyckie", "powiat" : "poznański", "wojewodztwo" : "wielkopolskie"}
+{"powierzchnia" : 50532, "gmina" : "Białe Błota, Sicienko, Kcynia, Nakło nad Notecią, Sadki, Bydgoszcz, Wyrzysk, Gołańcz, Chodzież, Szamocin, Czarnków,Lubasz, Trzcianka, Wieleń, Białośliwie, Kaczory, Miasteczko Krajeńskie, Ujście ", "nazwa" : "Dolina Noteci", "powiat" : "pilski, bydgosko-toruński, włocławski", "wojewodztwo" : "wielkopolskie"}
+{"powierzchnia" : 137.4, "gmina" : "Poznań", "nazwa" : "Fortyfikacje w Poznaniu", "powiat" : "poznański", "wojewodztwo" : "wielkopolskie"}
+{"powierzchnia" : 1048.8, "gmina" : "Sieraków, Wronki", "nazwa" : "Jezioro Kubek", "powiat" : "międzychodzki, szamotulski ", "wojewodztwo" : "wielkopolskie"}
+{"powierzchnia" : 574.9, "gmina" : "Lwówek", "nazwa" : "Ostoja Zgierzyniecka", "powiat" : "leszczyński", "wojewodztwo" : "wielkopolskie"}
+{"powierzchnia" : 0.5, "gmina" : "Opalenica", "nazwa" : "Kopanki", "powiat" : "leszczyński", "wojewodztwo" : "wielkopolskie"}
+{"powierzchnia" : 26653.1, "gmina" : "Żerków, Golina, Rzgów, Stare Miasto, Lądek, Zagórów, Kołaczkowo, Miłosław, Pyzdry, Konin, Cybinka", "nazwa" : "Ostoja Nadwarciańska", "powiat" : "koniński, kaliski", "wojewodztwo" : "wielkopolskie"}
+{"powierzchnia" : 8427.1, "gmina" : "Dopiewo, Komorniki, Mosina, Stęszew, Luboń, Puszczykowo", "nazwa" : "Ostoja Wielkopolska", "powiat" : "poznański", "wojewodztwo" : "wielkopolskie"}
+{"powierzchnia" : 954, "gmina" : "Kazimierz Biskupi", "nazwa" : "Puszcza Bieniszewska", "powiat" : "koniński", "wojewodztwo" : "wielkopolskie"}
+{"powierzchnia" : 14753.6, "gmina" : "Komorniki, Kórnik, Mosina, Puszczykowo, Zaniemyśl, Brodnica, Książ Wielkopolski, Śrem", "nazwa" : "Rogalińska Dolina Warty", "powiat" : "poznański", "wojewodztwo" : "wielkopolskie"}
+{"powierzchnia" : 1, "gmina" : "Sieraków ", "nazwa" : "Sieraków", "powiat" : "międzychodzki ", "wojewodztwo" : "wielkopolskie"}
+{"powierzchnia" : 5494.8, "gmina" : "Krzemieniewo, Osieczna, Krzywiń", "nazwa" : "Zachodnie Pojezierze Krzywińskie", "powiat" : "leszczyński", "wojewodztwo" : "wielkopolskie"}
+{"powierzchnia" : 465.3, "gmina" : "Połajewo, Ryczywół", "nazwa" : "Bagno Chlebowo", "powiat" : "pilski, poznański", "wojewodztwo" : "wielkopolskie"}
+{"powierzchnia" : 1766, "gmina" : "Szydłowo, Jastrowie (woj. wielkopolskie); Wałcz (woj. zachodniopomorskie)", "nazwa" : "Dolina Rurzycy", "powiat" : "pilski, złotowski (woj. wielkopolskie, ); wałecki (woj. zachodnipomorskie); wałecki (woj. zachodniopomorskie)", "wojewodztwo" : "wielkopolskie"}
+{"powierzchnia" : 79.5, "gmina" : "Wijewo", "nazwa" : "Jezioro Brenno", "powiat" : "leszczyński", "wojewodztwo" : "wielkopolskie"}
+{"powierzchnia" : 236.4, "gmina" : "Wronki", "nazwa" : "Torfowisko Rzecińskie", "powiat" : "poznański", "wojewodztwo" : "wielkopolskie"}
+{"powierzchnia" : 2180.2, "gmina" : "Okonek", "nazwa" : "Poligon w Okonku", "powiat" : "pilski", "wojewodztwo" : "wielkopolskie"}
+{"powierzchnia" : 15922.1, "gmina" : "Jeziora Wielkie, Mogilno, Strzelno, Gniezno, Trzemeszno, Wilczyn, Orchowo, Witkowo, Kleczew, Ostrowite, Powidz, Słupca]", "nazwa" : "Pojezierze Gnieźnieńskie", "powiat" : "koniński, włocławski", "wojewodztwo" : "wielkopolskie"}
+{"powierzchnia" : 22, "gmina" : "Rakoniewice", "nazwa" : "Barłożnia Wolsztyńska", "powiat" : "leszczyński", "wojewodztwo" : "wielkopolskie"}
+{"powierzchnia" : 46, "gmina" : "Sieraków", "nazwa" : "Jezioro Mnich", "powiat" : "miedzychodzki ", "wojewodztwo" : "wielkopolskie"}
+{"powierzchnia" : 1399, "gmina" : "Kostrzyn, Pobiedziska", "nazwa" : "Ostoja koło Promna", "powiat" : "poznański", "wojewodztwo" : "wielkopolskie"}
+{"powierzchnia" : 847.7, "gmina" : "Międzychód", "nazwa" : "Dolina Kamionki", "powiat" : "leszczyński", "wojewodztwo" : "wielkopolskie"}
+{"powierzchnia" : 7591.1, "gmina" : "Międzychód, Kwilcz, Sieraków, Chrzypsko Wielkie ", "nazwa" : "Ostoja Międzychodzko-Sierakowska", "powiat" : "międzychodzki ", "wojewodztwo" : "wielkopolskie"}
+{"powierzchnia" : 1161.3, "gmina" : "Grodzisk Wielkopolski, Opalenica", "nazwa" : "Dolina Mogielnicy", "powiat" : "leszczyński", "wojewodztwo" : "wielkopolskie"}
+{"powierzchnia" : 1290.7, "gmina" : "Koźminek, Ceków-Kolonia, Opatówek, Żelazków, Kalisz", "nazwa" : "Dolina Swędrni", "powiat" : "kaliski", "wojewodztwo" : "wielkopolskie"}
+{"powierzchnia" : 12.3, "gmina" : "Baranów, Kępno", "nazwa" : "Baranów", "powiat" : "kaliski", "wojewodztwo" : "wielkopolskie"}
+{"powierzchnia" : 305.3, "gmina" : "Kwilcz, Pniewy", "nazwa" : "Zamorze Pniewskie", "powiat" : "leszczyński, poznański", "wojewodztwo" : "wielkopolskie"}
+{"powierzchnia" : 2301.1, "gmina" : "Połajewo, Oborniki", "nazwa" : "Kiszewo", "powiat" : "poznański", "wojewodztwo" : "wielkopolskie"}
+{"powierzchnia" : 2424.7, "gmina" : "Kostrzyn, Pobiedziska, Swarzędz", "nazwa" : "Dolina Cybiny", "powiat" : "poznański", "wojewodztwo" : "wielkopolskie"}
+{"powierzchnia" : 752, "gmina" : "Czempiń, Mosina, Stęszew", "nazwa" : "Będlewo-Bieczyny", "powiat" : "leszczyński, poznański", "wojewodztwo" : "wielkopolskie"}
+{"powierzchnia" : 5894.4, "gmina" : "Sępólno Krajeńskie, Więcbork, Debrzno, Łobżenica, Wyrzysk, Lipka, Zakrzewo, Złotów", "nazwa" : "Dolina Łobżonki", "powiat" : "pilski, bydgosko-toruński", "wojewodztwo" : "wielkopolskie"}
+{"powierzchnia" : 1200.4, "gmina" : "Wschowa, Wijewo, Włoszakowice, Przemęt", "nazwa" : "Ostoja Przemęcka", "powiat" : "leszczyński, zielonogórski", "wojewodztwo" : "wielkopolskie"}
+{"powierzchnia" : 514.6, "gmina" : "Wieleń ", "nazwa" : "Dolina Miały", "powiat" : "pilski", "wojewodztwo" : "wielkopolskie"}
+{"powierzchnia" : 1447, "gmina" : "Oborniki, Rogoźno, Ryczywół", "nazwa" : "Dolina Wełny", "powiat" : "poznański", "wojewodztwo" : "wielkopolskie"}
+{"powierzchnia" : 719.1, "gmina" : "Wągrowiec", "nazwa" : "Jezioro Kaliszańskie", "powiat" : "pilski", "wojewodztwo" : "wielkopolskie"}
+{"powierzchnia" : 3068.6, "gmina" : "Trzcianka, Krajenka, Piła, Kaczory, Szydłowo, Ujście, Wysoka", "nazwa" : "Ostoja Pilska", "powiat" : "pilski", "wojewodztwo" : "wielkopolskie"}
+{"powierzchnia" : 776.1, "gmina" : "Wieleń ", "nazwa" : "Dolina Bukówki", "powiat" : "pilski", "wojewodztwo" : "wielkopolskie"}
+{"powierzchnia" : 920.9, "gmina" : "Lipka, Okonek", "nazwa" : "Dolina Debrzynki", "powiat" : "pilski", "wojewodztwo" : "wielkopolskie"}
+{"powierzchnia" : 7.4, "gmina" : "Pleszew", "nazwa" : "Glinianki w Lenartowicach", "powiat" : "kaliski", "wojewodztwo" : "wielkopolskie"}
+{"powierzchnia" : 1212.9, "gmina" : "Czerniejewo, Września", "nazwa" : "Grądy w Czerniejewie", "powiat" : "koniński", "wojewodztwo" : "wielkopolskie"}
+{"powierzchnia" : 477.5, "gmina" : "Kiszkowo, Kłecko, Skoki", "nazwa" : "Stawy Kiszkowskie", "powiat" : "pilski, koniński", "wojewodztwo" : "wielkopolskie"}
+{"powierzchnia" : 1300.7, "gmina" : "Duszniki, Kaźmierz", "nazwa" : "Grądy Bytyńskie", "powiat" : "poznański", "wojewodztwo" : "wielkopolskie"}
+{"powierzchnia" : 1018.2, "gmina" : "Zakrzewo", "nazwa" : "Uroczyska Kujańskie", "powiat" : "pilski", "wojewodztwo" : "wielkopolskie"}
+{"powierzchnia" : 7158.2, "gmina" : "Żerków, Miłosław, Krzykosy, Nowe Miasto nad Wartą, Środa Wielkopolska", "nazwa" : "Lasy Żerkowsko-Czeszewskie", "powiat" : "koniński, kaliski, poznański", "wojewodztwo" : "wielkopolskie"}
+{"powierzchnia" : 251.7, "gmina" : "Białośliwie, Miasteczko Krajeńskie", "nazwa" : "Struga Białośliwka", "powiat" : "pilski", "wojewodztwo" : "wielkopolskie"}
+{"powierzchnia" : 586.8, "gmina" : "Wyrzysk, Białośliwie", "nazwa" : "Dębowa Góra", "powiat" : "pilski", "wojewodztwo" : "wielkopolskie"}
+{"powierzchnia" : 703.5, "gmina" : "Murowana Goślina, Rogoźno", "nazwa" : "Buczyna w Długiej Goślinie", "powiat" : "poznański", "wojewodztwo" : "wielkopolskie"}
+{"powierzchnia" : 557, "gmina" : "Kórnik, Środa Wielkopolska", "nazwa" : "Dolina Średzkiej Strugi", "powiat" : "poznański", "wojewodztwo" : "wielkopolskie"}
+{"powierzchnia" : 1238.3, "gmina" : "Czerwonak, Murowana Goślina, Pobiedziska", "nazwa" : "Uroczyska Puszczy Zielonki", "powiat" : "poznański", "wojewodztwo" : "wielkopolskie"}
+{"powierzchnia" : 4759.3, "gmina" : "Biały Bór, Szczecinek, Bobolice", "nazwa" : "Bobolickie Jeziora Lobeliowe", "powiat" : "koszaliński", "wojewodztwo" : "zachodniopomorskie"}
+{"powierzchnia" : 592.2, "gmina" : "Drawsko Pomorskie, Węgorzyno", "nazwa" : "Brzeźnicka Węgorza", "powiat" : "koszaliński, stargardzki", "wojewodztwo" : "zachodniopomorskie"}
+{"powierzchnia" : 8255.3, "gmina" : "Miastko, Polanów, Sławno, Malechowo", "nazwa" : "Dolina Grabowej", "powiat" : "koszaliński", "wojewodztwo" : "zachodniopomorskie"}
+{"powierzchnia" : 4471.8, "gmina" : "Choszczno, Recz, Suchań", "nazwa" : "Dolina Iny koło Recza", "powiat" : "stargardzki", "wojewodztwo" : "zachodniopomorskie"}
+{"powierzchnia" : 232.8, "gmina" : "Stargard Szczeciński", "nazwa" : "Dolina Krąpieli", "powiat" : "stargardzki", "wojewodztwo" : "zachodniopomorskie"}
+{"powierzchnia" : 20755.9, "gmina" : "Pełczyce, Barlinek, Stargard Szczeciński", "nazwa" : "Dolina Płoni i Jezioro Miedwie", "powiat" : "stargardzki, szczeciński", "wojewodztwo" : "zachodniopomorskie"}
+{"powierzchnia" : 27710.4, "gmina" : "Tychowo, Szczecinek, Borne Sulinowo, Białogard, Karlino, Kołobrzeg, Dygowo, Gościno, Ustronie Morskie, Bobolice, Barwice, Grzmiąca, Połczyn-Zdrój, Rąbino, Sławoborze", "nazwa" : "Dorzecze Parsęty", "powiat" : "koszaliński", "wojewodztwo" : "zachodniopomorskie"}
+{"powierzchnia" : 162.2, "gmina" : "Sławno", "nazwa" : "Janiewickie Bagno", "powiat" : "koszaliński", "wojewodztwo" : "zachodniopomorskie"}
+{"powierzchnia" : 6479.2, "gmina" : "Szczecinek, Grzmiąca", "nazwa" : "Jeziora Szczecineckie", "powiat" : "koszaliński", "wojewodztwo" : "zachodniopomorskie"}
+{"powierzchnia" : 179.4, "gmina" : "Lubiszyn, Myślibórz, Nowogródek Pomorski", "nazwa" : "Jezioro Kozie", "powiat" : "stargardzki, gorzowski", "wojewodztwo" : "zachodniopomorskie"}
+{"powierzchnia" : 2011.1, "gmina" : "Wałcz, Mirosławiec, Tuczno", "nazwa" : "Jezioro Wielki Bytyń", "powiat" : "wałecki", "wojewodztwo" : "zachodniopomorskie"}
+{"powierzchnia" : 2644.8, "gmina" : "Gościno, Rymań, Siemyśl", "nazwa" : "Kemy Rymańskie", "powiat" : "koszaliński", "wojewodztwo" : "zachodniopomorskie"}
+{"powierzchnia" : 8419, "gmina" : "Goleniów, Nowogard, Osina, Przybiernów, Stepnica", "nazwa" : "Ostoja Goleniowska", "powiat" : "szczeciński", "wojewodztwo" : "zachodniopomorskie"}
+{"powierzchnia" : 4406.8, "gmina" : "Myślibórz, Kozielice, Lipiany", "nazwa" : "Pojezierze Myśliborskie", "powiat" : "stargardzki", "wojewodztwo" : "zachodniopomorskie"}
+{"powierzchnia" : 100.2, "gmina" : "Police", "nazwa" : "Police - kanały", "powiat" : "szczeciński", "wojewodztwo" : "zachodniopomorskie"}
+{"powierzchnia" : 192.6, "gmina" : "Darłowo", "nazwa" : "Słowińskie Błoto", "powiat" : "koszaliński", "wojewodztwo" : "zachodniopomorskie"}
+{"powierzchnia" : 17468.8, "gmina" : "Karnice, Rewa, Trzebiatów, Kołobrzeg, Dygowo, Ustronie Morskie, Będzino, Mielno", "nazwa" : "Trzebiatowsko-Kołobrzeski Pas Nadmorski", "powiat" : "koszaliński, stargardzki", "wojewodztwo" : "zachodniopomorskie"}
+{"powierzchnia" : 52612, "gmina" : "Goleniów, Stepnica, Dziwnów,Kamień Pomorski, Międzyzdroje, Wolin, Nowe Warpno, Police, Szczecin, Świnoujście ", "nazwa" : "Ujście Odry i Zalew Szczeciński", "powiat" : "szczeciński", "wojewodztwo" : "zachodniopomorskie"}
+{"powierzchnia" : 30792, "gmina" : "Dziwnów, Międzyzdroje, Wolin, Świnoujście", "nazwa" : "Wolin i Uznam", "powiat" : "szczeciński, obszar morski poza NUTS", "wojewodztwo" : "zachodniopomorskie"}
+{"powierzchnia" : 12011.1, "gmina" : "Gryfino, Stare Czarnowo, Kobylanka, Szczecin", "nazwa" : "Wzgórza Bukowe", "powiat" : "stargardzki, szczeciński", "wojewodztwo" : "zachodniopomorskie"}
+{"powierzchnia" : 17.3, "gmina" : "Tuczno", "nazwa" : "Strzaliny koło Tuczna", "powiat" : "wałecki", "wojewodztwo" : "zachodniopomorskie"}
+{"powierzchnia" : 21861.7, "gmina" : "Tychowo, Polanów, Białogard, Karlino, Biesiekierz, Bobolice, Manowo, Świeszyno", "nazwa" : "Dolina Radwi, Chocieli i Chotli", "powiat" : "koszaliński", "wojewodztwo" : "zachodniopomorskie"}
+{"powierzchnia" : 15046.7, "gmina" : "Drawno, Drawsko Pomorskie, Kalisz Pomorski, Złocieniec, Mirosławiec", "nazwa" : "Jezioro Lubie i Dolina Drawy", "powiat" : "koszaliński, stargardzki", "wojewodztwo" : "zachodniopomorskie"}
+{"powierzchnia" : 2204.3, "gmina" : "Jastrowie, Borne Sulinowo", "nazwa" : "Dolina Piławy", "powiat" : "koszaliński", "wojewodztwo" : "zachodniopomorskie"}
+{"powierzchnia" : 2749.7, "gmina" : "Goleniów, Stepnica", "nazwa" : "Uroczyska w Lasach Stepnickich", "powiat" : "szczeciński", "wojewodztwo" : "zachodniopomorskie"}
+{"powierzchnia" : 787.4, "gmina" : "Borne Sulinowo", "nazwa" : "Bagno i Jezioro Ciemino", "powiat" : "koszaliński", "wojewodztwo" : "zachodniopomorskie"}
+{"powierzchnia" : 30458.1, "gmina" : "Boleszkowice, Cedynia, Chojna, Gryfino, Mieszkowice, Moryń, Widuchowa, Kołbaskowo, Szczecin", "nazwa" : "Dolna Odra", "powiat" : "stargardzki, szczeciński", "wojewodztwo" : "zachodniopomorskie"}
+{"powierzchnia" : 1451.7, "gmina" : "Dębno, Trzcińsko-Zdrój", "nazwa" : "Gogolice-Kosa", "powiat" : "stargardzki, szczeciński", "wojewodztwo" : "zachodniopomorskie"}
+{"powierzchnia" : 31949.3, "gmina" : "Borne Sulinowo, Czaplinek, Ostrowice, Złocieniec, Barwice, Połczyn-Zdrój  ", "nazwa" : "Jeziora Czaplineckie", "powiat" : "koszaliński", "wojewodztwo" : "zachodniopomorskie"}
+{"powierzchnia" : 3383.3, "gmina" : "Miastko, Polanów, Biały Bór, Bobolice", "nazwa" : "Jezioro Bobięcińskie", "powiat" : "koszaliński, słupski", "wojewodztwo" : "zachodniopomorskie"}
+{"powierzchnia" : 3263, "gmina" : "Mielno, Sianów, Darłowo", "nazwa" : "Jezioro Bukowo", "powiat" : "koszaliński", "wojewodztwo" : "zachodniopomorskie"}
+{"powierzchnia" : 213.4, "gmina" : "Borne Sulinowo", "nazwa" : "Jezioro Śmiadowo", "powiat" : "koszaliński", "wojewodztwo" : "zachodniopomorskie"}
+{"powierzchnia" : 588, "gmina" : "Brzeżno", "nazwa" : "Karsibórz Świdwiński", "powiat" : "koszaliński", "wojewodztwo" : "zachodniopomorskie"}
+{"powierzchnia" : 8792.3, "gmina" : "Dobiegniew, Strzelce Krajeńskie, Bierzwnik, Krzęcin, Pełczyce", "nazwa" : "Lasy Bierzwnickie", "powiat" : "stargardzki, gorzowski", "wojewodztwo" : "zachodniopomorskie"}
+{"powierzchnia" : 6566.6, "gmina" : "Mirosławiec, Tuczno", "nazwa" : "Mirosławiec", "powiat" : "wałecki", "wojewodztwo" : "zachodniopomorskie"}
+{"powierzchnia" : 74416.3, "gmina" : "Bierzwnik, Drawno, Recz, Kalisz Pomorski, Wałcz, Człopa, Tuczno, Mirosławiec (woj. zachodniopomorskie); Dobiegniew, Drezdenko, Stare Kurowo, Strzelce Krajeńskie (woj. lubuskie); Krzyż Wielkopolski, Wieleń (woj. wielkopolskie)", "nazwa" : "Uroczyska Puszczy Drawskiej", "powiat" : "choszczeński, drawski, wałecki (woj. zachodniopomorskie); strzelecko-drezdenecki (woj. lubuskie); czarnkowsko-trzcianecki (woj. wielkopolskie)", "wojewodztwo" : "zachodniopomorskie"}
+{"powierzchnia" : 1012, "gmina" : "Karlino, Będzino, Biesiekierz", "nazwa" : "Warnie Bagno", "powiat" : "koszaliński", "wojewodztwo" : "zachodniopomorskie"}
+{"powierzchnia" : 3232.1, "gmina" : "Borne Sulinowo", "nazwa" : "Diabelskie Pustacie", "powiat" : "koszaliński", "wojewodztwo" : "zachodniopomorskie"}
+{"powierzchnia" : 14827.8, "gmina" : "Ostrowice, Nowogard, Brojce, Gryfice, Płoty, Trzebiatów, Rymań, Świdwin, Brzeżno, Rąbino, Sławoborze, Łobez, Radowo Małe, Resko, Węgorzyno", "nazwa" : "Dorzecze Regi", "powiat" : "koszaliński, stargardzki", "wojewodztwo" : "zachodniopomorskie"}
+{"powierzchnia" : 3754.9, "gmina" : "Banie, Chojna, Gryfino, Trzcińsko-Zdrój", "nazwa" : "Dolina Tywy", "powiat" : "szczeciński", "wojewodztwo" : "zachodniopomorskie"}
+{"powierzchnia" : 26.4, "gmina" : "Mieszkowice", "nazwa" : "Mieszkowicka Dąbrowa", "powiat" : "szczeciński", "wojewodztwo" : "zachodniopomorskie"}
+{"powierzchnia" : 845.1, "gmina" : "Golczewo", "nazwa" : "Ostoja Golczewska", "powiat" : "szczeciński", "wojewodztwo" : "zachodniopomorskie"}
+{"powierzchnia" : 456.3, "gmina" : "Sianów, Malechowo", "nazwa" : "Dolina Bielawy", "powiat" : "koszaliński", "wojewodztwo" : "zachodniopomorskie"}
+{"powierzchnia" : 1179.3, "gmina" : "Cedynia, Chojna", "nazwa" : "Wzgórza Krzymowskie", "powiat" : "szczeciński", "wojewodztwo" : "zachodniopomorskie"}
+{"powierzchnia" : 588, "gmina" : "Chojna, Moryń", "nazwa" : "Wzgórza Moryńskie", "powiat" : "szczeciński", "wojewodztwo" : "zachodniopomorskie"}
+{"powierzchnia" : 605.5, "gmina" : "Kobylanka", "nazwa" : "Torfowisko Reptowo", "powiat" : "stargardzki", "wojewodztwo" : "zachodniopomorskie"}
+{"powierzchnia" : 55.5, "gmina" : "Manowo", "nazwa" : "Mechowisko Manowo", "powiat" : "koszaliński", "wojewodztwo" : "zachodniopomorskie"}
+{"powierzchnia" : 1166.5, "gmina" : "Postomino, Darłowo", "nazwa" : "Jezioro Kopań", "powiat" : "koszaliński", "wojewodztwo" : "zachodniopomorskie"}
+{"powierzchnia" : 1765.7, "gmina" : "Banie, Kozielice", "nazwa" : "Dziczy Las", "powiat" : "stargardzki, szczeciński", "wojewodztwo" : "zachodniopomorskie"}
+{"powierzchnia" : 893.7, "gmina" : "Rąbino, Sławoborze, Świdwin", "nazwa" : "Bystrzyno", "powiat" : "koszaliński", "wojewodztwo" : "zachodniopomorskie"}
+{"powierzchnia" : 964.6, "gmina" : "Będzino, Biesiekierz, Koszalin", "nazwa" : "Bukowy Las Górki", "powiat" : "koszaliński", "wojewodztwo" : "zachodniopomorskie"}
+{"powierzchnia" : 611.5, "gmina" : "Banie, Widuchowa", "nazwa" : "Las Baniewicki", "powiat" : "szczeciński", "wojewodztwo" : "zachodniopomorskie"}
+{"powierzchnia" : 567.5, "gmina" : "Rymań, Sławoborze", "nazwa" : "Torfowisko Poradz", "powiat" : "koszaliński", "wojewodztwo" : "zachodniopomorskie"}
+{"powierzchnia" : 489.5, "gmina" : "Świeszyno", "nazwa" : "Wiązogóra", "powiat" : "koszaliński", "wojewodztwo" : "zachodniopomorskie"}
+{"powierzchnia" : 10229.9, "gmina" : "Recz, Kalisz Pomorski, Dobrzany, Ińsko", "nazwa" : "Pojezierze Ińskie", "powiat" : "koszaliński, stargardzki", "wojewodztwo" : "zachodniopomorskie"}
+{"powierzchnia" : 21018.1, "gmina" : "Zakopane, Bukowina Tatrzańska, Kościelisko, Poronin", "nazwa" : "Tatry", "powiat" : "nowosądecki", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 111519.5, "gmina" : "Czarna, Lutowiska, Baligród, Cisna, Komańcza, Zagórz, Solina", "nazwa" : "Bieszczady", "powiat" : "krośnieński", "wojewodztwo" : "podkarpackie"}
+{"powierzchnia" : 33297.4, "gmina" : "Kostrzyn nad Odrą, Bogdaniec, Witnica, Górzyca, Krzeszyce, Słońsk", "nazwa" : "Ujście Warty", "powiat" : "gorzowski", "wojewodztwo" : "lubuskie"}
+{"powierzchnia" : 37640.5, "gmina" : "Czosnów, Leoncin, Brochów, Izabelin, Kampinos, Leszno, Stare Babice, Łomianki", "nazwa" : "Puszcza Kampinoska", "powiat" : "warszawski-wschodni, warszawski-zachodni", "wojewodztwo" : "mazowieckie"}
+{"powierzchnia" : 63147.6, "gmina" : "Białowieża, Dubicze Cerkiewne, Hajnówka, Narew, Narewka", "nazwa" : "Puszcza Białowieska", "powiat" : "hajnowski", "wojewodztwo" : "podlaskie"}
+{"powierzchnia" : 139.7, "gmina" : "Dobra (Szczecińska)", "nazwa" : "Jezioro Stolsko", "powiat" : "szczeciński", "wojewodztwo" : "zachodniopomorskie"}
+{"powierzchnia" : 55516.8, "gmina" : "Cieszków, Krośnice, Milicz, Twardogóra, Trzebnica, Żmigród", "nazwa" : "Dolina Baryczy", "powiat" : "milicki, oleśnicki, trzebnicki", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 19999.3, "gmina" : "Jelcz-Laskowice, Oława, Czernica, Siechnice, miasto Wrocław", "nazwa" : "Grądy Odrzańskie", "powiat" : "oławski, wrocławski, miasto Wrocław", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 4605.4, "gmina" : "Gaworzyce, Przemków", "nazwa" : "Stawy Przemkowskie", "powiat" : "polkowski", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 1193.9, "gmina" : "Mietków", "nazwa" : "Zbiornik Mietkowski", "powiat" : "wrocławski", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 172093.4, "gmina" : "Bolesławiec, Gromadka, Nowogrodziec, Osiecznica, Chojnów, Chocianów, Przemków, Radwanice, Pieńsk, Węgliniec", "nazwa" : "Bory Dolnośląskie", "powiat" : "bolesławiecki, legnicki, polkowicki, zgorzelecki", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 19816.7, "gmina" : "Duszniki-Zdrój, Kudowa-Zdrój, Lewin Kłodzki, Radków, Szczytna", "nazwa" : "Góry Stołowe", "powiat" : "kłodzki", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 18578.4, "gmina" : "Karpacz, Kowary, Piechowice, Szklarska Poręba, Podgórzyn, Kamienna Góra, Lubawka, Jelenia Góra", "nazwa" : "Karkonosze", "powiat" : "jeleniogórski, kamiennogórski, miasto Jelenia Góra", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 17999.4, "gmina" : "Głogów, Pęcław, Jemielno, Niechlów, Prochowice, Rudna, Ścinawa, Malczyce, Miękinia, Środa Śląska, Brzeg Dolny, Wińsko, Wołów", "nazwa" : "Łęgi Odrzańskie", "powiat" : "głogowski, górowski, legnicki, lubiński, średzki, wołowski", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 20346.5, "gmina" : "Piechowice, Szklarska Poręba, Stara Kamienica, Świeradów-Zdrój, Mirsk", "nazwa" : "Góry Izerskie", "powiat" : "jeleniogórski, lubański, lwówecki", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 31577.9, "gmina" : "Kamienna Góra, Lubawka, Nowa Ruda, Boguszów-Gorce, Jedlina-Zdrój, Szczawno-Zdrój, Czarny Bór, Głuszyca, Mieroszów, Stare Bogaczowice, Wałbrzych ", "nazwa" : "Sudety Wałbrzysko-Kamiennogórskie", "powiat" : "kamieniogorski, kłodzki, wałbrzyski", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 4437.9, "gmina" : "Baruchowo, Kowal", "nazwa" : "Błota Rakutowskie", "powiat" : "włocławski", "wojewodztwo" : "kujawsko-pomorskie"}
+{"powierzchnia" : 3366.1, "gmina" : "Brodnica, Brzozie, Bartniczka", "nazwa" : "Bagienna Dolina Drwęcy", "powiat" : "bydgosko-toruński", "wojewodztwo" : "kujawsko-pomorskie"}
+{"powierzchnia" : 33559, "gmina" : "Ciechocinek, Nieszawa, Aleksandrów Kujawski ,Raciążek, Waganiec, Dąbrowa Chełmińska, Dobrcz, Osielsko, Solec Kujawski, Chełmno, Unisław, Grudziądz, Bobrowniki, Dragacz, Nowe, Pruszcz, Świecie,Czernikowo, Lubicz, Obrowo, Wielka Nieszawka,Zławieś Wielka... ", "nazwa" : "Dolina Dolnej Wisły", "powiat" : "bydgosko-toruński, włocławski, gdański, starogardzki", "wojewodztwo" : "kujawsko-pomorskie"}
+{"powierzchnia" : 9815.8, "gmina" : "Kruszwica, Jeziora Wielkie, Piotrków Kujawski, Skulsk", "nazwa" : "Ostoja Nadgoplańska", "powiat" : "koniński, włocławski", "wojewodztwo" : "kujawsko-pomorskie"}
+{"powierzchnia" : 166.3, "gmina" : "Włocławek", "nazwa" : "Żwirownia Skoki", "powiat" : "włocławski", "wojewodztwo" : "kujawsko-pomorskie"}
+{"powierzchnia" : 2187.6, "gmina" : "Sawin, Wierzbica, Hańsk, Urszulin", "nazwa" : "Bagno Bubnów", "powiat" : "bialski, chełmsko-zamojski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 4309.4, "gmina" : "Chełm, Dorohusk, Kamień, Ruda-Huta", "nazwa" : "Chełmskie Torfowiska Węglanowe", "powiat" : "chełmsko-zamojski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 28096.6, "gmina" : "Kodeń, Sławatycze, Terespol, Dorohusk, Dubienka, Ruda-Huta, Hrubieszów, Dołhobyczów, Horodło, Mircze, Włodawa, Hanna", "nazwa" : "Dolina Środkowego Bugu", "powiat" : "bialski, chełmsko-zamojski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 7363.7, "gmina" : "Firlej, Kock, Ostrów Lubelski, Ostrówek, Parczew, Siemień, Borki, Czemierniki, Radzyń Podlaski, Wohyń, Gaworzyce, Przemków, Radwanice, Niegosławice", "nazwa" : "Dolina Tyśmienicy", "powiat" : "bialski, lubelski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 60235.7, "gmina" : "Biłgoraj, Frampol, Dzwola, Janów Lubelski, Modliborzyce, Potok Wielki, Annopol, Gościeradów, Jarocin, Pysznica, Radomyśl nad Sanem, Zaklików", "nazwa" : "Lasy Janowskie", "powiat" : "chełmsko-zamojski, puławski, tarnobrzeski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 14024.3, "gmina" : "Ostrów Lubelski, Uścimów, Dębowa Kłoda, Parczew, Sosnowica", "nazwa" : "Lasy Parczewskie", "powiat" : "bialski, lubelski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 8749.5, "gmina" : "Białopole, Dubienka, Horodło, Hrubieszów", "nazwa" : "Lasy Strzeleckie", "powiat" : "chełmsko-zamojski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 79349.1, "gmina" : "Aleksandrów, Biłgoraj, Frampol, Józefów, Księżpol, Łukowa, Obsza, Tereszpol, Susiec, Radecznica, Cieszanów, Narol, Harasiuki", "nazwa" : "Puszcza Solska", "powiat" : "chełmsko-zamojski, przemyski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 11488.4, "gmina" : "Łuków, Stanin, Stoczek Łukowski, Domanice, Wiśniew", "nazwa" : "Lasy Łukowskie", "powiat" : "ostrołęcko-siedlecki, lubelski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 11029.4, "gmina" : "Mircze, Werbkowice, Tyszowce, Komarów-Osada", "nazwa" : "Ostoja Tyszowiecka", "powiat" : "chełmsko-zamojski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 103503.3, "gmina" : "Aleksandrów, Józefów, Tereszpol, Tomaszów Lubelski, Bełżec, Lubycza Królewska, Susiec ,Tarnawatka, Adamów, Krasnobród, Szczebrzeszyn, Zamość, Zwierzyniec, Horyniec-Zdrój, Narol", "nazwa" : "Roztocze", "powiat" : "chełmsko-zamojski, przemyski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 1907, "gmina" : "Łabunie, Zamość", "nazwa" : "Dolina Górnej Łabuńki", "powiat" : "chełmsko-zamojski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 5061.7, "gmina" : "Sosnówka, Podedwórze, Wyryki", "nazwa" : "Uroczysko Mosty-Zahajki", "powiat" : "bialski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 283.7, "gmina" : "Wisznice, Jabłoń, Podedwórze", "nazwa" : "Zbiornik Podedwórze", "powiat" : "bialski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 326.2, "gmina" : "Zakrzew", "nazwa" : "Staw Boćków", "powiat" : "chełmsko-zamojski, lubelski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 6504.6, "gmina" : "Jarczów, Łaszczów, Rachanie, Telatyn, Tyszowce, Ulhówek", "nazwa" : "Zlewnia Górnej Huczwy", "powiat" : "chełmsko-zamojski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 2557.2, "gmina" : "Jarczów, Lubycza Królewska, Ulhówek", "nazwa" : "Dolina Szyszły", "powiat" : "chełmsko-zamojski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 18030.9, "gmina" : "Cyców, Ludwin, Puchaczów, Sosnowica, Stary Brus, Urszulin", "nazwa" : "Polesie", "powiat" : "bialski, lubelski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 3135.3, "gmina" : "Nielisz, Radecznica, Sułów", "nazwa" : "Ostoja Nieliska", "powiat" : "chełmsko-zamojski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 13667.8, "gmina" : "Bełżec, Jarczów, Lubycza Królewska, Tomaszów Lubelski", "nazwa" : "Dolina Sołokiji", "powiat" : "chełmsko-zamojski", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 26505.6, "gmina" : "Kłodawa, Santok, Strzelce Krajeńskie, Zwierzyn, Pełczyce, Barlinek, Nowogródek Pomorski", "nazwa" : "Puszcza Barlinecka", "powiat" : "starogardzki, gorzowski", "wojewodztwo" : "lubuskie"}
+{"powierzchnia" : 24943.6, "gmina" : "Deszczno, Santok, Drezdenko, Stare Kurowo, Zwierzyn, Gorzów Wielkopolski", "nazwa" : "Dolina Dolnej Noteci", "powiat" : "gorzowski", "wojewodztwo" : "lubuskie"}
+{"powierzchnia" : 33677.8, "gmina" : "Żukowice, Bytom Odrzański, Siedlisko, Dąbie, Gubin, Krosno Odrzański, Maszewo, Nowa Sól, Otyń, Cybinka, Słubice, Bojadła, Czerwieńsk, Sulechów, Trzebiechów, Zabór, Zielona Góra", "nazwa" : "Dolina Środkowej Odry", "powiat" : "gorzowski, zielonogórski", "wojewodztwo" : "lubuskie"}
+{"powierzchnia" : 14793.3, "gmina" : "Międzyrzecz, Przytoczna, Pszczew, Trzciel, Zbąszynek, Miedzichowo, Zbąszyń, Siedlec", "nazwa" : "Jeziora Pszczewskie i Dolina Obry", "powiat" : "leszczyński, gorzowski", "wojewodztwo" : "lubuskie"}
+{"powierzchnia" : 23412.4, "gmina" : "Uniejów, Bedlno, Krzyżanów, Kutno, Łęczyca, Góra Świętej Małgorzaty, Grabów, Piątek, Świnice Warckie, Witonia, Łowicz, Bielawy, Domaniewice, Zduny, Dąbie", "nazwa" : "Pradolina Warszawsko-Berlińska", "powiat" : "sieradzki, skierniewicki, koniński", "wojewodztwo" : "łódzkie"}
+{"powierzchnia" : 10186.1, "gmina" : "Pęczniew, Zadzim, Sieradz, Warta, Dobra", "nazwa" : "Zbiornik Jeziorsko", "powiat" : "łódzki, koniński", "wojewodztwo" : "łódzkie"}
+{"powierzchnia" : 6824.9, "gmina" : "Kamienica, Mszana Dolna, Niedźwiedź, Nowy Targ, Ochotnica Dolna, Rabka-Zdróji", "nazwa" : "Gorce", "powiat" : "nowosądecki", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 11762.3, "gmina" : "Bochnia, Drwinia, Kłaj, Niepołomice", "nazwa" : "Puszcza Niepołomicka", "powiat" : "krakowski", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 4023.6, "gmina" : "Oświęcim, Brzeszcze, Kęty, Osiek, Oświęcim, Wilamowice", "nazwa" : "Dolina Dolnej Soły", "powiat" : "krakowski, bielski", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 7081.7, "gmina" : "Alwernia, Babice, Oświęcim, Przeciszów, Zator, Spytkowice, Tomice, Wadowice, Wieprz", "nazwa" : "Dolina Dolnej Skawy", "powiat" : "krakowski, nowosądecki", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 1190.1, "gmina" : "Jabłonka, Bystra-Sidzina, Zawoja", "nazwa" : "Pasmo Policy", "powiat" : "nowosądecki", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 8218.5, "gmina" : "Czarny Dunajec, Jabłonka, Nowy Targ, Szaflary", "nazwa" : "Torfowiska Orawsko-Nowotarskie", "powiat" : "nowosądecki", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 2336.4, "gmina" : "Czorsztyn, Krościenko nad Dunajcem, Szczawnica", "nazwa" : "Pieniny", "powiat" : "nowosądecki", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 3065.9, "gmina" : "Brzeszcze, Oświęcim, Wilamowice, Miedźna, Bieruń, Bojszowy, Bestwina", "nazwa" : "Stawy w Brzeszczach", "powiat" : "krakowski, bielski, katowicki", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 4915.6, "gmina" : "Jabłonka, Lipnica Wielka, Zawoja", "nazwa" : "Babia Góra", "powiat" : "nowosądecki, oświęcimski", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 74309.9, "gmina" : "Janów Podlaski, Konstantynów, Rokitno, Terespol, Sarnaki, Mielnik ,Serock, Platerów, Brok, Małkinia Górna, Nur, Zaręby Kościelne, Korczew, Ceranów, Jabłonna Lacka, Repki, Sterdyń, Kosów Lacki, Łochów, Sadowne, Dąbrówka, Brańszczyk, Somianka, Wyszków...", "nazwa" : "Dolina Dolnego Bugu", "powiat" : "ostrołęcko-siedlecki, warszawski-wschodni, bialski, łomżyński", "wojewodztwo" : "mazowieckie"}
+{"powierzchnia" : 27431.5, "gmina" : "Olszanka, Zbuczyn, Mokobody, Mordy, Siedlce, Suchożebry, Węgrów, Grębków, Korytnica, Liw, Łochów, Wierzbno, Jadów, Wyszków", "nazwa" : "Dolina Liwca", "powiat" : "ostrołęcko-siedlecki, warszawski-wschodni", "wojewodztwo" : "mazowieckie"}
+{"powierzchnia" : 35356.3, "gmina" : "Poświętne, Rzeczyca, Mogielnica, Nowe Miasto nad Pilicą, Odrzywół, Białobrzegi, Promna, Stromiec, Wyśmierzyce, Warka, Grabów nad Pilicą, Klwów, Magnuszew", "nazwa" : "Dolina Pilicy", "powiat" : "piotrkowski, radomski, warszawski-zachodni", "wojewodztwo" : "mazowieckie"}
+{"powierzchnia" : 30777.9, "gmina" : "Puławy, Dęblin, Stężyca, Maciejowice, Gniewoszów, Sieciechów, Iłów, Wilga, Warka, Jabłonna, Kozienice, Nowy Dwór Mazowiecki, Czosnów, Leoncin, Zakroczym, Józefów, Otwock, Karczew, Sobienie-Jeziory, Góra Kalwaria, Konstancin-Jeziorna, Bodzanów, Gąbin...   ", "nazwa" : "Dolina Środkowej Wisły", "powiat" : "ciechanowsko-płocki, radomski, warszawski-wschodni, warszawski-zachodni, puławski", "wojewodztwo" : "mazowieckie"}
+{"powierzchnia" : 34386.7, "gmina" : "Baranowo, Czarnia, Kadzidło, Lelis, Myszyniec, Olszewo-Borki, Chorzele, Jednorożec, Ostrołęka, Wielbark", "nazwa" : "Doliny Omulwi i Płodownicy", "powiat" : "ostrołęcko-siedlecki, olsztyński", "wojewodztwo" : "mazowieckie"}
+{"powierzchnia" : 6972.8, "gmina" : "Annopol, Józefów nad Wisłą, Łaziska, Wilków, Janowiec, Kazimierz Dolny, Chotcza, Solec nad Wisłą, Przyłęk, Ożarów, Tarłów", "nazwa" : "Małopolski Przełom Wisły", "powiat" : "radomski, puławski, sandomiersko-jędrzejowski", "wojewodztwo" : "mazowieckie"}
+{"powierzchnia" : 83779.7, "gmina" : "Serock, Goworowo, Ostrów Mazowiecka, Brok, Małkinia Górna, Stary Lubotyń, Wąsewo, Obryte, Pułtusk, Zatory, Brańszczyk, Długosiodło, Rząśnik, Somianka, Wyszków", "nazwa" : "Puszcza Biała", "powiat" : "ostrołęcko-siedlecki", "wojewodztwo" : "mazowieckie"}
+{"powierzchnia" : 28751.5, "gmina" : "Lubowidz, Lutocin, Lidzbark, Lipowiec Kościelny, Radzanów, Szreńsk, Wiśniewo, Bieżuń, Siemiątkowo, Żuromin, Działdowo, Płośnica", "nazwa" : "Doliny Wkry i Mławki", "powiat" : "ciechanowsko-płocki, elbląski", "wojewodztwo" : "mazowieckie"}
+{"powierzchnia" : 14376.1, "gmina" : "Wodynie, Mrozy, Kotuń, Skórzec, Grębków", "nazwa" : "Dolina Kostrzynia", "powiat" : "ostrołęcko-siedlecki, warszawski-wschodni", "wojewodztwo" : "mazowieckie"}
+{"powierzchnia" : 4214.9, "gmina" : "Celestynów, Karczew, Osieck, Sobienie-Jeziory", "nazwa" : "Bagno Całowanie", "powiat" : "warszawski-wschodni", "wojewodztwo" : "mazowieckie"}
+{"powierzchnia" : 68301.2, "gmina" : "Kozienice, Gniewoszów, Sieciechów, Policzna, Garbatka-Letnisko, Głowaczów, Pionki, Gózd, Jastrzębia, Jedlnia-Letnisko, Pionki, Tczów, Zwoleń, Radom", "nazwa" : "Ostoja Kozienicka", "powiat" : "radomski", "wojewodztwo" : "mazowieckie"}
+{"powierzchnia" : 26527.9, "gmina" : "Młynarze, Różan, Rzewnie, Szelków, Goworowo, Lelis, Olszewo-Borki, Rzekuń, Obryte, Pułtusk, Długosiodło, Rząśnik, Ostrołęka, Miastkowo, Zbójna, Mały Płock, Łomża, Nowogród, Piątnica", "nazwa" : "Dolina Dolnej Narwi", "powiat" : "ostrołęcko-siedlecki, łomżyński", "wojewodztwo" : "mazowieckie"}
+{"powierzchnia" : 412.4, "gmina" : "Długosiodło, Rząśnik", "nazwa" : "Bagno Pulwy", "powiat" : "wyszkowski", "wojewodztwo" : "mazowieckie"}
+{"powierzchnia" : 2127.8, "gmina" : "Otmuchów, Nysa", "nazwa" : "Zbiornik Nyski", "powiat" : "nyski", "wojewodztwo" : "opolskie"}
+{"powierzchnia" : 2027, "gmina" : "Ziębice, Otmuchów, Paczków", "nazwa" : "Zbiornik Otmuchowski", "powiat" : "opolski", "wojewodztwo" : "opolskie"}
+{"powierzchnia" : 2124.9, "gmina" : "Ozimek, Turawa", "nazwa" : "Zbiornik Turawski", "powiat" : "opolski", "wojewodztwo" : "opolskie"}
+{"powierzchnia" : 65366.3, "gmina" : "Ustrzyki Dolne, Rokietnica, Roźwienica, Bircza, Dubiecko, Fredropol, Krasiczyn, Krzywcza, Przemyśl, Żurawica, Dynów", "nazwa" : "Pogórze Przemyskie", "powiat" : "przemyski, rzeszowski", "wojewodztwo" : "podkarpackie"}
+{"powierzchnia" : 151966.6, "gmina" : "Gorlice, Lipinki, Ropa, Sękowa, Uście Gorlickie, Grybów, Kamionka Wielka, Krynica-Zdrój, Łabowa, Nawojowa, Dębowiec, Krempna, Nowy Żmigród, Osiek Jasielski, Dukla, Iwonicz-Zdrój, Rymanów, Bukowsko, Komańcza, Zarszyn", "nazwa" : "Beskid Niski", "powiat" : "nowosądecki, krośnieński", "wojewodztwo" : "podkarpackie"}
+{"powierzchnia" : 55036.9, "gmina" : "Ustrzyki Dolne, Lesko, Bircza, Fredropol, Sanok, Tyrawa Wołoska, Olszanica", "nazwa" : "Góry Słonne", "powiat" : "krośnieński", "wojewodztwo" : "podkarpackie"}
+{"powierzchnia" : 129115.6, "gmina" : "Cmolas, Kolbuszowa, Majdan Królewski, Niwiska, Raniżów, Dzikowiec, Mielec, Padew Narodowa, Tuszów Narodowy, Jeżowe, Nisko, Sędziszów Małopolski, Głogów Małopolski, Kamień, Sokołów Małopolski, Świlcza, Stalowa Wola, Bojanów, Zaleszany, Grębów...", "nazwa" : "Puszcza Sandomierska", "powiat" : "rzeszowski, tarnobrzeski", "wojewodztwo" : "podkarpackie"}
+{"powierzchnia" : 23471.1, "gmina" : "Choroszcz, Łapy, Suraż, Turośń Kościelna Tykocin, Suraż, Kobylin-Borzymy, Sokoły", "nazwa" : "Bagienna Dolina Narwi", "powiat" : "białostocki, łomżyński", "wojewodztwo" : "podlaskie"}
+{"powierzchnia" : 134377.7, "gmina" : "Giby, Augustów, Lipsk, Nowinka, Płaska, Sztabin, Krasnopol, Sejny, Raczki, Suwałki, Szypliszki", "nazwa" : "Puszcza Augustowska", "powiat" : "suwalski", "wojewodztwo" : "podlaskie"}
+{"powierzchnia" : 139590.2, "gmina" : "Czarna Białostocka, Dobrzyniewo Duże, Gródek, Michałowo, Supraśl, Wasilków, Zabłudów, Jasionówka, Knyszyn, Janów, Korycin, Krynki, Sokółka, Szudziałowo", "nazwa" : "Puszcza Knyszyńska", "powiat" : "białostocki, suwalski", "wojewodztwo" : "podlaskie"}
+{"powierzchnia" : 3995.1, "gmina" : "Boćki, Orla, Kleszczele", "nazwa" : "Dolina Górnego Nurca", "powiat" : "białostocki", "wojewodztwo" : "podlaskie"}
+{"powierzchnia" : 14471, "gmina" : "Zawady,Łomża, Wizna, Trzcianne, Rutki", "nazwa" : "Bagno Wizna", "powiat" : "białostocki, łomżyński", "wojewodztwo" : "podlaskie"}
+{"powierzchnia" : 148508.8, "gmina" : "Augustów, Bargłów Kościelny, Lipsk, Sztabin, Tykocin, Zawady, Grajewo, Radziłów, Rajgród, Jedwabne, Wizna, Goniądz, Jaświły, Mońki,Trzcianne, Dąbrowa Białostocka, Nowy Dwór, Suchowola, Rutki", "nazwa" : "Ostoja Biebrzańska", "powiat" : "białostocki, łomżyński, suwalski", "wojewodztwo" : "podlaskie"}
+{"powierzchnia" : 18384.1, "gmina" : "Juchnowiec Kościelny, Łapy, Michałowo, Poświętne, Suraż, Zabłudów, Bielsk Podlaski, Wyszki, Czyże, Narew, Narewka", "nazwa" : "Dolina Górnej Narwi", "powiat" : "białostocki, łomżyński", "wojewodztwo" : "podlaskie"}
+{"powierzchnia" : 7649.2, "gmina" : "Łomża, Piątnica, Wizna", "nazwa" : "Przełomowa Dolina Narwi", "powiat" : "białostocki, łomżyński, suwalski", "wojewodztwo" : "podlaskie"}
+{"powierzchnia" : 37106.2, "gmina" : "Chojnice, Lipnica, Studzienice, Brusy, Konarzyny", "nazwa" : "Wielki Sandr Brdy", "powiat" : "słupski", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 21819.4, "gmina" : "Łeba, Wicko, Główczyce, Smołdzino, Ustka", "nazwa" : "Pobrzeże Słowińskie", "powiat" : "słupski", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 1748.1, "gmina" : "Stegna, Gdańsk", "nazwa" : "Ujście Wisły", "powiat" : "trójmiejski, gdański", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 62430.4, "gmina" : "obszar morski poza NUTS", "nazwa" : "Zatoka Pucka", "powiat" : "obszar morski poza NUTS", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 8565.3, "gmina" : "Choczewo, Gniewino, Luzino, Łęczyce", "nazwa" : "Lasy Lęborskie", "powiat" : "gdański", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 6452.6, "gmina" : "Puck, Reda, Wejherowo", "nazwa" : "Puszcza Darżlubska", "powiat" : "gdański", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 8232.4, "gmina" : "Chmielno, Kartuzy, Sierakowice, Linia", "nazwa" : "Lasy Mirachowskie", "powiat" : "gdański", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 322535.9, "gmina" : "Drzycim, Jeżewo, Lniano, Nowe, Osie, Warlubie, Cekcyn, Gostycyn, Kęsowo, Lubiewo, Śliwice, Tuchola, Chojnice, Czersk, Osieczna, Osiek, Smętowo Graniczne, Bytów, Lipnica, Parchowo, Studzienice, Brusy, Czersk, Konarzyny, Kościerzyna, Dziemiany, Karsin...  ", "nazwa" : "Bory Tucholskie", "powiat" : "bydgosko-toruński, słupski, gdański", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 1101.3, "gmina" : "Władysławowo, Krokowa, Puck", "nazwa" : "Bielawskie Błota", "powiat" : "gdański", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 24740.2, "gmina" : "Czechowice-Dziedzice, Jasienica, Chybie, Dębowiec, Hażlach, Skoczów, Strumień, Pszczyna, Goczałkowice-Zdrój", "nazwa" : "Dolina Górnej Wisły", "powiat" : "bielski, tyski", "wojewodztwo" : "śląskie"}
+{"powierzchnia" : 34988.8, "gmina" : "Rajcza, Jeleśnia, Milówka, Radziechowy-Wieprz, Świnna, Ujsoły, Węgierska Górka", "nazwa" : "Beskid Żywiecki", "powiat" : "bielski", "wojewodztwo" : "śląskie"}
+{"powierzchnia" : 914.5, "gmina" : "Krzyżanowice, Lubomia", "nazwa" : "Stawy Wielikąt i Las Tworkowski", "powiat" : "rybnicki", "wojewodztwo" : "śląskie"}
+{"powierzchnia" : 19956.1, "gmina" : "Nowy Korczyn, Opatowiec, Busko-Zdrój, Wiślica, Imielno, Sobków, Chęciny, Kije, Michałów, Pińczów, Złota", "nazwa" : "Dolina Nidy", "powiat" : "sandomiersko-jędrzejowski", "wojewodztwo" : "świętokrzyskie"}
+{"powierzchnia" : 4080.8, "gmina" : "Miłki, Mikołajki, Orzysz", "nazwa" : "Bagna Nietlickie", "powiat" : "olsztyński, ełcki", "wojewodztwo" : "warmińsko-mazurskie"}
+{"powierzchnia" : 20669.9, "gmina" : "Braniewo, Płoskinia, Wilczęta, Godkowo, Lubomino, Orneta, Gietrzwałd, Jonkowo, Olsztynek, Stawiguda, Świątki, Łukta, Miłakowo", "nazwa" : "Dolina Pasłęki", "powiat" : "elbląski, olsztyński", "wojewodztwo" : "warmińsko-mazurskie"}
+{"powierzchnia" : 1380.2, "gmina" : "Mikołajki", "nazwa" : "Jezioro Łuknajno", "powiat" : "olsztyński", "wojewodztwo" : "warmińsko-mazurskie"}
+{"powierzchnia" : 2516.1, "gmina" : "Srokowo, Węgorzewo", "nazwa" : "Jezioro Oświn i okolice", "powiat" : "olsztyński, ełcki", "wojewodztwo" : "warmińsko-mazurskie"}
+{"powierzchnia" : 25218.5, "gmina" : "Stary Dzierzgoń, Susz, Zalewo, Iława", "nazwa" : "Lasy Iławskie", "powiat" : "elbląski, starogardzki", "wojewodztwo" : "warmińsko-mazurskie"}
+{"powierzchnia" : 18962.8, "gmina" : "Kowale Oleckie, Gołdap, Banie Mazurskie, Kruklanki, Pozezdrze, Wydminy, Świętajno", "nazwa" : "Puszcza Borecka", "powiat" : "ełcki", "wojewodztwo" : "warmińsko-mazurskie"}
+{"powierzchnia" : 116604.7, "gmina" : "Chorzele, Janowo, Wielbark, Nidzica, Olsztynek, Purda, Stawiguda, Szczytno, Dźwierzuty, Jedwabno, Pasym", "nazwa" : "Puszcza Napiwodzko-Ramucka", "powiat" : "olsztyński", "wojewodztwo" : "warmińsko-mazurskie"}
+{"powierzchnia" : 172802.2, "gmina" : "Łyse, Turośl, Pisz, Rozogi, Kolno, Mikołajki, Mrągowo, Piecki, Sorkwity, Biskupiec, Orzysz, Ruciane-Nida, Dźwierzuty, Szczytno, Świętajno", "nazwa" : "Puszcza Piska", "powiat" : "łomżyński, olsztyński, ełcki", "wojewodztwo" : "warmińsko-mazurskie"}
+{"powierzchnia" : 32224.1, "gmina" : "obszar morski poza NUTS", "nazwa" : "Zalew Wiślany", "powiat" : "obszar morski poza NUTS", "wojewodztwo" : "warmińsko-mazurskie"}
+{"powierzchnia" : 12644.7, "gmina" : "Banie Mazurskie, Budry", "nazwa" : "Lasy Skaliskie", "powiat" : "ełcki", "wojewodztwo" : "warmińsko-mazurskie"}
+{"powierzchnia" : 6985.3, "gmina" : "Giżycko, Ryn, Kętrzyn, Węgorzewo", "nazwa" : "Jezioro Dobskie", "powiat" : "olsztyński, ełcki", "wojewodztwo" : "warmińsko-mazurskie"}
+{"powierzchnia" : 5995.7, "gmina" : "Elbląg, Markusy", "nazwa" : "Jezioro Drużno", "powiat" : "elbląski", "wojewodztwo" : "warmińsko-mazurskie"}
+{"powierzchnia" : 21208, "gmina" : "Pisz, Biała Piska, Ełk, Orzysz", "nazwa" : "Ostoja Poligon Orzysz", "powiat" : "ełcki", "wojewodztwo" : "warmińsko-mazurskie"}
+{"powierzchnia" : 145342, "gmina" : "Braniewo, Bartoszyce, Górowo Iławeckie, Sępopol, Lelkowo, Pieniężno, Płoskinia, Barciany, Korsze, Srokowo, Kiwity, Lidzbark Warmiński, Węgorzewo", "nazwa" : "Ostoja Warmińska", "powiat" : "elbląski, olsztyński", "wojewodztwo" : "warmińsko-mazurskie"}
+{"powierzchnia" : 32672.1, "gmina" : "Białe Błota, Sicienko, Kcynia, Nakło nad Notecią, Sadki, Szubin, Bydgoszcz, Wyrzysk, Gołańcz, Chodzież, Szamocin, Białośliwie, Kaczory, Miasteczko Krajeńskie, Ujście", "nazwa" : "Dolina Środkowej Noteci i Kanału Bydgoskiego", "powiat" : "pilski, bydgosko-toruński, włocławski", "wojewodztwo" : "wielkopolskie"}
+{"powierzchnia" : 57104.4, "gmina" : "Poddębice, Uniejów, Dąbie, Brudzew, Dobra, Przykona, Żerków, Koło, Kościelec, Osiek Mały, Golina, Kramsk, Krzymów, Rzgów, Sompolno, Stare Miasto, Lądek, Zagórów, Kołaczkowo, Miłosław, Pyzdry, Konin, Krzykosy, Nowe Miasto nad Wartą, Środa Wielkopolska", "nazwa" : "Dolina Środkowej Warty", "powiat" : "sieradzki, koniński, kaliski, poznański", "wojewodztwo" : "wielkopolskie"}
+{"powierzchnia" : 16058.1, "gmina" : "Czarnków, Trzcianka, Wieleń, Ujście", "nazwa" : "Nadnoteckie Łęgi", "powiat" : "pilski", "wojewodztwo" : "wielkopolskie"}
+{"powierzchnia" : 23431.1, "gmina" : "Wolsztyn, Rakoniewice, Kamieniec, Wielichowo, Kościan, Śmigiel, Przemęt", "nazwa" : "Wielki Łęg Obrzański", "powiat" : "leszczyński", "wojewodztwo" : "wielkopolskie"}
+{"powierzchnia" : 2802.1, "gmina" : "Osieczna, Kościan, Krzywiń, Śmigiel", "nazwa" : "Zbiornik Wonieść", "powiat" : "leszczyński", "wojewodztwo" : "wielkopolskie"}
+{"powierzchnia" : 1252.4, "gmina" : "Kiszkowo, Kłecko", "nazwa" : "Dolina Małej Wełny pod Kiszkowem", "powiat" : "koniński", "wojewodztwo" : "wielkopolskie"}
+{"powierzchnia" : 34245.3, "gmina" : "Cieszków, Sulmierzyce, Zduny, Odolanów, Ostrów Wielkopolski, Krotoszyn, Rozdrażew, Raszków, Dobrzyca, Pleszew", "nazwa" : "Dąbrowy Krotoszyńskie", "powiat" : "kaliski", "wojewodztwo" : "wielkopolskie"}
+{"powierzchnia" : 552.8, "gmina" : "Lwówek", "nazwa" : "Jezioro Zgierzynieckie", "powiat" : "leszczyński", "wojewodztwo" : "wielkopolskie"}
+{"powierzchnia" : 39144.8, "gmina" : "Sława,Wschowa,Święciechowa, Kolsko, Nowa Sól, Wijewo, Śmigiel, Włoszakowice, Przemęt", "nazwa" : "Pojezierze Sławskie", "powiat" : "leszczyński, zielonogórski", "wojewodztwo" : "wielkopolskie"}
+{"powierzchnia" : 77678.9, "gmina" : "Szydłowo,Piła,Ujście, Kaczory, Jastrowie, Tarnówka,Krajenka (woj. wielkopolskie); Wałcz, Tuczno, Mirosławiec  (woj. zachodniopomorskie)", "nazwa" : "Puszcza nad Gwdą", "powiat" : "pilski, złotowski (woj. wielkopolskie, ); wałecki (woj. zachodnipomorskie)", "wojewodztwo" : "wielkopolskie"}
+{"powierzchnia" : 2391, "gmina" : "Oborniki, Rokietnica, Suchy Las, Poznań", "nazwa" : "Dolina Samicy", "powiat" : "poznański", "wojewodztwo" : "wielkopolskie"}
+{"powierzchnia" : 178255.8, "gmina" : "Pszczew, Skwierzyna, Przytoczna, Drezdenko, Wronki, Obrzycko, Pniewy, Oborniki, Ryczywół, Rogoźno, Drawsko, Wieleń, Połajewo, Lubasz, Santok   ", "nazwa" : "Puszcza Notecka", "powiat" : "międzyrzecki, międzychodzki, szamotulski, obornicki , czarnkowsko-trzcianecki, gorzowski      ", "wojewodztwo" : "wielkopolskie"}
+{"powierzchnia" : 21763.1, "gmina" : "Dopiewo, Komorniki, Kórnik, Mosina, Stęszew, Puszczykowo, Krzykosy, Zaniemyśl, Brodnica, Książ Wielkopolski, Śrem", "nazwa" : "Ostoja Rogalińska", "powiat" : "poznański", "wojewodztwo" : "wielkopolskie"}
+{"powierzchnia" : 4249.6, "gmina" : "Golczewo, Kamień Pomorski, Wolin", "nazwa" : "Bagna Rozwarowskie", "powiat" : "szczeciński", "wojewodztwo" : "zachodniopomorskie"}
+{"powierzchnia" : 11008.5, "gmina" : "Międzyzdroje, Świnoujście", "nazwa" : "Delta Świny", "powiat" : "szczeciński", "wojewodztwo" : "zachodniopomorskie"}
+{"powierzchnia" : 61648.4, "gmina" : "Kostrzyn nad Odrą, Boleszkowice, Goleniów, Cedynia, Chojna, Gryfino, Mieszkowice, Moryń, Widuchowa, Kołbaskowo, Szczecin", "nazwa" : "Dolina Dolnej Odry", "powiat" : "stargardzki, szczeciński", "wojewodztwo" : "zachodniopomorskie"}
+{"powierzchnia" : 16511, "gmina" : "Stargard Szczeciński, Stare Czarnowo, Bielice, Przelewice, Pyrzyce, Warnice, Kobylanka", "nazwa" : "Jezioro Miedwie i okolice", "powiat" : "stargardzki, szczeciński", "wojewodztwo" : "zachodniopomorskie"}
+{"powierzchnia" : 7196.2, "gmina" : "Dobra (Szczecińska), Police", "nazwa" : "Jezioro Świdwie", "powiat" : "szczeciński", "wojewodztwo" : "zachodniopomorskie"}
+{"powierzchnia" : 9083.4, "gmina" : "Stepnica, Wolin", "nazwa" : "Łąki Skoszewskie", "powiat" : "szczeciński", "wojewodztwo" : "zachodniopomorskie"}
+{"powierzchnia" : 87710.9, "gmina" : "Recz, Drawsko Pomorskie, Kalisz Pomorski, Chociwel, Dobrzany, Ińsko, Marianowo, Stara Dąbrowa Suchań, Łobez, Radowo Małe, Węgorzyno, Dobra", "nazwa" : "Ostoja Ińska", "powiat" : "koszaliński, stargardzki", "wojewodztwo" : "zachodniopomorskie"}
+{"powierzchnia" : 47194.6, "gmina" : "Goleniów, Stepnica, Międzyzdroje, Wolin, Nowe Warpno, Police, Świnoujście", "nazwa" : "Zalew Szczeciński", "powiat" : "szczeciński", "wojewodztwo" : "zachodniopomorskie"}
+{"powierzchnia" : 31757.6, "gmina" : "Karnice, Rewal, Trzebiatów, Dziwnów, Kamień Pomorski, Świerzno, Kołobrzeg, Siemyśl", "nazwa" : "Wybrzeże Trzebiatowskie", "powiat" : "koszaliński, stargardzki, szczeciński", "wojewodztwo" : "zachodniopomorskie"}
+{"powierzchnia" : 12506.9, "gmina" : "Dziwnów, Kamień Pomorski, Wolin", "nazwa" : "Zalew Kamieński i Dziwna", "powiat" : "szczeciński", "wojewodztwo" : "zachodniopomorskie"}
+{"powierzchnia" : 25039.2, "gmina" : "Goleniów, Przybiernów, Stepnica, Wolin, Police", "nazwa" : "Puszcza Goleniowska", "powiat" : "szczeciński", "wojewodztwo" : "zachodniopomorskie"}
+{"powierzchnia" : 14575.7, "gmina" : "Nowe Warpno, Police", "nazwa" : "Ostoja Wkrzańska", "powiat" : "policki", "wojewodztwo" : "zachodniopomorskie"}
+{"powierzchnia" : 46993.1, "gmina" : "Bogdaniec, Lubiszyn, Witnica, Gorzów Wielkopolski, Boleszkowice, Dębno, Myślibórz, Chojna, Mieszkowice,  Trzcińsko-Zdrój", "nazwa" : "Ostoja Witnicko-Dębniańska", "powiat" : "stargardzki, szczeciński, gorzowski", "wojewodztwo" : "zachodniopomorskie"}
+{"powierzchnia" : 190279, "gmina" : "Kalisz Pomorski , Drawno, Recz, Bierzwnik, Choszczno, Krzęcin, Pełczyce, Wałcz, Człopa, Tuczno, Mirosławiec  (woj. zachodniopomorskie); Strzelce Krajeńskie, Stare Kurowo, Dobiegniew, Drezdenko (woj. lubuskie); Krzyż Wielkopolski, Wieleń (woj. wielkopolskie) ", "nazwa" : "Lasy Puszczy nad Drawą", "powiat" : "drawski, choszczeński, wałecki (woj. zachodniopomorskie); strzelecko-drezdenecki (woj. lubuskie); czarnkowsko-trzcianecki (woj. wielkopolskie)  ", "wojewodztwo" : "zachodniopomorskie"}
+{"powierzchnia" : 20871.2, "gmina" : "Cedynia, Chojna, Moryń", "nazwa" : "Ostoja Cedyńska", "powiat" : "szczeciński", "wojewodztwo" : "zachodniopomorskie"}
+{"powierzchnia" : 2811.2, "gmina" : "Gryfino", "nazwa" : "Jeziora Wełtyńskie", "powiat" : "szczeciński", "wojewodztwo" : "zachodniopomorskie"}
+{"powierzchnia" : 153906.1, "gmina" : "Drawno, Miastko, Polanów, Biały Bór, Szczecinek, Czaplinek, Borne, Sulinowo, Tychowo, Drawsko Pomorskie, Kalisz Pomorski, Ostrowice, Wierzchowo, Złocieniec, Bobolice, Barwice, Grzmiąca, Brzeżno, Połczyn-Zdrój, Świdwin, Mirosławiec", "nazwa" : "Ostoja Drawska", "powiat" : "koszaliński", "wojewodztwo" : "zachodniopomorskie"}
+{"powierzchnia" : 194626.7, "gmina" : "obszar morski poza NUTS", "nazwa" : "Przybrzeżne wody Bałtyku", "powiat" : "obszar morski poza NUTS", "wojewodztwo" : "zachodniopomorskie"}
+{"powierzchnia" : 26484.8, "gmina" : "Hel, Jastarnia, Puck, Władysławowo, Kosakowo", "nazwa" : "Zatoka Pucka i Półwysep Helski", "powiat" : "obszar morski poza NUTS, gdański", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 309154.9, "gmina" : "obszar morski poza NUTS", "nazwa" : "Zatoka Pomorska", "powiat" : "obszar morski poza NUTS", "wojewodztwo" : "zachodniopomorskie"}
+{"powierzchnia" : 80050.3, "gmina" : "obszar morski poza NUTS", "nazwa" : "Ławica Słupska", "powiat" : "obszar morski poza NUTS", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 243132.7, "gmina" : "Obszar morski", "nazwa" : "Ostoja na Zatoce Pomorskiej", "powiat" : "Obszar morski", "wojewodztwo" : "zachodniopomorskie"}
+{"powierzchnia" : 3980.7, "gmina" : "Pacyna  (woj. mazowieckie), Szczawin Kościelny  (woj. mazowieckie), Żychlin - obszar wiejski (woj. łódzkie),  Kiernozia (woj. łódzkie), Zduny (woj. łódzkie) ", "nazwa" : "Doliny Przysowy i Słudwi", "powiat" : "gostyniński (woj. mazowieckie), kutnowski (woj. łódzkie), łowicki (woj. łódzkie)  ", "wojewodztwo" : "łódzkie"}
+{"powierzchnia" : 397.9, "gmina" : "Myślibórz - obszar wiejski,  Trzcińsko-Zdrój - obszar wiejski ", "nazwa" : "Jezioro Dobropolskie", "powiat" : "myśliborski, gryfiński", "wojewodztwo" : "zachodniopomorskie"}
+{"powierzchnia" : 1470.9, "gmina" : "Gryfino-obszar wiejski", "nazwa" : "Ostoja Wełtyńska", "powiat" : "gryfiński", "wojewodztwo" : "zachodniopomorskie"}
+{"powierzchnia" : 19, "gmina" : "woj. pomorskie", "nazwa" : "Bezlist koło Gniewowa", "powiat" : "woj. pomorskie", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 67.6, "gmina" : "Łosina Dolna", "nazwa" : "Białowodzka Góra nad Dunajcem", "powiat" : "nowosądecki", "wojewodztwo" : "małopolskie"}
+{"powierzchnia" : 11, "gmina" : "woj. dolnośląskie", "nazwa" : "Bór Jodłowy w Goli", "powiat" : "woj. dolnośląskie", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 99, "gmina" : "woj. opolskie", "nazwa" : "Dolina Budkowiczanki", "powiat" : "woj. opolskie", "wojewodztwo" : "opolskie"}
+{"powierzchnia" : 6, "gmina" : "woj. pomorskie", "nazwa" : "Dolina Słupi", "powiat" : "woj. pomorskie", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 386, "gmina" : "woj. warmińsko-mazurskie", "nazwa" : "Góra Dębowa koło Mławy", "powiat" : "woj. warmińsko-mazurskie", "wojewodztwo" : "warmińsko-mazurskie"}
+{"powierzchnia" : 1, "gmina" : "woj. lubuskie", "nazwa" : "Jata", "powiat" : "woj. lubuskie", "wojewodztwo" : "lubelskie"}
+{"powierzchnia" : 15, "gmina" : "woj. pomorskie", "nazwa" : "Jezioro Księże w Lipuszu", "powiat" : "woj. pomorskie", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 1834, "gmina" : "woj. pomorskie", "nazwa" : "Jezioro Wicko i Modelskie Wydmy", "powiat" : "woj. pomorskie", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 9, "gmina" : "woj. dolnośląskie", "nazwa" : "Jodłowice", "powiat" : "woj. dolnośląskie", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 8, "gmina" : "woj. wielkopolskie", "nazwa" : "Jodły Ostrzeszowskie", "powiat" : "woj. wielkopolskie", "wojewodztwo" : "wielkopolskie"}
+{"powierzchnia" : 335, "gmina" : "woj. pomorskie", "nazwa" : "Klify i Rafy Kamienne Orłowa", "powiat" : "woj. pomorskie", "wojewodztwo" : "pomorskie"}
+{"powierzchnia" : 151, "gmina" : "woj. śląskie", "nazwa" : "Lemańskie Jodły", "powiat" : "woj. śląskie", "wojewodztwo" : "śląskie"}
+{"powierzchnia" : 4, "gmina" : "woj. kujawsko-pomorskie", "nazwa" : "Leniec w Barbarce", "powiat" : "woj. kujawsko-pomorskie", "wojewodztwo" : "kujawsko-pomorskie"}
+{"powierzchnia" : 12, "gmina" : "woj. kujawsko-pomorskie", "nazwa" : "Leniec w Chorągiewce", "powiat" : "woj. kujawsko-pomorskie", "wojewodztwo" : "kujawsko-pomorskie"}
+{"powierzchnia" : 384, "gmina" : "woj. śląskie", "nazwa" : "Łąki Dąbrowskie", "powiat" : "woj. śląskie", "wojewodztwo" : "śląskie"}
+{"powierzchnia" : 36, "gmina" : "woj. śląskie", "nazwa" : "Łąki w Jaworznie", "powiat" : "woj. śląskie", "wojewodztwo" : "śląskie"}
+{"powierzchnia" : 51, "gmina" : "woj. śląskie", "nazwa" : "Łąki w Sławkowie", "powiat" : "woj. śląskie", "wojewodztwo" : "śląskie"}
+{"powierzchnia" : 306, "gmina" : "woj. lubuskie", "nazwa" : "Rynna Jezior Torzymskich", "powiat" : "woj. lubuskie", "wojewodztwo" : "lubuskie"}
+{"powierzchnia" : 2, "gmina" : "woj. podlaskie", "nazwa" : "Sasanki w Kolimagach", "powiat" : "woj. podlaskie", "wojewodztwo" : "podlaskie"}
+{"powierzchnia" : 95, "gmina" : "woj. dolnośląskie", "nazwa" : "Torfowiska nad Prosną", "powiat" : "woj. dolnośląskie", "wojewodztwo" : "dolnośląskie"}
+{"powierzchnia" : 49, "gmina" : "woj. podlaskie", "nazwa" : "Źródliska Wzgórz Sokólskich", "powiat" : "woj. podlaskie", "wojewodztwo" : "podlaskie"}
