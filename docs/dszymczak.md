@@ -1,6 +1,6 @@
 # Oczyszczanie danych
 
-### *Daniel Szymczak**
+### *Daniel Szymczak*
 
 ## Opis
 
