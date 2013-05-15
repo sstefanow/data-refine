@@ -12,7 +12,8 @@ Lista zawodników największej organizacji MMA na świecie. Dane znalezione na [
 { "_id" : ObjectId("519285b409f2c3642748395b"), "ISO" : "USA", "Name" : "Cain Velasquez", "Nickname" : null, "Wins" : 9, "Loses" : 1, "Draws" : null, "No contests" : null }
 { "_id" : ObjectId("519285b409f2c3642748395c"), "ISO" : "USA", "Name" : "Pat Barry", "Nickname" : "HD", "Wins" : 5, "Loses" : 5, "Draws" : null, "No contests" : null }
 ```
-* Plik json z danymi: [UFC_Fighters.json](/data/json/UFC_Fighters.json)
+
+Plik json z danymi: [UFC_Fighters.json](/data/json/UFC_Fighters.json)
 
 Import do mongoDB:
 
