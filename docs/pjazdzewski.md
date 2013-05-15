@@ -234,7 +234,7 @@ db.nosql.mapReduce(map, reduce, params);
 { "_id" : "CAPITA", "value" : { "count" : 1, "sum" : 3430.67, "avg" : 3430.67 } }
 ```
 
-### 3\. Dla kazdego dostawcy zbierz w pary daty jego zamowien wraz z ich wartosciami   
+### 3\. Dla kazdego dostawcy zbierz wszystkie jego zamowienia jako pary: data i wartosc 
 ```js
 var map = function() {
     emit(this.Supplier, {
