@@ -65,7 +65,7 @@ db.ceny.aggregate(
 Dane wynikowe:
 
 
-![1. agregacja - wykres](/images/dszymczak_wykres_agregacja1.png)
+![1. agregacja - wykres](https://raw.github.com/nosql/data-refine/master/images/dszymczak_wykres_agregacja1.png)
 
 
 ```json
@@ -128,7 +128,7 @@ db.census1881.aggregate(
 Dane wynikowe:
 
 
-![2. agregacja - wykres](/images/dszymczak_wykres_agregacja2.png)
+![2. agregacja - wykres](https://raw.github.com/nosql/data-refine/master/images/dszymczak_wykres_agregacja2.png)
 
 
 ```json
@@ -174,7 +174,7 @@ db.car_market.aggregate(
 Dane wynikowe:
 
 
-![3. agregacja - wykres](/images/dszymczak_wykres_agregacja3.png)
+![3. agregacja - wykres](https://raw.github.com/nosql/data-refine/master/images/dszymczak_wykres_agregacja3.png)
 
 
 ```json
