@@ -190,6 +190,8 @@ Województwo: świętokrzyskie, 4819 wpisów.
 Województwo: opolskie, 3823 wpisów.
 Województwo: lubuskie, 2687 wpisów.
 ```
+![](../images/dsawa/voivoidships_grouped.png)
+
 
 * Średnia ilość wpisów dla miasta wg województw.
 
@@ -211,6 +213,7 @@ Miasto w województwie: lubelskie, posiada średnio 1.71 wpisów.
 Miasto w województwie: świętokrzyskie, posiada średnio 1.68 wpisów.
 Miasto w województwie: warmińsko-mazurskie, posiada średnio 1.58 wpisów.
 ```
+![](../images/dsawa/cities_avg.png)
 
 * Znalezienie kodów pocztowych zaczynających sie na 84 lub 85, gdzie liczba wpisów większa od 5. Użycie $match z regexpem.
 
@@ -221,6 +224,7 @@ Miasto: Rumia, 7 wpisów.
 Miasto: Kamień, 26 wpisów.
 Miasto: Bydgoszcz, 1843 wpisów.
 ```
+![](../images/dsawa/zipcodes_regex.png)
 
 * Znalezienie miast Trójmiasta i liczbę ich kodów pocztowych (wpisów), zwracane alfabetycznie. Użycie $match oraz $in.
 
@@ -229,6 +233,7 @@ Miasto: Gdańsk, 1852 wpisów.
 Miasto: Gdynia, 1275 wpisów.
 Miasto: Sopot, 315 wpisów.
 ```
+![](../images/dsawa/zipcodes_tricity.png)
 
 * Miejsca z największą ilością wpisów o kodach pocztowych w danym województwie.
 
@@ -250,6 +255,7 @@ W województwie: łódzkie, najwięcej kodów ma: Łódź (Łódź-Bałuty) (130
 W województwie: śląskie, najwięcej kodów ma: Katowice (1424).
 W województwie: świętokrzyskie, najwięcej kodów ma: Kielce (1062).
 ```
+![](../images/dsawa/top_voivoidship_places.png)
 
 * Wyszukanie gminy z najwiekszą ilością wpisów o kodach pocztowych.
 
