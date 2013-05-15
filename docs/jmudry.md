@@ -2,14 +2,14 @@
 
 ### *Jan Mudry*
 
-## Zródło danych
+## Źródło danych
 [Wikipedia](http://en.wikipedia.org/wiki/List_of_World_Heritage_Sites_in_Eastern_Europe)
 
 ## Co zostało zrobione?
 
 * Pobranie surowych danych ze strony: [Wikipedia - raw data](http://en.wikipedia.org/w/index.php?title=List_of_World_Heritage_Sites_in_Eastern_Europe&action=edit&section=2)
 * Import danych do Google-Refine
-* Oczyszczenie danych w licznych krokach (wybranie interesujacych nas danych)
+* Oczyszczenie danych w licznych krokach (wybranie interesujących nas danych)
 * export danych do postaci JSON 
 
 
@@ -41,8 +41,12 @@ mongoimport --db test2 --collection unesco --file data/json/unesco_eastern_europ
 ### Dodanie wyliczonej lokalizacji
 ```ruby
 unesco.find.each { |x|
-  latitude = (x["latitude_seconds"] || 0 )/3600.to_f + (x["latitude_minutes"] || 0 )/60.to_f + (x["latitude_degress"] || 0)
-  longitude = (x["longitude_seconds"] || 0 )/3600.to_f + (x["longitude_minutes"] || 0 )/60.to_f + (x["longitude_degress"] || 0)
+  latitude = (x["latitude_seconds"] || 0)/3600.to_f 
+            + (x["latitude_minutes"] || 0)/60.to_f 
+            + (x["latitude_degress"] || 0)
+  longitude = (x["longitude_seconds"] || 0)/3600.to_f 
+            + (x["longitude_minutes"] || 0)/60.to_f 
+            + (x["longitude_degress"] || 0)
   unesco.update({ "_id" => x["_id"]} ,
                 {'$set' => {'location' => [latitude, longitude]}}
   )
@@ -56,10 +60,23 @@ Link to skrytu [Klik](/scripts/ruby/jmudry.rb)
 ### 10 najbliższych zabytków UNESCO względem Gdańska
 
 ```ruby
+gdansk_location = [54.366667, 18.633333]
 unesco.aggregate([  
-  {'$geoNear' => { near: [54.366667, 18.633333] , distanceField: 'distance', limit: 10 }},
-  {'$sort' => {distance: 1}},
-  {'$project' => {_id: 0, site: '$site', country: '$country', location: '$location', distance: '$distance'}}
+  {'$geoNear' => { 
+    near: gdansk_location,
+    distanceField: 'distance', 
+    limit: 10 
+    }},
+  {'$sort' => {
+    distance: 1
+    }},
+  {'$project' => {
+    _id: 0, 
+    site: '$site', 
+    country: '$country', 
+    location: '$location', 
+    distance: '$distance'
+    }}
 ])
 ```
 wynik zwrócony ze skrytu:
@@ -110,10 +127,11 @@ wynik zwrócony ze skrytu:
 ### Najtańszy samochód dla każdej z marek (z kolekcji car_market na sigmie)
 ```ruby
 cheapest_model_in_make = []
-car_market.aggregate([  {'$group' => { _id: '$make', min_price: {'$min' => '$price'}}} ,
-                        {'$project' => {_id: 0, make: '$_id', min_price: '$min_price', model: '$model'}},
-                        {'$sort' => { min_price: 1 }}
-                     ]).each{|x| cheapest_model_in_make << car_market.find({price: x['min_price'], make: x['make']}).first }
+car_market.aggregate([
+    {'$group' => { _id: '$make', min_price: {'$min' => '$price'}}},
+    {'$project' => {_id: 0, make: '$_id', min_price: '$min_price', model: '$model'}},
+    {'$sort' => { min_price: 1 }}
+]).each{|x| cheapest_model_in_make << car_market.find({price: x['min_price'], make: x['make']}).first }
 ```
 wynik zwrócony ze skrytu:
 
