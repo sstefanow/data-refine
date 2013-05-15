@@ -54,10 +54,11 @@ Link to skrytu [Klik](/scripts/ruby/jmudry.rb)
 ### 10 najbliższych zabytków UNESCO względem Gdańska
 
 ```ruby
-unesco.aggregate([  {'$geoNear' => { near: [54.366667, 18.633333] , distanceField: 'distance', limit: 10 }},
-                    {'$sort' => {distance: 1}},
-                    {'$project' => {_id: 0, site: '$site', country: '$country', location: '$location', distance: '$distance'}}
-                ])
+unesco.aggregate([  
+  {'$geoNear' => { near: [54.366667, 18.633333] , distanceField: 'distance', limit: 10 }},
+  {'$sort' => {distance: 1}},
+  {'$project' => {_id: 0, site: '$site', country: '$country', location: '$location', distance: '$distance'}}
+])
 ```
 wynik zwrócony ze skrytu:
 
