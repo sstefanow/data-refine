@@ -1,5 +1,7 @@
 # Lista UNESCO w Europie Wschodniej
 
+### *Jan Mudry*
+
 ## Zródło danych
 [Wikipedia](http://en.wikipedia.org/wiki/List_of_World_Heritage_Sites_in_Eastern_Europe)
 
