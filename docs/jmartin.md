@@ -127,4 +127,6 @@ db.poland.aggregate(
 
 Wynik: [aggr4.json](/data/json/jmartin/aggr4.json)
 
+Skrypt Ruby: [jmartin.rb](/scripts/ruby/jmartin.rb)
+
 ![](http://maps.googleapis.com/maps/api/staticmap?center=54.395732,18.573622&zoom=12&size=400x400&maptype=roadmap&sensor=false&format=png&markers=color:red%7Clabel:1%7C54.4030471,18.5716565&markers=color:red%7Clabel:2%7C54.3808497,18.6070039&markers=color:red%7Clabel:3%7C54.3594773,18.5789614&markers=color:red%7Clabel:4%7C54.3779611,18.6064784&markers=color:red%7Clabel:5%7C54.3775886,18.6069796&markers=color:blue%7Clabel:S%7C54.395732,18.573622)
