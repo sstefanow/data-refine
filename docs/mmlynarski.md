@@ -19,3 +19,29 @@ Import do mongoDB:
 ```bash
 mongoimport --db nosql --collection UFC_Fighters --type json --file UFC_Fighters.json --jsonArray
 ```
+
+## Agregacje
+
+### 3 kraje z najwiekszą ilością zawodników
+```
+db.UFC_Fighters.aggregate( 
+	{ $group : { _id : "$ISO", ilosc : { $sum : 1}}},
+	{ $sort : { ilosc: -1} },
+	{ $limit : 5 }
+)
+```
+### Zawodnicy z największą ilością wygranych
+```
+db.UFC_Fighters.aggregate(
+	{ $group : { _id : "$Wins"}},
+	{ $sort : { ilosc: -1} },
+	{ $limit : 5 }
+)
+```
+### Liczba zawodników z USA
+```
+db.UFC_Fighters.aggregate( 
+	{ $match : { ISO : "USA"}},
+	{ $group : { _id : "$ISO", liczbaZawodnikowUSA : { $sum : 1}}}
+)
+```
