@@ -12,7 +12,7 @@
 
 
 ## Fragment danych wyeksportowanych do JSON'a:
-```js
+```json
     {
       "nazwa" : "Dąb biały",
       "inna_nazwa" : "Quercus alba, odmiana łyżkowata Elongata",
