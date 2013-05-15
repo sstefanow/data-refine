@@ -1,4 +1,6 @@
-# Adam Radomski  Kody pocztowe
+# Kody pocztowe
+
+### *Adam Radomski*
 
 Plik: http://piotr.eldora.pl/weblog/wp-content/plugins/download-monitor/download.php?id=8
 
