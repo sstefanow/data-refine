@@ -1,5 +1,7 @@
-# Kody pocztowe, Dorian Sawa
-------------------------------
+# Kody pocztowe
+
+### *Dorian Sawa*
+
 Oryginalny plik z danymi do pobrania przez:
 `wget -O kody_pocztowe.csv.bz2 http://piotr.eldora.pl/weblog/wp-content/plugins/download-monitor/download.php?id=7`
 
@@ -84,80 +86,85 @@ Po połączeniu można przystąpić do agregowania danych.
 * Zebranie ilości wpisów o kodach dla każdego województwa. Ostateczny wynik jest sortowany po tej ilości DESC.
 
 ```ruby
-voivoidships_grouped = zipcodes.aggregate([{ '$group' =>
-                                                { :_id => '$wojewodztwo', count_field => { '$sum' => 1 } } },
-                                            { '$project' => { :_id => 0, :voivoidship => '$_id', count_field => 1 } },
-                                            { '$sort' => { count_field => -1 } }
-                                          ])
+voivoidships_grouped = zipcodes.aggregate([
+  { '$group' =>
+    { :_id => '$wojewodztwo', count_field => { '$sum' => 1 } } },
+  { '$project' => { :_id => 0, :voivoidship => '$_id', count_field => 1 } },
+  { '$sort' => { count_field => -1 } }
+])
 ```
 * Średnia ilość wpisów dla miasta wg województw.
 
 ```ruby
-cities_avg = zipcodes.aggregate([{ '$group' =>
-                                      { :_id => { :wojewodztwo => '$wojewodztwo', :miejsce => '$miejsce' },
-                                        count_field => { '$sum' => 1 }
-                                      }
-                                  },
-                                  { '$group' =>
-                                      { :_id => '$_id.wojewodztwo', :avg_zipcodes => { '$avg' => '$' + count_field } }
-                                  },
-                                  { '$sort' => { :avg_zipcodes => -1 } },
-                                  { '$project' => { :_id => 0, :avg_zipcodes => 1, :voivoidship => '$_id' } }
-                                 ])
+cities_avg = zipcodes.aggregate([
+  { '$group' =>
+    { :_id => { :wojewodztwo => '$wojewodztwo', :miejsce => '$miejsce' },
+      count_field => { '$sum' => 1 }
+    }
+  },
+  { '$group' =>
+    { :_id => '$_id.wojewodztwo', :avg_zipcodes => { '$avg' => '$' + count_field } }
+  },
+  { '$sort' => { :avg_zipcodes => -1 } },
+  { '$project' => { :_id => 0, :avg_zipcodes => 1, :voivoidship => '$_id' } }
+])
 ```
 
 * Znalezienie kodów pocztowych zaczynających sie na 84 lub 85, gdzie liczba wpisów większa od 5. Użycie $match z regexpem.
 
 ```ruby
 zipcodes_regex = zipcodes.aggregate([{ '$match' => { :kod => /8[45]-\d{3}/ } },
-                                       { '$group' => { :_id => '$miejsce', count_field => { '$sum' => 1 } } },
-                                       { '$match' => { count_field => { '$gt' => 5 } } },
-                                       { '$project' => { :_id => 0, :city => '$_id', count_field => 1 } }
-                                     ])
+  { '$group' => { :_id => '$miejsce', count_field => { '$sum' => 1 } } },
+  { '$match' => { count_field => { '$gt' => 5 } } },
+  { '$project' => { :_id => 0, :city => '$_id', count_field => 1 } }
+])
 ```
 
 * Znalezienie miast Trójmiasta i liczbę ich kodów pocztowych (wpisów), zwracane alfabetycznie. Użycie $match oraz $in.
 
 ```ruby
-zipcodes_tricity = zipcodes.aggregate([{ '$match' => { :miejsce => { '$in' => %w(Gdynia Sopot Gdańsk) } } },
-                                         { '$group' => { :_id => '$miejsce', count_field => { '$sum' => 1 } } },
-                                         { '$project' => { :_id => 0, :city => '$_id', count_field => 1 } },
-                                         { '$sort' => { :city => 1 } }
-                                       ])
+zipcodes_tricity = zipcodes.aggregate([
+  { '$match' => { :miejsce => { '$in' => %w(Gdynia Sopot Gdańsk) } } },
+  { '$group' => { :_id => '$miejsce', count_field => { '$sum' => 1 } } },
+  { '$project' => { :_id => 0, :city => '$_id', count_field => 1 } },
+  { '$sort' => { :city => 1 } }
+])
 ```
 
 * Miejsca z największą ilością wpisów o kodach pocztowych w danym województwie.
 
 ```ruby
-top_voivoidship_places = zipcodes.aggregate([{ '$group' =>
-                                                  { :_id => { :wojewodztwo => '$wojewodztwo', :miejsce => '$miejsce' },
-                                                    count_field => { '$sum' => 1 }
-                                                  }
-                                              },
-                                              { '$sort' => { count_field => -1 } },
-                                              { '$group' =>
-                                                  { :_id => '$_id.wojewodztwo',
-                                                    :place => { '$first' => '$_id.miejsce' },
-                                                    count_field => { '$first' => '$' + count_field }
-                                                  }
-                                              },
-                                              { '$sort' => { :_id => 1 } },
-                                              { '$project' =>
-                                                  { :_id => 0, :voivoidship => '$_id', :place => 1, count_field => 1 } }
-                                             ])
+top_voivoidship_places = zipcodes.aggregate([
+  { '$group' =>
+    { :_id => { :wojewodztwo => '$wojewodztwo', :miejsce => '$miejsce' },
+      count_field => { '$sum' => 1 }
+    }
+  },
+  { '$sort' => { count_field => -1 } },
+  { '$group' =>
+    { :_id => '$_id.wojewodztwo',
+      :place => { '$first' => '$_id.miejsce' },
+      count_field => { '$first' => '$' + count_field }
+    }
+  },
+  { '$sort' => { :_id => 1 } },
+  { '$project' =>
+    { :_id => 0, :voivoidship => '$_id', :place => 1, count_field => 1 } }
+])
 ```
 
 * Wyszukanie gminy z najwiekszą ilością wpisów o kodach pocztowych.
 
 ```ruby  
-common_county = zipcodes.aggregate([{ '$group' =>
-                                          { :_id => { :wojewodztwo => '$wojewodztwo', :kod => '$kod', :gmina => '$gmina' },
-                                            count_field => { '$sum' => 1 } }
-                                      }, { '$sort' => { count_field => -1 } },
-                                      { '$limit' => 1 },
-                                      { '$project' =>
-                                          { :_id => 0, count_field => 1, :voivoidship => '$_id.wojewodztwo', :county => '$_id.gmina' } }
-                                     ]).first
+common_county = zipcodes.aggregate([
+  { '$group' =>
+    { :_id => { :wojewodztwo => '$wojewodztwo', :kod => '$kod', :gmina => '$gmina' },
+      count_field => { '$sum' => 1 } }
+  }, { '$sort' => { count_field => -1 } },
+  { '$limit' => 1 },
+  { '$project' =>
+    { :_id => 0, count_field => 1, :voivoidship => '$_id.wojewodztwo', :county => '$_id.gmina' } }
+]).first
 ```
 
 ## Agregacje (wyniki).
