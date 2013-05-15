@@ -19,7 +19,7 @@ db.airports.aggregate({$project: {
 )
 ```
 ###wynik:
-Wyniki zostały ograniczone ze względu ilość danych otrzymywanych na wyjściu.
+Wyniki zostały ograniczone ze względu na ilość danych otrzymywanych na wyjściu.
 ```
 {
 	"result" : [
@@ -56,6 +56,8 @@ Wyniki zostały ograniczone ze względu ilość danych otrzymywanych na wyjściu
 	],
 	"ok" : 1
 }
+```
+
 ###2\. Ilość poszczególnych znaków w bazie akapitów Dostojewskiego
 
 ```js
