@@ -1,7 +1,6 @@
 # encoding: UTF-8
-
 require 'mongo'
-require 'benchmark'
+require_relative 'chart_generator'
 include Mongo
 
 host = 'localhost'
@@ -59,86 +58,118 @@ puts "Liczba wszystkich wpisów o kodach pocztowych: #{zipcodes.count}"
 count_field = 'zipcodes_count'
 separator = '------------------------------'
 
-benchmark = Benchmark.realtime do
 # Ilość kodów pocztowych (wpisów) dla każdego województwa, sortowanie DESC
-  voivoidships_grouped = zipcodes.aggregate([{ '$group' =>
-                                                 { :_id => '$wojewodztwo', count_field => { '$sum' => 1 } } },
-                                             { '$project' => { :_id => 0, :voivoidship => '$_id', count_field => 1 } },
-                                             { '$sort' => { count_field => -1 } }
-                                            ])
-  puts separator
-  voivoidships_grouped.each { |hash| puts "Województwo: #{hash['voivoidship']}, #{hash[count_field]} wpisów." }
+voivoidships_grouped = zipcodes.aggregate([
+  { '$group' =>
+    { :_id => '$wojewodztwo', count_field => { '$sum' => 1 } } },
+  { '$project' => { :_id => 0, :voivoidship => '$_id', count_field => 1 } },
+  { '$sort' => { count_field => -1 } }
+])
+
+puts separator
+voivoidships_grouped.each { |hash| puts "Województwo: #{hash['voivoidship']}, #{hash[count_field]} wpisów." }
+
+#puts 'Diagram słupkowy pod linkiem:'
+#puts ChartGenerator.get_chart_url(voivoidships_grouped, count_field, 'voivoidship', { chs: '500x520' })
 
 # Średnia ilość wpisów dla miasta wg województw.
-  cities_avg = zipcodes.aggregate([{ '$group' =>
-                                       { :_id => { :wojewodztwo => '$wojewodztwo', :miejsce => '$miejsce' },
-                                         count_field => { '$sum' => 1 }
-                                       }
-                                   },
-                                   { '$group' =>
-                                       { :_id => '$_id.wojewodztwo', :avg_zipcodes => { '$avg' => '$' + count_field } }
-                                   },
-                                   { '$sort' => { :avg_zipcodes => -1 } },
-                                   { '$project' => { :_id => 0, :avg_zipcodes => 1, :voivoidship => '$_id' } }
-                                  ])
-  puts separator
-  cities_avg.each do |hash|
-    puts "Miasto w województwie: #{hash['voivoidship']}, posiada średnio #{hash['avg_zipcodes'].round(2)} wpisów."
-  end
+cities_avg = zipcodes.aggregate([
+  { '$group' =>
+    { :_id => { :wojewodztwo => '$wojewodztwo', :miejsce => '$miejsce' },
+      count_field => { '$sum' => 1 }
+    }
+  },
+  { '$group' =>
+    { :_id => '$_id.wojewodztwo', :avg_zipcodes => { '$avg' => '$' + count_field } }
+  },
+  { '$sort' => { :avg_zipcodes => -1 } },
+  { '$project' => { :_id => 0, :avg_zipcodes => 1, :voivoidship => '$_id' } }
+])
+
+puts separator
+cities_avg.each do |hash|
+  puts "Miasto w województwie: #{hash['voivoidship']}, posiada średnio #{hash['avg_zipcodes'].round(2)} wpisów."
+end
+
+#puts 'Diagram słupkowy pod linkiem:'
+#puts ChartGenerator.get_chart_url(cities_avg, 'avg_zipcodes', 'voivoidship', { chs: '500x520' })
 
 # Znalezienie kodów pocztowych zaczynających sie na 84 lub 85, gdzie liczba wpisów większa od 5
-  zipcodes_regex = zipcodes.aggregate([{ '$match' => { :kod => /8[45]-\d{3}/ } },
-                                       { '$group' => { :_id => '$miejsce', count_field => { '$sum' => 1 } } },
-                                       { '$match' => { count_field => { '$gt' => 5 } } },
-                                       { '$project' => { :_id => 0, :city => '$_id', count_field => 1 } }
-                                      ])
-  puts separator
-  zipcodes_regex.each { |hash| puts "Miasto: #{hash['city']}, #{hash[count_field]} wpisów." }
+zipcodes_regex = zipcodes.aggregate([{ '$match' => { :kod => /8[45]-\d{3}/ } },
+  { '$group' => { :_id => '$miejsce', count_field => { '$sum' => 1 } } },
+  { '$match' => { count_field => { '$gt' => 5 } } },
+  { '$project' => { :_id => 0, :city => '$_id', count_field => 1 } }
+])
+
+puts separator
+zipcodes_regex.each { |hash| puts "Miasto: #{hash['city']}, #{hash[count_field]} wpisów." }
+
+#puts 'Diagram słupkowy pod linkiem:'
+#puts ChartGenerator.get_chart_url(zipcodes_regex, count_field, 'city')
 
 # Znalezienie miast Trójmiasta i liczbę ich kodów pocztowych (wpisów), zwracane alfabetycznie.
-  zipcodes_tricity = zipcodes.aggregate([{ '$match' => { :miejsce => { '$in' => %w(Gdynia Sopot Gdańsk) } } },
-                                         { '$group' => { :_id => '$miejsce', count_field => { '$sum' => 1 } } },
-                                         { '$project' => { :_id => 0, :city => '$_id', count_field => 1 } },
-                                         { '$sort' => { :city => 1 } }
-                                        ])
-  puts separator
-  zipcodes_tricity.each { |hash| puts "Miasto: #{hash['city']}, #{hash[count_field]} wpisów." }
+zipcodes_tricity = zipcodes.aggregate([
+  { '$match' => { :miejsce => { '$in' => %w(Gdynia Sopot Gdańsk) } } },
+  { '$group' => { :_id => '$miejsce', count_field => { '$sum' => 1 } } },
+  { '$project' => { :_id => 0, :city => '$_id', count_field => 1 } },
+  { '$sort' => { :city => 1 } }
+])
+
+puts separator
+zipcodes_tricity.each { |hash| puts "Miasto: #{hash['city']}, #{hash[count_field]} wpisów." }
+
+#puts 'Diagram kołowy pod linkiem:'
+#puts ChartGenerator.get_chart_url(zipcodes_tricity, count_field, 'city', {
+#  chs: '400x300',
+#  cht: 'p',
+#  chxt: 'y,x'
+#})
 
 # Miejsca z największą ilością wpisów o kodach pocztowych w danym województwie.
 # Ku zaskoczeniu nie ma Warszawy dla Mazowieckiego :)
 # Jest to spowodowane tym, że informacja o Warszawie jest rozdzielona na wiele dzielnic np. "miejsce": "Warszawa (Praga)"
-  top_voivoidship_places = zipcodes.aggregate([{ '$group' =>
-                                                   { :_id => { :wojewodztwo => '$wojewodztwo', :miejsce => '$miejsce' },
-                                                     count_field => { '$sum' => 1 }
-                                                   }
-                                               },
-                                               { '$sort' => { count_field => -1 } },
-                                               { '$group' =>
-                                                   { :_id => '$_id.wojewodztwo',
-                                                     :place => { '$first' => '$_id.miejsce' },
-                                                     count_field => { '$first' => '$' + count_field }
-                                                   }
-                                               },
-                                               { '$sort' => { :_id => 1 } },
-                                               { '$project' =>
-                                                   { :_id => 0, :voivoidship => '$_id', :place => 1, count_field => 1 } }
-                                              ])
-  puts separator
-  top_voivoidship_places.each do |hash|
-    puts "W województwie: #{hash['voivoidship']}, najwięcej kodów ma: #{hash['place']} (#{hash[count_field]})."
-  end
+top_voivoidship_places = zipcodes.aggregate([
+  { '$group' =>
+    { :_id => { :wojewodztwo => '$wojewodztwo', :miejsce => '$miejsce' },
+      count_field => { '$sum' => 1 }
+    }
+  },
+  { '$sort' => { count_field => -1 } },
+  { '$group' =>
+    { :_id => '$_id.wojewodztwo',
+      :place => { '$first' => '$_id.miejsce' },
+      count_field => { '$first' => '$' + count_field }
+    }
+  },
+  { '$sort' => { :_id => 1 } },
+  { '$project' =>
+    { :_id => 0, :voivoidship => '$_id', :place => 1, count_field => 1 } }
+])
+
+puts separator
+top_voivoidship_places.each do |hash|
+  puts "W województwie: #{hash['voivoidship']}, najwięcej kodów ma: #{hash['place']} (#{hash[count_field]})."
+end
+
+#top_voivoidship_places.map { |hash| hash['place'] = hash['place'][0, 5] }
+#puts 'Diagram słupkowy pod linkiem:'
+#puts ChartGenerator.get_chart_url(top_voivoidship_places, count_field, 'place', {
+#  sort: true,
+#  chs: '700x420',
+#  cht: 'bvg',
+#  chxt: 'y,x'
+#})
 
 # Gmina z najwiekszą ilością wpisów o kodach pocztowych.
-  common_county = zipcodes.aggregate([{ '$group' =>
-                                          { :_id => { :wojewodztwo => '$wojewodztwo', :kod => '$kod', :gmina => '$gmina' },
-                                            count_field => { '$sum' => 1 } }
-                                      }, { '$sort' => { count_field => -1 } },
-                                      { '$limit' => 1 },
-                                      { '$project' =>
-                                          { :_id => 0, count_field => 1, :voivoidship => '$_id.wojewodztwo', :county => '$_id.gmina' } }
-                                     ]).first
-  puts separator
-  puts "Najwięcej wpisów o kodach dotyczy gminy: #{common_county['county']}, w województwie: #{common_county['voivoidship']}"
-end
+common_county = zipcodes.aggregate([
+  { '$group' =>
+    { :_id => { :wojewodztwo => '$wojewodztwo', :kod => '$kod', :gmina => '$gmina' },
+      count_field => { '$sum' => 1 } }
+  }, { '$sort' => { count_field => -1 } },
+  { '$limit' => 1 },
+  { '$project' =>
+    { :_id => 0, count_field => 1, :voivoidship => '$_id.wojewodztwo', :county => '$_id.gmina' } }
+]).first
+
 puts separator
-puts "Całość wykonano w: #{benchmark} sekund."
+puts "Najwięcej wpisów o kodach dotyczy gminy: #{common_county['county']}, w województwie: #{common_county['voivoidship']}"
