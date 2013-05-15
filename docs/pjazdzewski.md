@@ -244,18 +244,24 @@ var map = function() {
 };
 
 var reduce = function(key, value) {
-	var obj = {dates:[], sum:0};
+	var obj = {orders:[]};
 	for(var i=0; i<value.length; i++){
-		if(value[i].date){
-			obj.dates.push( value[i].date );
-		}
-		obj.sum += value[i].sum;
+		obj.orders.push( value[i] );
 	}
 	return obj;
 };
 
+var finalize = function (key, value) {
+	if(value.orders){
+		value.count = value.orders.length;
+	}
+    return value;
+};
+
 var params = {
-	out: "task_3"
+	out: "task_3",
+	sort: { _id: -1 },
+	finalize: finalize
 };
 
 db.nosql.mapReduce(map, reduce, params);
@@ -263,14 +269,70 @@ db.nosql.mapReduce(map, reduce, params);
 
 ### Wynik 
 ```json
-{ "_id" : "ALLIED ELECTRIC VEHICLES", "value" : { "date" : "02.07.2010", "sum" : 8247.5 } }
-{ "_id" : "ALPINE RESOURCING LIMITED", "value" : { "date" : "11.10.2010", "sum" : 3488.75 } }
-{ "_id" : "ALTIUS CONSULTING LTD", "value" : { "dates" : [      
-				"14.05.2010",   "24.05.2010",   "24.05.2010",       
-				"06.08.2010",   "06.08.2010",   "11.08.2010",   
-				"30.07.2010",   "30.07.2010",   "30.07.2010",       
-				"02.06.2010",   "08.06.2010",   "08.06.2010",   
-				"04.10.2010" ], "sum" : 46922.71 } }
+{
+        "_id" : "3M SECURITY PRINTING & SYSTEMS LTD",
+        "value" : {
+                "orders" : [
+                        {
+                                "date" : "10.12.2010",
+                                "sum" : 3547.2
+                        },
+                        {
+                                "date" : "10.12.2010",
+                                "sum" : 12208
+                        },
+                        {
+                                "date" : "07.10.2010",
+                                "sum" : 6795
+                        },
+                        {
+                                "date" : "21.06.2010",
+                                "sum" : 7435
+                        },
+                        {
+                                "date" : "29.07.2010",
+                                "sum" : 2653.7
+                        },
+                        {
+                                "date" : "13.07.2010",
+                                "sum" : 8243.75
+                        },
+                        {
+                                "date" : "27.08.2010",
+                                "sum" : 20507.5
+                        },
+                        {
+                                "date" : "25.08.2010",
+                                "sum" : 2887.6
+                        },
+                        {
+                                "date" : "25.08.2010",
+                                "sum" : 2395.2
+                        },
+                        {
+                                "date" : "25.08.2010",
+                                "sum" : 3562.4
+                        },
+                        {
+                                "date" : "25.08.2010",
+                                "sum" : 3562.4
+                        },
+                        {
+                                "date" : "25.08.2010",
+                                "sum" : 5257.02
+                        },
+                        {
+                                "date" : "25.08.2010",
+                                "sum" : 5995.95
+                        },
+                        {
+                                "date" : "25.08.2010",
+                                "sum" : 10991.9
+                        }
+                ],
+                "count" : 14
+        }
+}
 ```
 			   
 ## Procedura oczyszczania - 28 kroków:
