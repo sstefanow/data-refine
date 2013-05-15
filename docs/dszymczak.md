@@ -52,7 +52,7 @@ Link do gotowego pliku z danymi (wersje: CSV i JSON) - [link](https://skydrive.l
 ### Średnia cena wszystkich produktów w każdym roku. 
 Liczone od 2003 roku, ponieważ we wcześniejszych latach jest dużo mniej towarów.
 
-```json
+```js
 db.ceny.aggregate(
   { $match: { rok: { $gte: 2003 } } },
   { $group: { _id: "$rok", srednia_cena: {$avg: "$cena"} } },
@@ -115,7 +115,7 @@ Dane wynikowe:
 
 ### 5 religii z najwyższą średnią wieku wśród wyznawców.
 
-```
+```js
 db.census1881.aggregate(
   { $group: { _id: "$religion", sredni_wiek: { $avg: "$age" } } },
   { $sort: { sredni_wiek: -1 } },
@@ -162,7 +162,7 @@ Dane wynikowe:
 
 ### Lista 5 najdroższych aut, które zmieszczą się w moim małym garażu garażu.
 
-```
+```js
 db.car_market.aggregate(
   { $match: { height: { $lte: 85 }, length: { $lte: 165 }, width: { $lte: 75 } } },
   { $project: { _id: 0, make: 1, model: 1, price: 1, length: 1, width: 1, height: 1 } },
@@ -177,7 +177,7 @@ Dane wynikowe:
 ![3. agregacja - wykres](http://chart.apis.google.com/chart?chs=500x300&chbh=30,10&cht=bvo&chtt=Najdrozsze+samochody+-+Mercedes&chd=t:86.145,70.395,56.195,55.848,53.645&chxt=x,y&chxl=0:|C1500|E55|CLK430|E430|C43|1:|0|20000|40000|60000|80000|100000)
 
 
-```
+```json
 {
         "result" : [
                 {
