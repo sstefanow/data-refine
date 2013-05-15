@@ -15,7 +15,7 @@ W kilku kolumnach puste pola zastąpiłem sensownymi wartościami. Z kolumną "M
 
 ## Przykładowy rekord
 
-```js
+```json
   {
     "Unique Investment Identifier":"005-000001723",
     "Business Case ID":212,
@@ -52,7 +52,7 @@ Link do gotowego pliku z danymi (wersje: CSV i JSON) - [link](https://skydrive.l
 ### Średnia cena wszystkich produktów w każdym roku. 
 Liczone od 2003 roku, ponieważ we wcześniejszych latach jest dużo mniej towarów.
 
-```
+```json
 db.ceny.aggregate(
   { $match: { rok: { $gte: 2003 } } },
   { $group: { _id: "$rok", srednia_cena: {$avg: "$cena"} } },
@@ -68,7 +68,7 @@ Dane wynikowe:
 ![1. agregacja - wykres](http://chart.apis.google.com/chart?chs=400x200&chbh=30,10&cht=lc&chtt=Srednia+cena+produktow+w+danym+roku&chd=t:55.22,61.67,68.28,79.83,75.97,79.48,81.54,84.09,90.33&chxt=x,y&chxl=0:|2003|2004|2005|2006|2007|2008|2009|2010|2011|1:|0|50|100|150|200|250|300)
 
 
-```
+```json
 {
         "result" : [
                 {
