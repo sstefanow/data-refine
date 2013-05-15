@@ -87,6 +87,7 @@ db.census1881.findOne()
 1. Mateusz Skorb, [Monety okolicznościowe 2 złote] (/docs/mskorb.md).
 1. Michał Chołka, [Bezrobotni] (docs/mcholka.md).
 1. Wojciech Szymański, [Wypadki drogowe] (docs/wszymanski.md).
+1. Adam Szuliński, [Agregacje] (docs/aszulinski.md).
 
 ## Ściąga z Gita
 
