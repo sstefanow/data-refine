@@ -1,7 +1,9 @@
 # Oczyszczanie danych
 
+### *Daniel Szymczak**
 
 ## Opis
+
 Dane zostały pobrane ze strony IT Dashboard. Wybrałem dane o wskaźnikach wydajności.
 
 Dane surowe są tutaj: [link](http://www.itdashboard.gov/data_feeds) (z listy Select Data Source wybrać Preformance Metrics. W kroku drugim kliknąć Add all, a następnie na dole strony wybrać plik CSV)
