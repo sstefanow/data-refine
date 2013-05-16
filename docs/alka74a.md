@@ -1,17 +1,19 @@
 Lista bazylik na świecie
 ==========================
 
-Dane surowe dostępne tutaj: [link](http://pl.wikipedia.org/wiki/Zabytki_roma%C5%84skie_w_Polsce), zostały oczyszczone narzędziem [Google Refine](http://code.google.com/p/google-refine/). 
+### *Alicja Kopczyńska*
 
-## Opis działania
+Dane surowe dostępne na stronie [Wikipedii](http://en.wikipedia.org/wiki/List_of_basilicas), zostały oczyszczone narzędziem [Google Refine](http://code.google.com/p/google-refine/). 
 
-- instalacja Google Refine
-- pobrane surowych danych ze strony: [Wikipedia](http://en.wikipedia.org/wiki/List_of_basilicas)
+Opis działania:
+
+- pobranie surowych danych ze strony: [Wikipedia](http://en.wikipedia.org/wiki/List_of_basilicas)
 - wczytanie pliku tekstowego do Google Refine
 - oczyszczenie danych
 - eksport danych do pliku JSON
 
-## Przykładowe dane
+Przykładowe dane:
+
 ```json
     {
       "continent" : "Asia",
@@ -19,50 +21,50 @@ Dane surowe dostępne tutaj: [link](http://pl.wikipedia.org/wiki/Zabytki_roma%C5
       "city" : "Shanghai",
       "basilica" : "She Shan Basilica",
       "year_of_designation" : "1942"
-    },
+    }
     {
       "continent" : "Asia",
       "country" : "India",
       "city" : "Alleppey",
       "basilica" : "St. Andrew's Basilica",
       "year_of_designation" : "2010"
-    },
+    }
     {
       "continent" : "Asia",
       "country" : "India",
       "city" : "Angamaly",
       "basilica" : "St. George Basilica",
       "year_of_designation" : "2009"
-    },
+    }
     {
       "continent" : "Asia",
       "country" : "India",
       "city" : "Bandel",
       "basilica" : "Bandel Church",
       "year_of_designation" : "1988"
-    },
+    }
     {
       "continent" : "Asia",
       "country" : "India",
       "city" : "Bangalore",
       "basilica" : "St. Mary's Basilica",
       "year_of_designation" : "1973"
-    },
+    }
     {
       "continent" : "Asia",
       "country" : "India",
       "city" : "Chennai",
       "basilica" : "San Thome Basilica",
       "year_of_designation" : "1956"
-    },
+    }
 ```
 Oczyszczone dane znajdują się tu: [dane_alka74a.json](https://github.com/alka74a/data-refine/blob/master/data/json/dane_alka74a.json)
 
 
-## Agregacje
+# Przykładowe agregacje
 
 
-###1\. Agregacja pokazująca najtańszy samochód dla każdej z marek
+1\. Agregacja pokazująca najtańszy samochód dla każdej z marek.
 
 ```js
 collection.aggregate([
@@ -72,9 +74,9 @@ collection.aggregate([
 	]);
 
 ```
-###wynik agregacji:
+wynik agregacji:
 
-```
+```js
 [ { min_cena: 8999, marka: 'daewoo' },
   { min_cena: 9434, marka: 'hyundai' },
   { min_cena: 9499, marka: 'suzuki' },
@@ -111,11 +113,11 @@ collection.aggregate([
 
 ```
 
-###Graficzna reprezentacja danych: 
+Graficzna reprezentacja danych: 
 
-![Agregacja1](https://chart.googleapis.com/chart?chxl=0:|jaguar|porsche|mercedes-benz|lincoln|lexus|cadillac|bmw|saab|audi|volvo|infiniti|buick|acura|mercury|chrysler|oldsmobile|subaru|volkswagen|pontiac|plymouth|dodge|mazda|ford|mitsubishi|nissan|honda|saturn|toyota|kia|chevrolet|suzuki|hyundai|daewoo&chxr=1,0,50000&chxs=0,000000,11.5,1,lt,676767|1,020000,11.5,0,l,676767&chxt=y,x&chbh=a,1,4&chs=500x540&cht=bhg&chco=FFCC33&chds=5,50000&chd=t:8999,9434,9499,9585,10445,10450,11125,11165,12169,12182,12200,12420,12970,12970,14515,15425,16390,16555,16625,16705,19755,20285,21920,23475,24515,26475,27560,31500,31900,32275,32395,42195,43095&chdlp=l&chtt=Najta%C5%84szy+samoch%C3%B3d+dla+ka%C5%BCdej+z+marek)
+![Agregacja1](../images/akopczynska/akopczynska_agregacja1.png)
 
-###2\. Agregacja pokazująca średnią liczbę koni mechanicznych dla każej z marek
+2\. Agregacja pokazująca średnią liczbę koni mechanicznych dla każej z marek.
 
 ```js
 collection.aggregate([
@@ -125,9 +127,9 @@ collection.aggregate([
 	]);
 ```
 
-###wynik agregacji:
+wynik agregacji:
 
-```
+```js
 [ { horse_power: 313.72727272727275, make: 'jaguar' },
   { horse_power: 284.625, make: 'cadillac' },
   { horse_power: 277.8333333333333, make: 'porsche' },
@@ -164,12 +166,12 @@ collection.aggregate([
 
 ```
 
-###Graficzna reprezentacja danych:
+Graficzna reprezentacja danych:
 
-![Agregacja2](https://chart.googleapis.com/chart?chxl=1:|jaguar|cadillac|porsche|lexus|mercedes-benz|bmw|dodge|lincoln|infiniti|audi|buick|saab|acura|volvo|pontiac|chrysler|ford|chevrolet|oldsmobile|plymouth|mercury|nissan|subaru|mitsubishi|toyota|honda|mazda|volkswagen|hyundai|kia|daewoo|saturn|suzuki&chxr=0,0,350|1,1,33&chxs=1,676767,11.5,0,l,676767&chxt=x,y&chbh=7,6,0&chs=380x458&cht=bhs&chco=FFFF88&chds=0,350&chd=t:313.72,284.62,277.83,272.5,259.95,235.05,228.66,226.16,212.66,211,205.62,201.92,201.07,199.12,197.39,189.3,185.41,184.08,175,172.33,168.63,168.3,158.86,158.42,156.64,148.06,144.72,134.68,126.87,125,119.7,116.62,103.7)
+![Agregacja2](../images/akopczynska/akopczynska_agregacja2.png)
 
 
-###3\. Agregacja pokazująca 5 województw z największą liczbą kodów pocztowych 
+3\. Agregacja pokazująca 5 województw z największą liczbą kodów pocztowych.
 
 ```js
 collection.aggregate([{$group : {_id : "$wojewodztwo",ilosc_kodow: {$sum: 1},}},
@@ -179,9 +181,9 @@ collection.aggregate([{$group : {_id : "$wojewodztwo",ilosc_kodow: {$sum: 1},}},
 	]);
 ```
 	
-###wynik agregacji:
+wynik agregacji:
 
-```
+```js
 
 [ { ilosc_kodow: 25182, wojewodztwo: 'mazowieckie' },
   { ilosc_kodow: 15535, wojewodztwo: 'śląskie' },
@@ -190,8 +192,7 @@ collection.aggregate([{$group : {_id : "$wojewodztwo",ilosc_kodow: {$sum: 1},}},
   { ilosc_kodow: 9529, wojewodztwo: 'dolnośląskie' } ]
 
 ```
-###Graficzna reprezentacja danych:
+Graficzna reprezentacja danych:
 
-![Agregacja3](https://chart.googleapis.com/chart?chs=480x225&cht=p3&chds=0,25182&chd=t:25182,15535,12440,9968,9529&chdl=mazowieckie|%C5%9Bl%C4%85skie|wielkopolskie|%C5%82%C3%B3dzkie|dolno%C5%9Bl%C4%85skie&chl=25182|15535|12440|9968|9529&chtt=Wojew%C3%B3dztwa+z+najwi%C4%99ksz%C4%85+ilo%C5%9Bci%C4%85+kod%C3%B3w+pocztowych)
-
+![Agregacja3](../images/akopczynska/akopczynska_agregacja3.png)
 
