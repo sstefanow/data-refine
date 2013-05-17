@@ -51,7 +51,8 @@ def aggregationResult(collectionName:String, pipeline: MongoDBList) = {
 }
 ```
 A teraz pozostaje już napisać agregacje np:
-Calkowite powierzchnie na przestrzeni 10 lat
+
+### Calkowite powierzchnie na przestrzeni 10 lat
 ```Scala
 val aggr1 = new MongoDBList()
     aggr1 += MongoDBObject("$match" -> MongoDBObject.empty)
@@ -68,7 +69,28 @@ Część wyniku:
 { "_id" : 1996 , "calk_pow_lasy" : 8860687 , "calk_pow_rolne" : 18608157}
 { "_id" : 1997 , "calk_pow_lasy" : 8880908 , "calk_pow_rolne" : 18457049}
 ```
-Powierzchnie lasów i użytków rolnych w poszczególnych regionach
+Wykres(ciemnoniebieskie lasy, jasnoniebieskie użytki rolne):
+
+![Powierzchnie w latach](https://raw.github.com/nosql/data-refine/master/images/xjedam_aggr1.png)
+
+Otrzymany z Google chart api:
+```
+http://chart.googleapis.com/chart
+  ?chxl=0:|1995|1996|1997|1998|1999|2000|2001|2002|2003|2004|2005
+  &chxr=a
+  &chxt=y,x
+  &chbh=a
+  &chs=640x320
+  &cht=bhg
+  &chco=4D89D9,C6D9FD
+  &chds=a
+  &chd=t:8821818,8860687,8880908,8918094,8970212,9003917,9027800,9058062,9100468,9126723,9172558|
+  18622227,18608157,18457049,18442702,18434683,18413249,18392428,18374093,18280092,18204355,18208403
+  &chma=100
+  &chtt=pow+lasy+i+uzytki+rolne
+```
+
+### Powierzchnie lasów i użytków rolnych w poszczególnych regionach
 ```Scala
 val aggr2 = new MongoDBList()
     aggr2 += MongoDBObject("$match" -> MongoDBObject.empty)
@@ -84,7 +106,29 @@ Część wyniku:
 { "_id" : "Region poludniowo-zachodni" , "sred_pow_lasy" : 826767.5454545454 , "sred_pow_rolne" : 1746894.5454545454}
 { "_id" : "Region poludniowy" , "sred_pow_lasy" : 836045.8181818182 , "sred_pow_rolne" : 1483441.2727272727}
 ```
-Kiedy było najwięcej lasów w danych regionach
+
+Wykres(ciemnoniebieskie lasy, jasnoniebieskie użytki rolne):
+
+![Uśrednione powierzchnie w regionach](https://raw.github.com/nosql/data-refine/master/images/xjedam_aggr2.png)
+
+Otrzymany z Google chart api:
+```
+http://chart.googleapis.com/chart
+  ?chxl=0:|pol-zach|poludniowy|centralny|polnocny|wschodni|polno-zach
+  &chxr=a
+  &chxt=y,x
+  &chbh=a
+  &chs=640x320
+  &cht=bhg
+  &chco=4D89D9,C6D9FD
+  &chds=a
+  &chd=t:826768,836046,1159931,1783246,2133336,2255332|
+  1746895,1483441,3649826,3375562,4587297,3560382
+  &chma=100
+  &chtt=pow+sred+lasy+i+uzytki+rolne
+```
+
+###Kiedy było najwięcej lasów w danych regionach
 ```Scala
 val aggr3 = new MongoDBList()
     aggr3 += MongoDBObject("$match" -> MongoDBObject.empty)
@@ -99,6 +143,26 @@ Część wyniku:
 ```
 { "_id" : "Region poludniowy" , "rok" : 2005 , "max_lasy" : 842815}
 { "_id" : "Region polnocny" , "rok" : 2005 , "max_lasy" : 1836406}
+```
+
+Wykres:
+
+![W którym roku pow lasów największa](https://raw.github.com/nosql/data-refine/master/images/xjedam_aggr3.png)
+
+Otrzymany z Google chart api:
+```
+http://chart.googleapis.com/chart
+  ?chxl=0:|pol-zach - 2005|poludniowy - 2005|centralny - 2005|polnocny - 2005|wschodni - 2005|polno-zach - 2005
+  &chxr=a
+  &chxt=y,x
+  &chbh=a
+  &chs=640x320
+  &cht=bhg
+  &chco=4D89D9,C6D9FD
+  &chds=a
+  &chd=t:845239,842815,1177330,1836406,2173353,2297415
+  &chma=100
+  &chtt=max+pow+lasy
 ```
 
 Oczywiście aby wyświetlić nasze dane wywołujemy naszą funkcję:
