@@ -23,7 +23,7 @@ mongoimport --db nosql --collection UFC_Fighters --type json --file UFC_Fighters
 
 ## Agregacje
 
-### 3 kraje z najwiekszą ilością zawodników
+### 5 krajów z najwiekszą ilością zawodników
 ```
 db.UFC_Fighters.aggregate( 
 	{ $group : { _id : "$ISO", ilosc : { $sum : 1}}},
@@ -58,6 +58,8 @@ db.UFC_Fighters.aggregate(
 	"ok" : 1
 }
 ```
+
+![wykres](../images/mmlynarski/UFC_top5krajow.png)
 
 ### Pięciu zawodników z największą ilością wygranych
 ```
