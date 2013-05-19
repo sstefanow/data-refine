@@ -10,7 +10,17 @@ Plik pobrany wyeksportowany z sql do csv. Następnie wrzucony do google refine t
 
 ## Przykładowy dokument i ilość:
 ```js
-{"id": 1, "kod": "00-001", "nazwa": "FUP Warszawa 1", "miejscowosc": "Warszawa (Śródmieście)", "wojewodztwo": "mazowieckie", "adres": "Al. Jana Pawła II", "powiat": "m. st. Warszawa", "zakres": "numer 82", "gmina": "M. st. Warszawa"} 
+{
+    "id": 1,
+    "kod": "00-001",
+    "nazwa": "FUP Warszawa 1",
+    "miejscowosc": "Warszawa (Śródmieście)",
+    "wojewodztwo": "mazowieckie",
+    "adres": "Al. Jana Pawła II",
+    "powiat": "m. st. Warszawa",
+    "zakres": "numer 82",
+    "gmina": "M. st. Warszawa"
+}
 ```
 
 
