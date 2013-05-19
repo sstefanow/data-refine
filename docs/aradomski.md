@@ -225,3 +225,14 @@ DBObject groupFields = new BasicDBObject("_id", "$wojewodztwo");
 }
 ```
 ![](../images/aradomski/d.png)
+
+* Ilość kodów pocztowych w mieśćie 
+
+```Java
+        DBObject fields = new BasicDBObject("wojewodztwo", "$wojewodztwo");
+	fields.put("miejsce", "$miejsce");
+	DBObject groupFields = new BasicDBObject("_id", fields);
+	groupFields.put("count_field", new BasicDBObject("$sum", 1));
+	DBObject group = new BasicDBObject("$group", groupFields);
+``` 
+
