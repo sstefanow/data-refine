@@ -1,5 +1,5 @@
 ﻿# Kody pocztowe
-
+## Michał Mroczkowski
 ## Konfiguracja php
 ```
 max_execution_time = 90
@@ -19,13 +19,38 @@ Do pobrania kodów pocztowych wykorzystałem API sejmometru w PHP, całością z
 
 ## Przykadowe dane
 
-Przykadowe dane w pliku [data.json](https://github.com/misiom1/sejmometr/blob/master/data.json)
-
-## Agregacje
-
-### 5 miast z największą ilością kodów pocztowych
-
+```json
+{
+        "_id" : ObjectId("51952923cae8ed75cd2088b0"),
+        "gminy" : "Warszawa",
+        "id" : "17189",
+        "kod" : "00-040",
+        "kod_int" : "40",
+        "liczba_gmin" : "1",
+        "liczba_powiatow" : "1",
+        "miejscowosci_str" : "Warszawa (Śródmieście)",
+        "wojewodztwo" : "mazowieckie",
+        "wojewodztwo_id" : "7"
+}
+{
+        "_id" : ObjectId("51952923cae8ed75cd2088b1"),
+        "gminy" : "Warszawa",
+        "id" : "16813",
+        "kod" : "00-041",
+        "kod_int" : "41",
+        "liczba_gmin" : "1",
+        "liczba_powiatow" : "1",
+        "miejscowosci_str" : "Warszawa (Śródmieście)",
+        "wojewodztwo" : "mazowieckie",
+        "wojewodztwo_id" : "7"
+}
 ```
+
+# Agregacje
+
+## 5 miast z największą ilością kodów pocztowych
+
+```php
 $db->aggregate(array(
 	array(
 		'$group' => array(
@@ -44,7 +69,7 @@ $db->aggregate(array(
 ));
 ```
 
-Wynik:
+### Wynik:
 
 ```
 array(5) {
@@ -86,9 +111,27 @@ array(5) {
 }
 ```
 
-### Ilość kodów pocztowych w każdym województwie
+### Wykres
+
+![Wykres](https://raw.github.com/nosql/data-refine/master/images/top5miast-mmroczkowski.png)
 
 ```
+//chart.googleapis.com/chart
+   ?chxr=0,0,4100
+   &chxt=y
+   &chbh=a,4,7
+   &chs=360x325
+   &cht=bvg
+   &chco=A2C180,3D7930,FF9900,7777CC,BBCCED
+   &chds=0,4001,0,4001,0,4001,0,4001,0,4001
+   &chd=t:4001|1618|1248|1214|1126
+   &chdl=Warszawa|Łódź|Wrocław|Poznań|Szczecin
+   &chtt=Miasta+z+największą+ilością+kodów+pocztowych
+```
+
+## Ilość kodów pocztowych w każdym województwie
+
+```php
 $db->aggregate(array(
 	array(
 		'$group' => array(
@@ -103,7 +146,7 @@ $db->aggregate(array(
 	)
 ));
 ```
-Wynik:
+### Wynik:
 
 ```
 array(17) {
@@ -228,12 +271,26 @@ array(17) {
   }
 }
 ```
+### Wykres
+
+![Wykres](https://raw.github.com/nosql/data-refine/master/images/ilosckodwwoj-mmroczkowskipng.png)
+
+```
+//chart.googleapis.com/chart
+   ?chs=560x440
+   &cht=map:auto=0,0,0,10
+   &chco=B3BCC0|3366CC|DC3912|FF9900|109618|990099|0099C6|DD4477|66AA00|B82E2E|316395|994499|AAAA11|6633CC|E67300|8B0707|651067
+   &chld=PL-DS|PL-KP|PL-PM|PL-LU|PL-PD|PL-MA|PL-LB|PL-LD|PL-MZ|PL-OP|PL-PK|PL-SL|PL-SK|PL-WN|PL-WP|PL-ZP
+   &chdl=Dolnośląskie|Kujawsko-Pomorskie|Pomorskie|Lubelskie|Podlaskie|Małopolskie|Lubuskie|Łódzkie|Mazowieckie|Opolskie|Podkarpackie|Śląskie|Świętokrzyskie|Warmińsko-Mazurskie|Wielkopolskie|Zachodniopomorskie
+   &chm=f872,FF0000,0,1,10|f1560,FF0000,0,0,10|f1484,FF0000,0,2,10|f789,FF0000,0,3,10|f722,FF0000,0,4,10|f1431,FF0000,0,5,10|f490,FF0000,0,6,10|f1795,FF0000,0,7,10|f4432,FF0000,0,8,10|f627,FF0000,0,9,10|f472,FF0000,0,10,10|f1055,FF0000,0,11,10|f601,FF0000,0,12,10|f770,FF0000,0,13,10|f1628,FF0000,0,14,10|f1857,FF0000,0,15,10
+   &chtt=Ilość+kodów+pocztowych+w+województwach
+```
 
 Jak widać niektóre miasta nie są przypisane do żadnego województwa
 
-### Miasta we wszystkich województwach z największą ilością kodów
+## Miasta we wszystkich województwach z największą i najmniejszą ilością kodów
 
-```
+```php
 $db->aggregate(array(
 	array(
 		'$group' => array(
@@ -258,7 +315,7 @@ $db->aggregate(array(
 ));
 ```
 
-Wynik:
+### Wynik:
 
 ```
 array(17) {
@@ -484,4 +541,22 @@ array(17) {
     int(1)
   }
 }
+```
+### Wykres
+
+![Wykres](https://raw.github.com/nosql/data-refine/master/images/minmax-mmroczkowski.png)
+
+```
+//chart.googleapis.com/chart
+   ?chxl=1:|Podkarpackie|Zachodniopomorskie|Lubelskie|Dolnośląskie|Łódzkie|Wielkopolskie|Lubuskie|Świętokrzyskie|Kujawsko-Pomorskie|Pomorskie|Podlaskie|Warmińsko-Mazurskie|Opolskie|Mazowieckie|Małopolskie|Śląskie
+   &chxr=0,0,1200
+   &chxt=x,y
+   &chs=600x490
+   &cht=bhs
+   &chco=DDF8CC,008000
+   &chds=0,1125,5,1175
+   &chd=t:1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1|145,1126,562,343,351,341,354,497,664,598,592,638,476,598,344,629
+   &chma=|15
+   &chtt=Min+i+max+ilość+kodów+pocztowych+w+miastach+w+woj.
+   &chts=676767,16.5
 ```
