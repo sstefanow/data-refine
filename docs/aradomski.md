@@ -236,7 +236,7 @@ DBObject groupFields = new BasicDBObject("_id", "$wojewodztwo");
 ```
 ![](../images/aradomski/d.png)
 
-* Ilość kodów pocztowych w mieśćie 
+* Ilość kodów pocztowych w mieście 
 
 ```Java
         DBObject fields = new BasicDBObject("wojewodztwo", "$wojewodztwo");
