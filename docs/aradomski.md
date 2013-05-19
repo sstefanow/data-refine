@@ -8,7 +8,7 @@ Plik: http://piotr.eldora.pl/weblog/wp-content/plugins/download-monitor/download
 ## Co zostało zrobione?
 Plik pobrany wyeksportowany z sql do csv. Następnie wrzucony do google refine tam poprawiony (zmiana nazw kolumn wyrzucony timestamp).
 
-## Przykładowy dokument i ilość:
+## Przykładowy wpis
 ```js
 {
     "id": 1,
