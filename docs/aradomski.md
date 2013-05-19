@@ -142,4 +142,86 @@ Plik pobrany wyeksportowany z sql do csv. Następnie wrzucony do google refine t
 ```
 ![](../images/aradomski/b.png)
 
+* Ilość kodów w województwie
 
+```Java
+DBObject groupFields = new BasicDBObject("_id", "$wojewodztwo");
+		groupFields.put("count_field", new BasicDBObject("$sum", 1));
+		DBObject group = new BasicDBObject("$group", groupFields);
+		DBObject sort = new BasicDBObject("$sort", new BasicDBObject(
+				"count_field", -1));
+		AggregationOutput output = coll.aggregate(group, sort);
+```
+```Json
+{
+  "serverUsed": "/153.19.1.202:27017",
+  "result": [
+    {
+      "_id": "mazowieckie",
+      "count_field": 25182.0
+    },
+    {
+      "_id": "śląskie",
+      "count_field": 15535.0
+    },
+    {
+      "_id": "wielkopolskie",
+      "count_field": 12440.0
+    },
+    {
+      "_id": "łódzkie",
+      "count_field": 9968.0
+    },
+    {
+      "_id": "dolnośląskie",
+      "count_field": 9529.0
+    },
+    {
+      "_id": "pomorskie",
+      "count_field": 8454.0
+    },
+    {
+      "_id": "małopolskie",
+      "count_field": 8063.0
+    },
+    {
+      "_id": "zachodniopomorskie",
+      "count_field": 7575.0
+    },
+    {
+      "_id": "kujawsko-pomorskie",
+      "count_field": 7544.0
+    },
+    {
+      "_id": "podlaskie",
+      "count_field": 6610.0
+    },
+    {
+      "_id": "lubelskie",
+      "count_field": 6522.0
+    },
+    {
+      "_id": "podkarpackie",
+      "count_field": 5865.0
+    },
+    {
+      "_id": "warmińsko-mazurskie",
+      "count_field": 5460.0
+    },
+    {
+      "_id": "świętokrzyskie",
+      "count_field": 4819.0
+    },
+    {
+      "_id": "opolskie",
+      "count_field": 3823.0
+    },
+    {
+      "_id": "lubuskie",
+      "count_field": 2687.0
+    }
+  ],
+  "ok": 1.0
+}
+```
+![](../images/aradomski/d.png)
