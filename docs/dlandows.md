@@ -1,4 +1,6 @@
-# Kody pocztowe
+### *Daniel Landowski*
+
+# Oczyszczanie danych
 
 Kody pocztowe wg powiatów dla województwa pomorskiego.
 
@@ -20,8 +22,6 @@ Kody pocztowe wg powiatów dla województwa pomorskiego.
 kod_pocztowy,miasto,powiat,oddzial,adres
 89-650,Czersk,chojnicki,Poczta Czersk,nie podano
 ```
-
---------------------------------
 
 # Agregacje
 
@@ -63,6 +63,7 @@ coll.aggregate(
 	"ok" : 1
 }
 ```
+![](../images/dlandows/wykres-1.png)
 
 ### Imieniny, które świętowane są dokładnie 6 razy w roku:
 ```js
@@ -145,7 +146,4 @@ coll.aggregate(
     "ok" : 1 
 }
 ```
-
---------------------------------
-Autor: Daniel Landowski
 
