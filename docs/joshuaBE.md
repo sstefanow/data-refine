@@ -50,6 +50,44 @@ religion =  census.aggregate([
 ])
 ```
 
-Wynik Google Chart API:
+Wynik Google Chart:
 
 ![](https://raw.github.com/joshuaBE/data-refine/master/images/jpawlukiewicz/chart1.png)
+
+
+W innej formie:
+![](https://raw.github.com/joshuaBE/data-refine/master/images/jpawlukiewicz/chart2.png)
+
+
+### Średnia wieku w 10 najpopularniejszych religiach
+
+```ruby
+religion2 =  census.aggregate([ 
+  {'$group' => { _id: '$religion', avg_age: {'$avg' => '$age'}, 
+    count: {'$sum' => 1}}},
+  {'$project' => {_id: 0, religion: '$_id', avg_age: '$avg_age', count: '$count'}},
+  {'$sort' => { count: -1, avg_age: -1 }},
+  {'$limit' => 10}
+])
+```
+
+Wynik Google Chart:
+
+![](https://raw.github.com/joshuaBE/data-refine/master/images/jpawlukiewicz/chart3.png)
+
+
+### Religie o najstarszych wyznawcach (100 lub więcej wiernych)
+
+```ruby
+religion3 =  census.aggregate([ {'$group' => { _id: '$religion', avg_age: {'$avg' => '$age'}, count: {'$sum' => 1}}} ,
+{'$project' => {_id: 0, religion: '$_id', avg_age: '$avg_age', count: '$count'}},
+{'$match' => {count: {'$gte' => 100}}},
+{'$sort' => { avg_age: -1 }},
+{'$limit' => 10}
+])
+```
+
+Wynik:
+
+![](https://raw.github.com/joshuaBE/data-refine/master/images/jpawlukiewicz/chart4.png)
+
