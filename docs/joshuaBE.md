@@ -56,6 +56,7 @@ Wynik Google Chart:
 
 
 W innej formie:
+
 ![](https://raw.github.com/joshuaBE/data-refine/master/images/jpawlukiewicz/chart2.png)
 
 
@@ -79,11 +80,13 @@ Wynik Google Chart:
 ### Religie o najstarszych wyznawcach (100 lub więcej wiernych)
 
 ```ruby
-religion3 =  census.aggregate([ {'$group' => { _id: '$religion', avg_age: {'$avg' => '$age'}, count: {'$sum' => 1}}} ,
-{'$project' => {_id: 0, religion: '$_id', avg_age: '$avg_age', count: '$count'}},
-{'$match' => {count: {'$gte' => 100}}},
-{'$sort' => { avg_age: -1 }},
-{'$limit' => 10}
+religion3 =  census.aggregate([ 
+  {'$group' => { _id: '$religion', avg_age: {'$avg' => '$age'}, 
+    count: {'$sum' => 1}}} ,
+  {'$project' => {_id: 0, religion: '$_id', avg_age: '$avg_age', count: '$count'}},
+  {'$match' => {count: {'$gte' => 100}}},
+  {'$sort' => { avg_age: -1 }},
+  {'$limit' => 10}
 ])
 ```
 
