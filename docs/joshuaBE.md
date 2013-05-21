@@ -40,7 +40,7 @@ Więcej: [Tutaj](/data/json/pomniki_przyrody_w_raciborzu.json)
 mongoimport --db test --collection pomniki --file data/json/pomniki_przyrody_w_raciborzu.json
 ```
 
-## Agregacje
+## Agregacje na bazie danych *census1881*
 
 Link to skryptu: [Tutaj](/scripts/ruby/jpawlukiewicz.rb).
 
