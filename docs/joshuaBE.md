@@ -52,4 +52,4 @@ religion =  census.aggregate([
 
 Wynik Google Chart API:
 
-![](/images/jpawlukiewicz/chart1.png)
+![](https://raw.github.com/joshuaBE/data-refine/master/images/jpawlukiewicz/chart1.png)
