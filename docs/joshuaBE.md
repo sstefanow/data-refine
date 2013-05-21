@@ -24,7 +24,11 @@
       "obwod" : 336,
       "wiek" : "ok. 120 lat",
       "ustanowiono" : "17 grudnia 1992",
-      "opis" : "Jest to najprawdopodobniej najgrubszy dąb biały w Polsce. Znajduje się w dobrym stanie zdrowotnym. Objęto go ochroną w celach naukowo-dydaktycznych, ze względu na atrakcyjny pokrój drzewa oraz budowę morfologiczną liści i kory drzewa, a także ze względu na pokaźne rozmiary. Jest to również egzotyczny gatunek pochodzący z Ameryki Północnej, rzadko spotykany w Polsce."
+      "opis" : "Jest to najprawdopodobniej najgrubszy dąb biały w Polsce. 
+                Znajduje się w dobrym stanie zdrowotnym. Objęto go ochroną w celach naukowo-dydaktycznych, 
+                ze względu na atrakcyjny pokrój drzewa oraz budowę morfologiczną liści i kory drzewa, 
+                a także ze względu na pokaźne rozmiary. Jest to również egzotyczny gatunek pochodzący z 
+                Ameryki Północnej, rzadko spotykany w Polsce."
     }
 ```
 Więcej: [Tutaj](/data/json/pomniki_przyrody_w_raciborzu.json)
