@@ -33,6 +33,7 @@ Więcej: [Tutaj](/data/json/pomniki_przyrody_w_raciborzu.json)
 ## Import danych do bazy (z katalogu projektu)
 ```bash
 mongoimport --db test --collection pomniki --file data/json/pomniki_przyrody_w_raciborzu.json
+```
 
 ## Agregacje
 
