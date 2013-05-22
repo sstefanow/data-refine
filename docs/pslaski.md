@@ -64,8 +64,7 @@ Rezultat:
 
 ```ruby
 county_avg = zipcodes.aggregate([{'$group' => 
-					{:_id => {:powiat => '$powiat', :wojewodztwo => '$wojewodztwo'}, 
-					count => {'$sum' => 1}}},
+					{:_id => {:powiat => '$powiat', :wojewodztwo => '$wojewodztwo'}, nt => {'$sum' => 1}}},
                                  {'$group' => 
                                  	{:_id => '$_id.wojewodztwo', :avg => {'$avg' => '$' + count}}},
                                  {'$sort' => {:avg => -1}},
