@@ -1,5 +1,7 @@
 ﻿# Kody pocztowe
-## Michał Mroczkowski
+
+### *Michał Mroczkowski*
+
 ## Konfiguracja php
 ```
 max_execution_time = 90
