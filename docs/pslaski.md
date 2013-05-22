@@ -63,7 +63,8 @@ Rezultat:
 ##  Średnia liczba kodów pocztowych dla powiatu w danym województwie
 
 ```ruby
-county_avg = zipcodes.aggregate([{'$group' => {:_id => {:powiat => '$powiat', :wojewodztwo => '$wojewodztwo'}, count => {'$sum' => 1}}},
+county_avg = zipcodes.aggregate([{'$group' => {:_id => {:powiat => '$powiat', :wojewodztwo => '$wojewodztwo'}, 
+									count => {'$sum' => 1}}},
                                  {'$group' => {:_id => '$_id.wojewodztwo', :avg => {'$avg' => '$' + count}}},
                                  {'$sort' => {:avg => -1}},
                                  {'$project' => {:_id => 0, :wojewodztwo => '$_id', :avg => 1}}])
@@ -89,6 +90,7 @@ Rezultat:
 {"avg"=>202.24137931034483, "wojewodztwo"=>"podkarpackie"}
 {"avg"=>167.9375, "wojewodztwo"=>"lubuskie"}
 ```
+![](../images/pslaski/pslaski_county_avg.png)
 
 ## Ulice z największą liczbą kodów w Polsce (>= 200)
 
@@ -116,6 +118,7 @@ Rezultat:
 {"count"=>210, "ulica"=>"Ul. Leśna"}
 {"count"=>202, "ulica"=>"Ul. Wojska Polskiego"}
 ```
+![](../images/pslaski/pslaski_max_streets.png)
 
 ## Znalezienie miejscowości z kodem w postaci xx-xxx np. 11-111, 22-222 itp.
 
@@ -167,3 +170,4 @@ Rezultat:
 {"count"=>1, "miejsce"=>"Nowa Wieś (Warszawa)"}
 {"count"=>1, "miejsce"=>"Hłudno (Warszawa)"}
 ```
+![](../images/pslaski/pslaski_warsaw_zips.png)

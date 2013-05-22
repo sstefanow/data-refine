@@ -1,6 +1,7 @@
 # encoding: UTF-8
 
 require 'mongo'
+require_relative 'chart_generator'
 include Mongo
 
 host = 'localhost'
@@ -51,6 +52,8 @@ county_avg = zipcodes.aggregate([{'$group' => {:_id => {:powiat => '$powiat', :w
 
 puts sep
 puts county_avg
+#puts 'Diagram:'
+#puts ChartGenerator.get_chart_url(county_avg, 'avg', 'wojewodztwo', { chs: '500x520' })
 
 # ulice z najwieksza liczba kodow w Polsce (>= 200)
 
@@ -62,6 +65,8 @@ max_streets = zipcodes.aggregate([{'$match' => {:ulica => /.*/}},
 
 puts sep
 puts max_streets
+#puts 'Diagram:'
+#puts ChartGenerator.get_chart_url(max_streets, 'count', 'ulica', { chs: '500x400' })
 
 #  znalezienie miejscowosci z kodem w postaci xx-xxx np. 11-111, 22-222 itp
 
@@ -80,3 +85,5 @@ warsaw_zips = zipcodes.aggregate([{'$match' => {:miejsce => /Warszawa/}},
 
 puts sep
 puts warsaw_zips
+#puts 'Diagram:'
+#puts ChartGenerator.get_chart_url(warsaw_zips, 'count', 'miejsce', { chs: '400x700' })
