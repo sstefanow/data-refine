@@ -23,7 +23,7 @@ mongoimport --db nosql --collection UFC_Fighters --type json --file UFC_Fighters
 
 ## Agregacje
 
-### 3 kraje z najwiekszą ilością zawodników
+### 5 krajów z najwiekszą ilością zawodników
 ```
 db.UFC_Fighters.aggregate( 
 	{ $group : { _id : "$ISO", ilosc : { $sum : 1}}},
@@ -31,7 +31,37 @@ db.UFC_Fighters.aggregate(
 	{ $limit : 5 }
 )
 ```
-### Zawodnicy z największą ilością wygranych
+```
+{
+	"result" : [
+		{
+			"_id" : "USA",
+			"ilosc" : 202
+		},
+		{
+			"_id" : "BRA",
+			"ilosc" : 70
+		},
+		{
+			"_id" : "CAN",
+			"ilosc" : 22
+		},
+		{
+			"_id" : "UK",
+			"ilosc" : 18
+		},
+		{
+			"_id" : "JPN",
+			"ilosc" : 9
+		}
+	],
+	"ok" : 1
+}
+```
+
+![wykres](../images/mmlynarski/UFC_top5krajow.png)
+
+### Pięciu zawodników z największą ilością wygranych
 ```
 db.UFC_Fighters.aggregate(
 	{ $group : { _id : "$Wins"}},
@@ -39,10 +69,43 @@ db.UFC_Fighters.aggregate(
 	{ $limit : 5 }
 )
 ```
+```
+{
+	"result" : [
+		{
+			"_id" : 13
+		},
+		{
+			"_id" : 11
+		},
+		{
+			"_id" : 15
+		},
+		{
+			"_id" : 18
+		},
+		{
+			"_id" : 16
+		}
+	],
+	"ok" : 1
+}
+```
 ### Liczba zawodników z USA
 ```
 db.UFC_Fighters.aggregate( 
 	{ $match : { ISO : "USA"}},
 	{ $group : { _id : "$ISO", liczbaZawodnikowUSA : { $sum : 1}}}
 )
+```
+```
+{
+	"result" : [
+		{
+			"_id" : "USA",
+			"liczbaZawodnikowUSA" : 202
+		}
+	],
+	"ok" : 1
+}
 ```
