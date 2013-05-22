@@ -1,5 +1,7 @@
 # Dane historyczne notowań WIG20
-------------------------------
+
+### *Paweł Śląski*
+
 ##Źródło danych
 
 Oryginalne dane pobrałem w formacie csv z serwisu [stooq.pl](http://stooq.pl/q/d/?s=wig20&c=0)
