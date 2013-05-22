@@ -63,9 +63,11 @@ Rezultat:
 ##  Średnia liczba kodów pocztowych dla powiatu w danym województwie
 
 ```ruby
-county_avg = zipcodes.aggregate([{'$group' => {:_id => {:powiat => '$powiat', :wojewodztwo => '$wojewodztwo'}, 
-									count => {'$sum' => 1}}},
-                                 {'$group' => {:_id => '$_id.wojewodztwo', :avg => {'$avg' => '$' + count}}},
+county_avg = zipcodes.aggregate([{'$group' => 
+					{:_id => {:powiat => '$powiat', :wojewodztwo => '$wojewodztwo'}, 
+					count => {'$sum' => 1}}},
+                                 {'$group' => 
+                                 	{:_id => '$_id.wojewodztwo', :avg => {'$avg' => '$' + count}}},
                                  {'$sort' => {:avg => -1}},
                                  {'$project' => {:_id => 0, :wojewodztwo => '$_id', :avg => 1}}])
 ```
@@ -139,7 +141,8 @@ Rezultat:
 
 ```ruby
 warsaw_zips = zipcodes.aggregate([{'$match' => {:miejsce => /Warszawa/}},
-                                  {'$group' => {:_id => {:miejsce => '$miejsce'}, count => {'$sum' => 1}}},
+                                  {'$group' => 
+                                  	{:_id => {:miejsce => '$miejsce'}, count => {'$sum' => 1}}},
                                   {'$project' => {:_id => 0, :miejsce => '$_id.miejsce', count => 1}},
                                   {'$sort' => {count => -1}}])
 ```
