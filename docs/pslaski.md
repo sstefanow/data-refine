@@ -1,5 +1,7 @@
 # Dane historyczne notowań WIG20
-------------------------------
+
+### *Paweł Śląski*
+
 ##Źródło danych
 
 Oryginalne dane pobrałem w formacie csv z serwisu [stooq.pl](http://stooq.pl/q/d/?s=wig20&c=0)
@@ -63,8 +65,10 @@ Rezultat:
 ##  Średnia liczba kodów pocztowych dla powiatu w danym województwie
 
 ```ruby
-county_avg = zipcodes.aggregate([{'$group' => {:_id => {:powiat => '$powiat', :wojewodztwo => '$wojewodztwo'}, count => {'$sum' => 1}}},
-                                 {'$group' => {:_id => '$_id.wojewodztwo', :avg => {'$avg' => '$' + count}}},
+county_avg = zipcodes.aggregate([{'$group' => 
+					{:_id => {:powiat => '$powiat', :wojewodztwo => '$wojewodztwo'}, nt => {'$sum' => 1}}},
+                                 {'$group' => 
+                                 	{:_id => '$_id.wojewodztwo', :avg => {'$avg' => '$' + count}}},
                                  {'$sort' => {:avg => -1}},
                                  {'$project' => {:_id => 0, :wojewodztwo => '$_id', :avg => 1}}])
 ```
@@ -89,6 +93,7 @@ Rezultat:
 {"avg"=>202.24137931034483, "wojewodztwo"=>"podkarpackie"}
 {"avg"=>167.9375, "wojewodztwo"=>"lubuskie"}
 ```
+![](../images/pslaski/pslaski_county_avg.png)
 
 ## Ulice z największą liczbą kodów w Polsce (>= 200)
 
@@ -116,6 +121,7 @@ Rezultat:
 {"count"=>210, "ulica"=>"Ul. Leśna"}
 {"count"=>202, "ulica"=>"Ul. Wojska Polskiego"}
 ```
+![](../images/pslaski/pslaski_max_streets.png)
 
 ## Znalezienie miejscowości z kodem w postaci xx-xxx np. 11-111, 22-222 itp.
 
@@ -136,7 +142,8 @@ Rezultat:
 
 ```ruby
 warsaw_zips = zipcodes.aggregate([{'$match' => {:miejsce => /Warszawa/}},
-                                  {'$group' => {:_id => {:miejsce => '$miejsce'}, count => {'$sum' => 1}}},
+                                  {'$group' => 
+                                  	{:_id => {:miejsce => '$miejsce'}, count => {'$sum' => 1}}},
                                   {'$project' => {:_id => 0, :miejsce => '$_id.miejsce', count => 1}},
                                   {'$sort' => {count => -1}}])
 ```
@@ -167,3 +174,4 @@ Rezultat:
 {"count"=>1, "miejsce"=>"Nowa Wieś (Warszawa)"}
 {"count"=>1, "miejsce"=>"Hłudno (Warszawa)"}
 ```
+![](../images/pslaski/pslaski_warsaw_zips.png)
