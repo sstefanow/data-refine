@@ -42,7 +42,7 @@ Wyniki:
 { _id: 'Southern Alaska', total_earthquakes: 82 }
 { _id: 'Utah', total_earthquakes: 49 }
 ```
-![suma_trzesien](images/jciechowski_aggr1.png)
+![suma_trzesien](/images/jciechowski_aggr1.png)
 
 ## Średnia siła trzęsień w regionie
 
