@@ -1,0 +1,3559 @@
+{
+  "rows" : [
+    {
+      "Kod" : 1100000000,
+      "Jednostka terytorialna" : " £ÓDZKIE",
+      "pomieszczenia szkolne 2007" : 10941,
+      "pomieszczenia szkolne 2008" : 10932,
+      "pomieszczenia szkolne 2009" : 11161,
+      "pomieszczenia szkolne 2010" : 11168,
+      "pomieszczenia szkolne 2011" : 10971
+    },
+    {
+      "Kod" : 1101506000,
+      "Jednostka terytorialna" : "Powiat ³ódzki wschodni",
+      "pomieszczenia szkolne 2007" : 254,
+      "pomieszczenia szkolne 2008" : 260,
+      "pomieszczenia szkolne 2009" : 280,
+      "pomieszczenia szkolne 2010" : 278,
+      "pomieszczenia szkolne 2011" : 276
+    },
+    {
+      "Kod" : 1101508000,
+      "Jednostka terytorialna" : "Powiat pabianicki",
+      "pomieszczenia szkolne 2007" : 371,
+      "pomieszczenia szkolne 2008" : 379,
+      "pomieszczenia szkolne 2009" : 386,
+      "pomieszczenia szkolne 2010" : 386,
+      "pomieszczenia szkolne 2011" : 385
+    },
+    {
+      "Kod" : 1101520000,
+      "Jednostka terytorialna" : "Powiat zgierski",
+      "pomieszczenia szkolne 2007" : 583,
+      "pomieszczenia szkolne 2008" : 611,
+      "pomieszczenia szkolne 2009" : 638,
+      "pomieszczenia szkolne 2010" : 621,
+      "pomieszczenia szkolne 2011" : 619
+    },
+    {
+      "Kod" : 1101521000,
+      "Jednostka terytorialna" : "Powiat brzeziñski",
+      "pomieszczenia szkolne 2007" : 147,
+      "pomieszczenia szkolne 2008" : 147,
+      "pomieszczenia szkolne 2009" : 155,
+      "pomieszczenia szkolne 2010" : 136,
+      "pomieszczenia szkolne 2011" : 124
+    },
+    {
+      "Kod" : 1101661000,
+      "Jednostka terytorialna" : "Powiat m.£ódŸ",
+      "pomieszczenia szkolne 2007" : 2436,
+      "pomieszczenia szkolne 2008" : 2405,
+      "pomieszczenia szkolne 2009" : 2477,
+      "pomieszczenia szkolne 2010" : 2463,
+      "pomieszczenia szkolne 2011" : 2295
+    },
+    {
+      "Kod" : 1101701000,
+      "Jednostka terytorialna" : "Powiat be³chatowski",
+      "pomieszczenia szkolne 2007" : 503,
+      "pomieszczenia szkolne 2008" : 505,
+      "pomieszczenia szkolne 2009" : 491,
+      "pomieszczenia szkolne 2010" : 494,
+      "pomieszczenia szkolne 2011" : 495
+    },
+    {
+      "Kod" : 1101707000,
+      "Jednostka terytorialna" : "Powiat opoczyñski",
+      "pomieszczenia szkolne 2007" : 479,
+      "pomieszczenia szkolne 2008" : 469,
+      "pomieszczenia szkolne 2009" : 488,
+      "pomieszczenia szkolne 2010" : 491,
+      "pomieszczenia szkolne 2011" : 480
+    },
+    {
+      "Kod" : 1101710000,
+      "Jednostka terytorialna" : "Powiat piotrkowski",
+      "pomieszczenia szkolne 2007" : 523,
+      "pomieszczenia szkolne 2008" : 529,
+      "pomieszczenia szkolne 2009" : 535,
+      "pomieszczenia szkolne 2010" : 542,
+      "pomieszczenia szkolne 2011" : 535
+    },
+    {
+      "Kod" : 1101712000,
+      "Jednostka terytorialna" : "Powiat radomszczañski",
+      "pomieszczenia szkolne 2007" : 568,
+      "pomieszczenia szkolne 2008" : 561,
+      "pomieszczenia szkolne 2009" : 583,
+      "pomieszczenia szkolne 2010" : 586,
+      "pomieszczenia szkolne 2011" : 583
+    },
+    {
+      "Kod" : 1101716000,
+      "Jednostka terytorialna" : "Powiat tomaszowski",
+      "pomieszczenia szkolne 2007" : 446,
+      "pomieszczenia szkolne 2008" : 438,
+      "pomieszczenia szkolne 2009" : 440,
+      "pomieszczenia szkolne 2010" : 438,
+      "pomieszczenia szkolne 2011" : 497
+    },
+    {
+      "Kod" : 1101762000,
+      "Jednostka terytorialna" : "Powiat m.Piotrków Trybunalski",
+      "pomieszczenia szkolne 2007" : 229,
+      "pomieszczenia szkolne 2008" : 199,
+      "pomieszczenia szkolne 2009" : 219,
+      "pomieszczenia szkolne 2010" : 226,
+      "pomieszczenia szkolne 2011" : 218
+    },
+    {
+      "Kod" : 1101803000,
+      "Jednostka terytorialna" : "Powiat ³aski",
+      "pomieszczenia szkolne 2007" : 265,
+      "pomieszczenia szkolne 2008" : 282,
+      "pomieszczenia szkolne 2009" : 279,
+      "pomieszczenia szkolne 2010" : 282,
+      "pomieszczenia szkolne 2011" : 276
+    },
+    {
+      "Kod" : 1101809000,
+      "Jednostka terytorialna" : "Powiat pajêczañski",
+      "pomieszczenia szkolne 2007" : 363,
+      "pomieszczenia szkolne 2008" : 366,
+      "pomieszczenia szkolne 2009" : 361,
+      "pomieszczenia szkolne 2010" : 371,
+      "pomieszczenia szkolne 2011" : 379
+    },
+    {
+      "Kod" : 1101811000,
+      "Jednostka terytorialna" : "Powiat poddêbicki",
+      "pomieszczenia szkolne 2007" : 233,
+      "pomieszczenia szkolne 2008" : 219,
+      "pomieszczenia szkolne 2009" : 222,
+      "pomieszczenia szkolne 2010" : 222,
+      "pomieszczenia szkolne 2011" : 233
+    },
+    {
+      "Kod" : 1101814000,
+      "Jednostka terytorialna" : "Powiat sieradzki",
+      "pomieszczenia szkolne 2007" : 629,
+      "pomieszczenia szkolne 2008" : 633,
+      "pomieszczenia szkolne 2009" : 667,
+      "pomieszczenia szkolne 2010" : 658,
+      "pomieszczenia szkolne 2011" : 646
+    },
+    {
+      "Kod" : 1101817000,
+      "Jednostka terytorialna" : "Powiat wieluñski",
+      "pomieszczenia szkolne 2007" : 456,
+      "pomieszczenia szkolne 2008" : 455,
+      "pomieszczenia szkolne 2009" : 461,
+      "pomieszczenia szkolne 2010" : 472,
+      "pomieszczenia szkolne 2011" : 456
+    },
+    {
+      "Kod" : 1101818000,
+      "Jednostka terytorialna" : "Powiat wieruszowski",
+      "pomieszczenia szkolne 2007" : 282,
+      "pomieszczenia szkolne 2008" : 267,
+      "pomieszczenia szkolne 2009" : 288,
+      "pomieszczenia szkolne 2010" : 294,
+      "pomieszczenia szkolne 2011" : 296
+    },
+    {
+      "Kod" : 1101819000,
+      "Jednostka terytorialna" : "Powiat zduñskowolski",
+      "pomieszczenia szkolne 2007" : 248,
+      "pomieszczenia szkolne 2008" : 263,
+      "pomieszczenia szkolne 2009" : 264,
+      "pomieszczenia szkolne 2010" : 267,
+      "pomieszczenia szkolne 2011" : 267
+    },
+    {
+      "Kod" : 1101902000,
+      "Jednostka terytorialna" : "Powiat kutnowski",
+      "pomieszczenia szkolne 2007" : 460,
+      "pomieszczenia szkolne 2008" : 460,
+      "pomieszczenia szkolne 2009" : 461,
+      "pomieszczenia szkolne 2010" : 457,
+      "pomieszczenia szkolne 2011" : 456
+    },
+    {
+      "Kod" : 1101904000,
+      "Jednostka terytorialna" : "Powiat ³êczycki",
+      "pomieszczenia szkolne 2007" : 273,
+      "pomieszczenia szkolne 2008" : 290,
+      "pomieszczenia szkolne 2009" : 293,
+      "pomieszczenia szkolne 2010" : 306,
+      "pomieszczenia szkolne 2011" : 306
+    },
+    {
+      "Kod" : 1101905000,
+      "Jednostka terytorialna" : "Powiat ³owicki",
+      "pomieszczenia szkolne 2007" : 474,
+      "pomieszczenia szkolne 2008" : 479,
+      "pomieszczenia szkolne 2009" : 463,
+      "pomieszczenia szkolne 2010" : 470,
+      "pomieszczenia szkolne 2011" : 441
+    },
+    {
+      "Kod" : 1101913000,
+      "Jednostka terytorialna" : "Powiat rawski",
+      "pomieszczenia szkolne 2007" : 280,
+      "pomieszczenia szkolne 2008" : 277,
+      "pomieszczenia szkolne 2009" : 280,
+      "pomieszczenia szkolne 2010" : 275,
+      "pomieszczenia szkolne 2011" : 265
+    },
+    {
+      "Kod" : 1101915000,
+      "Jednostka terytorialna" : "Powiat skierniewicki",
+      "pomieszczenia szkolne 2007" : 305,
+      "pomieszczenia szkolne 2008" : 307,
+      "pomieszczenia szkolne 2009" : 301,
+      "pomieszczenia szkolne 2010" : 310,
+      "pomieszczenia szkolne 2011" : 310
+    },
+    {
+      "Kod" : 1101963000,
+      "Jednostka terytorialna" : "Powiat m.Skierniewice",
+      "pomieszczenia szkolne 2007" : 134,
+      "pomieszczenia szkolne 2008" : 131,
+      "pomieszczenia szkolne 2009" : 129,
+      "pomieszczenia szkolne 2010" : 123,
+      "pomieszczenia szkolne 2011" : 133
+    },
+    {
+      "Kod" : 1140000000,
+      "Jednostka terytorialna" : " MAZOWIECKIE",
+      "pomieszczenia szkolne 2007" : 23036,
+      "pomieszczenia szkolne 2008" : 23148,
+      "pomieszczenia szkolne 2009" : 23442,
+      "pomieszczenia szkolne 2010" : 23722,
+      "pomieszczenia szkolne 2011" : 23652
+    },
+    {
+      "Kod" : 1142502000,
+      "Jednostka terytorialna" : "Powiat ciechanowski",
+      "pomieszczenia szkolne 2007" : 478,
+      "pomieszczenia szkolne 2008" : 454,
+      "pomieszczenia szkolne 2009" : 460,
+      "pomieszczenia szkolne 2010" : 469,
+      "pomieszczenia szkolne 2011" : 457
+    },
+    {
+      "Kod" : 1142504000,
+      "Jednostka terytorialna" : "Powiat gostyniñski",
+      "pomieszczenia szkolne 2007" : 255,
+      "pomieszczenia szkolne 2008" : 256,
+      "pomieszczenia szkolne 2009" : 252,
+      "pomieszczenia szkolne 2010" : 256,
+      "pomieszczenia szkolne 2011" : 256
+    },
+    {
+      "Kod" : 1142513000,
+      "Jednostka terytorialna" : "Powiat m³awski",
+      "pomieszczenia szkolne 2007" : 440,
+      "pomieszczenia szkolne 2008" : 494,
+      "pomieszczenia szkolne 2009" : 484,
+      "pomieszczenia szkolne 2010" : 465,
+      "pomieszczenia szkolne 2011" : 452
+    },
+    {
+      "Kod" : 1142519000,
+      "Jednostka terytorialna" : "Powiat p³ocki",
+      "pomieszczenia szkolne 2007" : 745,
+      "pomieszczenia szkolne 2008" : 734,
+      "pomieszczenia szkolne 2009" : 735,
+      "pomieszczenia szkolne 2010" : 723,
+      "pomieszczenia szkolne 2011" : 727
+    },
+    {
+      "Kod" : 1142520000,
+      "Jednostka terytorialna" : "Powiat p³oñski",
+      "pomieszczenia szkolne 2007" : 482,
+      "pomieszczenia szkolne 2008" : 488,
+      "pomieszczenia szkolne 2009" : 488,
+      "pomieszczenia szkolne 2010" : 495,
+      "pomieszczenia szkolne 2011" : 492
+    },
+    {
+      "Kod" : 1142527000,
+      "Jednostka terytorialna" : "Powiat sierpecki",
+      "pomieszczenia szkolne 2007" : 278,
+      "pomieszczenia szkolne 2008" : 277,
+      "pomieszczenia szkolne 2009" : 279,
+      "pomieszczenia szkolne 2010" : 288,
+      "pomieszczenia szkolne 2011" : 288
+    },
+    {
+      "Kod" : 1142537000,
+      "Jednostka terytorialna" : "Powiat ¿uromiñski",
+      "pomieszczenia szkolne 2007" : 308,
+      "pomieszczenia szkolne 2008" : 296,
+      "pomieszczenia szkolne 2009" : 308,
+      "pomieszczenia szkolne 2010" : 324,
+      "pomieszczenia szkolne 2011" : 309
+    },
+    {
+      "Kod" : 1142562000,
+      "Jednostka terytorialna" : "Powiat m.P³ock",
+      "pomieszczenia szkolne 2007" : 471,
+      "pomieszczenia szkolne 2008" : 478,
+      "pomieszczenia szkolne 2009" : 459,
+      "pomieszczenia szkolne 2010" : 459,
+      "pomieszczenia szkolne 2011" : 473
+    },
+    {
+      "Kod" : 1142610000,
+      "Jednostka terytorialna" : "Powiat ³osicki",
+      "pomieszczenia szkolne 2007" : 222,
+      "pomieszczenia szkolne 2008" : 230,
+      "pomieszczenia szkolne 2009" : 223,
+      "pomieszczenia szkolne 2010" : 243,
+      "pomieszczenia szkolne 2011" : 213
+    },
+    {
+      "Kod" : 1142611000,
+      "Jednostka terytorialna" : "Powiat makowski",
+      "pomieszczenia szkolne 2007" : 267,
+      "pomieszczenia szkolne 2008" : 265,
+      "pomieszczenia szkolne 2009" : 262,
+      "pomieszczenia szkolne 2010" : 261,
+      "pomieszczenia szkolne 2011" : 241
+    },
+    {
+      "Kod" : 1142615000,
+      "Jednostka terytorialna" : "Powiat ostro³êcki",
+      "pomieszczenia szkolne 2007" : 645,
+      "pomieszczenia szkolne 2008" : 624,
+      "pomieszczenia szkolne 2009" : 636,
+      "pomieszczenia szkolne 2010" : 633,
+      "pomieszczenia szkolne 2011" : 620
+    },
+    {
+      "Kod" : 1142616000,
+      "Jednostka terytorialna" : "Powiat ostrowski",
+      "pomieszczenia szkolne 2007" : 445,
+      "pomieszczenia szkolne 2008" : 416,
+      "pomieszczenia szkolne 2009" : 417,
+      "pomieszczenia szkolne 2010" : 422,
+      "pomieszczenia szkolne 2011" : 426
+    },
+    {
+      "Kod" : 1142622000,
+      "Jednostka terytorialna" : "Powiat przasnyski",
+      "pomieszczenia szkolne 2007" : 355,
+      "pomieszczenia szkolne 2008" : 363,
+      "pomieszczenia szkolne 2009" : 341,
+      "pomieszczenia szkolne 2010" : 344,
+      "pomieszczenia szkolne 2011" : 324
+    },
+    {
+      "Kod" : 1142624000,
+      "Jednostka terytorialna" : "Powiat pu³tuski",
+      "pomieszczenia szkolne 2007" : 324,
+      "pomieszczenia szkolne 2008" : 323,
+      "pomieszczenia szkolne 2009" : 323,
+      "pomieszczenia szkolne 2010" : 325,
+      "pomieszczenia szkolne 2011" : 316
+    },
+    {
+      "Kod" : 1142626000,
+      "Jednostka terytorialna" : "Powiat siedlecki",
+      "pomieszczenia szkolne 2007" : 519,
+      "pomieszczenia szkolne 2008" : 506,
+      "pomieszczenia szkolne 2009" : 512,
+      "pomieszczenia szkolne 2010" : 509,
+      "pomieszczenia szkolne 2011" : 495
+    },
+    {
+      "Kod" : 1142629000,
+      "Jednostka terytorialna" : "Powiat soko³owski",
+      "pomieszczenia szkolne 2007" : 358,
+      "pomieszczenia szkolne 2008" : 334,
+      "pomieszczenia szkolne 2009" : 351,
+      "pomieszczenia szkolne 2010" : 355,
+      "pomieszczenia szkolne 2011" : 357
+    },
+    {
+      "Kod" : 1142633000,
+      "Jednostka terytorialna" : "Powiat wêgrowski",
+      "pomieszczenia szkolne 2007" : 443,
+      "pomieszczenia szkolne 2008" : 441,
+      "pomieszczenia szkolne 2009" : 430,
+      "pomieszczenia szkolne 2010" : 417,
+      "pomieszczenia szkolne 2011" : 421
+    },
+    {
+      "Kod" : 1142635000,
+      "Jednostka terytorialna" : "Powiat wyszkowski",
+      "pomieszczenia szkolne 2007" : 426,
+      "pomieszczenia szkolne 2008" : 417,
+      "pomieszczenia szkolne 2009" : 423,
+      "pomieszczenia szkolne 2010" : 428,
+      "pomieszczenia szkolne 2011" : 409
+    },
+    {
+      "Kod" : 1142661000,
+      "Jednostka terytorialna" : "Powiat m.Ostro³êka",
+      "pomieszczenia szkolne 2007" : 171,
+      "pomieszczenia szkolne 2008" : 172,
+      "pomieszczenia szkolne 2009" : 178,
+      "pomieszczenia szkolne 2010" : 177,
+      "pomieszczenia szkolne 2011" : 172
+    },
+    {
+      "Kod" : 1142664000,
+      "Jednostka terytorialna" : "Powiat m.Siedlce",
+      "pomieszczenia szkolne 2007" : 221,
+      "pomieszczenia szkolne 2008" : 217,
+      "pomieszczenia szkolne 2009" : 222,
+      "pomieszczenia szkolne 2010" : 220,
+      "pomieszczenia szkolne 2011" : 226
+    },
+    {
+      "Kod" : 1142701000,
+      "Jednostka terytorialna" : "Powiat bia³obrzeski",
+      "pomieszczenia szkolne 2007" : 207,
+      "pomieszczenia szkolne 2008" : 213,
+      "pomieszczenia szkolne 2009" : 211,
+      "pomieszczenia szkolne 2010" : 218,
+      "pomieszczenia szkolne 2011" : 219
+    },
+    {
+      "Kod" : 1142707000,
+      "Jednostka terytorialna" : "Powiat kozienicki",
+      "pomieszczenia szkolne 2007" : 389,
+      "pomieszczenia szkolne 2008" : 410,
+      "pomieszczenia szkolne 2009" : 409,
+      "pomieszczenia szkolne 2010" : 412,
+      "pomieszczenia szkolne 2011" : 397
+    },
+    {
+      "Kod" : 1142709000,
+      "Jednostka terytorialna" : "Powiat lipski",
+      "pomieszczenia szkolne 2007" : 228,
+      "pomieszczenia szkolne 2008" : 212,
+      "pomieszczenia szkolne 2009" : 220,
+      "pomieszczenia szkolne 2010" : 213,
+      "pomieszczenia szkolne 2011" : 212
+    },
+    {
+      "Kod" : 1142723000,
+      "Jednostka terytorialna" : "Powiat przysuski",
+      "pomieszczenia szkolne 2007" : 320,
+      "pomieszczenia szkolne 2008" : 289,
+      "pomieszczenia szkolne 2009" : 290,
+      "pomieszczenia szkolne 2010" : 283,
+      "pomieszczenia szkolne 2011" : 258
+    },
+    {
+      "Kod" : 1142725000,
+      "Jednostka terytorialna" : "Powiat radomski",
+      "pomieszczenia szkolne 2007" : 854,
+      "pomieszczenia szkolne 2008" : 860,
+      "pomieszczenia szkolne 2009" : 889,
+      "pomieszczenia szkolne 2010" : 885,
+      "pomieszczenia szkolne 2011" : 878
+    },
+    {
+      "Kod" : 1142730000,
+      "Jednostka terytorialna" : "Powiat szyd³owiecki",
+      "pomieszczenia szkolne 2007" : 294,
+      "pomieszczenia szkolne 2008" : 298,
+      "pomieszczenia szkolne 2009" : 265,
+      "pomieszczenia szkolne 2010" : 269,
+      "pomieszczenia szkolne 2011" : 295
+    },
+    {
+      "Kod" : 1142736000,
+      "Jednostka terytorialna" : "Powiat zwoleñski",
+      "pomieszczenia szkolne 2007" : 233,
+      "pomieszczenia szkolne 2008" : 231,
+      "pomieszczenia szkolne 2009" : 227,
+      "pomieszczenia szkolne 2010" : 226,
+      "pomieszczenia szkolne 2011" : 227
+    },
+    {
+      "Kod" : 1142763000,
+      "Jednostka terytorialna" : "Powiat m.Radom",
+      "pomieszczenia szkolne 2007" : 736,
+      "pomieszczenia szkolne 2008" : 738,
+      "pomieszczenia szkolne 2009" : 725,
+      "pomieszczenia szkolne 2010" : 772,
+      "pomieszczenia szkolne 2011" : 753
+    },
+    {
+      "Kod" : 1142865000,
+      "Jednostka terytorialna" : "Powiat m. st. Warszawa",
+      "pomieszczenia szkolne 2007" : 5447,
+      "pomieszczenia szkolne 2008" : 5409,
+      "pomieszczenia szkolne 2009" : 5640,
+      "pomieszczenia szkolne 2010" : 5788,
+      "pomieszczenia szkolne 2011" : 5752
+    },
+    {
+      "Kod" : 1142903000,
+      "Jednostka terytorialna" : "Powiat garwoliñski",
+      "pomieszczenia szkolne 2007" : 706,
+      "pomieszczenia szkolne 2008" : 721,
+      "pomieszczenia szkolne 2009" : 721,
+      "pomieszczenia szkolne 2010" : 738,
+      "pomieszczenia szkolne 2011" : 734
+    },
+    {
+      "Kod" : 1142908000,
+      "Jednostka terytorialna" : "Powiat legionowski",
+      "pomieszczenia szkolne 2007" : 362,
+      "pomieszczenia szkolne 2008" : 357,
+      "pomieszczenia szkolne 2009" : 356,
+      "pomieszczenia szkolne 2010" : 363,
+      "pomieszczenia szkolne 2011" : 411
+    },
+    {
+      "Kod" : 1142912000,
+      "Jednostka terytorialna" : "Powiat miñski",
+      "pomieszczenia szkolne 2007" : 736,
+      "pomieszczenia szkolne 2008" : 761,
+      "pomieszczenia szkolne 2009" : 768,
+      "pomieszczenia szkolne 2010" : 739,
+      "pomieszczenia szkolne 2011" : 738
+    },
+    {
+      "Kod" : 1142914000,
+      "Jednostka terytorialna" : "Powiat nowodworski",
+      "pomieszczenia szkolne 2007" : 338,
+      "pomieszczenia szkolne 2008" : 340,
+      "pomieszczenia szkolne 2009" : 342,
+      "pomieszczenia szkolne 2010" : 346,
+      "pomieszczenia szkolne 2011" : 349
+    },
+    {
+      "Kod" : 1142917000,
+      "Jednostka terytorialna" : "Powiat otwocki",
+      "pomieszczenia szkolne 2007" : 456,
+      "pomieszczenia szkolne 2008" : 479,
+      "pomieszczenia szkolne 2009" : 483,
+      "pomieszczenia szkolne 2010" : 483,
+      "pomieszczenia szkolne 2011" : 519
+    },
+    {
+      "Kod" : 1142934000,
+      "Jednostka terytorialna" : "Powiat wo³omiñski",
+      "pomieszczenia szkolne 2007" : 826,
+      "pomieszczenia szkolne 2008" : 908,
+      "pomieszczenia szkolne 2009" : 918,
+      "pomieszczenia szkolne 2010" : 927,
+      "pomieszczenia szkolne 2011" : 903
+    },
+    {
+      "Kod" : 1143005000,
+      "Jednostka terytorialna" : "Powiat grodziski",
+      "pomieszczenia szkolne 2007" : 323,
+      "pomieszczenia szkolne 2008" : 327,
+      "pomieszczenia szkolne 2009" : 323,
+      "pomieszczenia szkolne 2010" : 328,
+      "pomieszczenia szkolne 2011" : 327
+    },
+    {
+      "Kod" : 1143006000,
+      "Jednostka terytorialna" : "Powiat grójecki",
+      "pomieszczenia szkolne 2007" : 542,
+      "pomieszczenia szkolne 2008" : 549,
+      "pomieszczenia szkolne 2009" : 555,
+      "pomieszczenia szkolne 2010" : 563,
+      "pomieszczenia szkolne 2011" : 574
+    },
+    {
+      "Kod" : 1143018000,
+      "Jednostka terytorialna" : "Powiat piaseczyñski",
+      "pomieszczenia szkolne 2007" : 549,
+      "pomieszczenia szkolne 2008" : 632,
+      "pomieszczenia szkolne 2009" : 683,
+      "pomieszczenia szkolne 2010" : 679,
+      "pomieszczenia szkolne 2011" : 692
+    },
+    {
+      "Kod" : 1143021000,
+      "Jednostka terytorialna" : "Powiat pruszkowski",
+      "pomieszczenia szkolne 2007" : 531,
+      "pomieszczenia szkolne 2008" : 511,
+      "pomieszczenia szkolne 2009" : 515,
+      "pomieszczenia szkolne 2010" : 536,
+      "pomieszczenia szkolne 2011" : 570
+    },
+    {
+      "Kod" : 1143028000,
+      "Jednostka terytorialna" : "Powiat sochaczewski",
+      "pomieszczenia szkolne 2007" : 399,
+      "pomieszczenia szkolne 2008" : 410,
+      "pomieszczenia szkolne 2009" : 420,
+      "pomieszczenia szkolne 2010" : 427,
+      "pomieszczenia szkolne 2011" : 415
+    },
+    {
+      "Kod" : 1143032000,
+      "Jednostka terytorialna" : "Powiat warszawski zachodni",
+      "pomieszczenia szkolne 2007" : 403,
+      "pomieszczenia szkolne 2008" : 392,
+      "pomieszczenia szkolne 2009" : 384,
+      "pomieszczenia szkolne 2010" : 404,
+      "pomieszczenia szkolne 2011" : 439
+    },
+    {
+      "Kod" : 1143038000,
+      "Jednostka terytorialna" : "Powiat ¿yrardowski",
+      "pomieszczenia szkolne 2007" : 304,
+      "pomieszczenia szkolne 2008" : 316,
+      "pomieszczenia szkolne 2009" : 315,
+      "pomieszczenia szkolne 2010" : 310,
+      "pomieszczenia szkolne 2011" : 316
+    },
+    {
+      "Kod" : 2120000000,
+      "Jednostka terytorialna" : " MA£OPOLSKIE",
+      "pomieszczenia szkolne 2007" : 16413,
+      "pomieszczenia szkolne 2008" : 16417,
+      "pomieszczenia szkolne 2009" : 16589,
+      "pomieszczenia szkolne 2010" : 16661,
+      "pomieszczenia szkolne 2011" : 16675
+    },
+    {
+      "Kod" : 2122001000,
+      "Jednostka terytorialna" : "Powiat bocheñski",
+      "pomieszczenia szkolne 2007" : 565,
+      "pomieszczenia szkolne 2008" : 563,
+      "pomieszczenia szkolne 2009" : 575,
+      "pomieszczenia szkolne 2010" : 573,
+      "pomieszczenia szkolne 2011" : 600
+    },
+    {
+      "Kod" : 2122006000,
+      "Jednostka terytorialna" : "Powiat krakowski",
+      "pomieszczenia szkolne 2007" : 1352,
+      "pomieszczenia szkolne 2008" : 1338,
+      "pomieszczenia szkolne 2009" : 1350,
+      "pomieszczenia szkolne 2010" : 1354,
+      "pomieszczenia szkolne 2011" : 1366
+    },
+    {
+      "Kod" : 2122008000,
+      "Jednostka terytorialna" : "Powiat miechowski",
+      "pomieszczenia szkolne 2007" : 297,
+      "pomieszczenia szkolne 2008" : 307,
+      "pomieszczenia szkolne 2009" : 280,
+      "pomieszczenia szkolne 2010" : 288,
+      "pomieszczenia szkolne 2011" : 256
+    },
+    {
+      "Kod" : 2122009000,
+      "Jednostka terytorialna" : "Powiat myœlenicki",
+      "pomieszczenia szkolne 2007" : 695,
+      "pomieszczenia szkolne 2008" : 687,
+      "pomieszczenia szkolne 2009" : 695,
+      "pomieszczenia szkolne 2010" : 703,
+      "pomieszczenia szkolne 2011" : 693
+    },
+    {
+      "Kod" : 2122014000,
+      "Jednostka terytorialna" : "Powiat proszowicki",
+      "pomieszczenia szkolne 2007" : 280,
+      "pomieszczenia szkolne 2008" : 289,
+      "pomieszczenia szkolne 2009" : 292,
+      "pomieszczenia szkolne 2010" : 297,
+      "pomieszczenia szkolne 2011" : 301
+    },
+    {
+      "Kod" : 2122019000,
+      "Jednostka terytorialna" : "Powiat wielicki",
+      "pomieszczenia szkolne 2007" : 578,
+      "pomieszczenia szkolne 2008" : 586,
+      "pomieszczenia szkolne 2009" : 579,
+      "pomieszczenia szkolne 2010" : 580,
+      "pomieszczenia szkolne 2011" : 586
+    },
+    {
+      "Kod" : 2122161000,
+      "Jednostka terytorialna" : "Powiat m.Kraków",
+      "pomieszczenia szkolne 2007" : 2511,
+      "pomieszczenia szkolne 2008" : 2485,
+      "pomieszczenia szkolne 2009" : 2575,
+      "pomieszczenia szkolne 2010" : 2558,
+      "pomieszczenia szkolne 2011" : 2540
+    },
+    {
+      "Kod" : 2122205000,
+      "Jednostka terytorialna" : "Powiat gorlicki",
+      "pomieszczenia szkolne 2007" : 634,
+      "pomieszczenia szkolne 2008" : 604,
+      "pomieszczenia szkolne 2009" : 615,
+      "pomieszczenia szkolne 2010" : 621,
+      "pomieszczenia szkolne 2011" : 622
+    },
+    {
+      "Kod" : 2122207000,
+      "Jednostka terytorialna" : "Powiat limanowski",
+      "pomieszczenia szkolne 2007" : 859,
+      "pomieszczenia szkolne 2008" : 853,
+      "pomieszczenia szkolne 2009" : 876,
+      "pomieszczenia szkolne 2010" : 895,
+      "pomieszczenia szkolne 2011" : 906
+    },
+    {
+      "Kod" : 2122210000,
+      "Jednostka terytorialna" : "Powiat nowos¹decki",
+      "pomieszczenia szkolne 2007" : 1287,
+      "pomieszczenia szkolne 2008" : 1280,
+      "pomieszczenia szkolne 2009" : 1299,
+      "pomieszczenia szkolne 2010" : 1317,
+      "pomieszczenia szkolne 2011" : 1316
+    },
+    {
+      "Kod" : 2122211000,
+      "Jednostka terytorialna" : "Powiat nowotarski",
+      "pomieszczenia szkolne 2007" : 1179,
+      "pomieszczenia szkolne 2008" : 1179,
+      "pomieszczenia szkolne 2009" : 1213,
+      "pomieszczenia szkolne 2010" : 1222,
+      "pomieszczenia szkolne 2011" : 1210
+    },
+    {
+      "Kod" : 2122217000,
+      "Jednostka terytorialna" : "Powiat tatrzañski",
+      "pomieszczenia szkolne 2007" : 395,
+      "pomieszczenia szkolne 2008" : 399,
+      "pomieszczenia szkolne 2009" : 403,
+      "pomieszczenia szkolne 2010" : 410,
+      "pomieszczenia szkolne 2011" : 416
+    },
+    {
+      "Kod" : 2122262000,
+      "Jednostka terytorialna" : "Powiat m.Nowy S¹cz",
+      "pomieszczenia szkolne 2007" : 316,
+      "pomieszczenia szkolne 2008" : 317,
+      "pomieszczenia szkolne 2009" : 327,
+      "pomieszczenia szkolne 2010" : 331,
+      "pomieszczenia szkolne 2011" : 335
+    },
+    {
+      "Kod" : 2122303000,
+      "Jednostka terytorialna" : "Powiat chrzanowski",
+      "pomieszczenia szkolne 2007" : 480,
+      "pomieszczenia szkolne 2008" : 478,
+      "pomieszczenia szkolne 2009" : 477,
+      "pomieszczenia szkolne 2010" : 478,
+      "pomieszczenia szkolne 2011" : 479
+    },
+    {
+      "Kod" : 2122312000,
+      "Jednostka terytorialna" : "Powiat olkuski",
+      "pomieszczenia szkolne 2007" : 544,
+      "pomieszczenia szkolne 2008" : 551,
+      "pomieszczenia szkolne 2009" : 523,
+      "pomieszczenia szkolne 2010" : 536,
+      "pomieszczenia szkolne 2011" : 534
+    },
+    {
+      "Kod" : 2122313000,
+      "Jednostka terytorialna" : "Powiat oœwiêcimski",
+      "pomieszczenia szkolne 2007" : 638,
+      "pomieszczenia szkolne 2008" : 629,
+      "pomieszczenia szkolne 2009" : 629,
+      "pomieszczenia szkolne 2010" : 639,
+      "pomieszczenia szkolne 2011" : 652
+    },
+    {
+      "Kod" : 2122315000,
+      "Jednostka terytorialna" : "Powiat suski",
+      "pomieszczenia szkolne 2007" : 459,
+      "pomieszczenia szkolne 2008" : 467,
+      "pomieszczenia szkolne 2009" : 465,
+      "pomieszczenia szkolne 2010" : 467,
+      "pomieszczenia szkolne 2011" : 470
+    },
+    {
+      "Kod" : 2122318000,
+      "Jednostka terytorialna" : "Powiat wadowicki",
+      "pomieszczenia szkolne 2007" : 790,
+      "pomieszczenia szkolne 2008" : 800,
+      "pomieszczenia szkolne 2009" : 807,
+      "pomieszczenia szkolne 2010" : 815,
+      "pomieszczenia szkolne 2011" : 829
+    },
+    {
+      "Kod" : 2122402000,
+      "Jednostka terytorialna" : "Powiat brzeski",
+      "pomieszczenia szkolne 2007" : 564,
+      "pomieszczenia szkolne 2008" : 555,
+      "pomieszczenia szkolne 2009" : 554,
+      "pomieszczenia szkolne 2010" : 524,
+      "pomieszczenia szkolne 2011" : 520
+    },
+    {
+      "Kod" : 2122404000,
+      "Jednostka terytorialna" : "Powiat d¹browski",
+      "pomieszczenia szkolne 2007" : 363,
+      "pomieszczenia szkolne 2008" : 350,
+      "pomieszczenia szkolne 2009" : 369,
+      "pomieszczenia szkolne 2010" : 371,
+      "pomieszczenia szkolne 2011" : 362
+    },
+    {
+      "Kod" : 2122416000,
+      "Jednostka terytorialna" : "Powiat tarnowski",
+      "pomieszczenia szkolne 2007" : 1224,
+      "pomieszczenia szkolne 2008" : 1301,
+      "pomieszczenia szkolne 2009" : 1285,
+      "pomieszczenia szkolne 2010" : 1274,
+      "pomieszczenia szkolne 2011" : 1265
+    },
+    {
+      "Kod" : 2122463000,
+      "Jednostka terytorialna" : "Powiat m.Tarnów",
+      "pomieszczenia szkolne 2007" : 403,
+      "pomieszczenia szkolne 2008" : 399,
+      "pomieszczenia szkolne 2009" : 401,
+      "pomieszczenia szkolne 2010" : 408,
+      "pomieszczenia szkolne 2011" : 417
+    },
+    {
+      "Kod" : 2240000000,
+      "Jednostka terytorialna" : " ŒL¥SKIE",
+      "pomieszczenia szkolne 2007" : 17852,
+      "pomieszczenia szkolne 2008" : 17752,
+      "pomieszczenia szkolne 2009" : 17802,
+      "pomieszczenia szkolne 2010" : 17933,
+      "pomieszczenia szkolne 2011" : 18050
+    },
+    {
+      "Kod" : 2244402000,
+      "Jednostka terytorialna" : "Powiat bielski",
+      "pomieszczenia szkolne 2007" : 608,
+      "pomieszczenia szkolne 2008" : 596,
+      "pomieszczenia szkolne 2009" : 597,
+      "pomieszczenia szkolne 2010" : 605,
+      "pomieszczenia szkolne 2011" : 604
+    },
+    {
+      "Kod" : 2244403000,
+      "Jednostka terytorialna" : "Powiat cieszyñski",
+      "pomieszczenia szkolne 2007" : 836,
+      "pomieszczenia szkolne 2008" : 851,
+      "pomieszczenia szkolne 2009" : 874,
+      "pomieszczenia szkolne 2010" : 879,
+      "pomieszczenia szkolne 2011" : 885
+    },
+    {
+      "Kod" : 2244417000,
+      "Jednostka terytorialna" : "Powiat ¿ywiecki",
+      "pomieszczenia szkolne 2007" : 821,
+      "pomieszczenia szkolne 2008" : 801,
+      "pomieszczenia szkolne 2009" : 845,
+      "pomieszczenia szkolne 2010" : 881,
+      "pomieszczenia szkolne 2011" : 890
+    },
+    {
+      "Kod" : 2244461000,
+      "Jednostka terytorialna" : "Powiat m.Bielsko-Bia³a",
+      "pomieszczenia szkolne 2007" : 560,
+      "pomieszczenia szkolne 2008" : 555,
+      "pomieszczenia szkolne 2009" : 560,
+      "pomieszczenia szkolne 2010" : 595,
+      "pomieszczenia szkolne 2011" : 605
+    },
+    {
+      "Kod" : 2244507000,
+      "Jednostka terytorialna" : "Powiat lubliniecki",
+      "pomieszczenia szkolne 2007" : 329,
+      "pomieszczenia szkolne 2008" : 342,
+      "pomieszczenia szkolne 2009" : 333,
+      "pomieszczenia szkolne 2010" : 336,
+      "pomieszczenia szkolne 2011" : 338
+    },
+    {
+      "Kod" : 2244513000,
+      "Jednostka terytorialna" : "Powiat tarnogórski",
+      "pomieszczenia szkolne 2007" : 516,
+      "pomieszczenia szkolne 2008" : 529,
+      "pomieszczenia szkolne 2009" : 522,
+      "pomieszczenia szkolne 2010" : 528,
+      "pomieszczenia szkolne 2011" : 536
+    },
+    {
+      "Kod" : 2244562000,
+      "Jednostka terytorialna" : "Powiat m.Bytom",
+      "pomieszczenia szkolne 2007" : 562,
+      "pomieszczenia szkolne 2008" : 567,
+      "pomieszczenia szkolne 2009" : 551,
+      "pomieszczenia szkolne 2010" : 548,
+      "pomieszczenia szkolne 2011" : 543
+    },
+    {
+      "Kod" : 2244571000,
+      "Jednostka terytorialna" : "Powiat m.Piekary Œl¹skie",
+      "pomieszczenia szkolne 2007" : 185,
+      "pomieszczenia szkolne 2008" : 203,
+      "pomieszczenia szkolne 2009" : 201,
+      "pomieszczenia szkolne 2010" : 201,
+      "pomieszczenia szkolne 2011" : 195
+    },
+    {
+      "Kod" : 2244604000,
+      "Jednostka terytorialna" : "Powiat czêstochowski",
+      "pomieszczenia szkolne 2007" : 873,
+      "pomieszczenia szkolne 2008" : 844,
+      "pomieszczenia szkolne 2009" : 834,
+      "pomieszczenia szkolne 2010" : 831,
+      "pomieszczenia szkolne 2011" : 815
+    },
+    {
+      "Kod" : 2244606000,
+      "Jednostka terytorialna" : "Powiat k³obucki",
+      "pomieszczenia szkolne 2007" : 489,
+      "pomieszczenia szkolne 2008" : 487,
+      "pomieszczenia szkolne 2009" : 490,
+      "pomieszczenia szkolne 2010" : 499,
+      "pomieszczenia szkolne 2011" : 491
+    },
+    {
+      "Kod" : 2244609000,
+      "Jednostka terytorialna" : "Powiat myszkowski",
+      "pomieszczenia szkolne 2007" : 387,
+      "pomieszczenia szkolne 2008" : 395,
+      "pomieszczenia szkolne 2009" : 410,
+      "pomieszczenia szkolne 2010" : 407,
+      "pomieszczenia szkolne 2011" : 410
+    },
+    {
+      "Kod" : 2244664000,
+      "Jednostka terytorialna" : "Powiat m.Czêstochowa",
+      "pomieszczenia szkolne 2007" : 921,
+      "pomieszczenia szkolne 2008" : 898,
+      "pomieszczenia szkolne 2009" : 895,
+      "pomieszczenia szkolne 2010" : 934,
+      "pomieszczenia szkolne 2011" : 993
+    },
+    {
+      "Kod" : 2244705000,
+      "Jednostka terytorialna" : "Powiat gliwicki",
+      "pomieszczenia szkolne 2007" : 463,
+      "pomieszczenia szkolne 2008" : 479,
+      "pomieszczenia szkolne 2009" : 473,
+      "pomieszczenia szkolne 2010" : 471,
+      "pomieszczenia szkolne 2011" : 468
+    },
+    {
+      "Kod" : 2244766000,
+      "Jednostka terytorialna" : "Powiat m.Gliwice",
+      "pomieszczenia szkolne 2007" : 671,
+      "pomieszczenia szkolne 2008" : 655,
+      "pomieszczenia szkolne 2009" : 632,
+      "pomieszczenia szkolne 2010" : 615,
+      "pomieszczenia szkolne 2011" : 622
+    },
+    {
+      "Kod" : 2244778000,
+      "Jednostka terytorialna" : "Powiat m.Zabrze",
+      "pomieszczenia szkolne 2007" : 653,
+      "pomieszczenia szkolne 2008" : 650,
+      "pomieszczenia szkolne 2009" : 656,
+      "pomieszczenia szkolne 2010" : 635,
+      "pomieszczenia szkolne 2011" : 635
+    },
+    {
+      "Kod" : 2244863000,
+      "Jednostka terytorialna" : "Powiat m.Chorzów",
+      "pomieszczenia szkolne 2007" : 353,
+      "pomieszczenia szkolne 2008" : 352,
+      "pomieszczenia szkolne 2009" : 339,
+      "pomieszczenia szkolne 2010" : 339,
+      "pomieszczenia szkolne 2011" : 339
+    },
+    {
+      "Kod" : 2244869000,
+      "Jednostka terytorialna" : "Powiat m.Katowice",
+      "pomieszczenia szkolne 2007" : 989,
+      "pomieszczenia szkolne 2008" : 978,
+      "pomieszczenia szkolne 2009" : 977,
+      "pomieszczenia szkolne 2010" : 989,
+      "pomieszczenia szkolne 2011" : 994
+    },
+    {
+      "Kod" : 2244870000,
+      "Jednostka terytorialna" : "Powiat m.Mys³owice",
+      "pomieszczenia szkolne 2007" : 245,
+      "pomieszczenia szkolne 2008" : 243,
+      "pomieszczenia szkolne 2009" : 251,
+      "pomieszczenia szkolne 2010" : 245,
+      "pomieszczenia szkolne 2011" : 265
+    },
+    {
+      "Kod" : 2244872000,
+      "Jednostka terytorialna" : "Powiat m.Ruda Œl¹ska",
+      "pomieszczenia szkolne 2007" : 467,
+      "pomieszczenia szkolne 2008" : 454,
+      "pomieszczenia szkolne 2009" : 453,
+      "pomieszczenia szkolne 2010" : 473,
+      "pomieszczenia szkolne 2011" : 547
+    },
+    {
+      "Kod" : 2244874000,
+      "Jednostka terytorialna" : "Powiat m.Siemianowice Œl¹skie",
+      "pomieszczenia szkolne 2007" : 266,
+      "pomieszczenia szkolne 2008" : 261,
+      "pomieszczenia szkolne 2009" : 264,
+      "pomieszczenia szkolne 2010" : 265,
+      "pomieszczenia szkolne 2011" : 215
+    },
+    {
+      "Kod" : 2244876000,
+      "Jednostka terytorialna" : "Powiat m.Œwiêtoch³owice",
+      "pomieszczenia szkolne 2007" : 166,
+      "pomieszczenia szkolne 2008" : 166,
+      "pomieszczenia szkolne 2009" : 169,
+      "pomieszczenia szkolne 2010" : 169,
+      "pomieszczenia szkolne 2011" : 171
+    },
+    {
+      "Kod" : 2244911000,
+      "Jednostka terytorialna" : "Powiat raciborski",
+      "pomieszczenia szkolne 2007" : 539,
+      "pomieszczenia szkolne 2008" : 509,
+      "pomieszczenia szkolne 2009" : 539,
+      "pomieszczenia szkolne 2010" : 544,
+      "pomieszczenia szkolne 2011" : 521
+    },
+    {
+      "Kod" : 2244912000,
+      "Jednostka terytorialna" : "Powiat rybnicki",
+      "pomieszczenia szkolne 2007" : 303,
+      "pomieszczenia szkolne 2008" : 309,
+      "pomieszczenia szkolne 2009" : 312,
+      "pomieszczenia szkolne 2010" : 314,
+      "pomieszczenia szkolne 2011" : 320
+    },
+    {
+      "Kod" : 2244915000,
+      "Jednostka terytorialna" : "Powiat wodzis³awski",
+      "pomieszczenia szkolne 2007" : 598,
+      "pomieszczenia szkolne 2008" : 600,
+      "pomieszczenia szkolne 2009" : 584,
+      "pomieszczenia szkolne 2010" : 578,
+      "pomieszczenia szkolne 2011" : 578
+    },
+    {
+      "Kod" : 2244967000,
+      "Jednostka terytorialna" : "Powiat m.Jastrzêbie-Zdrój",
+      "pomieszczenia szkolne 2007" : 271,
+      "pomieszczenia szkolne 2008" : 313,
+      "pomieszczenia szkolne 2009" : 330,
+      "pomieszczenia szkolne 2010" : 335,
+      "pomieszczenia szkolne 2011" : 335
+    },
+    {
+      "Kod" : 2244973000,
+      "Jednostka terytorialna" : "Powiat m.Rybnik",
+      "pomieszczenia szkolne 2007" : 501,
+      "pomieszczenia szkolne 2008" : 492,
+      "pomieszczenia szkolne 2009" : 485,
+      "pomieszczenia szkolne 2010" : 481,
+      "pomieszczenia szkolne 2011" : 483
+    },
+    {
+      "Kod" : 2244979000,
+      "Jednostka terytorialna" : "Powiat m.¯ory",
+      "pomieszczenia szkolne 2007" : 190,
+      "pomieszczenia szkolne 2008" : 187,
+      "pomieszczenia szkolne 2009" : 224,
+      "pomieszczenia szkolne 2010" : 222,
+      "pomieszczenia szkolne 2011" : 222
+    },
+    {
+      "Kod" : 2245001000,
+      "Jednostka terytorialna" : "Powiat bêdziñski",
+      "pomieszczenia szkolne 2007" : 557,
+      "pomieszczenia szkolne 2008" : 536,
+      "pomieszczenia szkolne 2009" : 518,
+      "pomieszczenia szkolne 2010" : 521,
+      "pomieszczenia szkolne 2011" : 538
+    },
+    {
+      "Kod" : 2245016000,
+      "Jednostka terytorialna" : "Powiat zawierciañski",
+      "pomieszczenia szkolne 2007" : 563,
+      "pomieszczenia szkolne 2008" : 566,
+      "pomieszczenia szkolne 2009" : 543,
+      "pomieszczenia szkolne 2010" : 548,
+      "pomieszczenia szkolne 2011" : 545
+    },
+    {
+      "Kod" : 2245065000,
+      "Jednostka terytorialna" : "Powiat m.D¹browa Górnicza",
+      "pomieszczenia szkolne 2007" : 504,
+      "pomieszczenia szkolne 2008" : 497,
+      "pomieszczenia szkolne 2009" : 477,
+      "pomieszczenia szkolne 2010" : 478,
+      "pomieszczenia szkolne 2011" : 483
+    },
+    {
+      "Kod" : 2245068000,
+      "Jednostka terytorialna" : "Powiat m.Jaworzno",
+      "pomieszczenia szkolne 2007" : 297,
+      "pomieszczenia szkolne 2008" : 293,
+      "pomieszczenia szkolne 2009" : 296,
+      "pomieszczenia szkolne 2010" : 297,
+      "pomieszczenia szkolne 2011" : 282
+    },
+    {
+      "Kod" : 2245075000,
+      "Jednostka terytorialna" : "Powiat m.Sosnowiec",
+      "pomieszczenia szkolne 2007" : 702,
+      "pomieszczenia szkolne 2008" : 719,
+      "pomieszczenia szkolne 2009" : 723,
+      "pomieszczenia szkolne 2010" : 718,
+      "pomieszczenia szkolne 2011" : 705
+    },
+    {
+      "Kod" : 2245108000,
+      "Jednostka terytorialna" : "Powiat miko³owski",
+      "pomieszczenia szkolne 2007" : 315,
+      "pomieszczenia szkolne 2008" : 324,
+      "pomieszczenia szkolne 2009" : 320,
+      "pomieszczenia szkolne 2010" : 322,
+      "pomieszczenia szkolne 2011" : 329
+    },
+    {
+      "Kod" : 2245110000,
+      "Jednostka terytorialna" : "Powiat pszczyñski",
+      "pomieszczenia szkolne 2007" : 480,
+      "pomieszczenia szkolne 2008" : 481,
+      "pomieszczenia szkolne 2009" : 496,
+      "pomieszczenia szkolne 2010" : 472,
+      "pomieszczenia szkolne 2011" : 485
+    },
+    {
+      "Kod" : 2245114000,
+      "Jednostka terytorialna" : "Powiat bieruñsko-lêdziñski",
+      "pomieszczenia szkolne 2007" : 219,
+      "pomieszczenia szkolne 2008" : 193,
+      "pomieszczenia szkolne 2009" : 195,
+      "pomieszczenia szkolne 2010" : 195,
+      "pomieszczenia szkolne 2011" : 197
+    },
+    {
+      "Kod" : 2245177000,
+      "Jednostka terytorialna" : "Powiat m.Tychy",
+      "pomieszczenia szkolne 2007" : 453,
+      "pomieszczenia szkolne 2008" : 427,
+      "pomieszczenia szkolne 2009" : 434,
+      "pomieszczenia szkolne 2010" : 463,
+      "pomieszczenia szkolne 2011" : 466
+    },
+    {
+      "Kod" : 3060000000,
+      "Jednostka terytorialna" : " LUBELSKIE",
+      "pomieszczenia szkolne 2007" : 11600,
+      "pomieszczenia szkolne 2008" : 11532,
+      "pomieszczenia szkolne 2009" : 11476,
+      "pomieszczenia szkolne 2010" : 11485,
+      "pomieszczenia szkolne 2011" : 11365
+    },
+    {
+      "Kod" : 3060901000,
+      "Jednostka terytorialna" : "Powiat bialski",
+      "pomieszczenia szkolne 2007" : 797,
+      "pomieszczenia szkolne 2008" : 764,
+      "pomieszczenia szkolne 2009" : 759,
+      "pomieszczenia szkolne 2010" : 749,
+      "pomieszczenia szkolne 2011" : 740
+    },
+    {
+      "Kod" : 3060913000,
+      "Jednostka terytorialna" : "Powiat parczewski",
+      "pomieszczenia szkolne 2007" : 232,
+      "pomieszczenia szkolne 2008" : 227,
+      "pomieszczenia szkolne 2009" : 226,
+      "pomieszczenia szkolne 2010" : 229,
+      "pomieszczenia szkolne 2011" : 241
+    },
+    {
+      "Kod" : 3060915000,
+      "Jednostka terytorialna" : "Powiat radzyñski",
+      "pomieszczenia szkolne 2007" : 483,
+      "pomieszczenia szkolne 2008" : 496,
+      "pomieszczenia szkolne 2009" : 475,
+      "pomieszczenia szkolne 2010" : 475,
+      "pomieszczenia szkolne 2011" : 473
+    },
+    {
+      "Kod" : 3060919000,
+      "Jednostka terytorialna" : "Powiat w³odawski",
+      "pomieszczenia szkolne 2007" : 249,
+      "pomieszczenia szkolne 2008" : 262,
+      "pomieszczenia szkolne 2009" : 252,
+      "pomieszczenia szkolne 2010" : 253,
+      "pomieszczenia szkolne 2011" : 251
+    },
+    {
+      "Kod" : 3060961000,
+      "Jednostka terytorialna" : "Powiat m.Bia³a Podlaska",
+      "pomieszczenia szkolne 2007" : 197,
+      "pomieszczenia szkolne 2008" : 196,
+      "pomieszczenia szkolne 2009" : 210,
+      "pomieszczenia szkolne 2010" : 217,
+      "pomieszczenia szkolne 2011" : 211
+    },
+    {
+      "Kod" : 3061002000,
+      "Jednostka terytorialna" : "Powiat bi³gorajski",
+      "pomieszczenia szkolne 2007" : 614,
+      "pomieszczenia szkolne 2008" : 613,
+      "pomieszczenia szkolne 2009" : 613,
+      "pomieszczenia szkolne 2010" : 619,
+      "pomieszczenia szkolne 2011" : 625
+    },
+    {
+      "Kod" : 3061003000,
+      "Jednostka terytorialna" : "Powiat che³mski",
+      "pomieszczenia szkolne 2007" : 539,
+      "pomieszczenia szkolne 2008" : 513,
+      "pomieszczenia szkolne 2009" : 504,
+      "pomieszczenia szkolne 2010" : 509,
+      "pomieszczenia szkolne 2011" : 498
+    },
+    {
+      "Kod" : 3061004000,
+      "Jednostka terytorialna" : "Powiat hrubieszowski",
+      "pomieszczenia szkolne 2007" : 424,
+      "pomieszczenia szkolne 2008" : 437,
+      "pomieszczenia szkolne 2009" : 440,
+      "pomieszczenia szkolne 2010" : 423,
+      "pomieszczenia szkolne 2011" : 438
+    },
+    {
+      "Kod" : 3061006000,
+      "Jednostka terytorialna" : "Powiat krasnostawski",
+      "pomieszczenia szkolne 2007" : 418,
+      "pomieszczenia szkolne 2008" : 386,
+      "pomieszczenia szkolne 2009" : 362,
+      "pomieszczenia szkolne 2010" : 358,
+      "pomieszczenia szkolne 2011" : 345
+    },
+    {
+      "Kod" : 3061018000,
+      "Jednostka terytorialna" : "Powiat tomaszowski",
+      "pomieszczenia szkolne 2007" : 574,
+      "pomieszczenia szkolne 2008" : 558,
+      "pomieszczenia szkolne 2009" : 545,
+      "pomieszczenia szkolne 2010" : 546,
+      "pomieszczenia szkolne 2011" : 545
+    },
+    {
+      "Kod" : 3061020000,
+      "Jednostka terytorialna" : "Powiat zamojski",
+      "pomieszczenia szkolne 2007" : 724,
+      "pomieszczenia szkolne 2008" : 696,
+      "pomieszczenia szkolne 2009" : 666,
+      "pomieszczenia szkolne 2010" : 659,
+      "pomieszczenia szkolne 2011" : 657
+    },
+    {
+      "Kod" : 3061062000,
+      "Jednostka terytorialna" : "Powiat m.Che³m",
+      "pomieszczenia szkolne 2007" : 210,
+      "pomieszczenia szkolne 2008" : 213,
+      "pomieszczenia szkolne 2009" : 216,
+      "pomieszczenia szkolne 2010" : 215,
+      "pomieszczenia szkolne 2011" : 216
+    },
+    {
+      "Kod" : 3061064000,
+      "Jednostka terytorialna" : "Powiat m.Zamoœæ",
+      "pomieszczenia szkolne 2007" : 195,
+      "pomieszczenia szkolne 2008" : 194,
+      "pomieszczenia szkolne 2009" : 187,
+      "pomieszczenia szkolne 2010" : 188,
+      "pomieszczenia szkolne 2011" : 204
+    },
+    {
+      "Kod" : 3061108000,
+      "Jednostka terytorialna" : "Powiat lubartowski",
+      "pomieszczenia szkolne 2007" : 531,
+      "pomieszczenia szkolne 2008" : 533,
+      "pomieszczenia szkolne 2009" : 526,
+      "pomieszczenia szkolne 2010" : 535,
+      "pomieszczenia szkolne 2011" : 535
+    },
+    {
+      "Kod" : 3061109000,
+      "Jednostka terytorialna" : "Powiat lubelski",
+      "pomieszczenia szkolne 2007" : 807,
+      "pomieszczenia szkolne 2008" : 893,
+      "pomieszczenia szkolne 2009" : 880,
+      "pomieszczenia szkolne 2010" : 901,
+      "pomieszczenia szkolne 2011" : 843
+    },
+    {
+      "Kod" : 3061110000,
+      "Jednostka terytorialna" : "Powiat ³êczyñski",
+      "pomieszczenia szkolne 2007" : 345,
+      "pomieszczenia szkolne 2008" : 343,
+      "pomieszczenia szkolne 2009" : 334,
+      "pomieszczenia szkolne 2010" : 331,
+      "pomieszczenia szkolne 2011" : 319
+    },
+    {
+      "Kod" : 3061117000,
+      "Jednostka terytorialna" : "Powiat œwidnicki",
+      "pomieszczenia szkolne 2007" : 290,
+      "pomieszczenia szkolne 2008" : 297,
+      "pomieszczenia szkolne 2009" : 298,
+      "pomieszczenia szkolne 2010" : 296,
+      "pomieszczenia szkolne 2011" : 287
+    },
+    {
+      "Kod" : 3061163000,
+      "Jednostka terytorialna" : "Powiat m.Lublin",
+      "pomieszczenia szkolne 2007" : 1044,
+      "pomieszczenia szkolne 2008" : 1003,
+      "pomieszczenia szkolne 2009" : 1043,
+      "pomieszczenia szkolne 2010" : 1059,
+      "pomieszczenia szkolne 2011" : 1085
+    },
+    {
+      "Kod" : 3061205000,
+      "Jednostka terytorialna" : "Powiat janowski",
+      "pomieszczenia szkolne 2007" : 303,
+      "pomieszczenia szkolne 2008" : 305,
+      "pomieszczenia szkolne 2009" : 304,
+      "pomieszczenia szkolne 2010" : 300,
+      "pomieszczenia szkolne 2011" : 292
+    },
+    {
+      "Kod" : 3061207000,
+      "Jednostka terytorialna" : "Powiat kraœnicki",
+      "pomieszczenia szkolne 2007" : 559,
+      "pomieszczenia szkolne 2008" : 562,
+      "pomieszczenia szkolne 2009" : 600,
+      "pomieszczenia szkolne 2010" : 601,
+      "pomieszczenia szkolne 2011" : 593
+    },
+    {
+      "Kod" : 3061211000,
+      "Jednostka terytorialna" : "Powiat ³ukowski",
+      "pomieszczenia szkolne 2007" : 764,
+      "pomieszczenia szkolne 2008" : 735,
+      "pomieszczenia szkolne 2009" : 741,
+      "pomieszczenia szkolne 2010" : 749,
+      "pomieszczenia szkolne 2011" : 724
+    },
+    {
+      "Kod" : 3061212000,
+      "Jednostka terytorialna" : "Powiat opolski",
+      "pomieszczenia szkolne 2007" : 365,
+      "pomieszczenia szkolne 2008" : 377,
+      "pomieszczenia szkolne 2009" : 364,
+      "pomieszczenia szkolne 2010" : 359,
+      "pomieszczenia szkolne 2011" : 351
+    },
+    {
+      "Kod" : 3061214000,
+      "Jednostka terytorialna" : "Powiat pu³awski",
+      "pomieszczenia szkolne 2007" : 615,
+      "pomieszczenia szkolne 2008" : 612,
+      "pomieszczenia szkolne 2009" : 602,
+      "pomieszczenia szkolne 2010" : 579,
+      "pomieszczenia szkolne 2011" : 564
+    },
+    {
+      "Kod" : 3061216000,
+      "Jednostka terytorialna" : "Powiat rycki",
+      "pomieszczenia szkolne 2007" : 321,
+      "pomieszczenia szkolne 2008" : 317,
+      "pomieszczenia szkolne 2009" : 329,
+      "pomieszczenia szkolne 2010" : 335,
+      "pomieszczenia szkolne 2011" : 328
+    },
+    {
+      "Kod" : 3180000000,
+      "Jednostka terytorialna" : " PODKARPACKIE",
+      "pomieszczenia szkolne 2007" : 12213,
+      "pomieszczenia szkolne 2008" : 12320,
+      "pomieszczenia szkolne 2009" : 12355,
+      "pomieszczenia szkolne 2010" : 12370,
+      "pomieszczenia szkolne 2011" : 12277
+    },
+    {
+      "Kod" : 3183301000,
+      "Jednostka terytorialna" : "Powiat bieszczadzki",
+      "pomieszczenia szkolne 2007" : 187,
+      "pomieszczenia szkolne 2008" : 190,
+      "pomieszczenia szkolne 2009" : 194,
+      "pomieszczenia szkolne 2010" : 192,
+      "pomieszczenia szkolne 2011" : 186
+    },
+    {
+      "Kod" : 3183302000,
+      "Jednostka terytorialna" : "Powiat brzozowski",
+      "pomieszczenia szkolne 2007" : 443,
+      "pomieszczenia szkolne 2008" : 454,
+      "pomieszczenia szkolne 2009" : 462,
+      "pomieszczenia szkolne 2010" : 453,
+      "pomieszczenia szkolne 2011" : 450
+    },
+    {
+      "Kod" : 3183305000,
+      "Jednostka terytorialna" : "Powiat jasielski",
+      "pomieszczenia szkolne 2007" : 743,
+      "pomieszczenia szkolne 2008" : 754,
+      "pomieszczenia szkolne 2009" : 742,
+      "pomieszczenia szkolne 2010" : 742,
+      "pomieszczenia szkolne 2011" : 720
+    },
+    {
+      "Kod" : 3183307000,
+      "Jednostka terytorialna" : "Powiat kroœnieñski",
+      "pomieszczenia szkolne 2007" : 759,
+      "pomieszczenia szkolne 2008" : 782,
+      "pomieszczenia szkolne 2009" : 782,
+      "pomieszczenia szkolne 2010" : 784,
+      "pomieszczenia szkolne 2011" : 793
+    },
+    {
+      "Kod" : 3183317000,
+      "Jednostka terytorialna" : "Powiat sanocki",
+      "pomieszczenia szkolne 2007" : 521,
+      "pomieszczenia szkolne 2008" : 533,
+      "pomieszczenia szkolne 2009" : 537,
+      "pomieszczenia szkolne 2010" : 526,
+      "pomieszczenia szkolne 2011" : 532
+    },
+    {
+      "Kod" : 3183321000,
+      "Jednostka terytorialna" : "Powiat leski",
+      "pomieszczenia szkolne 2007" : 202,
+      "pomieszczenia szkolne 2008" : 215,
+      "pomieszczenia szkolne 2009" : 213,
+      "pomieszczenia szkolne 2010" : 217,
+      "pomieszczenia szkolne 2011" : 188
+    },
+    {
+      "Kod" : 3183361000,
+      "Jednostka terytorialna" : "Powiat m.Krosno",
+      "pomieszczenia szkolne 2007" : 200,
+      "pomieszczenia szkolne 2008" : 204,
+      "pomieszczenia szkolne 2009" : 206,
+      "pomieszczenia szkolne 2010" : 206,
+      "pomieszczenia szkolne 2011" : 211
+    },
+    {
+      "Kod" : 3183404000,
+      "Jednostka terytorialna" : "Powiat jaros³awski",
+      "pomieszczenia szkolne 2007" : 717,
+      "pomieszczenia szkolne 2008" : 725,
+      "pomieszczenia szkolne 2009" : 726,
+      "pomieszczenia szkolne 2010" : 720,
+      "pomieszczenia szkolne 2011" : 717
+    },
+    {
+      "Kod" : 3183409000,
+      "Jednostka terytorialna" : "Powiat lubaczowski",
+      "pomieszczenia szkolne 2007" : 345,
+      "pomieszczenia szkolne 2008" : 347,
+      "pomieszczenia szkolne 2009" : 338,
+      "pomieszczenia szkolne 2010" : 349,
+      "pomieszczenia szkolne 2011" : 345
+    },
+    {
+      "Kod" : 3183413000,
+      "Jednostka terytorialna" : "Powiat przemyski",
+      "pomieszczenia szkolne 2007" : 565,
+      "pomieszczenia szkolne 2008" : 591,
+      "pomieszczenia szkolne 2009" : 601,
+      "pomieszczenia szkolne 2010" : 584,
+      "pomieszczenia szkolne 2011" : 576
+    },
+    {
+      "Kod" : 3183414000,
+      "Jednostka terytorialna" : "Powiat przeworski",
+      "pomieszczenia szkolne 2007" : 535,
+      "pomieszczenia szkolne 2008" : 509,
+      "pomieszczenia szkolne 2009" : 517,
+      "pomieszczenia szkolne 2010" : 508,
+      "pomieszczenia szkolne 2011" : 491
+    },
+    {
+      "Kod" : 3183462000,
+      "Jednostka terytorialna" : "Powiat m.Przemyœl",
+      "pomieszczenia szkolne 2007" : 275,
+      "pomieszczenia szkolne 2008" : 250,
+      "pomieszczenia szkolne 2009" : 255,
+      "pomieszczenia szkolne 2010" : 274,
+      "pomieszczenia szkolne 2011" : 264
+    },
+    {
+      "Kod" : 3183506000,
+      "Jednostka terytorialna" : "Powiat kolbuszowski",
+      "pomieszczenia szkolne 2007" : 429,
+      "pomieszczenia szkolne 2008" : 417,
+      "pomieszczenia szkolne 2009" : 409,
+      "pomieszczenia szkolne 2010" : 412,
+      "pomieszczenia szkolne 2011" : 401
+    },
+    {
+      "Kod" : 3183510000,
+      "Jednostka terytorialna" : "Powiat ³añcucki",
+      "pomieszczenia szkolne 2007" : 451,
+      "pomieszczenia szkolne 2008" : 395,
+      "pomieszczenia szkolne 2009" : 444,
+      "pomieszczenia szkolne 2010" : 454,
+      "pomieszczenia szkolne 2011" : 458
+    },
+    {
+      "Kod" : 3183515000,
+      "Jednostka terytorialna" : "Powiat ropczycko-sêdziszowski",
+      "pomieszczenia szkolne 2007" : 514,
+      "pomieszczenia szkolne 2008" : 531,
+      "pomieszczenia szkolne 2009" : 513,
+      "pomieszczenia szkolne 2010" : 499,
+      "pomieszczenia szkolne 2011" : 498
+    },
+    {
+      "Kod" : 3183516000,
+      "Jednostka terytorialna" : "Powiat rzeszowski",
+      "pomieszczenia szkolne 2007" : 1065,
+      "pomieszczenia szkolne 2008" : 1078,
+      "pomieszczenia szkolne 2009" : 1086,
+      "pomieszczenia szkolne 2010" : 1050,
+      "pomieszczenia szkolne 2011" : 1051
+    },
+    {
+      "Kod" : 3183519000,
+      "Jednostka terytorialna" : "Powiat strzy¿owski",
+      "pomieszczenia szkolne 2007" : 493,
+      "pomieszczenia szkolne 2008" : 513,
+      "pomieszczenia szkolne 2009" : 523,
+      "pomieszczenia szkolne 2010" : 516,
+      "pomieszczenia szkolne 2011" : 532
+    },
+    {
+      "Kod" : 3183563000,
+      "Jednostka terytorialna" : "Powiat m.Rzeszów",
+      "pomieszczenia szkolne 2007" : 542,
+      "pomieszczenia szkolne 2008" : 549,
+      "pomieszczenia szkolne 2009" : 595,
+      "pomieszczenia szkolne 2010" : 626,
+      "pomieszczenia szkolne 2011" : 628
+    },
+    {
+      "Kod" : 3183603000,
+      "Jednostka terytorialna" : "Powiat dêbicki",
+      "pomieszczenia szkolne 2007" : 803,
+      "pomieszczenia szkolne 2008" : 822,
+      "pomieszczenia szkolne 2009" : 801,
+      "pomieszczenia szkolne 2010" : 815,
+      "pomieszczenia szkolne 2011" : 807
+    },
+    {
+      "Kod" : 3183608000,
+      "Jednostka terytorialna" : "Powiat le¿ajski",
+      "pomieszczenia szkolne 2007" : 405,
+      "pomieszczenia szkolne 2008" : 407,
+      "pomieszczenia szkolne 2009" : 389,
+      "pomieszczenia szkolne 2010" : 399,
+      "pomieszczenia szkolne 2011" : 399
+    },
+    {
+      "Kod" : 3183611000,
+      "Jednostka terytorialna" : "Powiat mielecki",
+      "pomieszczenia szkolne 2007" : 727,
+      "pomieszczenia szkolne 2008" : 728,
+      "pomieszczenia szkolne 2009" : 706,
+      "pomieszczenia szkolne 2010" : 710,
+      "pomieszczenia szkolne 2011" : 714
+    },
+    {
+      "Kod" : 3183612000,
+      "Jednostka terytorialna" : "Powiat ni¿añski",
+      "pomieszczenia szkolne 2007" : 426,
+      "pomieszczenia szkolne 2008" : 439,
+      "pomieszczenia szkolne 2009" : 432,
+      "pomieszczenia szkolne 2010" : 442,
+      "pomieszczenia szkolne 2011" : 428
+    },
+    {
+      "Kod" : 3183618000,
+      "Jednostka terytorialna" : "Powiat stalowowolski",
+      "pomieszczenia szkolne 2007" : 420,
+      "pomieszczenia szkolne 2008" : 440,
+      "pomieszczenia szkolne 2009" : 441,
+      "pomieszczenia szkolne 2010" : 439,
+      "pomieszczenia szkolne 2011" : 437
+    },
+    {
+      "Kod" : 3183620000,
+      "Jednostka terytorialna" : "Powiat tarnobrzeski",
+      "pomieszczenia szkolne 2007" : 262,
+      "pomieszczenia szkolne 2008" : 269,
+      "pomieszczenia szkolne 2009" : 264,
+      "pomieszczenia szkolne 2010" : 271,
+      "pomieszczenia szkolne 2011" : 271
+    },
+    {
+      "Kod" : 3183664000,
+      "Jednostka terytorialna" : "Powiat m.Tarnobrzeg",
+      "pomieszczenia szkolne 2007" : 184,
+      "pomieszczenia szkolne 2008" : 178,
+      "pomieszczenia szkolne 2009" : 179,
+      "pomieszczenia szkolne 2010" : 182,
+      "pomieszczenia szkolne 2011" : 180
+    },
+    {
+      "Kod" : 3200000000,
+      "Jednostka terytorialna" : " PODLASKIE",
+      "pomieszczenia szkolne 2007" : 5917,
+      "pomieszczenia szkolne 2008" : 5709,
+      "pomieszczenia szkolne 2009" : 5700,
+      "pomieszczenia szkolne 2010" : 5739,
+      "pomieszczenia szkolne 2011" : 5664
+    },
+    {
+      "Kod" : 3203702000,
+      "Jednostka terytorialna" : "Powiat bia³ostocki",
+      "pomieszczenia szkolne 2007" : 669,
+      "pomieszczenia szkolne 2008" : 651,
+      "pomieszczenia szkolne 2009" : 628,
+      "pomieszczenia szkolne 2010" : 647,
+      "pomieszczenia szkolne 2011" : 626
+    },
+    {
+      "Kod" : 3203711000,
+      "Jednostka terytorialna" : "Powiat sokólski",
+      "pomieszczenia szkolne 2007" : 451,
+      "pomieszczenia szkolne 2008" : 427,
+      "pomieszczenia szkolne 2009" : 447,
+      "pomieszczenia szkolne 2010" : 440,
+      "pomieszczenia szkolne 2011" : 427
+    },
+    {
+      "Kod" : 3203761000,
+      "Jednostka terytorialna" : "Powiat m.Bia³ystok",
+      "pomieszczenia szkolne 2007" : 964,
+      "pomieszczenia szkolne 2008" : 922,
+      "pomieszczenia szkolne 2009" : 923,
+      "pomieszczenia szkolne 2010" : 935,
+      "pomieszczenia szkolne 2011" : 975
+    },
+    {
+      "Kod" : 3203803000,
+      "Jednostka terytorialna" : "Powiat bielski",
+      "pomieszczenia szkolne 2007" : 280,
+      "pomieszczenia szkolne 2008" : 269,
+      "pomieszczenia szkolne 2009" : 262,
+      "pomieszczenia szkolne 2010" : 280,
+      "pomieszczenia szkolne 2011" : 259
+    },
+    {
+      "Kod" : 3203805000,
+      "Jednostka terytorialna" : "Powiat hajnowski",
+      "pomieszczenia szkolne 2007" : 190,
+      "pomieszczenia szkolne 2008" : 204,
+      "pomieszczenia szkolne 2009" : 196,
+      "pomieszczenia szkolne 2010" : 199,
+      "pomieszczenia szkolne 2011" : 202
+    },
+    {
+      "Kod" : 3203806000,
+      "Jednostka terytorialna" : "Powiat kolneñski",
+      "pomieszczenia szkolne 2007" : 289,
+      "pomieszczenia szkolne 2008" : 286,
+      "pomieszczenia szkolne 2009" : 294,
+      "pomieszczenia szkolne 2010" : 294,
+      "pomieszczenia szkolne 2011" : 290
+    },
+    {
+      "Kod" : 3203807000,
+      "Jednostka terytorialna" : "Powiat ³om¿yñski",
+      "pomieszczenia szkolne 2007" : 384,
+      "pomieszczenia szkolne 2008" : 386,
+      "pomieszczenia szkolne 2009" : 379,
+      "pomieszczenia szkolne 2010" : 378,
+      "pomieszczenia szkolne 2011" : 378
+    },
+    {
+      "Kod" : 3203810000,
+      "Jednostka terytorialna" : "Powiat siemiatycki",
+      "pomieszczenia szkolne 2007" : 310,
+      "pomieszczenia szkolne 2008" : 281,
+      "pomieszczenia szkolne 2009" : 281,
+      "pomieszczenia szkolne 2010" : 281,
+      "pomieszczenia szkolne 2011" : 272
+    },
+    {
+      "Kod" : 3203813000,
+      "Jednostka terytorialna" : "Powiat wysokomazowiecki",
+      "pomieszczenia szkolne 2007" : 390,
+      "pomieszczenia szkolne 2008" : 374,
+      "pomieszczenia szkolne 2009" : 367,
+      "pomieszczenia szkolne 2010" : 362,
+      "pomieszczenia szkolne 2011" : 341
+    },
+    {
+      "Kod" : 3203814000,
+      "Jednostka terytorialna" : "Powiat zambrowski",
+      "pomieszczenia szkolne 2007" : 275,
+      "pomieszczenia szkolne 2008" : 271,
+      "pomieszczenia szkolne 2009" : 268,
+      "pomieszczenia szkolne 2010" : 263,
+      "pomieszczenia szkolne 2011" : 266
+    },
+    {
+      "Kod" : 3203862000,
+      "Jednostka terytorialna" : "Powiat m.£om¿a",
+      "pomieszczenia szkolne 2007" : 164,
+      "pomieszczenia szkolne 2008" : 165,
+      "pomieszczenia szkolne 2009" : 177,
+      "pomieszczenia szkolne 2010" : 172,
+      "pomieszczenia szkolne 2011" : 165
+    },
+    {
+      "Kod" : 3203901000,
+      "Jednostka terytorialna" : "Powiat augustowski",
+      "pomieszczenia szkolne 2007" : 321,
+      "pomieszczenia szkolne 2008" : 332,
+      "pomieszczenia szkolne 2009" : 330,
+      "pomieszczenia szkolne 2010" : 323,
+      "pomieszczenia szkolne 2011" : 335
+    },
+    {
+      "Kod" : 3203904000,
+      "Jednostka terytorialna" : "Powiat grajewski",
+      "pomieszczenia szkolne 2007" : 285,
+      "pomieszczenia szkolne 2008" : 273,
+      "pomieszczenia szkolne 2009" : 272,
+      "pomieszczenia szkolne 2010" : 294,
+      "pomieszczenia szkolne 2011" : 277
+    },
+    {
+      "Kod" : 3203908000,
+      "Jednostka terytorialna" : "Powiat moniecki",
+      "pomieszczenia szkolne 2007" : 264,
+      "pomieszczenia szkolne 2008" : 235,
+      "pomieszczenia szkolne 2009" : 238,
+      "pomieszczenia szkolne 2010" : 233,
+      "pomieszczenia szkolne 2011" : 222
+    },
+    {
+      "Kod" : 3203909000,
+      "Jednostka terytorialna" : "Powiat sejneñski",
+      "pomieszczenia szkolne 2007" : 179,
+      "pomieszczenia szkolne 2008" : 146,
+      "pomieszczenia szkolne 2009" : 151,
+      "pomieszczenia szkolne 2010" : 151,
+      "pomieszczenia szkolne 2011" : 141
+    },
+    {
+      "Kod" : 3203912000,
+      "Jednostka terytorialna" : "Powiat suwalski",
+      "pomieszczenia szkolne 2007" : 284,
+      "pomieszczenia szkolne 2008" : 255,
+      "pomieszczenia szkolne 2009" : 253,
+      "pomieszczenia szkolne 2010" : 248,
+      "pomieszczenia szkolne 2011" : 245
+    },
+    {
+      "Kod" : 3203963000,
+      "Jednostka terytorialna" : "Powiat m.Suwa³ki",
+      "pomieszczenia szkolne 2007" : 218,
+      "pomieszczenia szkolne 2008" : 232,
+      "pomieszczenia szkolne 2009" : 234,
+      "pomieszczenia szkolne 2010" : 239,
+      "pomieszczenia szkolne 2011" : 243
+    },
+    {
+      "Kod" : 3260000000,
+      "Jednostka terytorialna" : " ŒWIÊTOKRZYSKIE",
+      "pomieszczenia szkolne 2007" : 6730,
+      "pomieszczenia szkolne 2008" : 6600,
+      "pomieszczenia szkolne 2009" : 6636,
+      "pomieszczenia szkolne 2010" : 6663,
+      "pomieszczenia szkolne 2011" : 6589
+    },
+    {
+      "Kod" : 3265204000,
+      "Jednostka terytorialna" : "Powiat kielecki",
+      "pomieszczenia szkolne 2007" : 1291,
+      "pomieszczenia szkolne 2008" : 1291,
+      "pomieszczenia szkolne 2009" : 1317,
+      "pomieszczenia szkolne 2010" : 1322,
+      "pomieszczenia szkolne 2011" : 1271
+    },
+    {
+      "Kod" : 3265205000,
+      "Jednostka terytorialna" : "Powiat konecki",
+      "pomieszczenia szkolne 2007" : 414,
+      "pomieszczenia szkolne 2008" : 429,
+      "pomieszczenia szkolne 2009" : 429,
+      "pomieszczenia szkolne 2010" : 438,
+      "pomieszczenia szkolne 2011" : 424
+    },
+    {
+      "Kod" : 3265207000,
+      "Jednostka terytorialna" : "Powiat ostrowiecki",
+      "pomieszczenia szkolne 2007" : 537,
+      "pomieszczenia szkolne 2008" : 497,
+      "pomieszczenia szkolne 2009" : 507,
+      "pomieszczenia szkolne 2010" : 510,
+      "pomieszczenia szkolne 2011" : 509
+    },
+    {
+      "Kod" : 3265210000,
+      "Jednostka terytorialna" : "Powiat skar¿yski",
+      "pomieszczenia szkolne 2007" : 408,
+      "pomieszczenia szkolne 2008" : 392,
+      "pomieszczenia szkolne 2009" : 400,
+      "pomieszczenia szkolne 2010" : 397,
+      "pomieszczenia szkolne 2011" : 415
+    },
+    {
+      "Kod" : 3265211000,
+      "Jednostka terytorialna" : "Powiat starachowicki",
+      "pomieszczenia szkolne 2007" : 476,
+      "pomieszczenia szkolne 2008" : 481,
+      "pomieszczenia szkolne 2009" : 489,
+      "pomieszczenia szkolne 2010" : 501,
+      "pomieszczenia szkolne 2011" : 494
+    },
+    {
+      "Kod" : 3265261000,
+      "Jednostka terytorialna" : "Powiat m.Kielce",
+      "pomieszczenia szkolne 2007" : 630,
+      "pomieszczenia szkolne 2008" : 612,
+      "pomieszczenia szkolne 2009" : 615,
+      "pomieszczenia szkolne 2010" : 622,
+      "pomieszczenia szkolne 2011" : 653
+    },
+    {
+      "Kod" : 3265301000,
+      "Jednostka terytorialna" : "Powiat buski",
+      "pomieszczenia szkolne 2007" : 470,
+      "pomieszczenia szkolne 2008" : 438,
+      "pomieszczenia szkolne 2009" : 435,
+      "pomieszczenia szkolne 2010" : 447,
+      "pomieszczenia szkolne 2011" : 409
+    },
+    {
+      "Kod" : 3265302000,
+      "Jednostka terytorialna" : "Powiat jêdrzejowski",
+      "pomieszczenia szkolne 2007" : 603,
+      "pomieszczenia szkolne 2008" : 606,
+      "pomieszczenia szkolne 2009" : 602,
+      "pomieszczenia szkolne 2010" : 593,
+      "pomieszczenia szkolne 2011" : 578
+    },
+    {
+      "Kod" : 3265303000,
+      "Jednostka terytorialna" : "Powiat kazimierski",
+      "pomieszczenia szkolne 2007" : 210,
+      "pomieszczenia szkolne 2008" : 176,
+      "pomieszczenia szkolne 2009" : 173,
+      "pomieszczenia szkolne 2010" : 174,
+      "pomieszczenia szkolne 2011" : 169
+    },
+    {
+      "Kod" : 3265306000,
+      "Jednostka terytorialna" : "Powiat opatowski",
+      "pomieszczenia szkolne 2007" : 346,
+      "pomieszczenia szkolne 2008" : 341,
+      "pomieszczenia szkolne 2009" : 330,
+      "pomieszczenia szkolne 2010" : 320,
+      "pomieszczenia szkolne 2011" : 330
+    },
+    {
+      "Kod" : 3265308000,
+      "Jednostka terytorialna" : "Powiat piñczowski",
+      "pomieszczenia szkolne 2007" : 211,
+      "pomieszczenia szkolne 2008" : 208,
+      "pomieszczenia szkolne 2009" : 217,
+      "pomieszczenia szkolne 2010" : 210,
+      "pomieszczenia szkolne 2011" : 213
+    },
+    {
+      "Kod" : 3265309000,
+      "Jednostka terytorialna" : "Powiat sandomierski",
+      "pomieszczenia szkolne 2007" : 485,
+      "pomieszczenia szkolne 2008" : 494,
+      "pomieszczenia szkolne 2009" : 501,
+      "pomieszczenia szkolne 2010" : 507,
+      "pomieszczenia szkolne 2011" : 506
+    },
+    {
+      "Kod" : 3265312000,
+      "Jednostka terytorialna" : "Powiat staszowski",
+      "pomieszczenia szkolne 2007" : 375,
+      "pomieszczenia szkolne 2008" : 367,
+      "pomieszczenia szkolne 2009" : 355,
+      "pomieszczenia szkolne 2010" : 353,
+      "pomieszczenia szkolne 2011" : 356
+    },
+    {
+      "Kod" : 3265313000,
+      "Jednostka terytorialna" : "Powiat w³oszczowski",
+      "pomieszczenia szkolne 2007" : 274,
+      "pomieszczenia szkolne 2008" : 268,
+      "pomieszczenia szkolne 2009" : 266,
+      "pomieszczenia szkolne 2010" : 269,
+      "pomieszczenia szkolne 2011" : 262
+    },
+    {
+      "Kod" : 4080000000,
+      "Jednostka terytorialna" : " LUBUSKIE",
+      "pomieszczenia szkolne 2007" : 4561,
+      "pomieszczenia szkolne 2008" : 4605,
+      "pomieszczenia szkolne 2009" : 4652,
+      "pomieszczenia szkolne 2010" : 4704,
+      "pomieszczenia szkolne 2011" : 4618
+    },
+    {
+      "Kod" : 4081301000,
+      "Jednostka terytorialna" : "Powiat gorzowski",
+      "pomieszczenia szkolne 2007" : 333,
+      "pomieszczenia szkolne 2008" : 341,
+      "pomieszczenia szkolne 2009" : 323,
+      "pomieszczenia szkolne 2010" : 338,
+      "pomieszczenia szkolne 2011" : 328
+    },
+    {
+      "Kod" : 4081303000,
+      "Jednostka terytorialna" : "Powiat miêdzyrzecki",
+      "pomieszczenia szkolne 2007" : 273,
+      "pomieszczenia szkolne 2008" : 259,
+      "pomieszczenia szkolne 2009" : 271,
+      "pomieszczenia szkolne 2010" : 281,
+      "pomieszczenia szkolne 2011" : 279
+    },
+    {
+      "Kod" : 4081305000,
+      "Jednostka terytorialna" : "Powiat s³ubicki",
+      "pomieszczenia szkolne 2007" : 224,
+      "pomieszczenia szkolne 2008" : 209,
+      "pomieszczenia szkolne 2009" : 221,
+      "pomieszczenia szkolne 2010" : 222,
+      "pomieszczenia szkolne 2011" : 219
+    },
+    {
+      "Kod" : 4081306000,
+      "Jednostka terytorialna" : "Powiat strzelecko-drezdenecki",
+      "pomieszczenia szkolne 2007" : 250,
+      "pomieszczenia szkolne 2008" : 252,
+      "pomieszczenia szkolne 2009" : 255,
+      "pomieszczenia szkolne 2010" : 247,
+      "pomieszczenia szkolne 2011" : 244
+    },
+    {
+      "Kod" : 4081307000,
+      "Jednostka terytorialna" : "Powiat sulêciñski",
+      "pomieszczenia szkolne 2007" : 172,
+      "pomieszczenia szkolne 2008" : 169,
+      "pomieszczenia szkolne 2009" : 179,
+      "pomieszczenia szkolne 2010" : 180,
+      "pomieszczenia szkolne 2011" : 182
+    },
+    {
+      "Kod" : 4081361000,
+      "Jednostka terytorialna" : "Powiat m.Gorzów Wielkopolski",
+      "pomieszczenia szkolne 2007" : 413,
+      "pomieszczenia szkolne 2008" : 441,
+      "pomieszczenia szkolne 2009" : 436,
+      "pomieszczenia szkolne 2010" : 436,
+      "pomieszczenia szkolne 2011" : 391
+    },
+    {
+      "Kod" : 4081402000,
+      "Jednostka terytorialna" : "Powiat kroœnieñski",
+      "pomieszczenia szkolne 2007" : 310,
+      "pomieszczenia szkolne 2008" : 315,
+      "pomieszczenia szkolne 2009" : 319,
+      "pomieszczenia szkolne 2010" : 321,
+      "pomieszczenia szkolne 2011" : 321
+    },
+    {
+      "Kod" : 4081404000,
+      "Jednostka terytorialna" : "Powiat nowosolski",
+      "pomieszczenia szkolne 2007" : 351,
+      "pomieszczenia szkolne 2008" : 376,
+      "pomieszczenia szkolne 2009" : 370,
+      "pomieszczenia szkolne 2010" : 390,
+      "pomieszczenia szkolne 2011" : 391
+    },
+    {
+      "Kod" : 4081408000,
+      "Jednostka terytorialna" : "Powiat œwiebodziñski",
+      "pomieszczenia szkolne 2007" : 318,
+      "pomieszczenia szkolne 2008" : 304,
+      "pomieszczenia szkolne 2009" : 294,
+      "pomieszczenia szkolne 2010" : 295,
+      "pomieszczenia szkolne 2011" : 286
+    },
+    {
+      "Kod" : 4081409000,
+      "Jednostka terytorialna" : "Powiat zielonogórski",
+      "pomieszczenia szkolne 2007" : 527,
+      "pomieszczenia szkolne 2008" : 538,
+      "pomieszczenia szkolne 2009" : 545,
+      "pomieszczenia szkolne 2010" : 540,
+      "pomieszczenia szkolne 2011" : 543
+    },
+    {
+      "Kod" : 4081410000,
+      "Jednostka terytorialna" : "Powiat ¿agañski",
+      "pomieszczenia szkolne 2007" : 397,
+      "pomieszczenia szkolne 2008" : 400,
+      "pomieszczenia szkolne 2009" : 409,
+      "pomieszczenia szkolne 2010" : 424,
+      "pomieszczenia szkolne 2011" : 408
+    },
+    {
+      "Kod" : 4081411000,
+      "Jednostka terytorialna" : "Powiat ¿arski",
+      "pomieszczenia szkolne 2007" : 499,
+      "pomieszczenia szkolne 2008" : 508,
+      "pomieszczenia szkolne 2009" : 519,
+      "pomieszczenia szkolne 2010" : 521,
+      "pomieszczenia szkolne 2011" : 510
+    },
+    {
+      "Kod" : 4081412000,
+      "Jednostka terytorialna" : "Powiat wschowski",
+      "pomieszczenia szkolne 2007" : 225,
+      "pomieszczenia szkolne 2008" : 229,
+      "pomieszczenia szkolne 2009" : 216,
+      "pomieszczenia szkolne 2010" : 216,
+      "pomieszczenia szkolne 2011" : 218
+    },
+    {
+      "Kod" : 4081462000,
+      "Jednostka terytorialna" : "Powiat m.Zielona Góra",
+      "pomieszczenia szkolne 2007" : 269,
+      "pomieszczenia szkolne 2008" : 264,
+      "pomieszczenia szkolne 2009" : 295,
+      "pomieszczenia szkolne 2010" : 293,
+      "pomieszczenia szkolne 2011" : 298
+    },
+    {
+      "Kod" : 4300000000,
+      "Jednostka terytorialna" : " WIELKOPOLSKIE",
+      "pomieszczenia szkolne 2007" : 16092,
+      "pomieszczenia szkolne 2008" : 16059,
+      "pomieszczenia szkolne 2009" : 16021,
+      "pomieszczenia szkolne 2010" : 16039,
+      "pomieszczenia szkolne 2011" : 16147
+    },
+    {
+      "Kod" : 4305706000,
+      "Jednostka terytorialna" : "Powiat jarociñski",
+      "pomieszczenia szkolne 2007" : 319,
+      "pomieszczenia szkolne 2008" : 325,
+      "pomieszczenia szkolne 2009" : 322,
+      "pomieszczenia szkolne 2010" : 331,
+      "pomieszczenia szkolne 2011" : 341
+    },
+    {
+      "Kod" : 4305707000,
+      "Jednostka terytorialna" : "Powiat kaliski",
+      "pomieszczenia szkolne 2007" : 500,
+      "pomieszczenia szkolne 2008" : 512,
+      "pomieszczenia szkolne 2009" : 527,
+      "pomieszczenia szkolne 2010" : 513,
+      "pomieszczenia szkolne 2011" : 516
+    },
+    {
+      "Kod" : 4305708000,
+      "Jednostka terytorialna" : "Powiat kêpiñski",
+      "pomieszczenia szkolne 2007" : 312,
+      "pomieszczenia szkolne 2008" : 311,
+      "pomieszczenia szkolne 2009" : 317,
+      "pomieszczenia szkolne 2010" : 323,
+      "pomieszczenia szkolne 2011" : 320
+    },
+    {
+      "Kod" : 4305712000,
+      "Jednostka terytorialna" : "Powiat krotoszyñski",
+      "pomieszczenia szkolne 2007" : 399,
+      "pomieszczenia szkolne 2008" : 381,
+      "pomieszczenia szkolne 2009" : 398,
+      "pomieszczenia szkolne 2010" : 394,
+      "pomieszczenia szkolne 2011" : 398
+    },
+    {
+      "Kod" : 4305717000,
+      "Jednostka terytorialna" : "Powiat ostrowski",
+      "pomieszczenia szkolne 2007" : 850,
+      "pomieszczenia szkolne 2008" : 824,
+      "pomieszczenia szkolne 2009" : 838,
+      "pomieszczenia szkolne 2010" : 843,
+      "pomieszczenia szkolne 2011" : 834
+    },
+    {
+      "Kod" : 4305718000,
+      "Jednostka terytorialna" : "Powiat ostrzeszowski",
+      "pomieszczenia szkolne 2007" : 336,
+      "pomieszczenia szkolne 2008" : 343,
+      "pomieszczenia szkolne 2009" : 335,
+      "pomieszczenia szkolne 2010" : 331,
+      "pomieszczenia szkolne 2011" : 340
+    },
+    {
+      "Kod" : 4305720000,
+      "Jednostka terytorialna" : "Powiat pleszewski",
+      "pomieszczenia szkolne 2007" : 338,
+      "pomieszczenia szkolne 2008" : 331,
+      "pomieszczenia szkolne 2009" : 336,
+      "pomieszczenia szkolne 2010" : 339,
+      "pomieszczenia szkolne 2011" : 340
+    },
+    {
+      "Kod" : 4305761000,
+      "Jednostka terytorialna" : "Powiat m.Kalisz",
+      "pomieszczenia szkolne 2007" : 371,
+      "pomieszczenia szkolne 2008" : 378,
+      "pomieszczenia szkolne 2009" : 374,
+      "pomieszczenia szkolne 2010" : 379,
+      "pomieszczenia szkolne 2011" : 380
+    },
+    {
+      "Kod" : 4305803000,
+      "Jednostka terytorialna" : "Powiat gnieŸnieñski",
+      "pomieszczenia szkolne 2007" : 657,
+      "pomieszczenia szkolne 2008" : 654,
+      "pomieszczenia szkolne 2009" : 633,
+      "pomieszczenia szkolne 2010" : 623,
+      "pomieszczenia szkolne 2011" : 648
+    },
+    {
+      "Kod" : 4305809000,
+      "Jednostka terytorialna" : "Powiat kolski",
+      "pomieszczenia szkolne 2007" : 516,
+      "pomieszczenia szkolne 2008" : 519,
+      "pomieszczenia szkolne 2009" : 505,
+      "pomieszczenia szkolne 2010" : 517,
+      "pomieszczenia szkolne 2011" : 484
+    },
+    {
+      "Kod" : 4305810000,
+      "Jednostka terytorialna" : "Powiat koniñski",
+      "pomieszczenia szkolne 2007" : 844,
+      "pomieszczenia szkolne 2008" : 813,
+      "pomieszczenia szkolne 2009" : 829,
+      "pomieszczenia szkolne 2010" : 835,
+      "pomieszczenia szkolne 2011" : 825
+    },
+    {
+      "Kod" : 4305823000,
+      "Jednostka terytorialna" : "Powiat s³upecki",
+      "pomieszczenia szkolne 2007" : 357,
+      "pomieszczenia szkolne 2008" : 362,
+      "pomieszczenia szkolne 2009" : 358,
+      "pomieszczenia szkolne 2010" : 357,
+      "pomieszczenia szkolne 2011" : 355
+    },
+    {
+      "Kod" : 4305827000,
+      "Jednostka terytorialna" : "Powiat turecki",
+      "pomieszczenia szkolne 2007" : 464,
+      "pomieszczenia szkolne 2008" : 460,
+      "pomieszczenia szkolne 2009" : 453,
+      "pomieszczenia szkolne 2010" : 457,
+      "pomieszczenia szkolne 2011" : 461
+    },
+    {
+      "Kod" : 4305830000,
+      "Jednostka terytorialna" : "Powiat wrzesiñski",
+      "pomieszczenia szkolne 2007" : 344,
+      "pomieszczenia szkolne 2008" : 332,
+      "pomieszczenia szkolne 2009" : 326,
+      "pomieszczenia szkolne 2010" : 328,
+      "pomieszczenia szkolne 2011" : 327
+    },
+    {
+      "Kod" : 4305862000,
+      "Jednostka terytorialna" : "Powiat m.Konin",
+      "pomieszczenia szkolne 2007" : 296,
+      "pomieszczenia szkolne 2008" : 298,
+      "pomieszczenia szkolne 2009" : 300,
+      "pomieszczenia szkolne 2010" : 296,
+      "pomieszczenia szkolne 2011" : 303
+    },
+    {
+      "Kod" : 4305904000,
+      "Jednostka terytorialna" : "Powiat gostyñski",
+      "pomieszczenia szkolne 2007" : 353,
+      "pomieszczenia szkolne 2008" : 336,
+      "pomieszczenia szkolne 2009" : 349,
+      "pomieszczenia szkolne 2010" : 349,
+      "pomieszczenia szkolne 2011" : 341
+    },
+    {
+      "Kod" : 4305905000,
+      "Jednostka terytorialna" : "Powiat grodziski",
+      "pomieszczenia szkolne 2007" : 253,
+      "pomieszczenia szkolne 2008" : 257,
+      "pomieszczenia szkolne 2009" : 267,
+      "pomieszczenia szkolne 2010" : 266,
+      "pomieszczenia szkolne 2011" : 260
+    },
+    {
+      "Kod" : 4305911000,
+      "Jednostka terytorialna" : "Powiat koœciañski",
+      "pomieszczenia szkolne 2007" : 442,
+      "pomieszczenia szkolne 2008" : 431,
+      "pomieszczenia szkolne 2009" : 432,
+      "pomieszczenia szkolne 2010" : 431,
+      "pomieszczenia szkolne 2011" : 432
+    },
+    {
+      "Kod" : 4305913000,
+      "Jednostka terytorialna" : "Powiat leszczyñski",
+      "pomieszczenia szkolne 2007" : 291,
+      "pomieszczenia szkolne 2008" : 280,
+      "pomieszczenia szkolne 2009" : 274,
+      "pomieszczenia szkolne 2010" : 276,
+      "pomieszczenia szkolne 2011" : 276
+    },
+    {
+      "Kod" : 4305914000,
+      "Jednostka terytorialna" : "Powiat miêdzychodzki",
+      "pomieszczenia szkolne 2007" : 152,
+      "pomieszczenia szkolne 2008" : 152,
+      "pomieszczenia szkolne 2009" : 153,
+      "pomieszczenia szkolne 2010" : 156,
+      "pomieszczenia szkolne 2011" : 155
+    },
+    {
+      "Kod" : 4305915000,
+      "Jednostka terytorialna" : "Powiat nowotomyski",
+      "pomieszczenia szkolne 2007" : 393,
+      "pomieszczenia szkolne 2008" : 389,
+      "pomieszczenia szkolne 2009" : 391,
+      "pomieszczenia szkolne 2010" : 397,
+      "pomieszczenia szkolne 2011" : 384
+    },
+    {
+      "Kod" : 4305922000,
+      "Jednostka terytorialna" : "Powiat rawicki",
+      "pomieszczenia szkolne 2007" : 270,
+      "pomieszczenia szkolne 2008" : 277,
+      "pomieszczenia szkolne 2009" : 257,
+      "pomieszczenia szkolne 2010" : 258,
+      "pomieszczenia szkolne 2011" : 265
+    },
+    {
+      "Kod" : 4305929000,
+      "Jednostka terytorialna" : "Powiat wolsztyñski",
+      "pomieszczenia szkolne 2007" : 328,
+      "pomieszczenia szkolne 2008" : 312,
+      "pomieszczenia szkolne 2009" : 316,
+      "pomieszczenia szkolne 2010" : 309,
+      "pomieszczenia szkolne 2011" : 305
+    },
+    {
+      "Kod" : 4305963000,
+      "Jednostka terytorialna" : "Powiat m.Leszno",
+      "pomieszczenia szkolne 2007" : 223,
+      "pomieszczenia szkolne 2008" : 224,
+      "pomieszczenia szkolne 2009" : 225,
+      "pomieszczenia szkolne 2010" : 229,
+      "pomieszczenia szkolne 2011" : 242
+    },
+    {
+      "Kod" : 4306001000,
+      "Jednostka terytorialna" : "Powiat chodzieski",
+      "pomieszczenia szkolne 2007" : 191,
+      "pomieszczenia szkolne 2008" : 185,
+      "pomieszczenia szkolne 2009" : 198,
+      "pomieszczenia szkolne 2010" : 199,
+      "pomieszczenia szkolne 2011" : 193
+    },
+    {
+      "Kod" : 4306002000,
+      "Jednostka terytorialna" : "Powiat czarnkowsko-trzcianecki",
+      "pomieszczenia szkolne 2007" : 457,
+      "pomieszczenia szkolne 2008" : 451,
+      "pomieszczenia szkolne 2009" : 459,
+      "pomieszczenia szkolne 2010" : 457,
+      "pomieszczenia szkolne 2011" : 457
+    },
+    {
+      "Kod" : 4306019000,
+      "Jednostka terytorialna" : "Powiat pilski",
+      "pomieszczenia szkolne 2007" : 645,
+      "pomieszczenia szkolne 2008" : 627,
+      "pomieszczenia szkolne 2009" : 628,
+      "pomieszczenia szkolne 2010" : 621,
+      "pomieszczenia szkolne 2011" : 614
+    },
+    {
+      "Kod" : 4306028000,
+      "Jednostka terytorialna" : "Powiat w¹growiecki",
+      "pomieszczenia szkolne 2007" : 364,
+      "pomieszczenia szkolne 2008" : 330,
+      "pomieszczenia szkolne 2009" : 330,
+      "pomieszczenia szkolne 2010" : 333,
+      "pomieszczenia szkolne 2011" : 334
+    },
+    {
+      "Kod" : 4306031000,
+      "Jednostka terytorialna" : "Powiat z³otowski",
+      "pomieszczenia szkolne 2007" : 369,
+      "pomieszczenia szkolne 2008" : 373,
+      "pomieszczenia szkolne 2009" : 313,
+      "pomieszczenia szkolne 2010" : 300,
+      "pomieszczenia szkolne 2011" : 300
+    },
+    {
+      "Kod" : 4306116000,
+      "Jednostka terytorialna" : "Powiat obornicki",
+      "pomieszczenia szkolne 2007" : 284,
+      "pomieszczenia szkolne 2008" : 295,
+      "pomieszczenia szkolne 2009" : 294,
+      "pomieszczenia szkolne 2010" : 307,
+      "pomieszczenia szkolne 2011" : 325
+    },
+    {
+      "Kod" : 4306121000,
+      "Jednostka terytorialna" : "Powiat poznañski",
+      "pomieszczenia szkolne 2007" : 1282,
+      "pomieszczenia szkolne 2008" : 1311,
+      "pomieszczenia szkolne 2009" : 1280,
+      "pomieszczenia szkolne 2010" : 1297,
+      "pomieszczenia szkolne 2011" : 1344
+    },
+    {
+      "Kod" : 4306124000,
+      "Jednostka terytorialna" : "Powiat szamotulski",
+      "pomieszczenia szkolne 2007" : 415,
+      "pomieszczenia szkolne 2008" : 431,
+      "pomieszczenia szkolne 2009" : 405,
+      "pomieszczenia szkolne 2010" : 419,
+      "pomieszczenia szkolne 2011" : 426
+    },
+    {
+      "Kod" : 4306125000,
+      "Jednostka terytorialna" : "Powiat œredzki",
+      "pomieszczenia szkolne 2007" : 260,
+      "pomieszczenia szkolne 2008" : 261,
+      "pomieszczenia szkolne 2009" : 262,
+      "pomieszczenia szkolne 2010" : 251,
+      "pomieszczenia szkolne 2011" : 256
+    },
+    {
+      "Kod" : 4306126000,
+      "Jednostka terytorialna" : "Powiat œremski",
+      "pomieszczenia szkolne 2007" : 288,
+      "pomieszczenia szkolne 2008" : 306,
+      "pomieszczenia szkolne 2009" : 308,
+      "pomieszczenia szkolne 2010" : 309,
+      "pomieszczenia szkolne 2011" : 321
+    },
+    {
+      "Kod" : 4306264000,
+      "Jednostka terytorialna" : "Powiat m.Poznañ",
+      "pomieszczenia szkolne 2007" : 1929,
+      "pomieszczenia szkolne 2008" : 1988,
+      "pomieszczenia szkolne 2009" : 2029,
+      "pomieszczenia szkolne 2010" : 2009,
+      "pomieszczenia szkolne 2011" : 2045
+    },
+    {
+      "Kod" : 4320000000,
+      "Jednostka terytorialna" : " ZACHODNIOPOMORSKIE",
+      "pomieszczenia szkolne 2007" : 7320,
+      "pomieszczenia szkolne 2008" : 7409,
+      "pomieszczenia szkolne 2009" : 7373,
+      "pomieszczenia szkolne 2010" : 7402,
+      "pomieszczenia szkolne 2011" : 7368
+    },
+    {
+      "Kod" : 4326301000,
+      "Jednostka terytorialna" : "Powiat bia³ogardzki",
+      "pomieszczenia szkolne 2007" : 190,
+      "pomieszczenia szkolne 2008" : 194,
+      "pomieszczenia szkolne 2009" : 195,
+      "pomieszczenia szkolne 2010" : 206,
+      "pomieszczenia szkolne 2011" : 192
+    },
+    {
+      "Kod" : 4326303000,
+      "Jednostka terytorialna" : "Powiat drawski",
+      "pomieszczenia szkolne 2007" : 302,
+      "pomieszczenia szkolne 2008" : 293,
+      "pomieszczenia szkolne 2009" : 285,
+      "pomieszczenia szkolne 2010" : 260,
+      "pomieszczenia szkolne 2011" : 264
+    },
+    {
+      "Kod" : 4326308000,
+      "Jednostka terytorialna" : "Powiat ko³obrzeski",
+      "pomieszczenia szkolne 2007" : 300,
+      "pomieszczenia szkolne 2008" : 312,
+      "pomieszczenia szkolne 2009" : 300,
+      "pomieszczenia szkolne 2010" : 307,
+      "pomieszczenia szkolne 2011" : 305
+    },
+    {
+      "Kod" : 4326309000,
+      "Jednostka terytorialna" : "Powiat koszaliñski",
+      "pomieszczenia szkolne 2007" : 351,
+      "pomieszczenia szkolne 2008" : 344,
+      "pomieszczenia szkolne 2009" : 340,
+      "pomieszczenia szkolne 2010" : 354,
+      "pomieszczenia szkolne 2011" : 350
+    },
+    {
+      "Kod" : 4326313000,
+      "Jednostka terytorialna" : "Powiat s³awieñski",
+      "pomieszczenia szkolne 2007" : 304,
+      "pomieszczenia szkolne 2008" : 332,
+      "pomieszczenia szkolne 2009" : 336,
+      "pomieszczenia szkolne 2010" : 334,
+      "pomieszczenia szkolne 2011" : 341
+    },
+    {
+      "Kod" : 4326315000,
+      "Jednostka terytorialna" : "Powiat szczecinecki",
+      "pomieszczenia szkolne 2007" : 389,
+      "pomieszczenia szkolne 2008" : 431,
+      "pomieszczenia szkolne 2009" : 442,
+      "pomieszczenia szkolne 2010" : 430,
+      "pomieszczenia szkolne 2011" : 435
+    },
+    {
+      "Kod" : 4326316000,
+      "Jednostka terytorialna" : "Powiat œwidwiñski",
+      "pomieszczenia szkolne 2007" : 229,
+      "pomieszczenia szkolne 2008" : 250,
+      "pomieszczenia szkolne 2009" : 256,
+      "pomieszczenia szkolne 2010" : 254,
+      "pomieszczenia szkolne 2011" : 239
+    },
+    {
+      "Kod" : 4326317000,
+      "Jednostka terytorialna" : "Powiat wa³ecki",
+      "pomieszczenia szkolne 2007" : 287,
+      "pomieszczenia szkolne 2008" : 194,
+      "pomieszczenia szkolne 2009" : 194,
+      "pomieszczenia szkolne 2010" : 198,
+      "pomieszczenia szkolne 2011" : 223
+    },
+    {
+      "Kod" : 4326361000,
+      "Jednostka terytorialna" : "Powiat m.Koszalin",
+      "pomieszczenia szkolne 2007" : 346,
+      "pomieszczenia szkolne 2008" : 450,
+      "pomieszczenia szkolne 2009" : 378,
+      "pomieszczenia szkolne 2010" : 370,
+      "pomieszczenia szkolne 2011" : 372
+    },
+    {
+      "Kod" : 4326402000,
+      "Jednostka terytorialna" : "Powiat choszczeñski",
+      "pomieszczenia szkolne 2007" : 275,
+      "pomieszczenia szkolne 2008" : 265,
+      "pomieszczenia szkolne 2009" : 280,
+      "pomieszczenia szkolne 2010" : 283,
+      "pomieszczenia szkolne 2011" : 281
+    },
+    {
+      "Kod" : 4326405000,
+      "Jednostka terytorialna" : "Powiat gryficki",
+      "pomieszczenia szkolne 2007" : 274,
+      "pomieszczenia szkolne 2008" : 281,
+      "pomieszczenia szkolne 2009" : 282,
+      "pomieszczenia szkolne 2010" : 285,
+      "pomieszczenia szkolne 2011" : 286
+    },
+    {
+      "Kod" : 4326410000,
+      "Jednostka terytorialna" : "Powiat myœliborski",
+      "pomieszczenia szkolne 2007" : 308,
+      "pomieszczenia szkolne 2008" : 319,
+      "pomieszczenia szkolne 2009" : 322,
+      "pomieszczenia szkolne 2010" : 313,
+      "pomieszczenia szkolne 2011" : 313
+    },
+    {
+      "Kod" : 4326412000,
+      "Jednostka terytorialna" : "Powiat pyrzycki",
+      "pomieszczenia szkolne 2007" : 210,
+      "pomieszczenia szkolne 2008" : 225,
+      "pomieszczenia szkolne 2009" : 227,
+      "pomieszczenia szkolne 2010" : 227,
+      "pomieszczenia szkolne 2011" : 213
+    },
+    {
+      "Kod" : 4326414000,
+      "Jednostka terytorialna" : "Powiat stargardzki",
+      "pomieszczenia szkolne 2007" : 534,
+      "pomieszczenia szkolne 2008" : 521,
+      "pomieszczenia szkolne 2009" : 521,
+      "pomieszczenia szkolne 2010" : 523,
+      "pomieszczenia szkolne 2011" : 515
+    },
+    {
+      "Kod" : 4326418000,
+      "Jednostka terytorialna" : "Powiat ³obeski",
+      "pomieszczenia szkolne 2007" : 216,
+      "pomieszczenia szkolne 2008" : 224,
+      "pomieszczenia szkolne 2009" : 220,
+      "pomieszczenia szkolne 2010" : 220,
+      "pomieszczenia szkolne 2011" : 215
+    },
+    {
+      "Kod" : 4326562000,
+      "Jednostka terytorialna" : "Powiat m.Szczecin",
+      "pomieszczenia szkolne 2007" : 1279,
+      "pomieszczenia szkolne 2008" : 1254,
+      "pomieszczenia szkolne 2009" : 1285,
+      "pomieszczenia szkolne 2010" : 1302,
+      "pomieszczenia szkolne 2011" : 1317
+    },
+    {
+      "Kod" : 4326604000,
+      "Jednostka terytorialna" : "Powiat goleniowski",
+      "pomieszczenia szkolne 2007" : 406,
+      "pomieszczenia szkolne 2008" : 419,
+      "pomieszczenia szkolne 2009" : 405,
+      "pomieszczenia szkolne 2010" : 421,
+      "pomieszczenia szkolne 2011" : 404
+    },
+    {
+      "Kod" : 4326606000,
+      "Jednostka terytorialna" : "Powiat gryfiñski",
+      "pomieszczenia szkolne 2007" : 458,
+      "pomieszczenia szkolne 2008" : 465,
+      "pomieszczenia szkolne 2009" : 472,
+      "pomieszczenia szkolne 2010" : 476,
+      "pomieszczenia szkolne 2011" : 468
+    },
+    {
+      "Kod" : 4326607000,
+      "Jednostka terytorialna" : "Powiat kamieñski",
+      "pomieszczenia szkolne 2007" : 287,
+      "pomieszczenia szkolne 2008" : 263,
+      "pomieszczenia szkolne 2009" : 254,
+      "pomieszczenia szkolne 2010" : 262,
+      "pomieszczenia szkolne 2011" : 260
+    },
+    {
+      "Kod" : 4326611000,
+      "Jednostka terytorialna" : "Powiat policki",
+      "pomieszczenia szkolne 2007" : 263,
+      "pomieszczenia szkolne 2008" : 258,
+      "pomieszczenia szkolne 2009" : 268,
+      "pomieszczenia szkolne 2010" : 269,
+      "pomieszczenia szkolne 2011" : 268
+    },
+    {
+      "Kod" : 4326663000,
+      "Jednostka terytorialna" : "Powiat m.Œwinoujœcie",
+      "pomieszczenia szkolne 2007" : 112,
+      "pomieszczenia szkolne 2008" : 115,
+      "pomieszczenia szkolne 2009" : 111,
+      "pomieszczenia szkolne 2010" : 108,
+      "pomieszczenia szkolne 2011" : 107
+    },
+    {
+      "Kod" : 5020000000,
+      "Jednostka terytorialna" : " DOLNOŒL¥SKIE",
+      "pomieszczenia szkolne 2007" : 12135,
+      "pomieszczenia szkolne 2008" : 12026,
+      "pomieszczenia szkolne 2009" : 12043,
+      "pomieszczenia szkolne 2010" : 12135,
+      "pomieszczenia szkolne 2011" : 12125
+    },
+    {
+      "Kod" : 5020101000,
+      "Jednostka terytorialna" : "Powiat boles³awiecki",
+      "pomieszczenia szkolne 2007" : 430,
+      "pomieszczenia szkolne 2008" : 418,
+      "pomieszczenia szkolne 2009" : 418,
+      "pomieszczenia szkolne 2010" : 417,
+      "pomieszczenia szkolne 2011" : 411
+    },
+    {
+      "Kod" : 5020105000,
+      "Jednostka terytorialna" : "Powiat jaworski",
+      "pomieszczenia szkolne 2007" : 236,
+      "pomieszczenia szkolne 2008" : 233,
+      "pomieszczenia szkolne 2009" : 225,
+      "pomieszczenia szkolne 2010" : 224,
+      "pomieszczenia szkolne 2011" : 220
+    },
+    {
+      "Kod" : 5020106000,
+      "Jednostka terytorialna" : "Powiat jeleniogórski",
+      "pomieszczenia szkolne 2007" : 306,
+      "pomieszczenia szkolne 2008" : 300,
+      "pomieszczenia szkolne 2009" : 302,
+      "pomieszczenia szkolne 2010" : 301,
+      "pomieszczenia szkolne 2011" : 288
+    },
+    {
+      "Kod" : 5020107000,
+      "Jednostka terytorialna" : "Powiat kamiennogórski",
+      "pomieszczenia szkolne 2007" : 168,
+      "pomieszczenia szkolne 2008" : 171,
+      "pomieszczenia szkolne 2009" : 175,
+      "pomieszczenia szkolne 2010" : 174,
+      "pomieszczenia szkolne 2011" : 179
+    },
+    {
+      "Kod" : 5020110000,
+      "Jednostka terytorialna" : "Powiat lubañski",
+      "pomieszczenia szkolne 2007" : 287,
+      "pomieszczenia szkolne 2008" : 275,
+      "pomieszczenia szkolne 2009" : 266,
+      "pomieszczenia szkolne 2010" : 269,
+      "pomieszczenia szkolne 2011" : 263
+    },
+    {
+      "Kod" : 5020112000,
+      "Jednostka terytorialna" : "Powiat lwówecki",
+      "pomieszczenia szkolne 2007" : 248,
+      "pomieszczenia szkolne 2008" : 247,
+      "pomieszczenia szkolne 2009" : 233,
+      "pomieszczenia szkolne 2010" : 242,
+      "pomieszczenia szkolne 2011" : 249
+    },
+    {
+      "Kod" : 5020125000,
+      "Jednostka terytorialna" : "Powiat zgorzelecki",
+      "pomieszczenia szkolne 2007" : 388,
+      "pomieszczenia szkolne 2008" : 388,
+      "pomieszczenia szkolne 2009" : 385,
+      "pomieszczenia szkolne 2010" : 381,
+      "pomieszczenia szkolne 2011" : 397
+    },
+    {
+      "Kod" : 5020126000,
+      "Jednostka terytorialna" : "Powiat z³otoryjski",
+      "pomieszczenia szkolne 2007" : 282,
+      "pomieszczenia szkolne 2008" : 269,
+      "pomieszczenia szkolne 2009" : 273,
+      "pomieszczenia szkolne 2010" : 276,
+      "pomieszczenia szkolne 2011" : 259
+    },
+    {
+      "Kod" : 5020161000,
+      "Jednostka terytorialna" : "Powiat m.Jelenia Góra",
+      "pomieszczenia szkolne 2007" : 327,
+      "pomieszczenia szkolne 2008" : 328,
+      "pomieszczenia szkolne 2009" : 329,
+      "pomieszczenia szkolne 2010" : 328,
+      "pomieszczenia szkolne 2011" : 292
+    },
+    {
+      "Kod" : 5020203000,
+      "Jednostka terytorialna" : "Powiat g³ogowski",
+      "pomieszczenia szkolne 2007" : 347,
+      "pomieszczenia szkolne 2008" : 337,
+      "pomieszczenia szkolne 2009" : 345,
+      "pomieszczenia szkolne 2010" : 373,
+      "pomieszczenia szkolne 2011" : 381
+    },
+    {
+      "Kod" : 5020204000,
+      "Jednostka terytorialna" : "Powiat górowski",
+      "pomieszczenia szkolne 2007" : 176,
+      "pomieszczenia szkolne 2008" : 180,
+      "pomieszczenia szkolne 2009" : 192,
+      "pomieszczenia szkolne 2010" : 195,
+      "pomieszczenia szkolne 2011" : 202
+    },
+    {
+      "Kod" : 5020209000,
+      "Jednostka terytorialna" : "Powiat legnicki",
+      "pomieszczenia szkolne 2007" : 273,
+      "pomieszczenia szkolne 2008" : 274,
+      "pomieszczenia szkolne 2009" : 286,
+      "pomieszczenia szkolne 2010" : 278,
+      "pomieszczenia szkolne 2011" : 280
+    },
+    {
+      "Kod" : 5020211000,
+      "Jednostka terytorialna" : "Powiat lubiñski",
+      "pomieszczenia szkolne 2007" : 439,
+      "pomieszczenia szkolne 2008" : 428,
+      "pomieszczenia szkolne 2009" : 428,
+      "pomieszczenia szkolne 2010" : 437,
+      "pomieszczenia szkolne 2011" : 437
+    },
+    {
+      "Kod" : 5020216000,
+      "Jednostka terytorialna" : "Powiat polkowicki",
+      "pomieszczenia szkolne 2007" : 280,
+      "pomieszczenia szkolne 2008" : 278,
+      "pomieszczenia szkolne 2009" : 268,
+      "pomieszczenia szkolne 2010" : 270,
+      "pomieszczenia szkolne 2011" : 277
+    },
+    {
+      "Kod" : 5020262000,
+      "Jednostka terytorialna" : "Powiat m.Legnica",
+      "pomieszczenia szkolne 2007" : 392,
+      "pomieszczenia szkolne 2008" : 368,
+      "pomieszczenia szkolne 2009" : 366,
+      "pomieszczenia szkolne 2010" : 375,
+      "pomieszczenia szkolne 2011" : 376
+    },
+    {
+      "Kod" : 5020302000,
+      "Jednostka terytorialna" : "Powiat dzier¿oniowski",
+      "pomieszczenia szkolne 2007" : 441,
+      "pomieszczenia szkolne 2008" : 445,
+      "pomieszczenia szkolne 2009" : 454,
+      "pomieszczenia szkolne 2010" : 452,
+      "pomieszczenia szkolne 2011" : 457
+    },
+    {
+      "Kod" : 5020308000,
+      "Jednostka terytorialna" : "Powiat k³odzki",
+      "pomieszczenia szkolne 2007" : 761,
+      "pomieszczenia szkolne 2008" : 769,
+      "pomieszczenia szkolne 2009" : 789,
+      "pomieszczenia szkolne 2010" : 767,
+      "pomieszczenia szkolne 2011" : 758
+    },
+    {
+      "Kod" : 5020319000,
+      "Jednostka terytorialna" : "Powiat œwidnicki",
+      "pomieszczenia szkolne 2007" : 668,
+      "pomieszczenia szkolne 2008" : 662,
+      "pomieszczenia szkolne 2009" : 646,
+      "pomieszczenia szkolne 2010" : 641,
+      "pomieszczenia szkolne 2011" : 632
+    },
+    {
+      "Kod" : 5020321000,
+      "Jednostka terytorialna" : "Powiat wa³brzyski",
+      "pomieszczenia szkolne 2007" : 675,
+      "pomieszczenia szkolne 2008" : 683,
+      "pomieszczenia szkolne 2009" : 677,
+      "pomieszczenia szkolne 2010" : 673,
+      "pomieszczenia szkolne 2011" : 698
+    },
+    {
+      "Kod" : 5020324000,
+      "Jednostka terytorialna" : "Powiat z¹bkowicki",
+      "pomieszczenia szkolne 2007" : 361,
+      "pomieszczenia szkolne 2008" : 311,
+      "pomieszczenia szkolne 2009" : 363,
+      "pomieszczenia szkolne 2010" : 363,
+      "pomieszczenia szkolne 2011" : 382
+    },
+    {
+      "Kod" : 5020413000,
+      "Jednostka terytorialna" : "Powiat milicki",
+      "pomieszczenia szkolne 2007" : 184,
+      "pomieszczenia szkolne 2008" : 186,
+      "pomieszczenia szkolne 2009" : 193,
+      "pomieszczenia szkolne 2010" : 194,
+      "pomieszczenia szkolne 2011" : 196
+    },
+    {
+      "Kod" : 5020414000,
+      "Jednostka terytorialna" : "Powiat oleœnicki",
+      "pomieszczenia szkolne 2007" : 508,
+      "pomieszczenia szkolne 2008" : 482,
+      "pomieszczenia szkolne 2009" : 503,
+      "pomieszczenia szkolne 2010" : 511,
+      "pomieszczenia szkolne 2011" : 508
+    },
+    {
+      "Kod" : 5020415000,
+      "Jednostka terytorialna" : "Powiat o³awski",
+      "pomieszczenia szkolne 2007" : 350,
+      "pomieszczenia szkolne 2008" : 369,
+      "pomieszczenia szkolne 2009" : 359,
+      "pomieszczenia szkolne 2010" : 349,
+      "pomieszczenia szkolne 2011" : 345
+    },
+    {
+      "Kod" : 5020417000,
+      "Jednostka terytorialna" : "Powiat strzeliñski",
+      "pomieszczenia szkolne 2007" : 204,
+      "pomieszczenia szkolne 2008" : 209,
+      "pomieszczenia szkolne 2009" : 207,
+      "pomieszczenia szkolne 2010" : 207,
+      "pomieszczenia szkolne 2011" : 224
+    },
+    {
+      "Kod" : 5020418000,
+      "Jednostka terytorialna" : "Powiat œredzki",
+      "pomieszczenia szkolne 2007" : 209,
+      "pomieszczenia szkolne 2008" : 220,
+      "pomieszczenia szkolne 2009" : 225,
+      "pomieszczenia szkolne 2010" : 241,
+      "pomieszczenia szkolne 2011" : 230
+    },
+    {
+      "Kod" : 5020420000,
+      "Jednostka terytorialna" : "Powiat trzebnicki",
+      "pomieszczenia szkolne 2007" : 398,
+      "pomieszczenia szkolne 2008" : 399,
+      "pomieszczenia szkolne 2009" : 394,
+      "pomieszczenia szkolne 2010" : 394,
+      "pomieszczenia szkolne 2011" : 398
+    },
+    {
+      "Kod" : 5020422000,
+      "Jednostka terytorialna" : "Powiat wo³owski",
+      "pomieszczenia szkolne 2007" : 281,
+      "pomieszczenia szkolne 2008" : 271,
+      "pomieszczenia szkolne 2009" : 273,
+      "pomieszczenia szkolne 2010" : 273,
+      "pomieszczenia szkolne 2011" : 281
+    },
+    {
+      "Kod" : 5020423000,
+      "Jednostka terytorialna" : "Powiat wroc³awski",
+      "pomieszczenia szkolne 2007" : 554,
+      "pomieszczenia szkolne 2008" : 539,
+      "pomieszczenia szkolne 2009" : 564,
+      "pomieszczenia szkolne 2010" : 585,
+      "pomieszczenia szkolne 2011" : 575
+    },
+    {
+      "Kod" : 5020564000,
+      "Jednostka terytorialna" : "Powiat m.Wroc³aw",
+      "pomieszczenia szkolne 2007" : 1962,
+      "pomieszczenia szkolne 2008" : 1987,
+      "pomieszczenia szkolne 2009" : 1905,
+      "pomieszczenia szkolne 2010" : 1945,
+      "pomieszczenia szkolne 2011" : 1930
+    },
+    {
+      "Kod" : 5160000000,
+      "Jednostka terytorialna" : " OPOLSKIE",
+      "pomieszczenia szkolne 2007" : 4750,
+      "pomieszczenia szkolne 2008" : 4855,
+      "pomieszczenia szkolne 2009" : 4815,
+      "pomieszczenia szkolne 2010" : 4829,
+      "pomieszczenia szkolne 2011" : 4767
+    },
+    {
+      "Kod" : 5163101000,
+      "Jednostka terytorialna" : "Powiat brzeski",
+      "pomieszczenia szkolne 2007" : 419,
+      "pomieszczenia szkolne 2008" : 421,
+      "pomieszczenia szkolne 2009" : 404,
+      "pomieszczenia szkolne 2010" : 406,
+      "pomieszczenia szkolne 2011" : 395
+    },
+    {
+      "Kod" : 5163104000,
+      "Jednostka terytorialna" : "Powiat kluczborski",
+      "pomieszczenia szkolne 2007" : 329,
+      "pomieszczenia szkolne 2008" : 326,
+      "pomieszczenia szkolne 2009" : 320,
+      "pomieszczenia szkolne 2010" : 320,
+      "pomieszczenia szkolne 2011" : 320
+    },
+    {
+      "Kod" : 5163106000,
+      "Jednostka terytorialna" : "Powiat namys³owski",
+      "pomieszczenia szkolne 2007" : 211,
+      "pomieszczenia szkolne 2008" : 215,
+      "pomieszczenia szkolne 2009" : 221,
+      "pomieszczenia szkolne 2010" : 221,
+      "pomieszczenia szkolne 2011" : 218
+    },
+    {
+      "Kod" : 5163107000,
+      "Jednostka terytorialna" : "Powiat nyski",
+      "pomieszczenia szkolne 2007" : 658,
+      "pomieszczenia szkolne 2008" : 670,
+      "pomieszczenia szkolne 2009" : 657,
+      "pomieszczenia szkolne 2010" : 660,
+      "pomieszczenia szkolne 2011" : 644
+    },
+    {
+      "Kod" : 5163110000,
+      "Jednostka terytorialna" : "Powiat prudnicki",
+      "pomieszczenia szkolne 2007" : 302,
+      "pomieszczenia szkolne 2008" : 295,
+      "pomieszczenia szkolne 2009" : 287,
+      "pomieszczenia szkolne 2010" : 287,
+      "pomieszczenia szkolne 2011" : 289
+    },
+    {
+      "Kod" : 5163202000,
+      "Jednostka terytorialna" : "Powiat g³ubczycki",
+      "pomieszczenia szkolne 2007" : 276,
+      "pomieszczenia szkolne 2008" : 288,
+      "pomieszczenia szkolne 2009" : 287,
+      "pomieszczenia szkolne 2010" : 294,
+      "pomieszczenia szkolne 2011" : 283
+    },
+    {
+      "Kod" : 5163203000,
+      "Jednostka terytorialna" : "Powiat kêdzierzyñsko-kozielski",
+      "pomieszczenia szkolne 2007" : 459,
+      "pomieszczenia szkolne 2008" : 495,
+      "pomieszczenia szkolne 2009" : 487,
+      "pomieszczenia szkolne 2010" : 506,
+      "pomieszczenia szkolne 2011" : 501
+    },
+    {
+      "Kod" : 5163205000,
+      "Jednostka terytorialna" : "Powiat krapkowicki",
+      "pomieszczenia szkolne 2007" : 335,
+      "pomieszczenia szkolne 2008" : 339,
+      "pomieszczenia szkolne 2009" : 329,
+      "pomieszczenia szkolne 2010" : 327,
+      "pomieszczenia szkolne 2011" : 328
+    },
+    {
+      "Kod" : 5163208000,
+      "Jednostka terytorialna" : "Powiat oleski",
+      "pomieszczenia szkolne 2007" : 378,
+      "pomieszczenia szkolne 2008" : 372,
+      "pomieszczenia szkolne 2009" : 376,
+      "pomieszczenia szkolne 2010" : 380,
+      "pomieszczenia szkolne 2011" : 378
+    },
+    {
+      "Kod" : 5163209000,
+      "Jednostka terytorialna" : "Powiat opolski",
+      "pomieszczenia szkolne 2007" : 644,
+      "pomieszczenia szkolne 2008" : 675,
+      "pomieszczenia szkolne 2009" : 683,
+      "pomieszczenia szkolne 2010" : 678,
+      "pomieszczenia szkolne 2011" : 659
+    },
+    {
+      "Kod" : 5163211000,
+      "Jednostka terytorialna" : "Powiat strzelecki",
+      "pomieszczenia szkolne 2007" : 343,
+      "pomieszczenia szkolne 2008" : 342,
+      "pomieszczenia szkolne 2009" : 341,
+      "pomieszczenia szkolne 2010" : 344,
+      "pomieszczenia szkolne 2011" : 343
+    },
+    {
+      "Kod" : 5163261000,
+      "Jednostka terytorialna" : "Powiat m.Opole",
+      "pomieszczenia szkolne 2007" : 396,
+      "pomieszczenia szkolne 2008" : 417,
+      "pomieszczenia szkolne 2009" : 423,
+      "pomieszczenia szkolne 2010" : 406,
+      "pomieszczenia szkolne 2011" : 409
+    },
+    {
+      "Kod" : 6040000000,
+      "Jednostka terytorialna" : " KUJAWSKO-POMORSKIE",
+      "pomieszczenia szkolne 2007" : 9566,
+      "pomieszczenia szkolne 2008" : 9681,
+      "pomieszczenia szkolne 2009" : 9675,
+      "pomieszczenia szkolne 2010" : 9583,
+      "pomieszczenia szkolne 2011" : 9648
+    },
+    {
+      "Kod" : 6040603000,
+      "Jednostka terytorialna" : "Powiat bydgoski",
+      "pomieszczenia szkolne 2007" : 423,
+      "pomieszczenia szkolne 2008" : 439,
+      "pomieszczenia szkolne 2009" : 442,
+      "pomieszczenia szkolne 2010" : 441,
+      "pomieszczenia szkolne 2011" : 455
+    },
+    {
+      "Kod" : 6040615000,
+      "Jednostka terytorialna" : "Powiat toruñski",
+      "pomieszczenia szkolne 2007" : 455,
+      "pomieszczenia szkolne 2008" : 471,
+      "pomieszczenia szkolne 2009" : 472,
+      "pomieszczenia szkolne 2010" : 483,
+      "pomieszczenia szkolne 2011" : 490
+    },
+    {
+      "Kod" : 6040661000,
+      "Jednostka terytorialna" : "Powiat m.Bydgoszcz",
+      "pomieszczenia szkolne 2007" : 1286,
+      "pomieszczenia szkolne 2008" : 1275,
+      "pomieszczenia szkolne 2009" : 1286,
+      "pomieszczenia szkolne 2010" : 1228,
+      "pomieszczenia szkolne 2011" : 1218
+    },
+    {
+      "Kod" : 6040663000,
+      "Jednostka terytorialna" : "Powiat m.Toruñ",
+      "pomieszczenia szkolne 2007" : 703,
+      "pomieszczenia szkolne 2008" : 774,
+      "pomieszczenia szkolne 2009" : 795,
+      "pomieszczenia szkolne 2010" : 739,
+      "pomieszczenia szkolne 2011" : 802
+    },
+    {
+      "Kod" : 6040702000,
+      "Jednostka terytorialna" : "Powiat brodnicki",
+      "pomieszczenia szkolne 2007" : 446,
+      "pomieszczenia szkolne 2008" : 435,
+      "pomieszczenia szkolne 2009" : 423,
+      "pomieszczenia szkolne 2010" : 427,
+      "pomieszczenia szkolne 2011" : 426
+    },
+    {
+      "Kod" : 6040704000,
+      "Jednostka terytorialna" : "Powiat che³miñski",
+      "pomieszczenia szkolne 2007" : 318,
+      "pomieszczenia szkolne 2008" : 311,
+      "pomieszczenia szkolne 2009" : 294,
+      "pomieszczenia szkolne 2010" : 292,
+      "pomieszczenia szkolne 2011" : 293
+    },
+    {
+      "Kod" : 6040705000,
+      "Jednostka terytorialna" : "Powiat golubsko-dobrzyñski",
+      "pomieszczenia szkolne 2007" : 303,
+      "pomieszczenia szkolne 2008" : 298,
+      "pomieszczenia szkolne 2009" : 298,
+      "pomieszczenia szkolne 2010" : 300,
+      "pomieszczenia szkolne 2011" : 296
+    },
+    {
+      "Kod" : 6040706000,
+      "Jednostka terytorialna" : "Powiat grudzi¹dzki",
+      "pomieszczenia szkolne 2007" : 281,
+      "pomieszczenia szkolne 2008" : 274,
+      "pomieszczenia szkolne 2009" : 278,
+      "pomieszczenia szkolne 2010" : 279,
+      "pomieszczenia szkolne 2011" : 277
+    },
+    {
+      "Kod" : 6040713000,
+      "Jednostka terytorialna" : "Powiat sêpoleñski",
+      "pomieszczenia szkolne 2007" : 237,
+      "pomieszczenia szkolne 2008" : 254,
+      "pomieszczenia szkolne 2009" : 253,
+      "pomieszczenia szkolne 2010" : 247,
+      "pomieszczenia szkolne 2011" : 256
+    },
+    {
+      "Kod" : 6040714000,
+      "Jednostka terytorialna" : "Powiat œwiecki",
+      "pomieszczenia szkolne 2007" : 491,
+      "pomieszczenia szkolne 2008" : 503,
+      "pomieszczenia szkolne 2009" : 495,
+      "pomieszczenia szkolne 2010" : 507,
+      "pomieszczenia szkolne 2011" : 509
+    },
+    {
+      "Kod" : 6040716000,
+      "Jednostka terytorialna" : "Powiat tucholski",
+      "pomieszczenia szkolne 2007" : 244,
+      "pomieszczenia szkolne 2008" : 294,
+      "pomieszczenia szkolne 2009" : 268,
+      "pomieszczenia szkolne 2010" : 260,
+      "pomieszczenia szkolne 2011" : 259
+    },
+    {
+      "Kod" : 6040717000,
+      "Jednostka terytorialna" : "Powiat w¹brzeski",
+      "pomieszczenia szkolne 2007" : 203,
+      "pomieszczenia szkolne 2008" : 183,
+      "pomieszczenia szkolne 2009" : 175,
+      "pomieszczenia szkolne 2010" : 171,
+      "pomieszczenia szkolne 2011" : 175
+    },
+    {
+      "Kod" : 6040762000,
+      "Jednostka terytorialna" : "Powiat m.Grudzi¹dz",
+      "pomieszczenia szkolne 2007" : 298,
+      "pomieszczenia szkolne 2008" : 306,
+      "pomieszczenia szkolne 2009" : 303,
+      "pomieszczenia szkolne 2010" : 305,
+      "pomieszczenia szkolne 2011" : 305
+    },
+    {
+      "Kod" : 6040801000,
+      "Jednostka terytorialna" : "Powiat aleksandrowski",
+      "pomieszczenia szkolne 2007" : 305,
+      "pomieszczenia szkolne 2008" : 312,
+      "pomieszczenia szkolne 2009" : 322,
+      "pomieszczenia szkolne 2010" : 322,
+      "pomieszczenia szkolne 2011" : 311
+    },
+    {
+      "Kod" : 6040807000,
+      "Jednostka terytorialna" : "Powiat inowroc³awski",
+      "pomieszczenia szkolne 2007" : 712,
+      "pomieszczenia szkolne 2008" : 716,
+      "pomieszczenia szkolne 2009" : 710,
+      "pomieszczenia szkolne 2010" : 715,
+      "pomieszczenia szkolne 2011" : 722
+    },
+    {
+      "Kod" : 6040808000,
+      "Jednostka terytorialna" : "Powiat lipnowski",
+      "pomieszczenia szkolne 2007" : 387,
+      "pomieszczenia szkolne 2008" : 383,
+      "pomieszczenia szkolne 2009" : 387,
+      "pomieszczenia szkolne 2010" : 383,
+      "pomieszczenia szkolne 2011" : 377
+    },
+    {
+      "Kod" : 6040809000,
+      "Jednostka terytorialna" : "Powiat mogileñski",
+      "pomieszczenia szkolne 2007" : 245,
+      "pomieszczenia szkolne 2008" : 231,
+      "pomieszczenia szkolne 2009" : 226,
+      "pomieszczenia szkolne 2010" : 222,
+      "pomieszczenia szkolne 2011" : 236
+    },
+    {
+      "Kod" : 6040810000,
+      "Jednostka terytorialna" : "Powiat nakielski",
+      "pomieszczenia szkolne 2007" : 417,
+      "pomieszczenia szkolne 2008" : 412,
+      "pomieszczenia szkolne 2009" : 415,
+      "pomieszczenia szkolne 2010" : 420,
+      "pomieszczenia szkolne 2011" : 428
+    },
+    {
+      "Kod" : 6040811000,
+      "Jednostka terytorialna" : "Powiat radziejowski",
+      "pomieszczenia szkolne 2007" : 213,
+      "pomieszczenia szkolne 2008" : 221,
+      "pomieszczenia szkolne 2009" : 221,
+      "pomieszczenia szkolne 2010" : 239,
+      "pomieszczenia szkolne 2011" : 226
+    },
+    {
+      "Kod" : 6040812000,
+      "Jednostka terytorialna" : "Powiat rypiñski",
+      "pomieszczenia szkolne 2007" : 259,
+      "pomieszczenia szkolne 2008" : 268,
+      "pomieszczenia szkolne 2009" : 269,
+      "pomieszczenia szkolne 2010" : 269,
+      "pomieszczenia szkolne 2011" : 276
+    },
+    {
+      "Kod" : 6040818000,
+      "Jednostka terytorialna" : "Powiat w³oc³awski",
+      "pomieszczenia szkolne 2007" : 519,
+      "pomieszczenia szkolne 2008" : 503,
+      "pomieszczenia szkolne 2009" : 520,
+      "pomieszczenia szkolne 2010" : 510,
+      "pomieszczenia szkolne 2011" : 494
+    },
+    {
+      "Kod" : 6040819000,
+      "Jednostka terytorialna" : "Powiat ¿niñski",
+      "pomieszczenia szkolne 2007" : 367,
+      "pomieszczenia szkolne 2008" : 361,
+      "pomieszczenia szkolne 2009" : 374,
+      "pomieszczenia szkolne 2010" : 372,
+      "pomieszczenia szkolne 2011" : 369
+    },
+    {
+      "Kod" : 6040864000,
+      "Jednostka terytorialna" : "Powiat m.W³oc³awek",
+      "pomieszczenia szkolne 2007" : 454,
+      "pomieszczenia szkolne 2008" : 457,
+      "pomieszczenia szkolne 2009" : 449,
+      "pomieszczenia szkolne 2010" : 452,
+      "pomieszczenia szkolne 2011" : 448
+    },
+    {
+      "Kod" : 6220000000,
+      "Jednostka terytorialna" : " POMORSKIE",
+      "pomieszczenia szkolne 2007" : 9388,
+      "pomieszczenia szkolne 2008" : 9606,
+      "pomieszczenia szkolne 2009" : 9661,
+      "pomieszczenia szkolne 2010" : 9570,
+      "pomieszczenia szkolne 2011" : 9726
+    },
+    {
+      "Kod" : 6224004000,
+      "Jednostka terytorialna" : "Powiat gdañski",
+      "pomieszczenia szkolne 2007" : 466,
+      "pomieszczenia szkolne 2008" : 482,
+      "pomieszczenia szkolne 2009" : 476,
+      "pomieszczenia szkolne 2010" : 486,
+      "pomieszczenia szkolne 2011" : 500
+    },
+    {
+      "Kod" : 6224005000,
+      "Jednostka terytorialna" : "Powiat kartuski",
+      "pomieszczenia szkolne 2007" : 674,
+      "pomieszczenia szkolne 2008" : 678,
+      "pomieszczenia szkolne 2009" : 676,
+      "pomieszczenia szkolne 2010" : 703,
+      "pomieszczenia szkolne 2011" : 728
+    },
+    {
+      "Kod" : 6224010000,
+      "Jednostka terytorialna" : "Powiat nowodworski",
+      "pomieszczenia szkolne 2007" : 169,
+      "pomieszczenia szkolne 2008" : 193,
+      "pomieszczenia szkolne 2009" : 188,
+      "pomieszczenia szkolne 2010" : 197,
+      "pomieszczenia szkolne 2011" : 188
+    },
+    {
+      "Kod" : 6224011000,
+      "Jednostka terytorialna" : "Powiat pucki",
+      "pomieszczenia szkolne 2007" : 395,
+      "pomieszczenia szkolne 2008" : 395,
+      "pomieszczenia szkolne 2009" : 402,
+      "pomieszczenia szkolne 2010" : 414,
+      "pomieszczenia szkolne 2011" : 426
+    },
+    {
+      "Kod" : 6224015000,
+      "Jednostka terytorialna" : "Powiat wejherowski",
+      "pomieszczenia szkolne 2007" : 783,
+      "pomieszczenia szkolne 2008" : 792,
+      "pomieszczenia szkolne 2009" : 786,
+      "pomieszczenia szkolne 2010" : 791,
+      "pomieszczenia szkolne 2011" : 821
+    },
+    {
+      "Kod" : 6224101000,
+      "Jednostka terytorialna" : "Powiat bytowski",
+      "pomieszczenia szkolne 2007" : 455,
+      "pomieszczenia szkolne 2008" : 449,
+      "pomieszczenia szkolne 2009" : 447,
+      "pomieszczenia szkolne 2010" : 454,
+      "pomieszczenia szkolne 2011" : 468
+    },
+    {
+      "Kod" : 6224102000,
+      "Jednostka terytorialna" : "Powiat chojnicki",
+      "pomieszczenia szkolne 2007" : 443,
+      "pomieszczenia szkolne 2008" : 429,
+      "pomieszczenia szkolne 2009" : 474,
+      "pomieszczenia szkolne 2010" : 471,
+      "pomieszczenia szkolne 2011" : 480
+    },
+    {
+      "Kod" : 6224103000,
+      "Jednostka terytorialna" : "Powiat cz³uchowski",
+      "pomieszczenia szkolne 2007" : 275,
+      "pomieszczenia szkolne 2008" : 271,
+      "pomieszczenia szkolne 2009" : 279,
+      "pomieszczenia szkolne 2010" : 285,
+      "pomieszczenia szkolne 2011" : 287
+    },
+    {
+      "Kod" : 6224108000,
+      "Jednostka terytorialna" : "Powiat lêborski",
+      "pomieszczenia szkolne 2007" : 285,
+      "pomieszczenia szkolne 2008" : 287,
+      "pomieszczenia szkolne 2009" : 291,
+      "pomieszczenia szkolne 2010" : 284,
+      "pomieszczenia szkolne 2011" : 286
+    },
+    {
+      "Kod" : 6224112000,
+      "Jednostka terytorialna" : "Powiat s³upski",
+      "pomieszczenia szkolne 2007" : 533,
+      "pomieszczenia szkolne 2008" : 553,
+      "pomieszczenia szkolne 2009" : 562,
+      "pomieszczenia szkolne 2010" : 558,
+      "pomieszczenia szkolne 2011" : 554
+    },
+    {
+      "Kod" : 6224163000,
+      "Jednostka terytorialna" : "Powiat m.S³upsk",
+      "pomieszczenia szkolne 2007" : 373,
+      "pomieszczenia szkolne 2008" : 369,
+      "pomieszczenia szkolne 2009" : 369,
+      "pomieszczenia szkolne 2010" : 369,
+      "pomieszczenia szkolne 2011" : 370
+    },
+    {
+      "Kod" : 6224206000,
+      "Jednostka terytorialna" : "Powiat koœcierski",
+      "pomieszczenia szkolne 2007" : 363,
+      "pomieszczenia szkolne 2008" : 373,
+      "pomieszczenia szkolne 2009" : 375,
+      "pomieszczenia szkolne 2010" : 380,
+      "pomieszczenia szkolne 2011" : 384
+    },
+    {
+      "Kod" : 6224207000,
+      "Jednostka terytorialna" : "Powiat kwidzyñski",
+      "pomieszczenia szkolne 2007" : 372,
+      "pomieszczenia szkolne 2008" : 393,
+      "pomieszczenia szkolne 2009" : 377,
+      "pomieszczenia szkolne 2010" : 353,
+      "pomieszczenia szkolne 2011" : 362
+    },
+    {
+      "Kod" : 6224209000,
+      "Jednostka terytorialna" : "Powiat malborski",
+      "pomieszczenia szkolne 2007" : 227,
+      "pomieszczenia szkolne 2008" : 231,
+      "pomieszczenia szkolne 2009" : 229,
+      "pomieszczenia szkolne 2010" : 236,
+      "pomieszczenia szkolne 2011" : 243
+    },
+    {
+      "Kod" : 6224213000,
+      "Jednostka terytorialna" : "Powiat starogardzki",
+      "pomieszczenia szkolne 2007" : 517,
+      "pomieszczenia szkolne 2008" : 548,
+      "pomieszczenia szkolne 2009" : 534,
+      "pomieszczenia szkolne 2010" : 557,
+      "pomieszczenia szkolne 2011" : 565
+    },
+    {
+      "Kod" : 6224214000,
+      "Jednostka terytorialna" : "Powiat tczewski",
+      "pomieszczenia szkolne 2007" : 483,
+      "pomieszczenia szkolne 2008" : 468,
+      "pomieszczenia szkolne 2009" : 499,
+      "pomieszczenia szkolne 2010" : 496,
+      "pomieszczenia szkolne 2011" : 496
+    },
+    {
+      "Kod" : 6224216000,
+      "Jednostka terytorialna" : "Powiat sztumski",
+      "pomieszczenia szkolne 2007" : 198,
+      "pomieszczenia szkolne 2008" : 189,
+      "pomieszczenia szkolne 2009" : 195,
+      "pomieszczenia szkolne 2010" : 197,
+      "pomieszczenia szkolne 2011" : 188
+    },
+    {
+      "Kod" : 6224361000,
+      "Jednostka terytorialna" : "Powiat m.Gdañsk",
+      "pomieszczenia szkolne 2007" : 1444,
+      "pomieszczenia szkolne 2008" : 1558,
+      "pomieszczenia szkolne 2009" : 1550,
+      "pomieszczenia szkolne 2010" : 1436,
+      "pomieszczenia szkolne 2011" : 1459
+    },
+    {
+      "Kod" : 6224362000,
+      "Jednostka terytorialna" : "Powiat m.Gdynia",
+      "pomieszczenia szkolne 2007" : 827,
+      "pomieszczenia szkolne 2008" : 857,
+      "pomieszczenia szkolne 2009" : 859,
+      "pomieszczenia szkolne 2010" : 807,
+      "pomieszczenia szkolne 2011" : 820
+    },
+    {
+      "Kod" : 6224364000,
+      "Jednostka terytorialna" : "Powiat m.Sopot",
+      "pomieszczenia szkolne 2007" : 106,
+      "pomieszczenia szkolne 2008" : 91,
+      "pomieszczenia szkolne 2009" : 93,
+      "pomieszczenia szkolne 2010" : 96,
+      "pomieszczenia szkolne 2011" : 101
+    },
+    {
+      "Kod" : 6280000000,
+      "Jednostka terytorialna" : " WARMIÑSKO-MAZURSKIE",
+      "pomieszczenia szkolne 2007" : 6945,
+      "pomieszczenia szkolne 2008" : 6929,
+      "pomieszczenia szkolne 2009" : 6982,
+      "pomieszczenia szkolne 2010" : 7026,
+      "pomieszczenia szkolne 2011" : 6968
+    },
+    {
+      "Kod" : 6285402000,
+      "Jednostka terytorialna" : "Powiat braniewski",
+      "pomieszczenia szkolne 2007" : 213,
+      "pomieszczenia szkolne 2008" : 227,
+      "pomieszczenia szkolne 2009" : 232,
+      "pomieszczenia szkolne 2010" : 232,
+      "pomieszczenia szkolne 2011" : 220
+    },
+    {
+      "Kod" : 6285403000,
+      "Jednostka terytorialna" : "Powiat dzia³dowski",
+      "pomieszczenia szkolne 2007" : 341,
+      "pomieszczenia szkolne 2008" : 337,
+      "pomieszczenia szkolne 2009" : 357,
+      "pomieszczenia szkolne 2010" : 348,
+      "pomieszczenia szkolne 2011" : 340
+    },
+    {
+      "Kod" : 6285404000,
+      "Jednostka terytorialna" : "Powiat elbl¹ski",
+      "pomieszczenia szkolne 2007" : 280,
+      "pomieszczenia szkolne 2008" : 321,
+      "pomieszczenia szkolne 2009" : 335,
+      "pomieszczenia szkolne 2010" : 330,
+      "pomieszczenia szkolne 2011" : 333
+    },
+    {
+      "Kod" : 6285407000,
+      "Jednostka terytorialna" : "Powiat i³awski",
+      "pomieszczenia szkolne 2007" : 449,
+      "pomieszczenia szkolne 2008" : 439,
+      "pomieszczenia szkolne 2009" : 450,
+      "pomieszczenia szkolne 2010" : 457,
+      "pomieszczenia szkolne 2011" : 460
+    },
+    {
+      "Kod" : 6285412000,
+      "Jednostka terytorialna" : "Powiat nowomiejski",
+      "pomieszczenia szkolne 2007" : 270,
+      "pomieszczenia szkolne 2008" : 261,
+      "pomieszczenia szkolne 2009" : 255,
+      "pomieszczenia szkolne 2010" : 265,
+      "pomieszczenia szkolne 2011" : 264
+    },
+    {
+      "Kod" : 6285415000,
+      "Jednostka terytorialna" : "Powiat ostródzki",
+      "pomieszczenia szkolne 2007" : 561,
+      "pomieszczenia szkolne 2008" : 567,
+      "pomieszczenia szkolne 2009" : 609,
+      "pomieszczenia szkolne 2010" : 605,
+      "pomieszczenia szkolne 2011" : 605
+    },
+    {
+      "Kod" : 6285461000,
+      "Jednostka terytorialna" : "Powiat m.Elbl¹g",
+      "pomieszczenia szkolne 2007" : 415,
+      "pomieszczenia szkolne 2008" : 405,
+      "pomieszczenia szkolne 2009" : 387,
+      "pomieszczenia szkolne 2010" : 390,
+      "pomieszczenia szkolne 2011" : 392
+    },
+    {
+      "Kod" : 6285505000,
+      "Jednostka terytorialna" : "Powiat e³cki",
+      "pomieszczenia szkolne 2007" : 421,
+      "pomieszczenia szkolne 2008" : 400,
+      "pomieszczenia szkolne 2009" : 404,
+      "pomieszczenia szkolne 2010" : 399,
+      "pomieszczenia szkolne 2011" : 408
+    },
+    {
+      "Kod" : 6285506000,
+      "Jednostka terytorialna" : "Powiat gi¿ycki",
+      "pomieszczenia szkolne 2007" : 300,
+      "pomieszczenia szkolne 2008" : 275,
+      "pomieszczenia szkolne 2009" : 267,
+      "pomieszczenia szkolne 2010" : 255,
+      "pomieszczenia szkolne 2011" : 250
+    },
+    {
+      "Kod" : 6285513000,
+      "Jednostka terytorialna" : "Powiat olecki",
+      "pomieszczenia szkolne 2007" : 195,
+      "pomieszczenia szkolne 2008" : 199,
+      "pomieszczenia szkolne 2009" : 201,
+      "pomieszczenia szkolne 2010" : 202,
+      "pomieszczenia szkolne 2011" : 194
+    },
+    {
+      "Kod" : 6285516000,
+      "Jednostka terytorialna" : "Powiat piski",
+      "pomieszczenia szkolne 2007" : 267,
+      "pomieszczenia szkolne 2008" : 292,
+      "pomieszczenia szkolne 2009" : 297,
+      "pomieszczenia szkolne 2010" : 308,
+      "pomieszczenia szkolne 2011" : 274
+    },
+    {
+      "Kod" : 6285518000,
+      "Jednostka terytorialna" : "Powiat go³dapski",
+      "pomieszczenia szkolne 2007" : 199,
+      "pomieszczenia szkolne 2008" : 208,
+      "pomieszczenia szkolne 2009" : 207,
+      "pomieszczenia szkolne 2010" : 209,
+      "pomieszczenia szkolne 2011" : 208
+    },
+    {
+      "Kod" : 6285519000,
+      "Jednostka terytorialna" : "Powiat wêgorzewski",
+      "pomieszczenia szkolne 2007" : 104,
+      "pomieszczenia szkolne 2008" : 103,
+      "pomieszczenia szkolne 2009" : 106,
+      "pomieszczenia szkolne 2010" : 104,
+      "pomieszczenia szkolne 2011" : 94
+    },
+    {
+      "Kod" : 6285601000,
+      "Jednostka terytorialna" : "Powiat bartoszycki",
+      "pomieszczenia szkolne 2007" : 300,
+      "pomieszczenia szkolne 2008" : 324,
+      "pomieszczenia szkolne 2009" : 323,
+      "pomieszczenia szkolne 2010" : 313,
+      "pomieszczenia szkolne 2011" : 319
+    },
+    {
+      "Kod" : 6285608000,
+      "Jednostka terytorialna" : "Powiat kêtrzyñski",
+      "pomieszczenia szkolne 2007" : 323,
+      "pomieszczenia szkolne 2008" : 286,
+      "pomieszczenia szkolne 2009" : 286,
+      "pomieszczenia szkolne 2010" : 283,
+      "pomieszczenia szkolne 2011" : 296
+    },
+    {
+      "Kod" : 6285609000,
+      "Jednostka terytorialna" : "Powiat lidzbarski",
+      "pomieszczenia szkolne 2007" : 200,
+      "pomieszczenia szkolne 2008" : 206,
+      "pomieszczenia szkolne 2009" : 205,
+      "pomieszczenia szkolne 2010" : 204,
+      "pomieszczenia szkolne 2011" : 200
+    },
+    {
+      "Kod" : 6285610000,
+      "Jednostka terytorialna" : "Powiat mr¹gowski",
+      "pomieszczenia szkolne 2007" : 276,
+      "pomieszczenia szkolne 2008" : 274,
+      "pomieszczenia szkolne 2009" : 274,
+      "pomieszczenia szkolne 2010" : 283,
+      "pomieszczenia szkolne 2011" : 282
+    },
+    {
+      "Kod" : 6285611000,
+      "Jednostka terytorialna" : "Powiat nidzicki",
+      "pomieszczenia szkolne 2007" : 185,
+      "pomieszczenia szkolne 2008" : 186,
+      "pomieszczenia szkolne 2009" : 190,
+      "pomieszczenia szkolne 2010" : 196,
+      "pomieszczenia szkolne 2011" : 214
+    },
+    {
+      "Kod" : 6285614000,
+      "Jednostka terytorialna" : "Powiat olsztyñski",
+      "pomieszczenia szkolne 2007" : 670,
+      "pomieszczenia szkolne 2008" : 637,
+      "pomieszczenia szkolne 2009" : 657,
+      "pomieszczenia szkolne 2010" : 686,
+      "pomieszczenia szkolne 2011" : 665
+    },
+    {
+      "Kod" : 6285617000,
+      "Jednostka terytorialna" : "Powiat szczycieñski",
+      "pomieszczenia szkolne 2007" : 379,
+      "pomieszczenia szkolne 2008" : 370,
+      "pomieszczenia szkolne 2009" : 368,
+      "pomieszczenia szkolne 2010" : 382,
+      "pomieszczenia szkolne 2011" : 369
+    },
+    {
+      "Kod" : 6285662000,
+      "Jednostka terytorialna" : "Powiat m.Olsztyn",
+      "pomieszczenia szkolne 2007" : 597,
+      "pomieszczenia szkolne 2008" : 612,
+      "pomieszczenia szkolne 2009" : 572,
+      "pomieszczenia szkolne 2010" : 575,
+      "pomieszczenia szkolne 2011" : 581
+    }
+  ]
+}
