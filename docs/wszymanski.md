@@ -1,4 +1,5 @@
 # Wypadki drogowe na polskich drogach w latach 2000 - 2011.
+### *Wojciech Szymański*
 
 ## Źródło danych
 
