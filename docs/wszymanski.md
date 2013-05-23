@@ -64,6 +64,12 @@ http://www.stat.gov.pl/bdl/app/strona.html?p_name=indeks (Główny Urząd Statys
     }
 ```
 
+## Diagramy wykonane przy użyciu Google Chart Tools
+
+![google_chart1](../images/ws_diag1.png)
+
+![google_chart2](../images/ws_diag2.png)
+
 ## Przykład agregacji:
 
 ```js
