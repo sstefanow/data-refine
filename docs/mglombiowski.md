@@ -10,7 +10,7 @@ Dane to kody-pocztowe gmin.
 
 
 Skrypt php wykorzystuje api strony sejmometr.pl, po zarejestrowaniu sie na stronie, pobraniu kluczy sciagamy biblioteke do api (folder ep_API), osadzamy klucze. Po zalaczeniu biblioteki do skryptu mozemy juz korzystac z wszystkich funkcjonalnosci udostepnianych przez sejmometr.
-[(Skrypt do wgladu)](php/zips-mglombiowski.php)
+[(Skrypt do wgladu)](../php/zips-mglombiowski.php)
 
 ----
 
@@ -34,7 +34,7 @@ kod,kod_int,liczba_gmin,wojewodztwo_id,liczba_powiatow,gminy,wojewodztwo,miejsco
 00-008,8,1,7,1,Warszawa,mazowieckie,Warszawa (Sródmiescie)
 ```
 
-[Pelna wersja CSV](data/csv/zip_codes-mglombiowski.csv)
+[Pelna wersja CSV](../data/csv/zip_codes-mglombiowski.csv)
 
 ----
 
@@ -166,7 +166,7 @@ http://chart.googleapis.com/chart
 
 
 
-![Wykres](/images/mglombiowski/chart.png)
+![Wykres](../images/mglombiowski/chart.png)
 
 ----
 
@@ -365,4 +365,4 @@ Gdansk: (598/1248)~=0,48
 ```
 
 ####Wykres
-![Wykres](/images/mglombiowski/chart2.png)
+![Wykres](../images/mglombiowski/chart2.png)
