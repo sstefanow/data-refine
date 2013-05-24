@@ -10,7 +10,7 @@ Dane to kody-pocztowe gmin.
 
 
 Skrypt php wykorzystuje api strony sejmometr.pl, po zarejestrowaniu sie na stronie, pobraniu kluczy sciagamy biblioteke do api (folder ep_API), osadzamy klucze. Po zalaczeniu biblioteki do skryptu mozemy juz korzystac z wszystkich funkcjonalnosci udostepnianych przez sejmometr.
-[(Skrypt do wgladu)](../php/zips-mglombiowski.php)
+[(Skrypt do wgladu)](../scripts/php/zips-mglombiowski.php)
 
 ----
 
