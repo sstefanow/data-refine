@@ -56,7 +56,42 @@ public List<String> GetTransfersData(string htmlDocument)
 
 ## Przykładowe rekordy:
 ```json
-   
+       {
+      "Type" : "Italian Serie A",
+      "Years" : "2012-2013",
+      "Player" : "Thomas HeurtauxDefender",
+      "Country" : "France",
+      "To" : "Udinese",
+      "From" : "Caen",
+      "Price" : "2000000"
+    },
+    {
+      "Type" : "Italian Serie A",
+      "Years" : "2012-2013",
+      "Player" : "Andrea LazzariMidfielder",
+      "Country" : "Italy",
+      "To" : "Udinese",
+      "From" : "Fiorentina",
+      "Price" : "Loan"
+    },    
+	{
+      "Type" : "English Premier League",
+      "Years" : "2012-2013",
+      "Player" : "Michael OwenAttacker",
+      "Country" : "England",
+      "To" : "Stoke",
+      "From" : "Manchester Utd",
+      "Price" : "Free"
+    },
+    {
+      "Type" : "English Premier League",
+      "Years" : "2012-2013",
+      "Player" : "Brek Shea Goalkeeper",
+      "Country" : "USA",
+      "To" : "Stoke",
+      "From" : "FC Dallas",
+      "Price" : "2900000"
+    }
 ```
 * Oczyszczone Dane:
 
