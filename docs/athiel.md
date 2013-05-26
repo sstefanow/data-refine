@@ -71,19 +71,9 @@ coll.aggregate(
 }
 ```
 
-[wykres](http://chart.googleapis.com/chart
-   ?chxr=0,0,15000000
-   &chxt=x
-   &chbh=a
-   &chs=540x220
-   &cht=bhg
-   &chco=4D89F9,A2C180,3D7930,FF9900,BBCCED,7777CC
-   &chds=-5,15000000,0,15000000,0,15000000,0,15000000,0,15000000,0,15000000
-   &chd=t:11881643|10847115|9295297|12937926|7730188|11430602
-   &chdl=PA|OH|MI|FL|NJ|IL
-   &chtt=Stany+z+populacja+wieksza+niz+7000000+i+mniejsza+niz+15000000)
+[wykres](http://chart.googleapis.com/chart?chxr=0,0,15000000&chxt=x&chbh=a&chs=540x220&cht=bhg&chco=4D89F9,A2C180,3D7930,FF9900,BBCCED,7777CC&chds=-5,15000000,0,15000000,0,15000000,0,15000000,0,15000000,0,15000000&chd=t:11881643|10847115|9295297|12937926|7730188|11430602&chdl=PA|OH|MI|FL|NJ|IL&chtt=Stany+z+populacja+wieksza+niz+7000000+i+mniejsza+niz+15000000)
    
-![1. agregacja - wykres](https://raw.github.com/nosql/data-refine/master/images/wykres1.png)
+![1. agregacja - wykres](https://raw.github.com/andrzejthiel/data-refine/master/images/wykres1.png)
 
 
 ###Pięć miast z najwiekszą populacją:
@@ -138,19 +128,9 @@ coll.aggregate(
         "ok" : 1
 }
 ```
-[wykres](http://chart.googleapis.com/chart
-   ?chxr=0,0,2600000
-   &chxt=y
-   &chbh=a
-   &chs=400x325
-   &cht=bvg
-   &chco=A2C180|3D7930|FF9900|BBCCED|7777CC
-   &chdl=IL CHICAGO|NY BROOKLYN|CA LOS ANGELES|TX HOUSTON|PA PHILADELPHIA
-   &chds=0,2500000
-   &chd=t:2452177,2300504,2102295,2095918,1610956|50,60,100,40,20,40,30 
-   &chtt=Pięć+miast+z+największą+populacją)
+[wykres](http://chart.googleapis.com/chart?chxr=0,0,2600000&chxt=y&chbh=a&chs=400x325&cht=bvg&chco=A2C180|3D7930|FF9900|BBCCED|7777CC&chdl=IL%CHICAGO|NY%BROOKLYN|CA%LOS%ANGELES|TX%HOUSTON|PA%PHILADELPHIA&chds=0,2500000&chd=t:2452177,2300504,2102295,2095918,1610956|50,60,100,40,20,40,30&chtt=Pięć+miast+z+największą+populacją)
    
-![2. agregacja - wykres](https://raw.github.com/nosql/data-refine/master/images/wykres2.png)
+![2. agregacja - wykres](https://raw.github.com/andrzejthiel/data-refine/master/images/wykres2png)
 
 ###Trzy stany z najmnejszą srednią populacją i sumą populacji wiekszą wiekszą niz 600000
 
@@ -186,7 +166,7 @@ coll.aggregate(
         "ok" : 1
 }
 ```
-[wykres](http://chart.apis.google.com/chart?chs=600x200&cht=p&chd=t:1629.591836734694,1826.7821522309712,2585.970873786408&chl=ND%201629.591836734694|SD%201826.7821522309712|MT%202585.970873786408   &chtt=Trzy+stany+z+najmnejsza+srednia+populacja+i+sumą populacji+wiekszą+wieksza+niz+600000)
+[wykres](http://chart.apis.google.com/chart?chs=600x200&cht=p&chd=t:1629.591836734694,1826.7821522309712,2585.970873786408&chl=ND%201629.591836734694|SD%201826.7821522309712|MT%202585.970873786408&chtt=Trzy+stany+z+najmnejsza+srednia+populacja+i+sumą+populacji+wiekszą+wieksza+niz+600000)
 
-![3. agregacja - wykres](https://raw.github.com/nosql/data-refine/master/images/wykres3.png)
+![3. agregacja - wykres](https://raw.github.com/andrzejthiel/data-refine/master/images/wykres1.png)
 
