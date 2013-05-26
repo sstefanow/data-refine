@@ -1,0 +1,765 @@
+L. Centi
+
+Ascoli
+Atalanta
+n/a
+M. Melara
+
+Ascoli
+Torino
+n/a
+S. Lombardi
+
+Ascoli
+Arezzo
+n/a
+L. Di Biagio
+
+Ascoli
+Brescia
+Free
+Langella
+
+Atalanta
+Cagliari
+n/a
+Inzaghi
+
+Atalanta
+Lazio
+Loan
+Costinha
+
+Atalanta
+Atletico Madrid
+n/a
+Belleri
+
+Atalanta
+Lazio
+Loan
+I. Radovanovic
+
+Atlanta
+FK Smederevo
+n/a
+Biondini
+
+Cagliari
+Reggina
+n/a
+Jeda
+
+Cagliari
+Rimini
+n/a
+D'Agostino
+
+Cagliari
+Atalanta
+Loan
+D. Marchini
+
+Cagliari
+Triestina
+Loan
+V. Spadavecchia
+
+Catania
+Pescara Calcio
+n/a
+Tedesco
+
+Catania
+Reggina
+n/a
+Babu
+
+Catania
+Lecce
+n/a
+Edusei
+
+Catania
+Sampdoria
+n/a
+E. Bogdani
+
+Chievo Verona
+Siena
+n/a
+V. Italiano
+
+Chievo Verona
+Verona
+n/a
+C. Prates
+
+Chievo Verona
+Livorno
+n/a
+Piccolo
+
+Empoli
+Juventus
+n/a
+Paro
+
+Empoli
+Juventus
+n/a (50%)
+Volpato
+
+Empoli
+Juventus
+n/a (50%)
+Marchisio
+
+Empoli
+Juventus
+Loan
+Giovinco
+
+Empoli
+Juventus
+Loan
+Semioli
+
+Fiorentina
+Chievo
+5500000
+Vanden Borre
+
+Fiorentina
+Anderlecht
+n/a
+Z. Kuzmanovic
+
+Fiorentina
+Basel
+3000000
+P. D. Osvaldo
+
+Fiorentina
+Atlanta
+3000000
+Vieri
+
+Fiorentina
+Atalanta
+Free
+Hable
+
+Fiorentina
+Hradec
+n/a
+Balzatetti
+
+Fiorentina
+Juventus
+n/a
+Mazuch
+
+Fiorentina
+Brno
+n/a
+Cacia
+
+Fiorentina
+Piacenza
+n/a
+Cigarini
+
+Fiorentina
+Parma
+Free
+A. Lucarelli
+
+Genoa
+Siena
+n/a
+N. Rivas
+
+Inter
+River Plate
+n/a
+Pele
+
+Inter
+Vitoria
+n/a
+Maniche
+
+Inter
+Atletico Madrid
+Loan
+Crespo
+
+Inter
+Chelsea
+Loan
+C. Chivu
+
+Inter
+Roma
+13000000
+L. Jimenez
+
+Inter
+Lazio
+n/a
+D. Suazo
+
+Inter
+Cagliari
+14000000
+Salihamidzic
+
+Juventus
+Bayern Munich
+Free
+Tiago
+
+Juventus
+Lyon
+13000000
+Z. Grygera
+
+Juventus
+Ajax
+Free
+S.B. Almiron
+
+Juventus
+Empoli
+9000000
+V. Iaquinta
+
+Juventus
+Udinese
+11300000
+O. Mellberg
+
+Juventus
+Aston Villa
+Free
+G. Stendardo
+
+Juventus
+Lazio
+Loan
+M. Sissoko
+
+Juventus
+Liverpool
+11000000
+J. Andrade
+
+Juventus
+D. La Coruna
+10000000
+Molinaro
+
+Juventus
+Siena
+n/a
+Nocerino
+
+Juventus
+Piacenza
+3700000
+O. Dabo
+
+Lazio
+Manchester C.
+n/a
+S. Del Nero
+
+Lazio
+Brescia
+Free
+M. Meghni
+
+Lazio
+Bologna
+n/a
+R. Bianchi
+
+Lazio
+Manchester C.
+Loan
+L. Scaloni
+
+Lazio
+R. Santander
+Free
+J. P. Carrizo
+
+Lazio
+River Plate
+3400000
+A. Kolarov
+
+Lazio
+Ofk Belgrade
+n/a
+David Rozehnal
+
+Lazio
+Newcastle
+Loan
+Loviso
+
+Livorno
+Bologna
+n/a
+M. Bergvold
+
+Livorno
+Kobenhavn
+n/a
+Tavano
+
+Livorno
+Roma
+6000000
+Tristain
+
+Livorno
+Mallorca
+n/a
+Giannichedda
+
+Livorno
+Juventus
+n/a
+Rossini
+
+Livorno
+Catania
+n/a
+De Vezze
+
+Livorno
+Palermo
+n/a
+Bogdani
+
+Livorno
+Chievo
+Loan
+Alvarez
+
+Livorno
+Roma
+Loan
+Filippini
+
+Livorno
+Bologna
+n/a
+C. Coppola
+
+Livorno
+Messina
+Loan
+D. Tristan
+
+Livorno
+Mallorca
+Free
+De Lucia
+
+Livorno
+Parma
+Free
+V. Candela
+
+Messina
+Siena
+n/a
+I. Bakayoko
+
+Messina
+Livorno
+n/a
+G. Paoletti
+
+Messina
+Udinese
+n/a
+M. Storari
+
+Milan
+Messina
+n/a
+Novinic
+
+Milan
+Nafta
+n/a
+L. Grimi
+
+Milan
+R C Avellaneda
+2000000
+Ronaldo
+
+Milan
+Real Madrid
+7500000
+A. Pato
+
+Milan
+Internacional
+14500000
+Emerson
+
+Milan
+Real Madrid
+5000000
+Antonini
+
+Milan
+Sampdoria
+n/a
+Ba
+
+Milan
+Varese
+Free
+M. Pazienza
+
+Napoli
+Fiorentina
+4500000
+M. Zalayeta
+
+Napoli
+Juventus
+n/a
+M. Blasi
+
+Napoli
+Juventus
+n/a
+Hamsyk
+
+Napoli
+Brescia
+6000000
+Gargano
+
+Napoli
+Danubio
+3000000
+Miccoli
+
+Palermo
+Juventus
+4300000
+Migliaccio
+
+Palermo
+Atalanta
+n/a
+Matteini
+
+Palermo
+Empoli
+n/a
+Ujkani
+
+Palermo
+Anderlecht
+n/a
+R. Matusiak
+
+Palermo
+Belchatow
+2000000
+Jankovic
+
+Palermo
+Mallorca
+n/a
+Caserta
+
+Palermo
+Catania
+n/a
+E. Cavani
+
+Palermo
+Danubio
+5000000
+G. Giacomazzi
+
+Palermo
+Lecce
+Free
+Morrone
+
+Parma
+Livorno
+Free
+Reginaldo
+
+Parma
+Fiorentina
+4500000
+Mariga
+
+Parma
+Helsingborgs
+Loan
+C. Lucarelli
+
+Parma
+Shakhtar D.
+5300000
+A. Perna
+
+Parma
+Modena
+n/a
+M. Rinaldi
+
+Parma
+Udinese
+n/a
+B. Corradi
+
+Parma
+Manchester C.
+Loan
+P. Foggia
+
+Reggina
+Lazio
+Loan
+S. Makinwa
+
+Reggina
+Lazio
+n/a
+N. Novakovic
+
+Reggina
+Odense
+n/a
+Bianco
+
+Reggina
+Catania
+n/a
+Montiel
+
+Reggina
+Udinese
+Loan
+C. Puggioni
+
+Reggina
+Pisa Calcio
+n/a
+L. Vigiani
+
+Reggina
+Livorno
+n/a
+M. Esposito
+
+Roma
+Cagliari
+2,500,000 (50%)
+L. Giuly
+
+Roma
+Barcelona
+3200000
+Pit
+
+Roma
+Bellinzona
+Free
+Vucinic
+
+Roma
+Lecce
+7500000
+Juan
+
+Roma
+B. Leverkusen
+6300000
+Pizarro
+
+Roma
+Inter
+5750000
+Andreolli
+
+Roma
+Inter
+Free
+F. Tavano
+
+Roma
+Valencia
+Loan
+Barusso
+
+Roma
+Rimini
+1700000
+Atunes
+
+Roma
+Pacos Ferreira
+Loan
+Brighi
+
+Roma
+Chievo
+n/a
+Cicinho
+
+Roma
+Real Madrid
+8900000
+Lucchini
+
+Sampdoria
+Empoli
+Free
+Mirante
+
+Sampdoria
+Juventus
+Loan
+R. Ziegler
+
+Sampdoria
+Tottenham Hotspur
+Loan
+Gastaldello
+
+Sampdoria
+Juventus
+Loan
+Montella
+
+Sampdoria
+Roma
+Loan
+Campagnaro
+
+Sampdoria
+Piacenza
+n/a
+C. Zotti
+
+Sampdoria
+Roma
+Loan
+Cassano
+
+Sampdoria
+Real Madrid
+Loan
+Caracciolo
+
+Sampdoria
+Palermo
+n/a (50%)
+A. Cassano
+
+Sampdoria
+Real Madrid
+Loan
+R. Eremenko
+
+Siena
+Udinese
+n/a
+F. Benussi
+
+Siena
+Lecce
+Loan
+M. Maccarone
+
+Siena
+Middlesbrough
+Free
+V. Grella
+
+Torino
+Parma
+Free
+Ventola
+
+Torino
+Atalanta
+n/a
+Zanetti
+
+Torino
+Ascoli
+n/a
+M. Pisano
+
+Torino
+Palermo
+Loan
+Sereni
+
+Torino
+Lazio
+Free
+Di Michele
+
+Torino
+Palermo
+n/a
+Aimo Diano
+
+Torino
+Palermo
+n/a
+A. Recoba
+
+Torino
+Inter
+Loan
+Bjelanovic
+
+Torino
+Ascoli
+n/a
+Corini
+
+Torino
+Palermo
+Free
+T. Sivok
+
+Udinese
+Sparta Prague
+n/a
+Mesto
+
+Udinese
+Reggina
+4700000
+F. Quagliarella
+
+Udinese
+Sampdoria
+7,400,000 (50%)
+Inler
+
+Udinese
+Zurich
+n/a

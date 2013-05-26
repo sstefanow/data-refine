@@ -9,10 +9,14 @@ http://www.soccernews.com/soccer-transfers/
 ## Co zrobiłem?
 
 1. Stworzono aplikację w języku C# (.NET framework) do pobierania listy transferów w formie przystępnej dla GoogleRefine (linijka w linijkę).
-1. Import plików do GoogleRefine (16 plików jednocześnie) 
+1. Import plików do GoogleRefine (scalenie danych z 16 plików jednocześnie).
 1. Oczyszczenie oraz segregacja danych do odpowiednich kolumn za pomocą narzędzia GoogleRefine.
 1. Edycja kolumny z nazwami plików przy pomocy narzędzi GoogleRefine, tak aby zamiast kolumny z nazwą pliku utworzyć 2 kolumny - ligę oraz lata transferu (użycie 'facet', 'split column' oraz wyrażeń regularnych).
 1. Ujednolicenie danych z kolumny "Price", tak aby każdy wpis z kwota byl formatu numerycznego.
+
+### Screen z aplikacji, którą stworzyłem:
+
+![](../images/lkepinsk/transfers-data-download-screen.png)
 
 ###Metoda 'wyciągająca' dane:
 

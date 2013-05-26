@@ -1,0 +1,325 @@
+S. Kuffour
+
+Ajax
+Roma
+Free
+I. Urzaiz
+
+Ajax
+A. Bilbao
+Free
+D. Rommedahl
+
+Ajax
+Charlton
+1000000
+Albert Luque
+
+Ajax
+Newcastle
+n/a
+R. Kovac
+
+B. Dortmund
+Juventus
+n/a
+R. Faty
+
+B. Leverkusen
+Roma
+Loan
+Tim Borowski
+
+Bayern Munich
+W. Bremen
+n/a
+M. Klose
+
+Bayern Munich
+W. Bremen
+15000000
+Ze Roberto
+
+Bayern Munich
+Santos
+n/a
+J. Ernesto Sosa
+
+Bayern Munich
+Estudiantes
+10000000
+L. Toni
+
+Bayern Munich
+Fiorentina
+13000000
+Frank Ribery
+
+Bayern Munich
+Marseille
+25000000
+Breno
+
+Bayern Munich
+Sao Paulo
+12300000
+Luis Filipe
+
+Benfica
+Braga
+1500000
+F. Adu
+
+Benfica
+R. Salt Lake
+n/a
+M. Donati
+
+Celtic
+Milan
+4500000
+L. Santonocito
+
+Celtic
+Inter
+n/a
+B. Hutchinson
+
+Celtic
+Middlesbrough
+330000
+K. Mizuno
+
+Celtic
+JEF United
+Free
+G. Samaras
+
+Celtic
+Manchester C.
+Loan
+M. Fenin
+
+Ein. Frankfurt
+FK Teplice
+4500000
+Maxi Lopez
+
+FC Moscow
+Barcelona
+2000000
+R. Carlos
+
+Fenerbache
+Real Madrid
+n/a
+N. Sahin
+
+Feyenoord
+B. Dortmund
+Loan
+T. Linderoth
+
+Galatasaray
+Copenhagen
+n/a
+A. Barusso
+
+Galatasaray
+Roma
+Loan
+Lincoln
+
+Galatasaray
+Schalke 04
+5000000
+Odjidja-Ofoe
+
+Hamburg
+Anderlecht
+n/a
+R. Castelen
+
+Hamburg SV
+Feyenoord
+3000000
+Anton Putsilo
+
+Hamburg SV
+Dyn. Moscow
+Loan
+Ivica Olic
+
+Hamburg SV
+CSKA Moscow
+2000000
+F. Screpis
+
+Hearts
+Pescara
+n/a
+D. Giminez
+
+Hearts
+N. Chicago
+n/a
+Antonio Geder
+
+Le Mans
+Spart. Moscow
+n/a
+Marc Crosas
+
+Lyon
+Barcelona
+Loan
+J-A Boumsong
+
+Lyon
+Juventus
+n/a
+F. Grosso
+
+Lyon
+Inter
+n/a
+C. Anderson
+
+Lyon
+Benfica
+4000000
+M. Zidan
+
+Mainz
+W Bremen
+2500000
+L. Bonnart
+
+Marseille
+Le Mans
+n/a
+G. Givet
+
+Marseille
+Monaco
+n/a
+D. Cisse
+
+Marseille
+Liverpool
+n/a
+B. Cheyrou
+
+Marseille
+Auxerre
+n/a
+B. Zenden
+
+Marseille
+Liverpool
+Free
+J. D. Job
+
+Nice
+Sedan
+n/a
+T. L. Lua Lua
+
+Olympiakos
+Portsmouth
+n/a
+D. Kovacevic
+
+Olympiakos
+R. Sociedad
+n/a
+Z. Camara
+
+Paris SG
+St Etienne
+6000000
+R. Carroll
+
+Rangers
+West Ham
+Free
+N. Alexander
+
+Rangers
+Ipswich
+n/a
+S. Naismith
+
+Rangers
+Kilmarnock
+n/a
+Amdy Faye
+
+Rangers
+Charlton
+Loan
+D. Beasley
+
+Rangers
+PSV
+n/a
+C. Cuellar
+
+Rangers
+Osasuna
+n/a
+C. Dailly
+
+Rangers
+West Ham
+Loan
+S. Wiltord
+
+Rennes
+Lyon
+1500000
+I. Rakitic
+
+Shalke
+FC Basel
+n/a
+M. Lopez
+
+Sporting Lisbon
+Barcelona
+Loan
+F. Sebo
+
+Valenciennes
+Rangers
+Loan
+J. Lastuvka
+
+Vfl Bochum
+S. Donetsk
+Loan
+M. Pfertzel
+
+Vfl Bochum
+Livorno
+500000
+M. Concha
+
+Vfl Bochum
+Djurgarden
+n/a
+R. Costa
+
+Wolfsburg
+Porto
+4000000
+Grafite
+
+Wolfsburg
+Le Mans
+8000000
+Marcelinho
+
+Wolfsburg
+Trabzonspor
+2750000
