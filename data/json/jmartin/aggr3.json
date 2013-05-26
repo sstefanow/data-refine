@@ -1,0 +1,25 @@
+{
+        "result" : [
+                {
+                        "_id" : "catholic",
+                        "count" : 1786364
+                },
+                {
+                        "_id" : "methodist",
+                        "count" : 690246
+                },
+                {
+                        "_id" : "presbyterian",
+                        "count" : 633761
+                },
+                {
+                        "_id" : "the church of england",
+                        "count" : 532523
+                },
+                {
+                        "_id" : "baptist",
+                        "count" : 269764
+                }
+        ],
+        "ok" : 1
+}

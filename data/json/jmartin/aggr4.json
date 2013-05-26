@@ -1,0 +1,74 @@
+{
+        "result" : [
+                {
+                        "location" : [
+                                18.5716565,
+                                54.4030471
+                        ],
+                        "tags" : {
+                                "opening_hours" : "Mo-Fr 07:30-22:00; Sa 08:00-22:00",
+                                "amenity" : "restaurant"
+                        },
+                        "distance" : 0.007574554657535758
+                },
+                {
+                        "location" : [
+                                18.6070039,
+                                54.3808497
+                        ],
+                        "tags" : {
+                                "name" : "Greenway",
+                                "amenity" : "restaurant"
+                        },
+                        "distance" : 0.036549064295820215
+                },
+                {
+                        "location" : [
+                                18.5789614,
+                                54.3594773
+                        ],
+                        "tags" : {
+                                "name" : "Krokodyl",
+                                "amenity" : "restaurant"
+                        },
+                        "distance" : 0.036645770075822544
+                },
+                {
+                        "location" : [
+                                18.6064784,
+                                54.3779611
+                        ],
+                        "tags" : {
+                                "name" : "\"Nigri Olimp\" Sushi Bar",
+                                "cuisine" : "sushi",
+                                "amenity" : "restaurant",
+                                "addr:street" : "Aleja Grunwaldzka",
+                                "addr:housenumber" : "92-98",
+                                "addr:city" : "GdaĹ
+                                                   sk"
+                        },
+                        "distance" : 0.03735435594104223
+                },
+                {
+                        "location" : [
+                                18.6069796,
+                                54.3775886
+                        ],
+                        "tags" : {
+                                "website" : "http://www.sphinx.pl/",
+                                "opening_hours" : "Mo-Sa 09:00-21:00; Su 10:00-20:00",
+                                "addr:city" : "GdaĹ
+                                                   sk",
+                                "addr:housenumber" : "82",
+                                "addr:street" : "Aleja Grunwaldzka",
+                                "amenity" : "restaurant",
+                                "contact:email" : "gdansk.manhattan@sphinx.pl",
+                                "contact:phone" : "665 858 011",
+                                "cuisine" : "international",
+                                "name" : "Sphinx"
+                        },
+                        "distance" : 0.03797252218802295
+                }
+        ],
+        "ok" : 1
+}
