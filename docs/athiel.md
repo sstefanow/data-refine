@@ -130,7 +130,7 @@ coll.aggregate(
 ```
 [wykres](http://chart.googleapis.com/chart?chxr=0,0,2600000&chxt=y&chbh=a&chs=400x325&cht=bvg&chco=A2C180|3D7930|FF9900|BBCCED|7777CC&chdl=IL%CHICAGO|NY%BROOKLYN|CA%LOS%ANGELES|TX%HOUSTON|PA%PHILADELPHIA&chds=0,2500000&chd=t:2452177,2300504,2102295,2095918,1610956|50,60,100,40,20,40,30&chtt=Pięć+miast+z+największą+populacją)
    
-![2. agregacja - wykres](https://raw.github.com/andrzejthiel/data-refine/master/images/wykres2png)
+![2. agregacja - wykres](https://raw.github.com/andrzejthiel/data-refine/master/images/wykres2.png)
 
 ###Trzy stany z najmnejszą srednią populacją i sumą populacji wiekszą wiekszą niz 600000
 
