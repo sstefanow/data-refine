@@ -1,6 +1,6 @@
 # Transfery zawodników piłki nożnej w latach 2007-2013
 
-### *Łukasz Kępiński*
+#### Autor: *Łukasz Kępiński*
 
 ##Źródło danych: 
 
@@ -9,8 +9,12 @@ http://www.soccernews.com/soccer-transfers/
 ## Co zrobiłem?
 
 1. Stworzono aplikację w języku C# (.NET framework) do pobierania listy transferów w formie przystępnej dla GoogleRefine (linijka w linijkę).
+1. Import plików do GoogleRefine (16 plików jednocześnie) 
+1. Oczyszczenie oraz segregacja danych do odpowiednich kolumn za pomocą narzędzia GoogleRefine.
+1. Edycja kolumny z nazwami plików przy pomocy narzędzi GoogleRefine, tak aby zamiast kolumny z nazwą pliku utworzyć 2 kolumny - ligę oraz lata transferu (użycie 'facet', 'split column' oraz wyrażeń regularnych).
+1. Ujednolicenie danych z kolumny "Price", tak aby każdy wpis z kwota byl formatu numerycznego.
 
-Metoda 'wyciągająca' dane: 
+###Metoda 'wyciągająca' dane:
 
 ```java
 /// <summary>
@@ -46,16 +50,10 @@ public List<String> GetTransfersData(string htmlDocument)
 }
 ```
 
-2. Import plików do GoogleRefine (16 plików jednocześnie) 
-3. Oczyszczenie oraz segregacja danych do odpowiednich kolumn za pomocą narzędzia GoogleRefine.
-4. Edycja kolumny z nazwami plików przy pomocy narzędzi GoogleRefine, tak aby zamiast kolumny z nazwą pliku utworzyć 2 kolumny - ligę oraz lata transferu (użycie 'facet', 'split column' oraz wyrażeń regularnych).
-5. Ujednolicenie danych z kolumny "Price", tak aby każdy wpis z kwota byl formatu numerycznego.
-
 ## Przykładowe rekordy:
 ```json
    
 ```
 * Oczyszczone Dane:
-
 
 #Agregacje
