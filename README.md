@@ -89,6 +89,7 @@ db.census1881.findOne()
 1. Wojciech Szymański, [Wypadki drogowe] (docs/wszymanski.md).
 1. Adam Szuliński, [Agregacje] (docs/aszulinski.md).
 1. Maciej Młynarski, [Zawodnicy UFC] (docs/mmlynarski.md).
+1. Łukasz Kępiński, [Transfery zawodników] (docs/lkepinsk.md).
 
 ## Ściąga z Gita
 

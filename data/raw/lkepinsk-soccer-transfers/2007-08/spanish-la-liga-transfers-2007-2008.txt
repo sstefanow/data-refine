@@ -1,0 +1,535 @@
+Natalio
+
+Almeria
+Castellon
+n/a
+A.L. Rekarte
+
+Almeria
+R. Sociedad
+n/a
+J. Ortiz
+
+Almeria
+P. Ejido
+n/a
+F. Melo
+
+Almeria
+R. Santander
+n/a
+Dos Santos
+
+Almeria
+Bayern Munich
+Loan
+G. Iraizoz
+
+Athletic Bilbao
+Espanyol
+4600000
+Del Horno
+
+Athletic Bilbao
+Valencia
+Loan
+D. Lopez
+
+Athletic Bilbao
+Osasuna
+8000000
+L. Garcia
+
+Atletico Madrid
+Liverpool
+6000000
+S. Sabrosa
+
+Atletico Madrid
+Benfica
+20000000
+Simao
+
+Atletico Madrid
+Benfica
+20000000
+T. Motta
+
+Atletico Madrid
+Barcelona
+2000000
+J. A. Reyes
+
+Atletico Madrid
+Arsenal
+10000000
+Garcia R
+
+Atletico Madrid
+Osasuna
+13000000
+Diego
+
+Atletico Madrid
+Braga
+3000000
+C. Abbiati
+
+Atletico Madrid
+Milan
+Loan
+C. Santana
+
+Atletico Madrid
+Santos
+n/a
+D. Forlan
+
+Atletico Madrid
+Villarreal
+21000000
+Y. Toure
+
+Barcelona
+Monaco
+9000000
+T. Henry
+
+Barcelona
+Arsenal
+23800000
+G. Milito
+
+Barcelona
+Real Zaragoza
+22400000
+JM Pinto
+
+Barcelona
+Celta Vigo
+Loan
+E. Abidal
+
+Barcelona
+Lyon
+15000000
+Vargas
+
+Betis
+PSG
+Loan
+Samoza
+
+Betis
+Villarreal
+Loan
+Areias
+
+Celta Vigo
+Porto
+Loan
+Guardado
+
+Deportivo
+Atlas
+7000000
+C. Wilhelmsson
+
+Deportivo
+Nantes
+Loan
+Chica
+
+Espanyol
+Junior Teams
+n/a
+Pallardo
+
+Getafe
+Valencia
+Loan
+Signorino
+
+Getafe
+Nantes
+1500000
+Utsari
+
+Getafe
+Independiente
+6000000
+K. Blanco
+
+Getafe
+Sevilla
+n/a
+Verpakovskis
+
+Getafe
+Dynamo Kiev
+Loan
+Hernandez
+
+Getafe
+Valencia
+Loan
+Blanco
+
+Getafe
+Sevilla
+3000000
+Alvarez
+
+Getafe
+Recreativo
+n/a
+Braulio
+
+Getafe
+Atletico Madrid
+Loan
+Diaz
+
+Getafe
+Boca Juniors
+4000000
+Lozano
+
+Levante
+Betis
+Loan
+Viqueira
+
+Levante
+Recreativo
+n/a
+Kujovic
+
+Levante
+Roda
+n/a
+Savio
+
+Levante
+Sociedad
+n/a
+Geijo
+
+Levante
+Xerez
+n/a
+Cirillo
+
+Levante
+AEK Athens
+n/a
+Arveladze
+
+Levante
+AZ Alkmaar
+n/a
+Castedo
+
+Levante
+Sevilla
+n/a
+Trejo
+
+Mallorca
+Boca Juniors
+n/a
+Castro
+
+Mallorca
+Nacional
+n/a
+Plasil
+
+Osasuna
+Monaco
+2500000
+Pandiani
+
+Osasuna
+Espanyol
+n/a
+Portillo
+
+Osasuna
+Tarragona
+n/a
+Margairaz
+
+Osasuna
+Zurich
+n/a
+Carlos Vela
+
+Osasuna
+Arsenal
+Loan
+Danny Szetela
+
+R. Santander
+Columbus C.
+n/a
+A. Duscher
+
+R. Santander
+Deportivo
+Free
+W. Lima
+
+Real Betis
+Atletico Mineiro
+3000000
+R. Pereira
+
+Real Betis
+Sporting Lisbon
+3000000
+Marcelo
+
+Real Madrid
+Fluminense
+7000000
+R. Drenthe
+
+Real Madrid
+Feyenoord
+14000000
+W. Sneijder
+
+Real Madrid
+Ajax
+27000000
+J. Saviola
+
+Real Madrid
+Barcelona
+Free
+Pepe
+
+Real Madrid
+Porto
+28000000
+G. Heinze
+
+Real Madrid
+Manchester Utd
+12000000
+Dudek
+
+Real Madrid
+Liverpool
+Free
+C. Metzelder
+
+Real Madrid
+B. Dortmund
+n/a
+A. Robben
+
+Real Madrid
+Chelsea
+36200000
+Fran Merida
+
+Real Sociedad
+Arsenal
+Loan
+Varela
+
+Recreativo
+Sporting
+Loan
+Zahinos
+
+Recreativo
+Atletico Madrid
+n/a
+Pongolle
+
+Recreativo
+Liverpool
+4000000
+Barbosa
+
+Recreativo
+Villarreal
+Free
+Martins
+
+Recreativo
+Sporting
+n/a
+Smolarek
+
+Santander
+Dortmund
+7000000
+Coltorti
+
+Santander
+Grasshopper
+n/a
+Kone
+
+Sevilla
+PSV
+n/a
+T. de Mul
+
+Sevilla
+Ajax
+n/a
+Mosquera
+
+Sevilla
+Pachuca
+7400000
+M. de Sanctis
+
+Sevilla
+Udinese
+n/a
+Kerzakhov
+
+Sevilla
+Zenit St Petersburg
+5000000
+Boulahrouz
+
+Sevilla
+Chelsea
+Loan
+Keita
+
+Sevilla
+Lens
+n/a
+Zigic
+
+Valencia
+Santander
+20000000
+Hildebrand
+
+Valencia
+Stuttgart
+Free
+Helguera
+
+Valencia
+Real Madrid
+n/a
+Arizmendi
+
+Valencia
+Atletico Madrid
+n/a
+Fernandes
+
+Valencia
+Benfica
+16000000
+H. Maduro
+
+Valencia
+Ajax
+n/a
+Estoyanoff
+
+Valladolid
+Levante
+Loan
+Camacho
+
+Valladolid
+Levante
+Loan
+Mavuba
+
+Villarreal
+Bordeaux
+8000000
+R. Ayala
+
+Villarreal
+Valencia
+Free
+Tomasson
+
+Villarreal
+Stuttgart
+n/a
+G Rossi
+
+Villarreal
+Manchester Utd
+n/a
+Godin
+
+Villarreal
+Nacional
+n/a
+Caceres
+
+Villarreal
+Defensor
+Free
+Cazorla
+
+Villarreal
+Recreativo
+1200000
+Oliveira
+
+Zaragoza
+Milan
+Loan
+Paredes
+
+Zaragoza
+Getafe
+n/a
+Vallejo
+
+Zaragoza
+Villarreal
+Free
+Nery
+
+Zaragoza
+Corinthians
+Loan
+Pavon
+
+Zaragoza
+Real Madrid
+n/a
+Luccin
+
+Zaragoza
+Atletico Madrid
+n/a
+D'Alessandro
+
+Zaragoza
+Wolfsburg
+n/a
+Diogo
+
+Zaragoza
+Real Madrid
+4500000
+Gabi
+
+Zaragoza
+Atletico Madrid
+9000000
+Matuzalem
+
+Zaragoza
+Shakhtar D.
+Free
