@@ -168,5 +168,5 @@ coll.aggregate(
 ```
 [wykres](http://chart.apis.google.com/chart?chs=600x200&cht=p&chd=t:1629.591836734694,1826.7821522309712,2585.970873786408&chl=ND%201629.591836734694|SD%201826.7821522309712|MT%202585.970873786408&chtt=Trzy+stany+z+najmnejsza+srednia+populacja+i+sumą+populacji+wiekszą+wieksza+niz+600000)
 
-![3. agregacja - wykres](https://raw.github.com/andrzejthiel/data-refine/master/images/wykres1.png)
+![3. agregacja - wykres](https://raw.github.com/andrzejthiel/data-refine/master/images/wykres3.png)
 
