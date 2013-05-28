@@ -1,5 +1,6 @@
-Obszary Natura 2000 na terenie województwa pomorskiego
-=============
+#Obszary Natura 2000 na terenie województwa pomorskiego
+
+### *Michał Frankowski*
 
 ##Pobranie danych
 
@@ -30,3 +31,19 @@ Obszary Natura 2000 na terenie województwa pomorskiego
 
 
 [Plik z danymi](https://github.com/mfrankowski/data-refine/blob/master/natura2000.json)
+
+#Agregacje
+
+##Samochody z najlepszym stosunkiem mocy do ceny
+(Pięć samochodów mających powyżej 200 koni mechanicznych z najniższą ceną jednego konia mechanicznego)
+```js
+db.cars.aggregate([ {$match: { price: { $gt: 0 }, horse_power: { $gt: 200 } } },
+    				{$project : {_id: 0, make: 1, model: 1, price: 1, horse_power: 1, 
+                    count: {$divide : ["$price", "$horse_power"]}}},
+                    {$sort : {count: 1}},
+					{$limit : 5}
+                ],function (err, results) {
+    console.log(results);
+})
+```
+![Chart1](https://raw.github.com/mfrankowski/data-refine/blob/master/images/mfrankowski1.png)
