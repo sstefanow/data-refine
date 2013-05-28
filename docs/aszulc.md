@@ -1,5 +1,7 @@
 # Ilość pomieszczeń szkolnych w szkołach podstawowych poszczególnych województw oraz powiatów lat 2007 - 2011.
 
+### *Adrian Szulc*
+
 ## Dane ze strony Głównego Urzędu Statystycznego 
 
 [GUS](http://www.stat.gov.pl/bdl/app/strona.html?p_name=indeks)
@@ -40,15 +42,6 @@
       "pomieszczenia szkolne 2009" : 386,
       "pomieszczenia szkolne 2010" : 386,
       "pomieszczenia szkolne 2011" : 385
-    },
-    {
-      "Kod" : 1101520000,
-      "Jednostka terytorialna" : "Powiat zgierski",
-      "pomieszczenia szkolne 2007" : 583,
-      "pomieszczenia szkolne 2008" : 611,
-      "pomieszczenia szkolne 2009" : 638,
-      "pomieszczenia szkolne 2010" : 621,
-      "pomieszczenia szkolne 2011" : 619
     }
 ```
 
@@ -59,9 +52,9 @@
 
 ## Google Chart Tools
 
-![google_chart1](https://raw.github.com/aszulc/data-refine/master/images/aszulc_agr1.jpg)
+![google_chart1](https://raw.github.com/aszulc/data-refine/master/images/aszulc_agr1.png)
 
-![google_chart2](https://raw.github.com/aszulc/data-refine/master/images/aszulc_agr2.jpg)
+![google_chart2](https://raw.github.com/aszulc/data-refine/master/images/aszulc_agr2.png)
 
 ## Agregacje wykonane na kolekcji imieniny.
 
