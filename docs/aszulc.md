@@ -64,9 +64,9 @@ Wypisanie dat, w które konkretne imie, w tym przypadku Bogdan, ma imieniny.
 coll = db.imieniny
 
 coll.aggregate([
-	{ $project: { _id : 0, names: 1, date : 1} },
+	{ $project: { _id : 0, names: 1, date : 1 }},
 	{ $match : { names : "Bogdana" }},
-	{ $group: { _id: "$date"}}
+	{ $group: { _id: "$date" }}
 ])
 ```
 
@@ -99,9 +99,9 @@ Wypisanie imion, które tylko raz w roku obchodzą imieniny.
 coll = db.imieniny
 
 coll.aggregate([
-  { $project: { _id : 0, names: 1, date : 1} },
+  { $project: { _id : 0, names: 1, date : 1 }},
   { $unwind: "$names" },
-  { $group: { _id : "$names", count: {$sum : 1}} },
+  { $group: { _id : "$names", count: { $sum : 1 }}},
   { $match : { count : 1 }}
 ])
 ```
