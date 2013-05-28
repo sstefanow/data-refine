@@ -46,4 +46,4 @@ db.cars.aggregate([ {$match: { price: { $gt: 0 }, horse_power: { $gt: 200 } } },
     console.log(results);
 })
 ```
-![Chart1](https://raw.github.com/mfrankowski/data-refine/blob/master/images/mfrankowski1.png)
+![Chart1](https://github.com/mfrankowski/data-refine/blob/master/images/mfrankowski1.png)
