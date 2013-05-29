@@ -17,6 +17,8 @@ Z danych postanowiłem wyciągnąć tytułowe "country, state, region, city, vil
 * Refaktoryzacja id pozostałych wierszy (zaczynając od 1)
 * Usunięcie kolumn: name, alternatenames
 * Eksport do plików JSON
+* Import danych do bazy MongoDB
+* Agregacje na danych w MongoDB
 
 ## Przykładowe dane:
 ```json
@@ -27,6 +29,113 @@ Z danych postanowiłem wyciągnąć tytułowe "country, state, region, city, vil
 ```
 
 [Pełne dane po przetworzeniu na google-drive ze względu na ich wielkość (ok. 1GB)](https://drive.google.com/folderview?id=0B4yVP4J-xy3wLTRtNXA1U244Y0E&usp=sharing)
+
+## Agregacje:
+
+### Kraje z najliczniejszą populacją (top 5)
+
+```
+db.region.aggregate(
+	{
+		"$match" : {
+			"feature_class" : "A",
+			"feature_code" : "PCLI"
+        	}
+	},
+	{
+		$group: {
+			_id: {"name" : "$name", "feature_class": "$feature_class", "feature_code" : "$feature_code"}, 
+			totalPop: {$sum: "$population"}} 
+	},
+	{ $sort: {totalPop: -1} },
+	{ $limit: 5}
+)
+```
+```json
+{
+	"result" : [
+		{
+			"_id" : {
+				"name" : "People's Republic of China",
+				"feature_class" : "A",
+				"feature_code" : "PCLI"
+			},
+			"totalPop" : 1330044000
+		},
+		{
+			"_id" : {
+				"name" : "Republic of India",
+				"feature_class" : "A",
+				"feature_code" : "PCLI"
+			},
+			"totalPop" : 1173108018
+		},
+		{
+			"_id" : {
+				"name" : "United States",
+				"feature_class" : "A",
+				"feature_code" : "PCLI"
+			},
+			"totalPop" : 310232863
+		},
+		{
+			"_id" : {
+				"name" : "Republic of Indonesia",
+				"feature_class" : "A",
+				"feature_code" : "PCLI"
+			},
+			"totalPop" : 242968342
+		},
+		{
+			"_id" : {
+				"name" : "Federative Republic of Brazil",
+				"feature_class" : "A",
+				"feature_code" : "PCLI"
+			},
+			"totalPop" : 201103330
+		}
+	],
+	"ok" : 1
+}
+```
+![](../images/pjakula/ag2.png)
+
+### Łączna populacja we wszystkich stolicach świata
+```
+db.region.aggregate(
+{
+        "$match" : {
+		"feature_class" : "P",
+		"feature_code" : "PPLC"
+        }
+    },
+    {
+        "$group" : {
+            "_id" : null,
+            "cities" : {
+                "$push" : {
+		    "name" : "$name",
+                    "feature_class" : "$feature_class",
+		    "feature_code" : "$feature_code",
+		    "population" : "$population"
+                }
+            },
+            "population" : {
+                $sum:"$population"
+            }
+        }
+    },
+    {
+        "$project" : {
+            //"cities" : 1,
+            "total" : "$population"
+        }
+    }
+)
+```
+```json
+{ "result" : [ { "_id" : null, "total" : 326512489 } ], "ok" : 1 }
+```
 
 ## Wrażenia z pracy:
 1. Smutek! Google refine bardzo mnie zawiodło. Ładowanie pliku (ponad 8mln rekordów) trwało prawie cały dzień. 
