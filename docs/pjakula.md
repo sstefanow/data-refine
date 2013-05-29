@@ -17,6 +17,8 @@ Z danych postanowiłem wyciągnąć tytułowe "country, state, region, city, vil
 * Refaktoryzacja id pozostałych wierszy (zaczynając od 1)
 * Usunięcie kolumn: name, alternatenames
 * Eksport do plików JSON
+* Import danych do bazy MongoDB
+* Agregacje na danych w MongoDB
 
 ## Przykładowe dane:
 ```json
