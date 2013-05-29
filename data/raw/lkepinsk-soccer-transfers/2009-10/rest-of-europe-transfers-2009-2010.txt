@@ -1,0 +1,400 @@
+Kerlon
+
+Ajax
+Inter Milan
+Loan
+Timothee Atouba
+
+Ajax
+Hamburg
+Free
+Marko Pantelic
+
+Ajax
+Hertha Berlin
+Free
+Geremi Midfielder
+Cameroon
+Ankaragucu
+Newcastle
+undisclosed
+Freddy Adu Attacker
+USA
+Aris Salonika
+Benfica
+Loan
+Edson Braafheid Defender
+Netherlands
+Bayern Munich
+Glasgow Celtic
+Loan
+Edson Braafheid
+
+Bayern Munich
+FC Twente
+undisclosed
+Arjen Robben
+
+Bayern Munich
+Real Madrid
+25million
+Mario Gomez
+
+Bayern Munich
+Stuttgart
+30million
+Yoann Gourcuff
+
+Bordeaux
+AC Milan
+15million
+Juan Gonzalo Lorca Attacker
+Chile
+Boulogne
+Colo Colo
+400,000
+Olivier Kapo Midfielder
+France
+Boulogne
+Wigan Athletic
+Loan
+Keisuke Honda Midfielder
+Japan
+CSKA Moscow
+VVV Venlo
+9.2million
+Maniche
+
+Cologne
+Atletico Madrid
+Free
+Lukas Podolski
+
+Cologne
+Bayern Munich
+10million
+Zoran Tosic Midfielder
+Serbia
+Cologne
+Manchester United
+Loan
+Andriy Voronin Attacker
+Ukraine
+Dinamo Moscow
+Liverpool
+undisclosed
+Roman Eremenko
+
+Dynamo Kiev
+Udinese
+undisclosed
+Eintracht Frankfurt Midfielder
+USA
+Eint.Frankfurt
+Houston Dynamo
+Loan
+Brazil Defender
+Breno
+FC Nurnberg
+Bayern Munich
+Loan
+Andreas Ottl Midfielder
+Germany
+FC Nurnberg
+Bayern Munich
+Loan
+Tomas Pekhart Attacker
+Czech Rep.
+FK Jablonec
+Tottenham
+undisclosed
+Heinz Muller
+
+FSV Mainz
+Barnsley
+500,000
+Stefan Babovic
+
+Feyenoord
+Nantes
+Loan
+Elano
+
+Galatasaray
+Manchester City
+9.4million
+Lucas Neill Defender
+Australia
+Galatasaray
+Everton
+800,000
+Thomas Rogne Defender
+Norway
+Glasgow Celtic
+Stabaek
+undisclosed
+Robbie Keane Attacker
+Ireland
+Glasgow Celtic
+Tottenham
+Loan
+Zheng Zhi
+
+Glasgow Celtic
+Charlton
+Free
+Diomansy Kamara Attacker
+France
+Glasgow Celtic
+Fulham
+Loan
+Landry N'Guemo
+
+Glasgow Celtic
+Nancy
+Loan
+Jos Hooiveld Defender
+Netherlands
+Glasgow Celtic
+AIK
+2million
+Eljero Elia
+
+Hamburg
+TC Twente
+9million
+Markus Berg
+
+Hamburg
+Groningen
+undisclosed
+Ruud van Nistelrooy Attacker
+Netherlands
+Hamburg
+Real Madrid
+undisclosed
+Ze Roberto
+
+Hamburg
+Bayern Munich
+undisclosed
+Arouna Kone Attacker
+Ivory Coast
+Hannover
+Sevilla
+Loan
+Philip Haglund Midfielder
+Sweden
+Heerenveen
+Brommapojkarna
+1million
+Josip Simunic
+
+Hoffenheim
+Hertha Berlin
+7million
+Joao Paulo Andrade
+
+Le Mans
+Porto
+undisclosed
+Michel Bastos
+
+Lyon
+Lille
+18million
+Dejan Lovren Defender
+Croatia
+Lyon
+Dynamo Zagreb
+undisclosed
+Aly Cissokho
+
+Lyon
+Porto
+15million
+Bafetimbi Gomis
+
+Lyon
+St Etienne
+13million
+Lisandro Lopez
+
+Lyon
+Porto
+24million
+Adam Szalai Attacker
+Hungary
+Mainz
+Real Madrid
+Loan
+Jan Simak Midfielder
+Czech Rep.
+Mainz
+Stuttgart
+undisclosed
+Chavdar Yankov Midfielder
+Bulgaria
+Metallurg Donetsk
+Hannover 96
+undisclosed
+Sebastien Puygrenier
+
+Monaco
+Zenit St Petersburg
+Loan
+Eidur Gudjohnsen
+
+Monaco
+Barcelona
+undisclosed
+Didier Digard Midfielder
+France
+Nice
+Middlesbrough
+Loan
+Olof Mellberg
+
+Olympiakos
+Juventus
+2.5million
+Gabriel Heinze
+
+Olympique Marseille
+Real Madrid
+undisclosed
+Edouard Cissé
+
+Olympique Marseille
+Besiktas
+Free
+Lucho Gonzalez
+
+Olympique Marseille
+Porto
+17million
+Souleymane Diawara
+
+Olympique Marseille
+Bordeaux
+undisclosed
+Stephane Mbia
+
+Olympique Marseille
+Rennes
+12million
+Djibril Cisse
+
+Panathinaikos
+Marseille
+8million
+Lee Keun-ho
+
+Paris Saint-Germain
+Jubilo Iwata
+Free
+Jerome Rothen
+
+Rangers
+Paris Saint-Germain
+Loan
+Junmin Hao Midfielder
+China
+Schalke
+Tianjin Teda
+undisclosed
+Edu Attacker
+Brazil
+Schalke
+S. S. Bluewings
+undisclosed
+Douglas Costa Midfielder
+Brazil
+Shakhtar Donetsk
+Gremio
+6.5millon
+Lewis Holtby
+
+Shalke
+Alemannia Aachen
+2.5million
+Lubos Hanzel
+
+Shalke
+Spartak Trnava
+Loan
+Mineiro
+
+Shalke
+Chelsea
+Free
+Charlie Davies
+
+Sochaux
+Hammarby
+2million
+Matias Fernandez
+
+Sporting Lisbon
+Villarreal
+undisclosed
+Gelson Fernandes
+
+St Etienne
+Manchester City
+undisclosed
+Cristian Molinaro Defender
+Italy
+Stuttgart
+Juventus
+Loan
+Zdravko Kuzmanovic
+
+Stuttgart
+Fiorentina
+8million
+Pavel Pogrebnyak
+
+Stuttgart
+Zenit St Petersburg
+5million
+Alexander Hleb
+
+Stuttgart
+Barcelona
+Loan
+Colin K. Richards Attacker
+England
+Toulouse
+Fenerbahce
+Loan
+Claudio Pizarro
+
+Werder Bremen
+Chelsea
+4.7million
+Sandro Wagner Attacker
+Germany
+Werder Bremen
+Duisburg
+undisclosed
+Marko Marin
+
+Werder Bremen
+B. Monchengladbach
+undisclosed
+Obafemi Martins
+
+Wolfsburg
+Newcastle FC
+10.5million
+Fabian Johnson
+
+Wolfsburg
+1860 Munich
+Free
+Karim Ziani
+
+Wolfsburg
+Olympique Marseille
+undisclosed
