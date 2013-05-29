@@ -98,7 +98,7 @@ db.region.aggregate(
 ```
 ![](../images/pjakula/ag2.png)
 
-Łączna populacja we wszystkich stolicach świata
+### Łączna populacja we wszystkich stolicach świata
 ```
 db.region.aggregate(
 {
