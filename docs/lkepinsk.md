@@ -6,7 +6,7 @@
 
 http://www.soccernews.com/soccer-transfers/
 
-## Co zrobiłem?
+## Co zrobiłem aby przygotować dane?
 
 1. Stworzono aplikację w języku C# (.NET framework) do pobierania listy transferów w formie przystępnej dla GoogleRefine (linijka w linijkę).
 1. Import plików do GoogleRefine (scalenie danych z 16 plików jednocześnie).
@@ -73,7 +73,7 @@ public List<String> GetTransfersData(string htmlDocument)
       "To" : "Udinese",
       "From" : "Fiorentina",
       "Price" : "Loan"
-    },    
+    },
 	{
       "Type" : "English Premier League",
       "Years" : "2012-2013",
@@ -93,6 +93,85 @@ public List<String> GetTransfersData(string htmlDocument)
       "Price" : "2900000"
     }
 ```
-* Oczyszczone Dane:
 
 #Agregacje
+
+Import danych do bazy wykonany poprzez:
+
+```json
+lukasz@ubuntu:~/Dokumenty/Studia/noSql$ mongoimport --db transfersdb --collection transfers --type csv --file ~/Dokumenty/Studia/noSql/git/data-refine/data/csv/lkepinsk-soccer-transfers.csv --headerline --ignoreBlanks
+connected to: 127.0.0.1
+Tue May 28 22:12:46.659 		Progress: 8142/168111	4%
+Tue May 28 22:12:46.659 			100	9/second
+Tue May 28 22:12:46.673 check 9 2116
+Tue May 28 22:12:46.700 imported 2115 objects
+```
+
+Zliczenie danych przyniosło następujący efekt: 
+
+```json
+db.transfers.count()
+2115
+```
+
+Polacy, którzy zostali transferowani za darmo między klubami:
+
+```json
+db.transfers.group( { 
+key: { Player: 1, From: 1, To: 1 }
+, cond: { Price: "Free", Country: "Poland" }
+, reduce: function ( curr, result ) { }
+, initial: {} } )
+[
+	{
+		"Player" : "Dariusz DudkaMidfielder",
+		"From" : "Auxerre",
+		"To" : "Levante"
+	},
+	{
+		"Player" : "Artur BorucGoalkeeper",
+		"From" : "Fiorentina",
+		"To" : "Southampton"
+	},
+	{
+		"Player" : "Ireneusz Jelen Attacker",
+		"From" : "Auxerre",
+		"To" : "Lille"
+	}
+]
+```
+
+Polacy transferowani za ponad 1 milion:
+
+```json
+db.transfers.group( { 
+key: { Player: 1, From: 1, To: 1 }
+, cond: { Price: {$gt: 1000000}
+, Country: "Poland" }
+, reduce: function ( curr, result ) { }
+, initial: {} } )
+[
+	{
+		"Player" : "Rafal Wolski Midfielder",
+		"From" : "Legia Warsaw",
+		"To" : "Fiorentina"
+	},
+	{
+		"Player" : "Mateusz KlichMidfielder",
+		"From" : "Cracovia",
+		"To" : "Wolfsburg"
+	}
+]
+```
+
+Łączna suma pieniędzy jaką wydał klub Ajax na transfery w latach 2009-2010:
+
+```json
+db.transfers.group( { 
+key: { To: 1 }
+, cond: { To: "Ajax", Years: "2009-2010" }
+, reduce: function ( curr, result ) { result.total_spent += curr.Price; }
+, initial: { total_spent: 0 } } )
+```
+
+
