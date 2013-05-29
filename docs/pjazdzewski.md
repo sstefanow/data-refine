@@ -57,7 +57,7 @@ Dane na temat wydatków brytyjskiego Home Offce w 2010 roku
 
 ## Agregacje na danych(js):
 
-### 1\. Wydatki agregowane wg. dostawcy - wartosci srednie i sumaryczne, dla sum powyzej 10k
+### 1\. Wydatki agregowane wg. dostawcy - wartosci srednie i sumaryczne, dla sum powyzej 1M
 ```js
 db.nosql.aggregate( { 
 	$group : { 
@@ -67,7 +67,7 @@ db.nosql.aggregate( {
 	} 
 },{ 
 	$match : {
-		suma : { $gte : 10000 }
+		suma : { $gte : 1000000 }
 	} 
 } )
 ```
@@ -75,16 +75,22 @@ db.nosql.aggregate( {
 ### Wynik (fragment)
 ```json
 {
-        "_id" : "LAMBERT SMITH HAMPTON",
-        "suma" : 29229.57,
-        "srednia" : 7307.3925
+        "_id" : "GREATER MANCHESTER POLICE AUTHORITY",
+        "suma" : 1304135.25,
+        "srednia" : 93152.51785714286
 },
 {
-        "_id" : "MERSEYSIDE POLICE AUTHORITY (G)",
-        "suma" : 1037391.98,
-        "srednia" : 51869.599
+        "_id" : "HAMPSHIRE POLICE AUTHORITY (G)",
+        "suma" : 1016387.14,
+        "srednia" : 92398.8309090909
+},
+{
+        "_id" : "WEST MIDLANDS POLICE AUTHORITY",
+        "suma" : 1420959.72,
+        "srednia" : 74787.35368421052
 }
 ```
+![](../images/pjazdzewski/agr1.png)
 
 ### 2\. -||- posortowane malejaco wg. sumy oraz sredniej wartosci
 ```js
@@ -96,7 +102,7 @@ db.nosql.aggregate( {
 	} 
 }, { 
 	$match : {
-		suma : { $gte : 10000 }
+		suma : { $gte : 1000000 }
 	} 
 }, { 
 	$sort: { 
@@ -109,16 +115,22 @@ db.nosql.aggregate( {
 ### Wynik (fragment)
 ```json
 {
-        "_id" : "ROYAL BOROUGH KINGSTON UPON THAMES (G)",
-        "suma" : 13103.57,
-        "srednia" : 4367.856666666667
+        "_id" : "GREATER LONDON AUTHORITY (G)",
+        "suma" : 4466373.05,
+        "srednia" : 279148.31562500005
 },
 {
-        "_id" : "ATOMIC WEAPONS ESTABLISHMENT (AWE) PLC",
-        "suma" : 13077.12,
-        "srednia" : 6538.56
+        "_id" : "Airwave Solutions Ltd",
+        "suma" : 2824137.43,
+        "srednia" : 24992.36663716815
+},
+{
+        "_id" : "G4S CARE & JUSTICE SERVICES (UK) LTD",
+        "suma" : 2567252.41,
+        "srednia" : 20214.5859055118
 }
 ```
+![](../images/pjazdzewski/agr2.png)
 
 ### 3\. -||- wybierz pierwszych X dostawcow wg. sredniej malejaco
 ```js
@@ -130,7 +142,7 @@ db.nosql.aggregate( {
 	} 
 }, { 
 	$match : {
-		suma : { $gte : 10000 }
+		suma : { $gte : 100000 }
 	} 
 }, { 
 	$sort: { srednia: -1 } 
@@ -168,172 +180,7 @@ db.nosql.aggregate( {
 ],
 "ok" : 1}
 ```
-
-## Map-Reduce
-
-### 1\. Wydatki agregowane wg. dostawcy
-```js
-var map = function() {
-    emit(this.Supplier, this.Amount);
-};
-
-var reduce = function(key, value) {
-	return Array.sum(value);
-};
-
-var params = {
-	out: "task_1"
-};
-
-db.nosql.mapReduce(map, reduce, params);
-```
-
-### Wynik 
-```json
-{ "_id" : "3M SECURITY PRINTING & SYSTEMS LTD", "value" : 96042.62 }
-{ "_id" : "AGEF AFGHANISTAN", "value" : 29950 }
-{ "_id" : "ALLIED ELECTRIC VEHICLES", "value" : 8247.5 }
-{ "_id" : "ALPINE RESOURCING LIMITED", "value" : 3488.75 }
-```
-
-### 2\. Wydatki agregowane wg. dostawcy + ilosc zamowien, srednia wartosc zamowienia
-```js
-var map = function() {
-    emit(this.Supplier, {
-		count: 1,
-		sum: this.Amount
-	});
-};
-
-var reduce = function(key, value) {
-	var obj = {count: 0, sum: 0};
-	for(var i=0; i<value.length; i++){
-		obj.count += value[i].count;
-		obj.sum += value[i].sum; 
-	}
-	return obj;
-};
-
-var finalize = function (key, value) {
-	value.avg = value.sum/value.count;
-    return value;
-};
-
-var params = {
-	out: "task_2",
-	finalize: finalize
-};
-
-db.nosql.mapReduce(map, reduce, params);
-```
-
-### Wynik 
-```json
-{ "_id" : "CANON (UK) LIMITED", "value" : { "count" : 1, "sum" : 13746.13, "avg" : 13746.13 } }
-{ "_id" : "CANON (UK) LTD", "value" : { "count" : 5, "sum" : 22918.95, "avg" : 4583.79 } }
-{ "_id" : "CAPITA", "value" : { "count" : 1, "sum" : 3430.67, "avg" : 3430.67 } }
-```
-
-### 3\. Dla kazdego dostawcy zbierz wszystkie jego zamowienia jako pary: data i wartosc 
-```js
-var map = function() {
-    emit(this.Supplier, {
-		date: this.Date,
-		sum: this.Amount
-	});
-};
-
-var reduce = function(key, value) {
-	var obj = {orders:[]};
-	for(var i=0; i<value.length; i++){
-		obj.orders.push( value[i] );
-	}
-	return obj;
-};
-
-var finalize = function (key, value) {
-	if(value.orders){
-		value.count = value.orders.length;
-	}
-    return value;
-};
-
-var params = {
-	out: "task_3",
-	sort: { _id: -1 },
-	finalize: finalize
-};
-
-db.nosql.mapReduce(map, reduce, params);
-```
-
-### Wynik 
-```json
-{
-        "_id" : "3M SECURITY PRINTING & SYSTEMS LTD",
-        "value" : {
-                "orders" : [
-                        {
-                                "date" : "10.12.2010",
-                                "sum" : 3547.2
-                        },
-                        {
-                                "date" : "10.12.2010",
-                                "sum" : 12208
-                        },
-                        {
-                                "date" : "07.10.2010",
-                                "sum" : 6795
-                        },
-                        {
-                                "date" : "21.06.2010",
-                                "sum" : 7435
-                        },
-                        {
-                                "date" : "29.07.2010",
-                                "sum" : 2653.7
-                        },
-                        {
-                                "date" : "13.07.2010",
-                                "sum" : 8243.75
-                        },
-                        {
-                                "date" : "27.08.2010",
-                                "sum" : 20507.5
-                        },
-                        {
-                                "date" : "25.08.2010",
-                                "sum" : 2887.6
-                        },
-                        {
-                                "date" : "25.08.2010",
-                                "sum" : 2395.2
-                        },
-                        {
-                                "date" : "25.08.2010",
-                                "sum" : 3562.4
-                        },
-                        {
-                                "date" : "25.08.2010",
-                                "sum" : 3562.4
-                        },
-                        {
-                                "date" : "25.08.2010",
-                                "sum" : 5257.02
-                        },
-                        {
-                                "date" : "25.08.2010",
-                                "sum" : 5995.95
-                        },
-                        {
-                                "date" : "25.08.2010",
-                                "sum" : 10991.9
-                        }
-                ],
-                "count" : 14
-        }
-}
-```
+![](../images/pjazdzewski/agr2.png)
 			   
 ## Procedura oczyszczania - 28 kroków:
 ```json
