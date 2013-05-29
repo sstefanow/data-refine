@@ -1,5 +1,6 @@
-## GeoNames - country, state, region, city, village, road, railroad
-///              Przemysław Jakuła              \\\
+## GeoNames
+
+### *Przemysław Jakuła*
 
 ## Wstępny opis:
 
