@@ -130,6 +130,10 @@ Przykładowy wynik agregacji:
 {"_id":"food and beverage","retail_price":154.05,"supply_price":65.7}
 ```
 
+Wykres obrazujący efekt agregacji:
+
+![](https://github.com/urszulasawicka/data-refine/blob/master/images/usawicka/cena_do_kosztow_dostawy.png?raw=true)
+
 Agregacja pokazująca ile stracił sprzedawca na danym produkcie.
 
 ```js
@@ -164,6 +168,10 @@ Przykładowy wynik agregacji:
 ```json
 {"_id":"anzac biscuit","loss":4}
 ```
+
+Wykres obrazujący efekt agregacji:
+
+![](https://github.com/urszulasawicka/data-refine/blob/master/images/usawicka/koszt_zakupu.png?raw=true)
 
 Agregacja podająca sumę przecen dla każdego działu sprzedarzy.
 

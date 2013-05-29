@@ -1,0 +1,435 @@
+Aritz AdurizAttacker
+Spain
+Athletic Bilbao
+Valencia
+2.5million
+Emiliano Insua Defender
+Argentina
+Atletico Madrid
+Sporting Lisbon
+3.5million
+Emre BelezogluMidfielder
+Turkey
+Atletico Madrid
+Fenerbahce
+Free
+Daniel DiazDefender
+Argentina
+Atletico Madrid
+Getafe
+1million
+Cristian RodriguezMidfielder
+Uruguay
+Atletico Madrid
+Porto
+Free
+Joan Angel RomanMidfielder
+Spain
+Barcelona
+Manchester City
+undisclosed
+Jordi AlbaDefender
+Spain
+Barcelona
+Valencia
+14million
+Alex SongMidfielder
+Cameroon
+Barcelona
+Arsenal
+19million
+Javi VarasGoalkeeper
+Spain
+Celta
+Sevilla
+Loan
+Park Chu-YoungAttacker
+South Korea
+Celta
+Arsenal
+Loan
+Michael Krohn-DehliMidfielder
+Denmark
+Celta
+Brondby
+1million
+Danijel Pranjic Midfielder
+Croatia
+Celta Vigo
+Sporting Lisbon
+Loan
+Vadim Demidov Defender
+Norway
+Celta Vigo
+Eintracht
+Loan
+Alberto RodriguezDefender
+Peru
+Dep. La Coruna
+Sporting Lisbon
+Loan
+Silvio Defender
+Portugal
+Dep. La Coruna
+Atletico Madrid
+Loan
+Carlos MarchenaDefender
+Spain
+Dep. La Coruna
+Villarreal
+Free
+Paulo Assuncao Midfielder
+Brazil
+Dep. La Coruna
+Sao Paulo
+Free
+Roderick MirandaDefender
+Portugal
+Dep. La Coruna
+Benfica
+Loan
+Nelson OliveiraAttacker
+Portugal
+Dep. La Coruna
+Benfica
+Loan
+Wakaso MubarakMidfielder
+Ghana
+Espanyol
+Villarreal
+undisclosed
+Diego ColottoDefender
+Argentina
+Espanyol
+Dep. La Coruna
+Free
+Martin Petrov Midfielder
+Bulgaria
+Espanyol
+Bolton
+Free
+Joan CapdevilaDefender
+Spain
+Espanyol
+Benfica
+350,000
+Simao SabrosaMidfielder
+Portugal
+Espanyol
+Besiktas
+Free
+Federico Fernandez Defender
+Argentina
+Getafe
+Napoli
+Loan
+Sergio Escudero Defender
+Spain
+Getafe
+Schalke
+Loan
+Angel LafitaMidfielder
+Spain
+Getafe
+Real Zaragoza
+Free
+Carlos Aranda Attacker
+Spain
+Granada
+Zaragoza
+500,000
+Diego Buonanotte Midfielder
+Argentina
+Granada
+Malaga
+2.3million
+Recio Midfielder
+Spain
+Granada
+Malaga
+Loan
+Nolito Attacker
+Spain
+Granada
+Benfica
+Loan
+Antonio Floro FloresAttacker
+Italy
+Granada
+Udinese
+Loan
+Obafemi MartinsAttacker
+Nigeria
+Levante
+Rubin Kazan
+Free
+Dariusz DudkaMidfielder
+Poland
+Levante
+Auxerre
+Free
+Valdo Midfielder
+Cape Verde
+Levante
+Atlante
+Loan
+Loukas Vyntra Defender
+Greece
+Levante
+Panathinaikos
+Free
+Christian LellDefender
+Germany
+Levante
+Hertha
+Free
+Robert Acquafresca Attacker
+Italy
+Levante
+Bologna
+Loan
+Theofanis GekasAttacker
+Greece
+Levante
+Samsunspor
+Free
+Javier SaviolaAttacker
+Argentina
+Malaga
+Benfica
+undisclosed
+Roque Santa CruzAttacker
+Paraguay
+Malaga
+Manchester City
+Loan
+Diego Lugano Defender
+Uruguay
+Malaga
+PSG
+Loan
+Antunes Defender
+Portugal
+Malaga
+Pacos Ferreita
+Loan
+Pedro Morales Midfielder
+Chile
+Malaga
+Dinamo Zagreb
+Loan
+Lucas Piazon Attacker
+Brazil
+Malaga
+Chelsea
+Loan
+Antonio Luna Defender
+Spain
+Mallorca
+Sevilla
+Loan
+Giovani Dos SantosAttacker
+Mexico
+Mallorca
+Tottenham
+undisclosed
+Fernando Tissone Midfielder
+Argentina
+Mallorca
+Sampdoria
+undisclosed
+Alan Hutton Goalkeeper
+Scotland
+Mallorca
+Aston Villa
+Loan
+Francisco Silva Midfielder
+Chile
+Osasuna
+Uni. Catolica
+Loan
+Alejandro DominguezAttacker
+Argentina
+Rayo Vallecano
+Valencia
+Free
+Jordi Figueras Defender
+Spain
+Rayo Vallecano
+Club Brugge
+Loan
+Gabriel Machado Attacker
+Brazil
+Rayo Vallecano
+Steaua
+Free
+Dorlan Pabon Attacker
+Colombia
+Real Betis
+Parma
+Loan
+Guillermo Molins Midfielder
+Sweden
+Real Betis
+Anderlecht
+Loan
+Angel LopezDefender
+Spain
+Real Betis
+Villarreal
+Free
+Damien PerquisDefender
+Poland
+Real Betis
+Sochaux
+undisclosed
+Joel CampbellAttacker
+Costa Rica
+Real Betis
+Arsenal
+Loan
+Casemiro Midfielder
+Brazil
+Real Madrid
+Sao Paulo
+Loan
+Diego Lopez Goalkeeper
+Spain
+Real Madrid
+Sevilla
+4.5million
+Michael EssienMidfielder
+Ghana
+Real Madrid
+Chelsea
+Loan
+Luka ModricMidfielder
+Croatia
+Real Madrid
+Tottenham
+34million
+Jose AngelDefender
+Spain
+Real Sociedad
+Roma
+Loan
+RomaricMidfielder
+Ivory Coast
+Real Zaragoza
+Sevilla
+Free
+Stefan BabovicMidfielder
+Serbia
+Real Zaragoza
+Partizan
+Free
+Miroslav Stevanovic Midfielder
+Bosnia
+Sevilla
+Vojvodina
+1.5million
+Bryan RabelloMidfielder
+Chile
+Sevilla
+Colo Colo
+Free
+Javi HervasMidfielder
+Spain
+Sevilla
+Cordoba
+undisclosed
+Beto Goalkeeper
+Portugal
+Sevilla
+Sporting Braga
+Loan
+Hedwiges MaduroDefender
+Netherlands
+Sevilla
+Valencia
+Free
+Geoffrey KondogbiaMidfielder
+France
+Sevilla
+Lens
+undisclosed
+Alberto BotiaDefender
+Spain
+Sevilla
+Sporting Gijon
+3million
+Diego LopezGoalkeeper
+Spain
+Sevilla
+Villarreal
+3.5million
+Alban BunjakuMidfielder
+England
+Sevilla
+Arsenal
+undisclosed
+Andres GuardadoMidfielder
+Mexico
+Valencia
+Dep. La Coruna
+Free
+Jonathan VieraMidfielder
+Spain
+Valencia
+Las Palmas
+2.5million
+Sergio CanalesMidfielder
+Spain
+Valencia
+Real Madrid
+7.5million
+Joao Pereira Defender
+Portugal
+Valencia
+Sporting Lisbon
+3.6million
+Nelson ValdezAttacker
+Paraguay
+Valencia
+Rubin Kazan
+Loan
+Fernando GagoMidfielder
+Argentina
+Valencia
+Real Madrid
+3.5million
+Valdet Rama Midfielder
+Albania
+Valladolid
+Orebro
+Free
+Patrick EbertMidfielder
+Germany
+Valladolid
+Hertha
+Free
+Adrian Carmona Attacker
+Spain
+Zaragoza
+AC Milan
+Loan
+Jose Manuel Fernandez Defender
+Spain
+Zaragoza
+Cordoba
+Loan
+Rodri Attacker
+Spain
+Zaragoza
+Barcelona B
+Loan
+Henri Bienvenu Attacker
+Cameroon
+Zaragoza
+Fenerbahce
+Loan
+Ruben Rochina Midfielder
+Spain
+Zaragoza
+Blackburn
+Loan

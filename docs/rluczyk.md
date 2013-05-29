@@ -1,4 +1,5 @@
 Państwa świata
+Romuald Łuczyk, 186499
 ==============
 
 Dane pobrane ze strony [Państwa świata - wiki](http://pl.wikipedia.org/wiki/Pa%C5%84stwa_%C5%9Bwiata)
@@ -48,6 +49,8 @@ Wynik:
   { _id: 'Azja', ludnosc: 4153098901 } ]
 ```
 
+![wykres](../images/rluczyk/3.png)
+
 * Powierzchnia kazdego z kontynentow
 
 ```js
@@ -73,6 +76,7 @@ Wynik:
   { _id: 'Azja', powierzchnia: 31099591 } ]
 ```
 
+![wykres](../images/rluczyk/1.png)
 
 * Najludniejsze panstwo na kazdym z kontynentow:
 
@@ -113,6 +117,8 @@ Wynik:
     najwieksze_panstwo: 'Niemcy',
     ludnosc: 81772000 } ]
 ```
+
+![wykres](../images/rluczyk/2.png)
 
 Żródło oczyszczonych danych: (/data/json/panstwa_rluczyk.json)
 Źródło skryptu: (/scripts/javascript/rluczyk_panstwa.json)

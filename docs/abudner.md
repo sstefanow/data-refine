@@ -1,9 +1,11 @@
 ﻿# Adresy IP
 
+### *Aneta Budner*
+
 ## Konfiguracja skryptu
 
 
-Trzeba pobrać klucz do API ze strony http://www.ipinfodb.com a nastepnie wpisać klucz do pliku php
+Trzeba pobrać klucz do API ze strony http://www.ipinfodb.com a nastepnie wpisać klucz do pliku php.
 
 
 ## Opis
@@ -69,7 +71,7 @@ Pobieramy baze polskich adresów ip ze strony http://www.nirsoft.net/countryip/p
 
 ##Przykładowe Agregacje
 
-###1\. Ilość zakresów adresów IP w danym województwie posortowane malejąco
+###1\. Liczba zakresów IP w danym województwie posortowane malejąco
 
 ```js
 collection.aggregate([
@@ -79,7 +81,7 @@ collection.aggregate([
 	}},
 	{ $sort : { suma : -1 }
 	},
-	])
+])
 ```
 
 Wynik :
@@ -104,10 +106,38 @@ Wynik :
   { _id: 'OPOLSKIE', suma: 3 },
   { _id: 'OVERIJSSEL', suma: 1 } ]
 ```
+
 Niektóre adresy IP nie są przypisane do żadnego województwa oraz jak widać jeden adres jest przypisany do wojewódzwa nie należacego do Polski
 
+Wykres: 
 
-###2\. Wyświetlenie 10 miast z największą ilością zakresów IP
+![Wykres](https://raw.github.com/nosql/data-refine/master/images/abudner/ilosc_adresow_ip_abudner.png)
+
+```
+//chart.googleapis.com/chart
+   ?chs=620x482
+   &cht=map:auto=0,0,0,10
+   &chco=B3BCC0|2251C5|E0E8FC|C0D1FC|2B64F0|2251C5|2251C5|5786FA|12126C|7CA1FC|4B7DF8|7CA1FC|B9CCFC|133DA6|99B6FC|B9CCFC|2B64F0
+   &chld=PL-WP|PL-OP|PL-SK|PL-DS|PL-PM|PL-MA|PL-LD|PL-MZ|PL-KP|PL-LU|PL-PD|PL-LB|PL-SL|PL-PK|PL-WN|PL-ZP
+   &chdl=Wielkopolskie|Opolskie|Świętokrzyskie|Dolnośląskie|Pomorskie|Małopolskie|Łódzkie|Mazowieckie|Kujawsko-Pomorskie|Lubelskie|Podlaskie|Lubuskie|Śląskie|Podkarpackie|Warmińsko-Mazurskie|Zachodniopomorskie
+   &chm=f235,000000,0,7,13|f53,000000,0,12,13|f44,000000,0,5,13|f42,000000,0,4,13|f40,000000,0,0,13|f27,000000,0,3,13|f27,000000,0,16,13|f23,000000,0,9,13|f20,000000,0,6,13|f17,000000,0,10,13|f16,000000,0,8,13|f12,000000,0,13,13|f6,000000,0,14,13|f6,000000,0,11,13|f5,000000,0,2,13|f3,000000,0,1,13
+   &chtt=Liczba+zakresów+IP+w+danym+województwie
+```
+
+Powyższy link do wykresu został wygenerowany na stronie https://developers.google.com/chart/image/ użyłam w tym przypadku MapChart.
+
+Link posiadza wszystkie informacje dotyczące mojego wykresu :
+
+	chs - rozmiar wykresu
+	cht - typ wykresu
+	chco - seria kolorów
+	chld - dane etykiet wykresów , w moim przypadku są to regiony
+	chdl - legenda wykresu
+	chm - linia markera 
+	chtt - tytuł wykresu
+
+ 
+###2\. Wyświetlenie 10 miast z największą liczbą zakresów IP
 
 ```js
 	collection.aggregate([
@@ -119,7 +149,7 @@ Niektóre adresy IP nie są przypisane do żadnego województwa oraz jak widać 
 	},
 	{ $limit: 10
 	},
-	])
+])
 ```
 
 Wynik : 
@@ -136,6 +166,38 @@ Wynik :
   { _id: 'GDANSK', suma: 15 },
   { _id: 'LODZ', suma: 15 } ]
 ```
+
+Wykres: 
+
+![Wykres](https://raw.github.com/nosql/data-refine/master/images/abudner/ilosc_adresow_ip2_abudner.png)
+
+```
+//chart.googleapis.com/chart
+   ?chxr=0,0,250
+   &chxt=y
+   &chbh=a
+   &chs=702x405
+   &cht=bvg
+   &chco=FF0000,5BC300,3072F3,EA00FF,FFEE00,C000E7,FF9900,B2F8E8,FF1D8A,FFCF39
+   &chds=0,250,0,250,0,250,0,250,0,250,0,250,0,250,0,250,0,250,0,250
+   &chd=t:219|29|24|20|19|19|17|16|15|15
+   &chdl=Warszawa|Kraków|Poznań|Szczecin|Gdynia|Wrocław|Lublin|Białystok|Gdańsk|Łódź
+   &chtt=10+miast+z+największą+liczbą+zakresów+IP
+```
+
+Powyższy link do wykresu także został wygenerowany na stronie https://developers.google.com/chart/image/ użyłam w tym przypadku BarChar.
+
+Link posiadza wszystkie informacje dotyczące mojego wykresu :
+
+	chxr - zakres osi
+	chbh - szerokość i rozstaw słupków
+	chs - rozmiar wykresu
+	cht - typ wykresu
+	chco - seria kolorów
+	chds - skala dla formatowania tekstu
+	chd - dane wykresu
+	chdl - legenda wykresu
+	chtt - tytuł wykresu
 
 ###3\. Miasta w województwie, które posiadają najmniej i najwięcej zakresów IP
 
@@ -155,7 +217,7 @@ Wynik :
 			najwiekszeMiastoSuma: {$last: "$suma"}
 		}
 	},
-	])
+])
 ```
 
 Wynik :
@@ -252,6 +314,12 @@ Wynik :
     najwiekszeMiasto: 'RZESZOW',
     najwiekszeMiastoSuma: 3 } ]
 ```
+
+Wykres: 
+
+![Wykres](https://raw.github.com/nosql/data-refine/master/images/abudner/ilosc_adresow_ip_abudner3.png)
+
+Wykres został stworzony w Excelu.
 
 
 Dane IP [dane.json](https://github.com/abudner/nosql/blob/master/dane.json)

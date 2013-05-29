@@ -1,4 +1,8 @@
 ## Najniższe bezrobocie w Polsce
+<<<<<<< HEAD
+=======
+
+>>>>>>> 731ebad6446722a4f79a55975ebf469763aa77b7
 ### *Jakub Ciechowski*
 
 Dane ściągnąłem ze strony [GUS](http://www.stat.gov.pl/cps/rde/xbcr/gus/PW_bezrobotni_stopa_wg_powiat_01m_2013.xls)
