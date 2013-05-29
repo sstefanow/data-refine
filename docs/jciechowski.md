@@ -1,5 +1,7 @@
-## Najniższe bezrobocie w Polsce, Jakub Ciechowski
-------------------------------
+## Najniższe bezrobocie w Polsce
+
+### *Jakub Ciechowski*
+
 Dane ściągnąłem ze strony [GUS](http://www.stat.gov.pl/cps/rde/xbcr/gus/PW_bezrobotni_stopa_wg_powiat_01m_2013.xls)
 
 ## Opis
