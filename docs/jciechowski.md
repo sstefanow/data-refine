@@ -1,5 +1,4 @@
 ## Najniższe bezrobocie w Polsce
-
 ### *Jakub Ciechowski*
 
 Dane ściągnąłem ze strony [GUS](http://www.stat.gov.pl/cps/rde/xbcr/gus/PW_bezrobotni_stopa_wg_powiat_01m_2013.xls)
@@ -44,7 +43,7 @@ Wyniki:
 { _id: 'Southern Alaska', total_earthquakes: 82 }
 { _id: 'Utah', total_earthquakes: 49 }
 ```
-![suma_trzesien](/images/jciechowski_aggr1.png)
+![](../images/jciechowski_aggr1.png)
 
 ## Średnia siła trzęsień w regionie
 
@@ -82,7 +81,7 @@ Wyniki:
 { _id: 'off the coast of northern Peru', avgMagnitude: 5.1 },
 { _id: 'Molucca Sea', avgMagnitude: 5 },
 ```
-![srednie_trzesienie](/images/jciechowski_aggr2.png)
+![](../images/jciechowski_aggr2.png)
 
 ## Najsilniejsze oraz najsłabsze trzęsienie w regionie
 ```
@@ -140,6 +139,6 @@ smallestMagnitude: 4.1 },
 biggestMagnitude: 5.1,
 smallestMagnitude: 5.1 },
 ```
-![max_min](/images/jciechowski_aggr3.png)
+![](../images/jciechowski_aggr3.png)
 
 
