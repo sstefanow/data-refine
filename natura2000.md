@@ -79,3 +79,29 @@ db.cars.aggregate([ {$match: { price: { $gt: 0 }, horse_power: { $gt: 200 } } },
 ```
 ###Wykres
 ![Chart1](https://raw.github.com/mfrankowski/data-refine/master/images/mfrankowski1.png)
+
+##Najdroższe marki samochodów
+(Średnia cena samochodów poszczególnych marek)
+
+###Kod agregacji w JavaScript
+```js
+db.cars.aggregate([ {$group : {_id: "$make", count: {$avg: "$price"}}},
+	       	{$sort : {count: -1}},
+                {$project : {_id: 0,  make: "$_id", count: 1}},
+                {$limit : 5}
+	],function (err, results) {
+		console.log(results);
+})
+```
+
+###Wynik agregacji
+```
+  { count: 65758.63636363637, make: 'jaguar' },
+  { count: 64655, make: 'porsche' },
+  { count: 59300.15, make: 'mercedes-benz' },
+  { count: 46922.94117647059, make: 'bmw' },
+  { count: 45183.333333333336, make: 'lexus' }
+```
+
+###Wykres
+![Chart1](https://raw.github.com/mfrankowski/data-refine/master/images/mfrankowski2.png)
