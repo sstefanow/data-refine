@@ -33,3 +33,65 @@ Dane pochodz¹ ze strony : [http://www.stat.gov.pl/gus](http://www.stat.gov.pl/gu
 		"procent": "14.6"
 	}
 ```
+
+##Skrypt agreguj¹cy
+
+Skrypt przedstawiaj¹cy przyk³adowe agregacje zosta³ zaimplementowany na 3 ró¿nych bazach danych.
+Skrypt zosta³ napisany w jêzyku java.
+Tutaj dostêpny jego kod Ÿród³owy: [SKRYPT](../scripts/java/mcholka/SimpleAggregator.java)
+Skrypt by³ odpalany jako maven projekt, do jego zdalnego uruchomienia trzeba pobraæ jary:
+
+         <dependency>
+             <groupId>org.mongodb</groupId>
+             <artifactId>mongo-java-driver</artifactId>
+             <version>2.11.0</version>
+         </dependency>
+         <dependency>
+             <groupId>org.apache.commons</groupId>
+             <artifactId>commons-io</artifactId>
+             <version>1.3.2</version>
+         </dependency>
+         <dependency>
+             <groupId>com.google.code.gson</groupId>
+             <artifactId>gson</artifactId>
+             <version>2.2.4</version>
+         </dependency>
+		 
+Wyniki skryptu z ka¿dej agregacji s¹ zapisywane na dysku w poprawnie sformatowanym pliku JSON.
+Przyk³adowy fragment:
+
+```json
+{
+  "serverUsed": "/153.19.1.202:27017",
+  "result": [
+    {
+      "_id": "honda",
+      "numberOfModels": 29.0
+    },
+    {
+      "_id": "volkswagen",
+      "numberOfModels": 25.0
+    },
+    {
+      "_id": "ford",
+      "numberOfModels": 24.0
+    }
+  ],
+  "ok": 1.0
+}
+```
+
+##Wykresy przedstawiaj¹ce wyniki agregacji
+
+* Stany usa posortowane wed³ug najwy¿szej œredniej populacji powy¿ej 10000.
+
+![](../images/mcholka/stany.png)
+
+* Województwa wed³ug najwiêkszej sumy kodów pocztowych
+
+![](../images/mcholka/wojewodztwa.png)
+
+* Posortowane modele aut wed³ug najwiêkszej iloœci modeli w roku 2000
+
+![](../images/mcholka/marki.png)
+
