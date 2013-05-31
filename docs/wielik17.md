@@ -112,7 +112,7 @@ wyniki (nie wszystkie):
 		}
 ```
 
-[wykres] http://chart.googleapis.com/chart?chxs=0,000000,0&chxt=x&chs=300x245&cht=p3&chco=008000|FF0000|49188F|7777CC|990066|BBCCED|80C65A|00FF00|AA0033|E8F4F7|224499|0000FF|000000|FF9900&chd=s:wbbXXXUQPONKKJH&chdl=MS|RI|MO|RI|OH|IL|MD|NH|CT|IN|DC|NJ|MA|IA|MN&chp=2.3&chl=+&chtt=states+with+the+lowest+population&chts=676767,12.5
+![wykres] (http://chart.googleapis.com/chart?chxs=0,000000,0&chxt=x&chs=300x245&cht=p3&chco=008000|FF0000|49188F|7777CC|990066|BBCCED|80C65A|00FF00|AA0033|E8F4F7|224499|0000FF|000000|FF9900&chd=s:wbbXXXUQPONKKJH&chdl=MS|RI|MO|RI|OH|IL|MD|NH|CT|IN|DC|NJ|MA|IA|MN&chp=2.3&chl=+&chtt=states+with+the+lowest+population&chts=676767,12.5)
 
 pogrupowane by state o średniej populacji większej niż 1000 , posortowane malejąco
 
