@@ -91,7 +91,8 @@ db.census1881.findOne()
 1. Maciej Młynarski, [Zawodnicy UFC] (docs/mmlynarski.md).
 1. Łukasz Kępiński, [Transfery zawodników] (docs/lkepinsk.md).
 1. Romuald Łuczyk, [Państwa świata] (docs/rluczyk.md).
-
+1. Maciej Wiszowaty, [Kody pocztowe województwa Mazowieckiego] (docs/wiszowaty.md).
+2. 
 ## Ściąga z Gita
 
 * Scott Chacon, [Pro Git](http://git-scm.com/book);
