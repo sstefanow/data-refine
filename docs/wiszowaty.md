@@ -10,6 +10,9 @@
    (Ustalic nazwy kolumn,podzielic dane na kolumny,odfiltrowac zawiruszone dane)
 4. Wyeksportować powyższe dane do pliku csv przy pomocy Google Refine.
   (Najlepiej zastosowac customowy separator w postaci np ";", ktory nie wystepuje orginalnie w danych)
+
+
+
 ## Pliki
 
 1. [oryginalne dane](/data/raw/wiszowaty_dane_raw.txt)
