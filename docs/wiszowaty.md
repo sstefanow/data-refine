@@ -4,10 +4,10 @@
 ## Krok po kroku
 
 1. Pobrać dane. [link](http://pl.wikisource.org/wiki/Lista_kod%C3%B3w_pocztowych_w_Polsce)
-   Dla Okregu warszawskiego
+   (dla Okregu warszawskiego)
 2. Pobrać Google Refine. [link](https://code.google.com/p/google-refine/wiki/Downloads?tm=2)
 3. Oczyścić oraz posortować dane przy pomocy Google Refine.
-   (Usalic nazwy kolumn,podzielic dane na kolumny,odfiltrowac zawiruszone dane)
+   (Ustalic nazwy kolumn,podzielic dane na kolumny,odfiltrowac zawiruszone dane)
 4. Wyeksportować powyższe dane do pliku csv przy pomocy Google Refine.
   (Najlepiej zastosowac customowy separator w postaci np ";", ktory nie wystepuje orginalnie w danych)
 ## Pliki
