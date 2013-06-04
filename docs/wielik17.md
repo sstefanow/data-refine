@@ -174,7 +174,7 @@ wyniki :
 }
 
 ```
-![wykres](http:////chart.googleapis.com/chart?chxr=0,0,3354&chxt=x&chbh=23,27,28&chs=540x244&cht=bvg&chco=80C65A&chds=0,3359&chd=t:1629,1826,2315,2585,2759,2989,2994,3029,3119,3359&chg=-1,-1,0,0&chma=|50)
+![wykres] (https://chart.googleapis.com/chart?chxr=0,0,3354&chxt=x&chbh=23,27,28&chs=540x244&cht=bvg&chco=80C65A&chds=0,3359&chd=t:1629,1826,2315,2585,2759,2989,2994,3029,3119,3359&chg=-1,-1,0,0&chma=|50)
 
 Miasta z populacją większą niż 800000 a mniejszą niż 1000000.
 
@@ -225,5 +225,5 @@ wyniki :
 
 ```
 
-![wykres](//chart.googleapis.com/chart?chs=440x200&cht=p&chco=000000,008000,49188F,0000FF,990066,FF0000&chds=0,999042&chd=t:825448,817497,967468,999042,813188,902249,848436&chdl=COLUMBUS|SAN+JOSE|DETROIT|DALLAS|SAN+ANTONIO|PHOENIX|MIAMI&chl=825448|817497|967468|999042|813188|902249|848436)
+![wykres] (https://chart.googleapis.com/chart?chs=440x200&cht=p&chco=000000,008000,49188F,0000FF,990066,FF0000&chds=0,999042&chd=t:825448,817497,967468,999042,813188,902249,848436&chdl=COLUMBUS%7CSAN+JOSE%7CDETROIT%7CDALLAS%7CSAN+ANTONIO%7CPHOENIX%7CMIAMI&chl=825448%7C817497%7C967468%7C999042%7C813188%7C902249%7C848436)
 
