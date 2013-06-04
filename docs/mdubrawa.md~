@@ -56,7 +56,7 @@ db.Cars.aggregate(
 
 Klauzual project możemy dodać np. tak jak w tym przypadku w calu podmiany nazw zmiennych zywkłymi polskimi nazwami.
 
-![Srednia moc silnika](https://raw.github.com/Socr4tes/data-refine/master/images/mdubrawa/mocsilnika.png) 
+![Srednie spalanie w zaleznosci od skrzyni](https://raw.github.com/nosql/data-refine/master/images/mdubrawa/mocsilnika.png) 
 
 ### Średnia liczba mil jakie mogą przejachać samochody z automatyczną i manualną skrzynią biegów w mieście i na autostradzie
 
@@ -97,7 +97,7 @@ Wynik agregacji
 
 Dane przedstawione na wykresie
 
-![Srednie spalanie w zaleznosci od skrzyni](https://raw.github.com/Socr4tes/data-refine/master/images/mdubrawa/mpg2.png) 
+![Srednia moc silnika](https://raw.github.com/nosql/data-refine/master/images/mdubrawa/mpg2.png) 
 
 ### Liczba samochodów z manualną oraz automatyczną skrzynią biegów
 
@@ -135,7 +135,7 @@ Wynik agregacji
 
 Dane przedstawione na wykresie
 
-![Automatyczna i manualna skrzynia](https://raw.github.com/Socr4tes/data-refine/master/images/mdubrawa/transsmision.png) 
+![Automatyczna i manualna skrzynia](https://raw.github.com/nosql/data-refine/master/images/mdubrawa/transsmision.png) 
 
 Jeżeli Maciej poczuł się dotknięty tym że wykożystałem dostarczone przez niego dane to z góry przepraszm :).
 
