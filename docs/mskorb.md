@@ -227,17 +227,17 @@ Otrzymałem następujący plik json:
 
 [Wersja html](http://skorb.pl/projekty/nosql/chart2.html)
 
-
+----
 ## Agregacje - przykład 3
 Monety w których latach są najbardziej pożądane przez kolekcjonetów, czyli w których latach średni nakład monet był najmnieszy.
 
 ```ruby
-// Nakład w konkretnych latach
+# Nakład w konkretnych latach
 db.coins.aggregate( { $group :
                          { _id : { rok : "$Rok"},
                            Nakład : { $sum : "$Nakład" } } })
                            
-//Monety z których lat są najbardziej porządane przez kolekcjonerow ( maja najmnieszy naklad)
+#Monety z których lat są najbardziej porządane przez kolekcjonerow ( maja najmnieszy naklad)
 db.coins.aggregate( { $group :
                          { _id : { rok : "$Rok"},
                            Nakład : { $sum : "$Nakład" } } },
