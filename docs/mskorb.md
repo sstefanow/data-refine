@@ -19,7 +19,7 @@
 ```
 ## Agregacje - przykład 1
 Ilość wydanych monet w danym roku. 
-```json
+```ruby
 db.coins.aggregate(
     { 
         $group: {_id: "$Rok", quantity: {$sum: 1}} 
@@ -127,7 +127,7 @@ Otrzymałem następujący plik json:
 ## Agregacje - przykład 2
 Najpopularniejsze serie monet okolicznościowych 2zł. 
 
-```json
+```ruby
 db.coins.aggregate(
     { 
         $group: {_id: "$Serie", quantity: {$sum: 1}} 
@@ -231,7 +231,7 @@ Otrzymałem następujący plik json:
 ## Agregacje - przykład 3
 Monety w których latach są najbardziej pożądane przez kolekcjonetów, czyli w których latach średni nakład monet był najmnieszy.
 
-```json
+```ruby
 // Nakład w konkretnych latach
 db.coins.aggregate( { $group :
                          { _id : { rok : "$Rok"},
