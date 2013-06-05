@@ -34,3 +34,16 @@ Dane pobrałem ze strony http://ww2db.com/vehicle.php?list=T . Napisałem progra
 	}
 }
 ```
+
+##Agregacja
+
+Generuję listę państw, biorących udział w II wojnie światowej wraz z najcięższym czołgiem, wyprodukowanym przez to państwo.
+
+```js
+db.tanks.aggregate(
+  {$project: {Name: "$Name", Country: "$Country, Weight: "$Weight"}},
+  {$sort: { Weight: 1}},
+  {$group: {_id: "$Country", HeaviestTank: {$last: "$Name"}, HeaviestTankWeight: {$last: "$Weight"}}},
+  {$sort: {_id: 1}}
+);
+```
