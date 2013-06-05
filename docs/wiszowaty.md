@@ -30,3 +30,19 @@
 ```csv
 mongoimport --collection kody_pocztowe --type csv --file data-refine/data/csv/wiszowatydane_refined.txt -f kod,Adres,miasto,wojewodzto,komentarz
 ```
+
+##Aregacja danych
+Agregacja – łączna liczba kodów pocztowych w Województwie(cala kolekcja)
+
+```csv
+db.kody_pocztowe.count()
+```
+
+Rezulatat:
+```csv
+7416
+```
+
+
+
+
