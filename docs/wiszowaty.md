@@ -33,5 +33,8 @@ mongoimport --collection kody_pocztowe --type csv --file data-refine/data/csv/wi
 
 ##Aregacja danych
 Agregacja – łączna liczba kodów pocztowych w Województwie(cala kolekcja)
+
+```csv
 db.kody_pocztowe.count()
+```
 
