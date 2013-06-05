@@ -41,7 +41,7 @@ Generuję listę państw, biorących udział w II wojnie światowej wraz z najci
 
 ```js
 db.tanks.aggregate(
-  {$project: {Name: "$Name", Country: "$Country, Weight: "$Weight"}},
+  {$project: {Name: "$Name", Country: "$Country", Weight: "$Weight"}},
   {$sort: { Weight: 1}},
   {$group: {_id: "$Country", HeaviestTank: {$last: "$Name"}, HeaviestTankWeight: {$last: "$Weight"}}},
   {$sort: {_id: 1}}
