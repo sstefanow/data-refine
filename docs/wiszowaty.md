@@ -26,3 +26,7 @@
 00-021; ul. Chmielna od 1 do 35; Warszawa; Województwo mazowieckie; Miasto Warszawa na prawach powiatu
 ```
 
+##Importowanie do mongodb
+```csv
+mongoimport --collection kody_pocztowe --type csv --file data-refine/data/csv/wiszowatydane_refined.txt -f kod,Adres,miasto,wojewodzto,komentarz
+```
