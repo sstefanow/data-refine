@@ -38,3 +38,11 @@ Agregacja – łączna liczba kodów pocztowych w Województwie(cala kolekcja)
 db.kody_pocztowe.count()
 ```
 
+Rezulatat:
+```csv
+7416
+```
+
+
+
+
