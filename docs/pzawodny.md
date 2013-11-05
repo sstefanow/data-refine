@@ -1,30 +1,30 @@
 # Zwyciezcy Tour de Frane 
-### *Pawe³ Zawodny*
+### *PaweÅ‚ Zawodny*
 
-## Co zosta³o zrobione?
-1. Dane pobra³em w Wikipedii pod adresem: http://pl.wikipedia.org/wiki/Tour_de_France
-* Wyczyœci³em dane przy u¿yciu Google-Refine
-* Dane wyexportowa³em w Google-Refine do postaci czystego JSON.
-* Format pliku tekstowego, który otrzyma³em zmieni³em na JSON.
-* Zaimportowa³em json do bazy mongodb
-* Utorzy³em podane ni¿ej agregacje
-* Wyczyœci³em otrzymany JSON ponownie Google Refine 
-* Utworzy³em za pomoc¹ Google Chart Api wykresy
+## Co zostaÅ‚o zrobione?
+1. Dane pobraÅ‚em w Wikipedii pod adresem: http://pl.wikipedia.org/wiki/Tour_de_France
+* WyczyÅ›ciÅ‚em dane przy uÅ¼yciu Google-Refine
+* Dane wyexportowaÅ‚em w Google-Refine do postaci czystego JSON.
+* Format pliku tekstowego, ktÃ³ry otrzymaÅ‚em zmieniÅ‚em na JSON.
+* ZaimportowaÅ‚em json do bazy mongodb
+* UtorzyÅ‚em podane niÅ¼ej agregacje
+* WyczyÅ›ciÅ‚em otrzymany JSON ponownie Google Refine 
+* UtworzyÅ‚em za pomocÄ… Google Chart Api wykresy
 
-## Przyk³adowe JSONy które otrzyma³em:
+## PrzykÅ‚adowe JSONy ktÃ³re otrzymaÅ‚em:
 ```json
-{ "lp" : 100, "rok" : 2013, "km" : 3.36, "zwyciêzca" : "Christopher Froome ", "kraj" : " Wielka Brytania ", "2. miejsce" : "Nairo Quintana ","kraj2" : " Kolumbia ","3. miejsce" : "Joaquim Rodríguez ","kraj3" : " Hiszpania ", "raport" : "TdF 2013"}, 
-{ "lp" : 99, "rok" : 2012, "km" : 3.497, "zwyciêzca" : "Bradley Wiggins ", "kraj" : " Wielka Brytania ", "2. miejsce" : "Christopher Froome ","kraj2" : " Wielka Brytania ","3. miejsce" : "Vincenzo Nibali ","kraj3" : " W³ochy ", "raport" : "TdF 2012"}, 
-{ "lp" : 98, "rok" : 2011, "km" : 3.43, "zwyciêzca" : "Cadel Evans ", "kraj" : " Australia ", "2. miejsce" : "Andy Schleck ","kraj2" : " Luksemburg ","3. miejsce" : "Fränk Schleck ","kraj3" : " Luksemburg ", "raport" : "TdF 2011"}, 
+{ "lp" : 100, "rok" : 2013, "km" : 3.36, "zwyciÄ™zca" : "Christopher Froome ", "kraj" : " Wielka Brytania ", "2. miejsce" : "Nairo Quintana ","kraj2" : " Kolumbia ","3. miejsce" : "Joaquim RodrÃ­guez ","kraj3" : " Hiszpania ", "raport" : "TdF 2013"}, 
+{ "lp" : 99, "rok" : 2012, "km" : 3.497, "zwyciÄ™zca" : "Bradley Wiggins ", "kraj" : " Wielka Brytania ", "2. miejsce" : "Christopher Froome ","kraj2" : " Wielka Brytania ","3. miejsce" : "Vincenzo Nibali ","kraj3" : " WÅ‚ochy ", "raport" : "TdF 2012"}, 
+{ "lp" : 98, "rok" : 2011, "km" : 3.43, "zwyciÄ™zca" : "Cadel Evans ", "kraj" : " Australia ", "2. miejsce" : "Andy Schleck ","kraj2" : " Luksemburg ","3. miejsce" : "FrÃ¤nk Schleck ","kraj3" : " Luksemburg ", "raport" : "TdF 2011"}, 
 ```
 
 
-## Agregacje - przyk³ad 1
-Liczba zwyciêstw dla zawodnika. 
+## Agregacje - przykÅ‚ad 1
+Liczba zwyciÄ™stw dla zawodnika. 
 ```ruby
 db.tdf.aggregate(
     { 
-        $group: {_id: "$zwyciêzca", quantity: {$sum: 1}} 
+        $group: {_id: "$zwyciÄ™zca", quantity: {$sum: 1}} 
     },
         
     { 
@@ -34,7 +34,7 @@ db.tdf.aggregate(
 ```
 
 
-Otrzyma³em nastêpuj¹cy plik json:
+OtrzymaÅ‚em nastÄ™pujÄ…cy plik json:
 ```json
 {
         "result" : [
@@ -89,17 +89,17 @@ Otrzyma³em nastêpuj¹cy plik json:
 ```
 
 #### wykres:
-![Wykres](../images/pzawodny/pzdiag1.jpeg)
+![Wykres](../images/pzawodny/pzdiag1.jpg)
 
 
 
 
 ----
-## Agregacje - przyk³ad 2
-Œrednia kilometrów dla danego kraju:
+## Agregacje - przykÅ‚ad 2
+Åšrednia kilometrÃ³w dla danego kraju:
 
 ```ruby
-#srednia iloœæ kilometrów na kraj
+#srednia iloÅ›Ä‡ kilometrÃ³w na kraj
 db.tdf.aggregate( { $group :
                          { _id : { kraj : "$kraj"},
                            km : { $sum : "$km" } } },
@@ -113,7 +113,7 @@ db.tdf.aggregate( { $group :
     } )
 ```	
 
-Otrzyma³em nastêpuj¹cy plik json:
+OtrzymaÅ‚em nastÄ™pujÄ…cy plik json:
 
 ```json
 {
@@ -169,16 +169,16 @@ Otrzyma³em nastêpuj¹cy plik json:
 ```
 
 #### wykres:
-![Wykres](../images/pzawodny/pzdiag2.jpeg)
+![Wykres](../images/pzawodny/pzdiag2.jpg)
 
 
 
 ----
-## Agregacje - przyk³ad 3
-Liczba zwyciêstw dla danego kraju.
+## Agregacje - przykÅ‚ad 3
+Liczba zwyciÄ™stw dla danego kraju.
 
 ```ruby
-# Liczba zwyciêstw dla danego kraju.
+# Liczba zwyciÄ™stw dla danego kraju.
 db.tdf.aggregate(
     { 
         $group: {_id: "$kraj", quantity: {$sum: 1}} 
@@ -189,7 +189,7 @@ db.tdf.aggregate(
     }
 )
 ```
-Otrzyma³em nastêpuj¹cy plik json:
+OtrzymaÅ‚em nastÄ™pujÄ…cy plik json:
 
 ```json
 {
@@ -236,7 +236,7 @@ Otrzyma³em nastêpuj¹cy plik json:
                         "quantity" : 1
                 },
                 {
-                        "_id" : "W³ochy ",
+                        "_id" : "WÅ‚ochy ",
                         "quantity" : 9
                 },
          
@@ -245,7 +245,7 @@ Otrzyma³em nastêpuj¹cy plik json:
 ```
 
 #### wykres:
-![Wykres](../images/pzawodny/pzdiag3.jpeg)
+![Wykres](../images/pzawodny/pzdiag3.jpg)
 
 
 
