@@ -95,6 +95,7 @@ db.census1881.findOne()
 1. Przemysław Klawikowski, [Waga ankietowanych](/docs/klawikowski.md).
 1. Marek Dubrawa, [Raporty na teamt pojawień się ufo w USA](/docs/mdubrawa.md).
 1. Anna Łońska, [Lotniska](/docs/alonska.md).
+1. Pawel Zawodny, [Zwycięzcy Tour de France] (/docs/pzawodny.md)
 
 
 ## Ściąga z Gita
