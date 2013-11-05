@@ -121,23 +121,23 @@ Otrzymałem następujący plik json:
 
                 {
                         "_id" : "Francja ",
-                        "quantity" : 3,57
+                        "quantity" : 3.57
                 },
                 {
                         "_id" : "Stany Zjednoczone ",
-                        "quantity" : 2,25
+                        "quantity" : 2.25
                 },
                 {
                         "_id" : "Australia ",
-                        "quantity" : 4,1
+                        "quantity" : 4.1
                 },
                 {
                         "_id" : "Belgia ",
-                        "quantity" : 3,978
+                        "quantity" : 3.978
                 },
                 {
                         "_id" : "Dania ",
-                        "quantity" : 4,117
+                        "quantity" : 4.117
                 },
                 {
                         "_id" : "Hiszpania ",
@@ -145,23 +145,23 @@ Otrzymałem następujący plik json:
                 },
                 {
                         "_id" : "Holandia ",
-                        "quantity" : 4,504
+                        "quantity" : 4.504
                 },
                 {
                         "_id" : "Irlandia ",
-                        "quantity" : 4,322
+                        "quantity" : 4.322
                 },
 				{
                         "_id" : "Luksemburg ",
-                        "quantity" : 3,987
+                        "quantity" : 3.987
                 },
                 {
                         "_id" : "Niemcy ",
-                        "quantity" : 3,607
+                        "quantity" : 3.607
                 },
                 {
                         "_id" : "Wochy ",
-                        "quantity" : 4,293
+                        "quantity" : 4.293
                 },
          
         "ok" : 1
@@ -244,13 +244,12 @@ Otrzymałem następujący plik json:
 }
 ```
 
-#### wykres:
+#### Wykres:
 ![Wykres](../images/pzawodny/pzdiag3.jpg)
 
 
 
 
-## Linki
-
-* [Czyste dane JSON]
+## Linki:
+![Czyste dane JSON] (../data/json/zwyciezcyTDF.json)
 
